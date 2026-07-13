@@ -1,0 +1,40 @@
+name: Update CPE list
+
+on:
+  # Run every 3 hours (at minute 5: 00:05, 03:05, 06:05 ... UTC)
+  schedule:
+    - cron: "5 */3 * * *"
+  # Allow manual runs from the Actions tab
+  workflow_dispatch:
+  # Refresh on pushes to main (e.g. when the script changes)
+  push:
+    branches:
+      - main
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Update CPE list
+        run: python3 update-cpelist.py
+
+      - name: Build commit message
+        id: commit_msg
+        run: |
+          echo "message=feat: update cpe $(date -u +'%d/%m/%Y %H:%M:%S') UTC" >> "$GITHUB_OUTPUT"
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "${{ steps.commit_msg.outputs.message }}"
+          file_pattern: "data/cpes.json"
