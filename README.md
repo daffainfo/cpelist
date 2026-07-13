@@ -37,7 +37,7 @@ By default all parts are included — `a` (application), `o` (operating system) 
 
 [`update-cpelist.py`](./update-cpelist.py) uses only the Python standard library and:
 
-1. Downloads the official NVD CPE dictionary (`nvdcpe-2.0.tar.gz`, JSON 2.0 feed) and the community [fkie-cad mirror](https://github.com/fkie-cad/nvd-json-data-feeds) of the NVD CVE feeds. The two are merged: the fkie mirror contributes CPEs that NVD references in CVEs but never added to the formal dictionary, and also acts as a fallback if NVD is unreachable. Any source that fails to download is skipped.
+1. Downloads the official NVD CPE dictionary (`nvdcpe-2.0.tar.gz`, JSON 2.0 feed) and the [daffainfo/cvelist](https://github.com/daffainfo/cvelist) mirror of the NVD JSON 2.0 CVE feeds. The two are merged: the CVE mirror contributes CPEs that NVD references in CVEs but never added to the formal dictionary, and also acts as a fallback if NVD is unreachable. Any source that fails to download is skipped.
 2. Extracts every complete CPE 2.3 identifier, JSON-decoding each one so escaped characters (e.g. `cgi\:irc`, `g\+\+`) are handled correctly.
 3. Keeps only `part:vendor:product`, de-duplicates, and rebuilds each as a fully wildcarded CPE 2.3 string.
 4. Writes the sorted, unique result to `data/cpes.json`, guarded by a sanity check so a failed or truncated download never overwrites good data.

@@ -40,13 +40,13 @@ from pathlib import Path
 # Primary: the official NVD CPE dictionary in the JSON 2.0 feed format -- the
 #   authoritative, complete list of CPE names (replaces the legacy XML feed that
 #   NVD retired in 2023).
-# Secondary: the community-maintained fkie-cad mirror of the NVD CVE feeds. It
-#   contributes CPEs that are referenced by CVEs, and doubles as a fallback if
-#   NVD itself is unreachable.
+# Secondary: the daffainfo/cvelist mirror of the NVD JSON 2.0 CVE feeds. It
+#   contributes CPEs that NVD references in CVEs but never added to the formal
+#   dictionary, and doubles as a fallback if NVD itself is unreachable.
 # Any source that fails to download is skipped automatically.
 SOURCES = (
     "https://nvd.nist.gov/feeds/json/cpe/2.0/nvdcpe-2.0.tar.gz",
-    "https://github.com/fkie-cad/nvd-json-data-feeds/archive/refs/heads/main.tar.gz",
+    "https://github.com/daffainfo/cvelist/archive/refs/heads/main.tar.gz",
 )
 
 DEFAULT_OUTPUT = Path(__file__).resolve().parent / "data" / "cpes.json"
