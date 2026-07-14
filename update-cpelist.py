@@ -19,8 +19,8 @@ collapses to::
 
     cpe:2.3:a:codedropz:drag_and_drop_multiple_file_upload_-_contact_form_7:*:*:*:*:*:*:*:*
 
-The de-duplicated, sorted result is written to ``data/cpes.json`` as a JSON
-array. Only the Python standard library is required.
+The de-duplicated, sorted result is written to ``data/cpes.txt``, one CPE per
+line. Only the Python standard library is required.
 """
 from __future__ import annotations
 
@@ -49,7 +49,7 @@ SOURCES = (
     "https://github.com/daffainfo/cvelist/archive/refs/heads/main.tar.gz",
 )
 
-DEFAULT_OUTPUT = Path(__file__).resolve().parent / "data" / "cpes.json"
+DEFAULT_OUTPUT = Path(__file__).resolve().parent / "data" / "cpes.txt"
 
 # Which CPE `part` values to keep: a=application, o=operating system, h=hardware.
 DEFAULT_PARTS = "aoh"
@@ -139,7 +139,7 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     parser.add_argument(
         "-o", "--output", type=Path, default=DEFAULT_OUTPUT,
-        help=f"output JSON file (default: {DEFAULT_OUTPUT})",
+        help=f"output text file, one CPE per line (default: {DEFAULT_OUTPUT})",
     )
     parser.add_argument(
         "-p", "--parts", default=DEFAULT_PARTS,
@@ -188,8 +188,8 @@ def main(argv: list[str] | None = None) -> int:
 
     args.output.parent.mkdir(parents=True, exist_ok=True)
     with args.output.open("w", encoding="utf-8") as handle:
-        json.dump(sorted(results), handle, indent=2)
-        handle.write("\n")
+        for cpe in sorted(results):
+            handle.write(cpe + "\n")
     print(f"[+] wrote {len(results)} CPEs to {args.output}")
     return 0
 

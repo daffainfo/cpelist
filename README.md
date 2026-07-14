@@ -2,17 +2,15 @@
 
 A regularly updated list of **CPE 2.3** identifiers scraped from NVD data, normalised down to the product level.
 
-The database lives in [`data/cpes.json`](./data/cpes.json) and is refreshed automatically every 3 hours by a [GitHub Action](./.github/workflows/update-cpelist.yml).
+The database lives in [`data/cpes.txt`](./data/cpes.txt) and is refreshed automatically every 3 hours by a [GitHub Action](./.github/workflows/update-cpelist.yml).
 
 ## Output format
 
-`data/cpes.json` is a JSON array of unique CPE 2.3 strings. Every component after `part:vendor:product` is wildcarded (`*`), so each entry represents a *product* rather than a specific version/edition:
+`data/cpes.txt` is a plain text file with one unique CPE 2.3 string per line, sorted alphabetically. Every component after `part:vendor:product` is wildcarded (`*`), so each entry represents a *product* rather than a specific version/edition:
 
-```json
-[
-  "cpe:2.3:a:sgi:propack:*:*:*:*:*:*:*:*",
-  "cpe:2.3:a:squirrelmail:squirrelmail:*:*:*:*:*:*:*:*"
-]
+```
+cpe:2.3:a:sgi:propack:*:*:*:*:*:*:*:*
+cpe:2.3:a:squirrelmail:squirrelmail:*:*:*:*:*:*:*:*
 ```
 
 ### Normalisation
@@ -40,7 +38,7 @@ By default all parts are included — `a` (application), `o` (operating system) 
 1. Downloads the official NVD CPE dictionary (`nvdcpe-2.0.tar.gz`, JSON 2.0 feed) and the [daffainfo/cvelist](https://github.com/daffainfo/cvelist) mirror of the NVD JSON 2.0 CVE feeds. The two are merged: the CVE mirror contributes CPEs that NVD references in CVEs but never added to the formal dictionary, and also acts as a fallback if NVD is unreachable. Any source that fails to download is skipped.
 2. Extracts every complete CPE 2.3 identifier, JSON-decoding each one so escaped characters (e.g. `cgi\:irc`, `g\+\+`) are handled correctly.
 3. Keeps only `part:vendor:product`, de-duplicates, and rebuilds each as a fully wildcarded CPE 2.3 string.
-4. Writes the sorted, unique result to `data/cpes.json`, guarded by a sanity check so a failed or truncated download never overwrites good data.
+4. Writes the sorted, unique result to `data/cpes.txt`, guarded by a sanity check so a failed or truncated download never overwrites good data.
 
 ## Running locally
 
