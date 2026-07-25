@@ -56625,6 +56625,7 @@ cpe:2.3:a:redhat:fence_agents_remediation_operator:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:freeipa:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:frysk:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:fuse:*:*:*:*:*:*:*:*
+cpe:2.3:a:redhat:gatekeeper:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:gdk_pixbuf:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:gfs2-utils:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:gluster-block:*:*:*:*:*:*:*:*
@@ -56921,6 +56922,7 @@ cpe:2.3:a:redhat:template_service_broker_operator:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:thermostat:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:thunderbird:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:tmpwatch:*:*:*:*:*:*:*:*
+cpe:2.3:a:redhat:trusted_artifact_signer:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:trusted_profile_analyzer:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:tuned:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:uberfire:*:*:*:*:*:*:*:*
