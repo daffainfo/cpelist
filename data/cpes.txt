@@ -41327,6 +41327,7 @@ cpe:2.3:a:mewsoft:netauction:*:*:*:*:*:*:*:*
 cpe:2.3:a:mext:ebidsettingchecker:*:*:*:*:*:*:*:*
 cpe:2.3:a:mezereon:smart_search_and_filter:*:*:*:*:*:*:*:*
 cpe:2.3:a:mezz:justenoughitems:*:*:*:*:*:*:*:*
+cpe:2.3:a:mf-yang:openclaw-cn:*:*:*:*:*:*:*:*
 cpe:2.3:a:mf_gig_calendar_project:mf_gig_calendar:*:*:*:*:*:*:*:*
 cpe:2.3:a:mfasoft:secure_authentication_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:mflow:mflow:*:*:*:*:*:*:*:*
@@ -51638,6 +51639,7 @@ cpe:2.3:a:pervasive:data_integrator_connectors:*:*:*:*:*:*:*:*
 cpe:2.3:a:pervasive:data_integrator_documentation:*:*:*:*:*:*:*:*
 cpe:2.3:a:pervasive:data_integrator_engine:*:*:*:*:*:*:*:*
 cpe:2.3:a:pervasive:data_integrator_integration_server:*:*:*:*:*:*:*:*
+cpe:2.3:a:perwendel:spark:*:*:*:*:*:*:*:*
 cpe:2.3:a:pescms:pescms_team:*:*:*:*:*:*:*:*
 cpe:2.3:a:pesign_project:pesign:*:*:*:*:*:*:*:*
 cpe:2.3:a:peta:peta:*:*:*:*:*:*:*:*
