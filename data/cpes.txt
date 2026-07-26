@@ -44788,6 +44788,7 @@ cpe:2.3:a:nano_arena_project:nano_arena:*:*:*:*:*:*:*:*
 cpe:2.3:a:nanoblogger:nanoblogger:*:*:*:*:*:*:*:*
 cpe:2.3:a:nanobot:nanobot:*:*:*:*:*:*:*:*
 cpe:2.3:a:nanoco:nanoclaw:*:*:*:*:*:*:*:*
+cpe:2.3:a:nanocoai:nanoclaw:*:*:*:*:*:*:*:*
 cpe:2.3:a:nanohttpd:nanohttpd:*:*:*:*:*:*:*:*
 cpe:2.3:a:nanoid_project:nanoid:*:*:*:*:*:*:*:*
 cpe:2.3:a:nanoleaf:nanoleaf_desktop:*:*:*:*:*:*:*:*
