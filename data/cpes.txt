@@ -39304,7 +39304,6 @@ cpe:2.3:a:lylme:lylme_spage:*:*:*:*:*:*:*:*
 cpe:2.3:a:lynchjames:obsidian-mindmap:*:*:*:*:*:*:*:*
 cpe:2.3:a:lynchjames:obsidian_mind_map:*:*:*:*:*:*:*:*
 cpe:2.3:a:lynda_clone_project:lynda_clone:*:*:*:*:*:*:*:*
-cpe:2.3:a:lynton_reed:work_the_flow_file_upload:*:*:*:*:*:*:*:*
 cpe:2.3:a:lyntonreed:work_the_flow_file_upload:*:*:*:*:*:*:*:*
 cpe:2.3:a:lynx:lynx:*:*:*:*:*:*:*:*
 cpe:2.3:a:lynx_internet_solutions:evolve_merchant:*:*:*:*:*:*:*:*
@@ -55021,6 +55020,7 @@ cpe:2.3:a:pycrypto:arc2:*:*:*:*:*:*:*:*
 cpe:2.3:a:pycryptodome:pycryptodome:*:*:*:*:*:*:*:*
 cpe:2.3:a:pycryptodome:pycryptodomex:*:*:*:*:*:*:*:*
 cpe:2.3:a:pycsw:pycsw:*:*:*:*:*:*:*:*
+cpe:2.3:a:pydantic:pydantic-settings:*:*:*:*:*:*:*:*
 cpe:2.3:a:pydantic:pydantic:*:*:*:*:*:*:*:*
 cpe:2.3:a:pydantic:pydantic_ai:*:*:*:*:*:*:*:*
 cpe:2.3:a:pydantic_project:pydantic:*:*:*:*:*:*:*:*
@@ -76643,6 +76643,7 @@ cpe:2.3:a:zixn:buy_one_click_woocommerce:*:*:*:*:*:*:*:*
 cpe:2.3:a:zixn:original_texts_yandex_webmaster:*:*:*:*:*:*:*:*
 cpe:2.3:a:zixn:vk_poster_group:*:*:*:*:*:*:*:*
 cpe:2.3:a:zjjserver_project:zjjserver:*:*:*:*:*:*:*:*
+cpe:2.3:a:zjonsson:node-unzipper:*:*:*:*:*:*:*:*
 cpe:2.3:a:zkea:zkeacms:*:*:*:*:*:*:*:*
 cpe:2.3:a:zkeacms:zkeacms:*:*:*:*:*:*:*:*
 cpe:2.3:a:zkesoft:ayeview:*:*:*:*:*:*:*:*
