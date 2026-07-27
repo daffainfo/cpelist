@@ -26710,6 +26710,7 @@ cpe:2.3:a:hcltech:bigfix_webui_take_action:*:*:*:*:*:*:*:*
 cpe:2.3:a:hcltech:commerce:*:*:*:*:*:*:*:*
 cpe:2.3:a:hcltech:connections:*:*:*:*:*:*:*:*
 cpe:2.3:a:hcltech:connections_docs:*:*:*:*:*:*:*:*
+cpe:2.3:a:hcltech:devops_plan:*:*:*:*:*:*:*:*
 cpe:2.3:a:hcltech:devops_velocity:*:*:*:*:*:*:*:*
 cpe:2.3:a:hcltech:dfx_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:hcltech:dfxanalytics:*:*:*:*:*:*:*:*
