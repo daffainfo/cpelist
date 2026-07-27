@@ -24478,6 +24478,7 @@ cpe:2.3:a:ggcms:ggcms:*:*:*:*:*:*:*:*
 cpe:2.3:a:ggerganov:llama.cpp:*:*:*:*:*:*:*:*
 cpe:2.3:a:gggeek:phpxmlrpc:*:*:*:*:*:*:*:*
 cpe:2.3:a:gglocker_project:gglocker:*:*:*:*:*:*:*:*
+cpe:2.3:a:ggml-org:llama.cpp:*:*:*:*:*:*:*:*
 cpe:2.3:a:ggml-org:whisper.cpp:*:*:*:*:*:*:*:*
 cpe:2.3:a:ggml:llama.cpp:*:*:*:*:*:*:*:*
 cpe:2.3:a:ggnome:garden_gnome_package:*:*:*:*:*:*:*:*
