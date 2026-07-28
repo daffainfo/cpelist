@@ -42426,6 +42426,7 @@ cpe:2.3:a:microsoft:typescript:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:update_catalog:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:urlscan:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:vbscript:*:*:*:*:*:*:*:*
+cpe:2.3:a:microsoft:vcpkg:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:vfp_ole_server_activex_control:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:viewer:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:virtual_machine:*:*:*:*:*:*:*:*
@@ -48482,6 +48483,7 @@ cpe:2.3:a:openjsf:electroncord:*:*:*:*:*:*:*:*
 cpe:2.3:a:openjsf:eslint:*:*:*:*:*:*:*:*
 cpe:2.3:a:openjsf:express:*:*:*:*:*:*:*:*
 cpe:2.3:a:openjsf:fast-uri:*:*:*:*:*:*:*:*
+cpe:2.3:a:openjsf:marko:*:*:*:*:*:*:*:*
 cpe:2.3:a:openjsf:messageformat:*:*:*:*:*:*:*:*
 cpe:2.3:a:openjsf:node_version_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:openjsf:packager:*:*:*:*:*:*:*:*
@@ -65943,6 +65945,7 @@ cpe:2.3:a:syncee:syncee_-_global_dropshipping:*:*:*:*:*:*:*:*
 cpe:2.3:a:syncfusion:ej2-javascript-ui-controls:*:*:*:*:*:*:*:*
 cpe:2.3:a:syncfusion:ej2_aspcore_file_provider:*:*:*:*:*:*:*:*
 cpe:2.3:a:syncfusion:nodejs_file_system_provider:*:*:*:*:*:*:*:*
+cpe:2.3:a:syncfusion:standalone_report_designer:*:*:*:*:*:*:*:*
 cpe:2.3:a:syncfusion:syncfusion:*:*:*:*:*:*:*:*
 cpe:2.3:a:synchro:bbs:*:*:*:*:*:*:*:*
 cpe:2.3:a:synchro:bulletin_board_system:*:*:*:*:*:*:*:*
@@ -72825,6 +72828,7 @@ cpe:2.3:a:webprancer:garfield\'s_diner:*:*:*:*:*:*:*:*
 cpe:2.3:a:webprojectdb:webprojectdb:*:*:*:*:*:*:*:*
 cpe:2.3:a:webpromoexperts:webpromoexperts:*:*:*:*:*:*:*:*
 cpe:2.3:a:webpros:plesk_obsidian:*:*:*:*:*:*:*:*
+cpe:2.3:a:webpros:wp_toolkit:*:*:*:*:*:*:*:*
 cpe:2.3:a:webproxy_project:webproxy:*:*:*:*:*:*:*:*
 cpe:2.3:a:webpsilon:cube_slider:*:*:*:*:*:*:*:*
 cpe:2.3:a:webpsilon:responsive_3d_slider:*:*:*:*:*:*:*:*
@@ -142278,6 +142282,7 @@ cpe:2.3:o:anviz:cx7_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:anviz:m3_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:anybus:ipc\@chip_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:anyka:ak3918ev300_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:apache:mynewt:*:*:*:*:*:*:*:*
 cpe:2.3:o:apache:qpid_dispatch_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:apc:aos:*:*:*:*:*:*:*:*
 cpe:2.3:o:apexis:apm-h803-mpc_firmware:*:*:*:*:*:*:*:*
