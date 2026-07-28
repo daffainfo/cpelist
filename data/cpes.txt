@@ -4958,6 +4958,7 @@ cpe:2.3:a:arista:ng_firewall:*:*:*:*:*:*:*:*
 cpe:2.3:a:arista:terminattr:*:*:*:*:*:*:*:*
 cpe:2.3:a:arista:velocloud_edge:*:*:*:*:*:*:*:*
 cpe:2.3:a:arista:velocloud_gateway:*:*:*:*:*:*:*:*
+cpe:2.3:a:arista:velocloud_orchestrator:*:*:*:*:*:*:*:*
 cpe:2.3:a:arista:veos-lab:*:*:*:*:*:*:*:*
 cpe:2.3:a:arista:veos:*:*:*:*:*:*:*:*
 cpe:2.3:a:arisusanto:easy-popup-show:*:*:*:*:*:*:*:*
@@ -22771,7 +22772,6 @@ cpe:2.3:a:forperfect:csupport:*:*:*:*:*:*:*:*
 cpe:2.3:a:forsnet:web_icerik_yonetim_sistemi:*:*:*:*:*:*:*:*
 cpe:2.3:a:forsyspress:wp_login_control:*:*:*:*:*:*:*:*
 cpe:2.3:a:fort_validator_project:fort_validator:*:*:*:*:*:*:*:*
-cpe:2.3:a:forta:core_privileged_access_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:fortanix:confidential_computing_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:fortech:proxy\+:*:*:*:*:*:*:*:*
 cpe:2.3:a:fortect:fortect:*:*:*:*:*:*:*:*
@@ -22876,6 +22876,7 @@ cpe:2.3:a:fortinet:fortiwebmanager:*:*:*:*:*:*:*:*
 cpe:2.3:a:fortinet:fortiwlc:*:*:*:*:*:*:*:*
 cpe:2.3:a:fortinet:fortiwlm:*:*:*:*:*:*:*:*
 cpe:2.3:a:fortinet:single_sign_on:*:*:*:*:*:*:*:*
+cpe:2.3:a:fortra:core_privileged_access_manager_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:fortra:cuteftp:*:*:*:*:*:*:*:*
 cpe:2.3:a:fortra:delivernow:*:*:*:*:*:*:*:*
 cpe:2.3:a:fortra:digital_guardian_agent:*:*:*:*:*:*:*:*
@@ -49936,6 +49937,7 @@ cpe:2.3:a:oracle:server_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:service_architecture_leveraging_tuxedo:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:service_bus:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:service_contracts:*:*:*:*:*:*:*:*
+cpe:2.3:a:oracle:service_delivery_platform:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:service_fulfillment_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:service_intelligence:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:services_tools_bundle:*:*:*:*:*:*:*:*
