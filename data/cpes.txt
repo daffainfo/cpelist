@@ -49435,6 +49435,7 @@ cpe:2.3:a:oracle:flexcube_enterprise_limits_and_collateral_management:*:*:*:*:*:
 cpe:2.3:a:oracle:flexcube_investor_servicing:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:flexcube_private_banking:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:flexcube_universal_banking:*:*:*:*:*:*:*:*
+cpe:2.3:a:oracle:flow_manufacturing:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:fmw_platform:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:food_and_beverage_applications:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:forms:*:*:*:*:*:*:*:*
@@ -50098,6 +50099,7 @@ cpe:2.3:a:oracle:xml_developers_kit:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:xml_gateway:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:xml_publisher_reporting_tools_for_word:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:xvm_virtualbox:*:*:*:*:*:*:*:*
+cpe:2.3:a:oracle:yard_management:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:zero_downtime_db_migration_to_cloud:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:zfs_storage_appliance_kit:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:zfs_storage_application_integration_engineering_software:*:*:*:*:*:*:*:*
