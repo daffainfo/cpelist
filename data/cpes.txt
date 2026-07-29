@@ -44069,7 +44069,7 @@ cpe:2.3:a:mr384:mzone_login:*:*:*:*:*:*:*:*
 cpe:2.3:a:mr384_project:mzone_login:*:*:*:*:*:*:*:*
 cpe:2.3:a:mr_saphp_arabic_mobile:messages_library:*:*:*:*:*:*:*:*
 cpe:2.3:a:mra13:simple_membership:*:*:*:*:*:*:*:*
-cpe:2.3:a:mranderson:base64_encoderdecoder:*:*:*:*:*:*:*:*
+cpe:2.3:a:mranderson:base64_encoder\/decoder:*:*:*:*:*:*:*:*
 cpe:2.3:a:mrbird:febs-shiro:*:*:*:*:*:*:*:*
 cpe:2.3:a:mrbs:mrbs:*:*:*:*:*:*:*:*
 cpe:2.3:a:mrbs_project:mrbs:*:*:*:*:*:*:*:*
