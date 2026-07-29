@@ -2074,6 +2074,7 @@ cpe:2.3:a:agilent_technologies:feature_extraction:*:*:*:*:*:*:*:*
 cpe:2.3:a:agilepoint:agilepoint_nx:*:*:*:*:*:*:*:*
 cpe:2.3:a:agiletestware:pangolin_connector_for_testrail:*:*:*:*:*:*:*:*
 cpe:2.3:a:agilewiki:agilewiki:*:*:*:*:*:*:*:*
+cpe:2.3:a:agiloft:agiloft:*:*:*:*:*:*:*:*
 cpe:2.3:a:agilonhealth:minerva:*:*:*:*:*:*:*:*
 cpe:2.3:a:agixt:agixt:*:*:*:*:*:*:*:*
 cpe:2.3:a:agnai:agnai:*:*:*:*:*:*:*:*
@@ -54685,6 +54686,7 @@ cpe:2.3:a:provos:systrace:*:*:*:*:*:*:*:*
 cpe:2.3:a:prowcplugins:empty_cart_button_for_woocommerce:*:*:*:*:*:*:*:*
 cpe:2.3:a:prowise:reflect:*:*:*:*:*:*:*:*
 cpe:2.3:a:prowizard:prowizard_4_pc:*:*:*:*:*:*:*:*
+cpe:2.3:a:prowler:prowler:*:*:*:*:*:*:*:*
 cpe:2.3:a:proxifier:proxifier:*:*:*:*:*:*:*:*
 cpe:2.3:a:proxmov:virtual_environment:*:*:*:*:*:*:*:*
 cpe:2.3:a:proxmox:backup_server:*:*:*:*:*:*:*:*
