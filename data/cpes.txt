@@ -29432,6 +29432,7 @@ cpe:2.3:a:ibm:aspera_application_platform_on_demand:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:aspera_cargo:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:aspera_connect:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:aspera_console:*:*:*:*:*:*:*:*
+cpe:2.3:a:ibm:aspera_desktop_app:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:aspera_faspex:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:aspera_faspex_5:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:aspera_faspex_on_demand:*:*:*:*:*:*:*:*
@@ -29969,6 +29970,7 @@ cpe:2.3:a:ibm:notes:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:notes_traveler:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:notes_traveler_companion:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:observability_with_instana:*:*:*:*:*:*:*:*
+cpe:2.3:a:ibm:observability_with_instana_agent:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:omnifind:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:open_liberty:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:openadmin_tool:*:*:*:*:*:*:*:*
@@ -30416,6 +30418,7 @@ cpe:2.3:a:ibm:ts3100_tape_library_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:ts3200_tape_library_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:ts3310_tape_library_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:ts3500_tape_library_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:a:ibm:ts4500_cli_tool:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:ts4500_imc:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:turbonomic_prometurbo_agent:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:txseries:*:*:*:*:*:*:*:*
@@ -49816,6 +49819,7 @@ cpe:2.3:a:oracle:policy_automation:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:policy_automation_connector_for_siebel:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:policy_automation_for_mobile_devices:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:portal:*:*:*:*:*:*:*:*
+cpe:2.3:a:oracle:price_protection:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:primavera_analytics:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:primavera_contract_management:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:primavera_data_warehouse:*:*:*:*:*:*:*:*
