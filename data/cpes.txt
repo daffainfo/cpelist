@@ -50032,6 +50032,7 @@ cpe:2.3:a:oracle:tape_virtual_storage_manager_gui:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:tarantella_enterprise:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:tekelec_platform_distribution:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:tekelec_virtual_operating_environment:*:*:*:*:*:*:*:*
+cpe:2.3:a:oracle:telecommunications_billing_integrator:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:teleservice:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:terracotta_quartz_scheduler_mapviewer:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:territory_management:*:*:*:*:*:*:*:*
