@@ -29589,6 +29589,7 @@ cpe:2.3:a:ibm:datapower_gateway:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:datapower_gateway_1050:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:datapower_gateway_1060:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:datapower_gateway_106cd:*:*:*:*:*:*:*:*
+cpe:2.3:a:ibm:datapower_gateway_1100:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:datastage:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:datastage_on_cloud_pak_for_data:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:db2:*:*:*:*:*:*:*:*
@@ -29664,6 +29665,7 @@ cpe:2.3:a:ibm:engineering_lifecycle_optimization_-_engineering_insights:*:*:*:*:
 cpe:2.3:a:ibm:engineering_lifecycle_optimization_-_publishing:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:engineering_lifecycle_optimization_publishing:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:engineering_requirements_management_doors:*:*:*:*:*:*:*:*
+cpe:2.3:a:ibm:engineering_requirements_management_doors_and_doors_web_access:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:engineering_requirements_management_doors_next:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:engineering_requirements_management_doors_web_access:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:engineering_requirements_quality_assistant_on-premises:*:*:*:*:*:*:*:*
@@ -29728,6 +29730,8 @@ cpe:2.3:a:ibm:guardium_key_lifecycle_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:hacmp:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:hardware_management_console:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:high_availability_cluster_multiprocessing:*:*:*:*:*:*:*:*
+cpe:2.3:a:ibm:hmc_v10310500:*:*:*:*:*:*:*:*
+cpe:2.3:a:ibm:hmc_v11111100:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:homepageprint:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:host_access_transformation_services:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:host_on-demand:*:*:*:*:*:*:*:*
@@ -30432,6 +30436,8 @@ cpe:2.3:a:ibm:txseries_for_multiplatforms:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:u2_universe:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:ucd___ibm_devops_deploy:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:ucd___ibm_urbancode_deploy:*:*:*:*:*:*:*:*
+cpe:2.3:a:ibm:ucd_ibm_devops_deploy:*:*:*:*:*:*:*:*
+cpe:2.3:a:ibm:ucd_ibm_urbancode_deploy:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:updatexpress_system_packs_installer:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:urbancode_build:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:urbancode_deploy:*:*:*:*:*:*:*:*
@@ -30483,6 +30489,7 @@ cpe:2.3:a:ibm:webmethods:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:webmethods_api_gateway:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:webmethods_api_gateway_on_prem:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:webmethods_integration:*:*:*:*:*:*:*:*
+cpe:2.3:a:ibm:webmethods_integration_on_prem:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:webmethods_integration_on_prem___integration_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:webmethods_integration_on_prem__integration_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:webmethods_integration_server:*:*:*:*:*:*:*:*
