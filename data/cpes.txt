@@ -50033,6 +50033,7 @@ cpe:2.3:a:oracle:tarantella_enterprise:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:tekelec_platform_distribution:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:tekelec_virtual_operating_environment:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:telecommunications_billing_integrator:*:*:*:*:*:*:*:*
+cpe:2.3:a:oracle:telesales:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:teleservice:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:terracotta_quartz_scheduler_mapviewer:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:territory_management:*:*:*:*:*:*:*:*
@@ -65907,6 +65908,7 @@ cpe:2.3:a:symbol:41x1_access_point:*:*:*:*:*:*:*:*
 cpe:2.3:a:symcon:ip_symcon:*:*:*:*:*:*:*:*
 cpe:2.3:a:symetrie_project:symetrie:*:*:*:*:*:*:*:*
 cpe:2.3:a:symfony:symfony:*:*:*:*:*:*:*:*
+cpe:2.3:a:symfony:twig-bridge:*:*:*:*:*:*:*:*
 cpe:2.3:a:symfony:twig:*:*:*:*:*:*:*:*
 cpe:2.3:a:symfony:ux:*:*:*:*:*:*:*:*
 cpe:2.3:a:symfony:ux_autocomplete:*:*:*:*:*:*:*:*
