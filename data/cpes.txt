@@ -29674,6 +29674,7 @@ cpe:2.3:a:ibm:eni:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:enovia:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:enovia_smarteam:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:enterprise_asset_management:*:*:*:*:*:*:*:*
+cpe:2.3:a:ibm:enterprise_build_of_quarkus:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:enterprise_records:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:entirex:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:event_streams:*:*:*:*:*:*:*:*
@@ -30402,6 +30403,7 @@ cpe:2.3:a:ibm:tivoli_storage_manager_for_virtual_environments_data_protection_fo
 cpe:2.3:a:ibm:tivoli_storage_manager_for_virtual_environments_data_protection_for_vmware:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:tivoli_storage_manager_hsm:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:tivoli_storage_productivity_center:*:*:*:*:*:*:*:*
+cpe:2.3:a:ibm:tivoli_system_automation_application_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:tivoli_workload_scheduler:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:tklm:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:toolscenter_suite:*:*:*:*:*:*:*:*
@@ -39779,6 +39781,8 @@ cpe:2.3:a:maklerplus:maklerplus:*:*:*:*:*:*:*:*
 cpe:2.3:a:makotemplates:mako:*:*:*:*:*:*:*:*
 cpe:2.3:a:maku:maku-boot:*:*:*:*:*:*:*:*
 cpe:2.3:a:makves:dcap:*:*:*:*:*:*:*:*
+cpe:2.3:a:malach-it:boruta:*:*:*:*:*:*:*:*
+cpe:2.3:a:malach-it:boruta_auth:*:*:*:*:*:*:*:*
 cpe:2.3:a:malaterre:grassroots_dicom:*:*:*:*:*:*:*:*
 cpe:2.3:a:malavida:cain_\&_abel:*:*:*:*:*:*:*:*
 cpe:2.3:a:malaysiancoin_project:malaysiancoin:*:*:*:*:*:*:*:*
