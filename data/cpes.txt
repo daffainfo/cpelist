@@ -3420,6 +3420,7 @@ cpe:2.3:a:anapi:h6web:*:*:*:*:*:*:*:*
 cpe:2.3:a:anark:client:*:*:*:*:*:*:*:*
 cpe:2.3:a:anasedreesi:marquee_elementor_with_posts:*:*:*:*:*:*:*:*
 cpe:2.3:a:anblik:image-gallery-with-slideshow:*:*:*:*:*:*:*:*
+cpe:2.3:a:anchor-lang:anchor:*:*:*:*:*:*:*:*
 cpe:2.3:a:anchor:anchor_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:anchorcms:anchor:*:*:*:*:*:*:*:*
 cpe:2.3:a:anchorcms:anchor_cms:*:*:*:*:*:*:*:*
@@ -4963,6 +4964,7 @@ cpe:2.3:a:arista:velocloud_orchestrator:*:*:*:*:*:*:*:*
 cpe:2.3:a:arista:veos-lab:*:*:*:*:*:*:*:*
 cpe:2.3:a:arista:veos:*:*:*:*:*:*:*:*
 cpe:2.3:a:arisusanto:easy-popup-show:*:*:*:*:*:*:*:*
+cpe:2.3:a:ariva:accord_ors:*:*:*:*:*:*:*:*
 cpe:2.3:a:ariva_computer:accord_ors:*:*:*:*:*:*:*:*
 cpe:2.3:a:arizona-dream:livre_d_or_livor:*:*:*:*:*:*:*:*
 cpe:2.3:a:arj_software:arj_archiver:*:*:*:*:*:*:*:*
@@ -5064,6 +5066,7 @@ cpe:2.3:a:arox:school_erp_php_script:*:*:*:*:*:*:*:*
 cpe:2.3:a:arox:school_erp_pro:*:*:*:*:*:*:*:*
 cpe:2.3:a:arox:school_erp_pro\+responsive:*:*:*:*:*:*:*:*
 cpe:2.3:a:arox:school_management_software_php\/mysql:*:*:*:*:*:*:*:*
+cpe:2.3:a:aroxsolution:school_erp_pro\+responsive:*:*:*:*:*:*:*:*
 cpe:2.3:a:arpanet:perlshop:*:*:*:*:*:*:*:*
 cpe:2.3:a:arpsyndicate:puncia:*:*:*:*:*:*:*:*
 cpe:2.3:a:arqbackup:arq:*:*:*:*:*:*:*:*
