@@ -25642,7 +25642,6 @@ cpe:2.3:a:gost_engine_project:gost_engine:*:*:*:*:*:*:*:*
 cpe:2.3:a:gosuncntech:group_audio-visual_integrated_management:*:*:*:*:*:*:*:*
 cpe:2.3:a:gosurf_browser:gosurf_browser:*:*:*:*:*:*:*:*
 cpe:2.3:a:got_project:got:*:*:*:*:*:*:*:*
-cpe:2.3:a:gotac:police_statistics_database_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:gotac:statistics_database_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:gotdns:loggix_project:*:*:*:*:*:*:*:*
 cpe:2.3:a:goteleport:teleport:*:*:*:*:*:*:*:*
