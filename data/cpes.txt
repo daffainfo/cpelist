@@ -49770,6 +49770,7 @@ cpe:2.3:a:oracle:peoplesoft_enterprise_els:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_enterprise_esettlements:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_enterprise_fin:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_enterprise_fin_cash_management:*:*:*:*:*:*:*:*
+cpe:2.3:a:oracle:peoplesoft_enterprise_fin_common_objects:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_enterprise_fin_contracts:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_enterprise_fin_esettlements:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_enterprise_fin_expenses:*:*:*:*:*:*:*:*
@@ -49852,10 +49853,12 @@ cpe:2.3:a:oracle:process_manufacturing_product_development:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:product_hub:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:product_lifecycle_analytics:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:product_lifecycle_management:*:*:*:*:*:*:*:*
+cpe:2.3:a:oracle:product_workbench:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:production_scheduling:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:project_contracts:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:project_costing:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:project_foundation:*:*:*:*:*:*:*:*
+cpe:2.3:a:oracle:project_manufacturing:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:project_portfolio_analysis:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:projects:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:property_manager:*:*:*:*:*:*:*:*
@@ -69898,6 +69901,7 @@ cpe:2.3:a:ueranism:ueranism:*:*:*:*:*:*:*:*
 cpe:2.3:a:uetoken:useless_ethereum_token:*:*:*:*:*:*:*:*
 cpe:2.3:a:ufactory:xarm_studio:*:*:*:*:*:*:*:*
 cpe:2.3:a:uffizio:gps_tracker:*:*:*:*:*:*:*:*
+cpe:2.3:a:ufirstgroup:ymlr:*:*:*:*:*:*:*:*
 cpe:2.3:a:ufku_bayburt:bueditor:*:*:*:*:*:*:*:*
 cpe:2.3:a:uflo_project:uflo:*:*:*:*:*:*:*:*
 cpe:2.3:a:ufmod:ufmod_xm_player_library:*:*:*:*:*:*:*:*
