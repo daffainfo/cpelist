@@ -27082,6 +27082,7 @@ cpe:2.3:a:hidglobal:easylobby_solo:*:*:*:*:*:*:*:*
 cpe:2.3:a:hidglobal:safe:*:*:*:*:*:*:*:*
 cpe:2.3:a:hierarchial_select_project:hierarchical_select:*:*:*:*:*:*:*:*
 cpe:2.3:a:hierarchical_select_project:hierarchical_select:*:*:*:*:*:*:*:*
+cpe:2.3:a:hierynomus:sshj:*:*:*:*:*:*:*:*
 cpe:2.3:a:high-logic:fontcreator:*:*:*:*:*:*:*:*
 cpe:2.3:a:high_availability_linux_project:heartbeat:*:*:*:*:*:*:*:*
 cpe:2.3:a:high_norm:sound_master_2nd:*:*:*:*:*:*:*:*
@@ -58070,6 +58071,7 @@ cpe:2.3:a:rocketapps:open_graphite:*:*:*:*:*:*:*:*
 cpe:2.3:a:rocketchat:rocket.chat:*:*:*:*:*:*:*:*
 cpe:2.3:a:rocketeer.dip:sisapilocation:*:*:*:*:*:*:*:*
 cpe:2.3:a:rocketelements:split_test_for_elementor:*:*:*:*:*:*:*:*
+cpe:2.3:a:rocketgenius:constant_contact:*:*:*:*:*:*:*:*
 cpe:2.3:a:rocketgenius:gravity_forms_webhooks:*:*:*:*:*:*:*:*
 cpe:2.3:a:rocketgenius:gravityforms:*:*:*:*:*:*:*:*
 cpe:2.3:a:rocketsoft:rocket_lms:*:*:*:*:*:*:*:*
@@ -66261,6 +66263,7 @@ cpe:2.3:a:tailoring_management_system_project:tailoring_management_system:*:*:*:
 cpe:2.3:a:tailscale:tailscale:*:*:*:*:*:*:*:*
 cpe:2.3:a:tainacan:tainacan:*:*:*:*:*:*:*:*
 cpe:2.3:a:taipower:taipower_app:*:*:*:*:*:*:*:*
+cpe:2.3:a:taipy:taipy:*:*:*:*:*:*:*:*
 cpe:2.3:a:taisan:tarzan-cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:taismartfactory:qplant_sf:*:*:*:*:*:*:*:*
 cpe:2.3:a:takahashifumiki:gianism:*:*:*:*:*:*:*:*
