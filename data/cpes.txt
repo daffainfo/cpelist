@@ -69891,6 +69891,7 @@ cpe:2.3:a:udn:udn_news_app:*:*:*:*:*:*:*:*
 cpe:2.3:a:udo_von_eynern:modern_guest_book_commenting_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:udx:stateless_media_plugin:*:*:*:*:*:*:*:*
 cpe:2.3:a:udx:wp-stateless:*:*:*:*:*:*:*:*
+cpe:2.3:a:ueberauth:guardian:*:*:*:*:*:*:*:*
 cpe:2.3:a:ueberauth:ueberauth_apple:*:*:*:*:*:*:*:*
 cpe:2.3:a:ueberhamm-design:youtube_video_inserter:*:*:*:*:*:*:*:*
 cpe:2.3:a:ueberproject_management_system:ueberproject_management_system:*:*:*:*:*:*:*:*
