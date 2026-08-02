@@ -5055,6 +5055,7 @@ cpe:2.3:a:armurox:logging_redactor:*:*:*:*:*:*:*:*
 cpe:2.3:a:arnabdotorg:captcha:*:*:*:*:*:*:*:*
 cpe:2.3:a:arne_redlich_\&_ross_walker:iscsitarget:*:*:*:*:*:*:*:*
 cpe:2.3:a:arnesonium:openpgp_form_encryption:*:*:*:*:*:*:*:*
+cpe:2.3:a:arnobt78:hotel_booking_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:arnoldgoodway:neighborly:*:*:*:*:*:*:*:*
 cpe:2.3:a:arnoldgoodway:tweaker5:*:*:*:*:*:*:*:*
 cpe:2.3:a:arnos_toolbox:wp-download:*:*:*:*:*:*:*:*
