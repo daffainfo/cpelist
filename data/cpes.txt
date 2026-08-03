@@ -11068,6 +11068,7 @@ cpe:2.3:a:checkinstall:checkinstall:*:*:*:*:*:*:*:*
 cpe:2.3:a:checklist:checklist:*:*:*:*:*:*:*:*
 cpe:2.3:a:checklist:trip_plan:*:*:*:*:*:*:*:*
 cpe:2.3:a:checkmail:check_and_log_email:*:*:*:*:*:*:*:*
+cpe:2.3:a:checkmal:appcheck_pro:*:*:*:*:*:*:*:*
 cpe:2.3:a:checkmark:checkmark_payroll:*:*:*:*:*:*:*:*
 cpe:2.3:a:checkmark:multiledger:*:*:*:*:*:*:*:*
 cpe:2.3:a:checkmarx:cxsast:*:*:*:*:*:*:*:*
@@ -26751,7 +26752,6 @@ cpe:2.3:a:hcltech:intelliops_event_management:*:*:*:*:*:*:*:*
 cpe:2.3:a:hcltech:leap:*:*:*:*:*:*:*:*
 cpe:2.3:a:hcltech:marketing_campaign:*:*:*:*:*:*:*:*
 cpe:2.3:a:hcltech:modern_client_management:*:*:*:*:*:*:*:*
-cpe:2.3:a:hcltech:mycloud:*:*:*:*:*:*:*:*
 cpe:2.3:a:hcltech:myxalytics:*:*:*:*:*:*:*:*
 cpe:2.3:a:hcltech:nomad_server_on_domino:*:*:*:*:*:*:*:*
 cpe:2.3:a:hcltech:notes:*:*:*:*:*:*:*:*
@@ -49797,6 +49797,7 @@ cpe:2.3:a:oracle:peoplesoft_enterprise_fscm:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_enterprise_hcm_benefits_administration:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_enterprise_hcm_candidate_gateway:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_enterprise_hcm_global_payroll_core:*:*:*:*:*:*:*:*
+cpe:2.3:a:oracle:peoplesoft_enterprise_hcm_global_payroll_mexico:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_enterprise_hcm_global_payroll_switzerland:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_enterprise_hcm_human_resources:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_enterprise_hcm_shared_components:*:*:*:*:*:*:*:*
@@ -56192,6 +56193,7 @@ cpe:2.3:a:rayzz:rayzz_script:*:*:*:*:*:*:*:*
 cpe:2.3:a:raz-lee:security\+\+\+:*:*:*:*:*:*:*:*
 cpe:2.3:a:razer:chroma_sdk:*:*:*:*:*:*:*:*
 cpe:2.3:a:razer:razer_central:*:*:*:*:*:*:*:*
+cpe:2.3:a:razer:rzupdateservice:*:*:*:*:*:*:*:*
 cpe:2.3:a:razer:surround:*:*:*:*:*:*:*:*
 cpe:2.3:a:razer:synapse:*:*:*:*:*:*:*:*
 cpe:2.3:a:razer:synapse_4:*:*:*:*:*:*:*:*
@@ -67193,6 +67195,7 @@ cpe:2.3:a:textmetrics:textmetrics:*:*:*:*:*:*:*:*
 cpe:2.3:a:textnow:2ndline:*:*:*:*:*:*:*:*
 cpe:2.3:a:textor_webmasters_ltd.:listrec.pl:*:*:*:*:*:*:*:*
 cpe:2.3:a:textpattern:textpattern:*:*:*:*:*:*:*:*
+cpe:2.3:a:textplus:text_message_and_call_app:*:*:*:*:*:*:*:*
 cpe:2.3:a:textract_project:textract:*:*:*:*:*:*:*:*
 cpe:2.3:a:textsend:textsend:*:*:*:*:*:*:*:*
 cpe:2.3:a:texttheater:ultimate_noindex_nofollow_tool_ii:*:*:*:*:*:*:*:*
@@ -72309,9 +72312,21 @@ cpe:2.3:a:wavemaker:wavemarker_studio:*:*:*:*:*:*:*:*
 cpe:2.3:a:waves:maxxaudio:*:*:*:*:*:*:*:*
 cpe:2.3:a:wavestore:video_management_software_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:waveterm:wave_terminal:*:*:*:*:*:*:*:*
+cpe:2.3:a:wavlink:etc._wn529:*:*:*:*:*:*:*:*
+cpe:2.3:a:wavlink:nu516:*:*:*:*:*:*:*:*
 cpe:2.3:a:wavlink:wavrouter_app:*:*:*:*:*:*:*:*
 cpe:2.3:a:wavlink:wl-nu516u1-a:*:*:*:*:*:*:*:*
 cpe:2.3:a:wavlink:wl_wnj575a3:*:*:*:*:*:*:*:*
+cpe:2.3:a:wavlink:wn529:*:*:*:*:*:*:*:*
+cpe:2.3:a:wavlink:wn530:*:*:*:*:*:*:*:*
+cpe:2.3:a:wavlink:wn531:*:*:*:*:*:*:*:*
+cpe:2.3:a:wavlink:wn535:*:*:*:*:*:*:*:*
+cpe:2.3:a:wavlink:wn536:*:*:*:*:*:*:*:*
+cpe:2.3:a:wavlink:wn551:*:*:*:*:*:*:*:*
+cpe:2.3:a:wavlink:wn557:*:*:*:*:*:*:*:*
+cpe:2.3:a:wavlink:wn570h:*:*:*:*:*:*:*:*
+cpe:2.3:a:wavlink:wn572:*:*:*:*:*:*:*:*
+cpe:2.3:a:wavlink:wn573:*:*:*:*:*:*:*:*
 cpe:2.3:a:wavpack:wavpack:*:*:*:*:*:*:*:*
 cpe:2.3:a:wavpack_project:wavpack:*:*:*:*:*:*:*:*
 cpe:2.3:a:wawacu:wawa_employees_credit_union_mobile:*:*:*:*:*:*:*:*
