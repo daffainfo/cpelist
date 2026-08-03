@@ -49213,6 +49213,7 @@ cpe:2.3:a:oracle:commerce:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:commerce_experience_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:commerce_guided_search:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:commerce_guided_search_and_experience_manager:*:*:*:*:*:*:*:*
+cpe:2.3:a:oracle:commerce_guided_search_platform_services:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:commerce_merchandising:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:commerce_platform:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:commerce_service_center:*:*:*:*:*:*:*:*
@@ -49605,6 +49606,7 @@ cpe:2.3:a:oracle:interaction_blending:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:interaction_center_intelligence:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:internet_directory:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:internet_expenses:*:*:*:*:*:*:*:*
+cpe:2.3:a:oracle:inventory_management:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:iplanet_web_proxy_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:iplanet_web_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:iprocurement:*:*:*:*:*:*:*:*
