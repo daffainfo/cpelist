@@ -8143,6 +8143,7 @@ cpe:2.3:a:blitiri:chasquid:*:*:*:*:*:*:*:*
 cpe:2.3:a:blitz-js:blitz:*:*:*:*:*:*:*:*
 cpe:2.3:a:blitzjs:blitz:*:*:*:*:*:*:*:*
 cpe:2.3:a:blitzjs:superjson:*:*:*:*:*:*:*:*
+cpe:2.3:a:blix:email_blue_mail_calendar_app:*:*:*:*:*:*:*:*
 cpe:2.3:a:blixhq:bluemail:*:*:*:*:*:*:*:*
 cpe:2.3:a:blizzard:battle.net:*:*:*:*:*:*:*:*
 cpe:2.3:a:blizzard:overwatch:*:*:*:*:*:*:*:*
@@ -33807,6 +33808,7 @@ cpe:2.3:a:jeecms:jeecms:*:*:*:*:*:*:*:*
 cpe:2.3:a:jeecms:jeecms_x:*:*:*:*:*:*:*:*
 cpe:2.3:a:jeedom:jeedom:*:*:*:*:*:*:*:*
 cpe:2.3:a:jeeng_push_notifications_project:jeeng_push_notifications:*:*:*:*:*:*:*:*
+cpe:2.3:a:jeequan:jeepay:*:*:*:*:*:*:*:*
 cpe:2.3:a:jeesite:jeesite:*:*:*:*:*:*:*:*
 cpe:2.3:a:jeesns:jeesns:*:*:*:*:*:*:*:*
 cpe:2.3:a:jeewms:jeewms:*:*:*:*:*:*:*:*
@@ -34777,6 +34779,7 @@ cpe:2.3:a:jimbob1953:db-access:*:*:*:*:*:*:*:*
 cpe:2.3:a:jimmac:original_photo_gallery:*:*:*:*:*:*:*:*
 cpe:2.3:a:jimmy:the_includer:*:*:*:*:*:*:*:*
 cpe:2.3:a:jimtawl_project:jimtawl:*:*:*:*:*:*:*:*
+cpe:2.3:a:jina-ai:reader:*:*:*:*:*:*:*:*
 cpe:2.3:a:jinan_chicheng_company:jflow:*:*:*:*:*:*:*:*
 cpe:2.3:a:jinfra:guess_the_movie:*:*:*:*:*:*:*:*
 cpe:2.3:a:jingdong:jd_cloud_box_ax6600:*:*:*:*:*:*:*:*
@@ -39217,6 +39220,7 @@ cpe:2.3:a:lucvil:patplayer:*:*:*:*:*:*:*:*
 cpe:2.3:a:lucygames:com_lucygames:*:*:*:*:*:*:*:*
 cpe:2.3:a:lucyparsonslabs:openoversight:*:*:*:*:*:*:*:*
 cpe:2.3:a:lucysecurity:security_awareness:*:*:*:*:*:*:*:*
+cpe:2.3:a:lud:oaskit:*:*:*:*:*:*:*:*
 cpe:2.3:a:ludashi:ludashi_driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:ludek:better_anchor_links:*:*:*:*:*:*:*:*
 cpe:2.3:a:luffypirates:cafe_reservation_system:*:*:*:*:*:*:*:*
@@ -48308,6 +48312,7 @@ cpe:2.3:a:openairinterface:magma:*:*:*:*:*:*:*:*
 cpe:2.3:a:openairinterface:oai-cn5g-amf:*:*:*:*:*:*:*:*
 cpe:2.3:a:openairinterface:openairinterface5g:*:*:*:*:*:*:*:*
 cpe:2.3:a:openairinterface:openairinterface:*:*:*:*:*:*:*:*
+cpe:2.3:a:openakita:openakita:*:*:*:*:*:*:*:*
 cpe:2.3:a:openam:openam:*:*:*:*:*:*:*:*
 cpe:2.3:a:openapi-generator:openapi_generator:*:*:*:*:*:*:*:*
 cpe:2.3:a:openapi-python-client_project:openapi-python-client:*:*:*:*:*:*:*:*
@@ -49983,7 +49988,6 @@ cpe:2.3:a:oracle:siebel_applications:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:siebel_apps_-_customer_order_management:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:siebel_apps_-_e-billing:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:siebel_apps_-_marketing:*:*:*:*:*:*:*:*
-cpe:2.3:a:oracle:siebel_cloud_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:siebel_core-common_components:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:siebel_core-server_framework:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:siebel_core_-_automation:*:*:*:*:*:*:*:*
