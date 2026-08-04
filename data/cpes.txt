@@ -11187,6 +11187,7 @@ cpe:2.3:a:chess:play_and_learn_app:*:*:*:*:*:*:*:*
 cpe:2.3:a:chetan_khandla:woocommerce_product_design:*:*:*:*:*:*:*:*
 cpe:2.3:a:chetangole:smooth_scroll_links:*:*:*:*:*:*:*:*
 cpe:2.3:a:chetangole:wp-copyprotect_\[protect_your_blog_posts\]:*:*:*:*:*:*:*:*
+cpe:2.3:a:chetans9:core-php-admin-panel:*:*:*:*:*:*:*:*
 cpe:2.3:a:chetanvaghela:common_tools_for_site:*:*:*:*:*:*:*:*
 cpe:2.3:a:chetcpasswd:chetcpasswd:*:*:*:*:*:*:*:*
 cpe:2.3:a:chetcpasswd_project:chetcpasswd:*:*:*:*:*:*:*:*
@@ -49790,6 +49791,7 @@ cpe:2.3:a:oracle:peoplesoft_enterprise_elm_enterprise_learning_management:*:*:*:
 cpe:2.3:a:oracle:peoplesoft_enterprise_els:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_enterprise_esettlements:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_enterprise_fin:*:*:*:*:*:*:*:*
+cpe:2.3:a:oracle:peoplesoft_enterprise_fin_billing_argentina:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_enterprise_fin_cash_management:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_enterprise_fin_common_objects:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_enterprise_fin_contracts:*:*:*:*:*:*:*:*
@@ -49872,6 +49874,7 @@ cpe:2.3:a:oracle:primavera_web_services:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:process_manufacturing_financials:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:process_manufacturing_process_planning:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:process_manufacturing_product_development:*:*:*:*:*:*:*:*
+cpe:2.3:a:oracle:process_manufacturing_systems:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:product_hub:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:product_lifecycle_analytics:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:product_lifecycle_management:*:*:*:*:*:*:*:*
@@ -71265,6 +71268,7 @@ cpe:2.3:a:viaviweb:wallpaper_admin:*:*:*:*:*:*:*:*
 cpe:2.3:a:vibease:chat:*:*:*:*:*:*:*:*
 cpe:2.3:a:vibease:wireless_remote_vibrator:*:*:*:*:*:*:*:*
 cpe:2.3:a:vibechild:directory_manager:*:*:*:*:*:*:*:*
+cpe:2.3:a:vibesurf-ai:vibesurf:*:*:*:*:*:*:*:*
 cpe:2.3:a:vibethemes:bp_social_connect:*:*:*:*:*:*:*:*
 cpe:2.3:a:vibethemes:vslider:*:*:*:*:*:*:*:*
 cpe:2.3:a:vibethemes:wordpress_learning_management_system:*:*:*:*:*:*:*:*
