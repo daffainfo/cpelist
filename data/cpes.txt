@@ -49797,6 +49797,7 @@ cpe:2.3:a:oracle:peoplesoft_enterprise_fin_common_objects:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_enterprise_fin_contracts:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_enterprise_fin_esettlements:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_enterprise_fin_expenses:*:*:*:*:*:*:*:*
+cpe:2.3:a:oracle:peoplesoft_enterprise_fin_grants:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_enterprise_fin_install:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_enterprise_fin_it_asset_management:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_enterprise_fin_maintenance_management:*:*:*:*:*:*:*:*
@@ -49837,9 +49838,11 @@ cpe:2.3:a:oracle:peoplesoft_enterprise_pt_peopletools:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_enterprise_scm:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_enterprise_scm_eprocurement:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_enterprise_scm_esupplier_connection:*:*:*:*:*:*:*:*
+cpe:2.3:a:oracle:peoplesoft_enterprise_scm_order_management:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_enterprise_scm_purchasing:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_enterprise_scm_services_procurement:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_enterprise_scm_strategic_sourcing:*:*:*:*:*:*:*:*
+cpe:2.3:a:oracle:peoplesoft_enterprise_scm_supplier_contract_management:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_enterprise_staffing_front_office:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_enterprise_supply_chain_management_services_procurement:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_enterprise_tools:*:*:*:*:*:*:*:*
@@ -66188,6 +66191,7 @@ cpe:2.3:a:systemtap:systemtap:*:*:*:*:*:*:*:*
 cpe:2.3:a:systemtools:dumpsec:*:*:*:*:*:*:*:*
 cpe:2.3:a:systemtools:hyena:*:*:*:*:*:*:*:*
 cpe:2.3:a:systemtools:ost_recovery:*:*:*:*:*:*:*:*
+cpe:2.3:a:systerel:s2opc:*:*:*:*:*:*:*:*
 cpe:2.3:a:systrace:systrace:*:*:*:*:*:*:*:*
 cpe:2.3:a:systrace_project:systrace:*:*:*:*:*:*:*:*
 cpe:2.3:a:systransoft:pure_neural_server:*:*:*:*:*:*:*:*
@@ -69259,6 +69263,7 @@ cpe:2.3:a:triplea-game:triplea:*:*:*:*:*:*:*:*
 cpe:2.3:a:triplecross_project:triplecross:*:*:*:*:*:*:*:*
 cpe:2.3:a:tripleplay:onelan_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:trippay_project:trippay:*:*:*:*:*:*:*:*
+cpe:2.3:a:trippo:responsivefilemanager:*:*:*:*:*:*:*:*
 cpe:2.3:a:tripwire:ip360:*:*:*:*:*:*:*:*
 cpe:2.3:a:tripwire:securecheq:*:*:*:*:*:*:*:*
 cpe:2.3:a:tripwire:tripwire:*:*:*:*:*:*:*:*
