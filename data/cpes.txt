@@ -6019,6 +6019,7 @@ cpe:2.3:a:autodesk:dwf_viewer:*:*:*:*:*:*:*:*
 cpe:2.3:a:autodesk:dwg_trueview:*:*:*:*:*:*:*:*
 cpe:2.3:a:autodesk:dynamo_bim:*:*:*:*:*:*:*:*
 cpe:2.3:a:autodesk:fbx_review:*:*:*:*:*:*:*:*
+cpe:2.3:a:autodesk:fbx_sdk:*:*:*:*:*:*:*:*
 cpe:2.3:a:autodesk:fbx_software_development_kit:*:*:*:*:*:*:*:*
 cpe:2.3:a:autodesk:fusion:*:*:*:*:*:*:*:*
 cpe:2.3:a:autodesk:fusion_360:*:*:*:*:*:*:*:*
@@ -20390,6 +20391,7 @@ cpe:2.3:a:erlang:erts:*:*:*:*:*:*:*:*
 cpe:2.3:a:erlang:ftp:*:*:*:*:*:*:*:*
 cpe:2.3:a:erlang:otp:*:*:*:*:*:*:*:*
 cpe:2.3:a:erlang:rebar3:*:*:*:*:*:*:*:*
+cpe:2.3:a:erlef:oidcc_plug:*:*:*:*:*:*:*:*
 cpe:2.3:a:ermenegildo_fiorito:irmin_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:ermig1979:simd:*:*:*:*:*:*:*:*
 cpe:2.3:a:eroaster:eroaster:*:*:*:*:*:*:*:*
