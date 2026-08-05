@@ -20247,6 +20247,7 @@ cpe:2.3:a:epromptc:betmore_site_suite:*:*:*:*:*:*:*:*
 cpe:2.3:a:eprosima:fast-rtps:*:*:*:*:*:*:*:*
 cpe:2.3:a:eprosima:fast_dds:*:*:*:*:*:*:*:*
 cpe:2.3:a:eps:probe_builder:*:*:*:*:*:*:*:*
+cpe:2.3:a:epsilla-cloud:vectordb:*:*:*:*:*:*:*:*
 cpe:2.3:a:epson:airprint:*:*:*:*:*:*:*:*
 cpe:2.3:a:epson:album_print:*:*:*:*:*:*:*:*
 cpe:2.3:a:epson:color_calibration_utility:*:*:*:*:*:*:*:*
@@ -21771,8 +21772,11 @@ cpe:2.3:a:fastify:fastify-static:*:*:*:*:*:*:*:*
 cpe:2.3:a:fastify:fastify:*:*:*:*:*:*:*:*
 cpe:2.3:a:fastify:fastify\/accepts-serializer:*:*:*:*:*:*:*:*
 cpe:2.3:a:fastify:fastify\/express:*:*:*:*:*:*:*:*
+cpe:2.3:a:fastify:fastify\/forwarded:*:*:*:*:*:*:*:*
 cpe:2.3:a:fastify:fastify\/http-proxy:*:*:*:*:*:*:*:*
 cpe:2.3:a:fastify:fastify\/middie:*:*:*:*:*:*:*:*
+cpe:2.3:a:fastify:fastify\/rate-limit:*:*:*:*:*:*:*:*
+cpe:2.3:a:fastify:fastify\/reply-from:*:*:*:*:*:*:*:*
 cpe:2.3:a:fastify:github_action_merge_dependabot:*:*:*:*:*:*:*:*
 cpe:2.3:a:fastify:oauth2:*:*:*:*:*:*:*:*
 cpe:2.3:a:fastify:passport:*:*:*:*:*:*:*:*
@@ -35741,6 +35745,7 @@ cpe:2.3:a:jupitercow:enhanced_search_box:*:*:*:*:*:*:*:*
 cpe:2.3:a:jupo:mezzanine:*:*:*:*:*:*:*:*
 cpe:2.3:a:jupyter:binderhub:*:*:*:*:*:*:*:*
 cpe:2.3:a:jupyter:dockerspawner:*:*:*:*:*:*:*:*
+cpe:2.3:a:jupyter:enterprise_gateway:*:*:*:*:*:*:*:*
 cpe:2.3:a:jupyter:extension-template:*:*:*:*:*:*:*:*
 cpe:2.3:a:jupyter:jupyter_core:*:*:*:*:*:*:*:*
 cpe:2.3:a:jupyter:jupyter_server:*:*:*:*:*:*:*:*
@@ -37482,6 +37487,7 @@ cpe:2.3:a:lavalite:lavalite:*:*:*:*:*:*:*:*
 cpe:2.3:a:lavasoft:ad-aware:*:*:*:*:*:*:*:*
 cpe:2.3:a:lavasoft:ad-aware_2007:*:*:*:*:*:*:*:*
 cpe:2.3:a:lavasoft:lavasoft_personal_firewall:*:*:*:*:*:*:*:*
+cpe:2.3:a:lavkush-maurya:student-registration-system:*:*:*:*:*:*:*:*
 cpe:2.3:a:lavrsen:motion:*:*:*:*:*:*:*:*
 cpe:2.3:a:lawn-login_project:lawn-login:*:*:*:*:*:*:*:*
 cpe:2.3:a:lawnchair:lawnchair:*:*:*:*:*:*:*:*
@@ -53692,6 +53698,7 @@ cpe:2.3:a:podpress_project:podpress:*:*:*:*:*:*:*:*
 cpe:2.3:a:pods_foundation:pods:*:*:*:*:*:*:*:*
 cpe:2.3:a:podsfoundation:pods:*:*:*:*:*:*:*:*
 cpe:2.3:a:poeditor:poeditor:*:*:*:*:*:*:*:*
+cpe:2.3:a:poesis:rhymix_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:poezio:poezio:*:*:*:*:*:*:*:*
 cpe:2.3:a:pogidude:magic_action_box:*:*:*:*:*:*:*:*
 cpe:2.3:a:poikosoft:ez_cd_audio_converter:*:*:*:*:*:*:*:*
@@ -61116,6 +61123,7 @@ cpe:2.3:a:shamimsplugins:front_end_pm:*:*:*:*:*:*:*:*
 cpe:2.3:a:shana:informed_designer:*:*:*:*:*:*:*:*
 cpe:2.3:a:shana:informed_filler:*:*:*:*:*:*:*:*
 cpe:2.3:a:shanda:maplestory_online:*:*:*:*:*:*:*:*
+cpe:2.3:a:shandong_hoteam:pdm_product_data_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:shanebp:bp_email_assign_templates:*:*:*:*:*:*:*:*
 cpe:2.3:a:shaneisrael:fireshare:*:*:*:*:*:*:*:*
 cpe:2.3:a:shanghai_brad_technology_bladex_project:shanghai_brad_technology_bladex:*:*:*:*:*:*:*:*
@@ -76869,6 +76877,7 @@ cpe:2.3:a:zoltan_milosevic:fluid_dynamics_search_engine:*:*:*:*:*:*:*:*
 cpe:2.3:a:zom:zom:*:*:*:*:*:*:*:*
 cpe:2.3:a:zomato_clone_script_project:zomato_clone_script:*:*:*:*:*:*:*:*
 cpe:2.3:a:zombie_detector_project:zombie_detector:*:*:*:*:*:*:*:*
+cpe:2.3:a:zombodroid:meme_generator_app:*:*:*:*:*:*:*:*
 cpe:2.3:a:zomp:zomplog:*:*:*:*:*:*:*:*
 cpe:2.3:a:zomplog:zomplog:*:*:*:*:*:*:*:*
 cpe:2.3:a:zonecheck:zonecheck:*:*:*:*:*:*:*:*
