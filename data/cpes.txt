@@ -38738,6 +38738,7 @@ cpe:2.3:a:live_for_speed:live_for_speed:*:*:*:*:*:*:*:*
 cpe:2.3:a:live_tv_browser_project:live_tv_browser:*:*:*:*:*:*:*:*
 cpe:2.3:a:liveaction:livesp:*:*:*:*:*:*:*:*
 cpe:2.3:a:liveauctions:liveauctions.tv:*:*:*:*:*:*:*:*
+cpe:2.3:a:livebook-dev:livebook:*:*:*:*:*:*:*:*
 cpe:2.3:a:livebook:livebook:*:*:*:*:*:*:*:*
 cpe:2.3:a:liveboxcloud:vdesk:*:*:*:*:*:*:*:*
 cpe:2.3:a:livecart:livecart:*:*:*:*:*:*:*:*
@@ -51243,7 +51244,7 @@ cpe:2.3:a:patrowl:patrowlmanager:*:*:*:*:*:*:*:*
 cpe:2.3:a:patsatech:sagepay_server_gateway_for_woocommerce:*:*:*:*:*:*:*:*
 cpe:2.3:a:patterninsight:pattern_insight:*:*:*:*:*:*:*:*
 cpe:2.3:a:patterns:patterns:*:*:*:*:*:*:*:*
-cpe:2.3:a:patternsinthecloud:autoship_cloud:*:*:*:*:*:*:*:*
+cpe:2.3:a:patternsinthecloud:autoship_cloud_for_woocommerce:*:*:*:*:*:*:*:*
 cpe:2.3:a:patterson_dental:eaglesoft:*:*:*:*:*:*:*:*
 cpe:2.3:a:pattersondental:eaglesoft:*:*:*:*:*:*:*:*
 cpe:2.3:a:pau_rodriguez:phpkrm:*:*:*:*:*:*:*:*
@@ -76350,6 +76351,7 @@ cpe:2.3:a:yuriy_v_semenikhin:yvs_image_gallery:*:*:*:*:*:*:*:*
 cpe:2.3:a:yurl_retwitt_project:yurl_retwitt:*:*:*:*:*:*:*:*
 cpe:2.3:a:yurunproxy_project:yurunproxy:*:*:*:*:*:*:*:*
 cpe:2.3:a:yusasp:web_asset_manager:*:*:*:*:*:*:*:*
+cpe:2.3:a:yushine:innoshop:*:*:*:*:*:*:*:*
 cpe:2.3:a:yuuichi_teranishi:eldav:*:*:*:*:*:*:*:*
 cpe:2.3:a:yuuki_yoshizawa:exporia:*:*:*:*:*:*:*:*
 cpe:2.3:a:yuzopro:yuzo:*:*:*:*:*:*:*:*
