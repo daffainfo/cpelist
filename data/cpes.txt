@@ -14577,6 +14577,7 @@ cpe:2.3:a:cosimo:net\:\:statsd:*:*:*:*:*:*:*:*
 cpe:2.3:a:cosmetics_and_beauty_product_online_store_project:cosmetics_and_beauty_product_online_store:*:*:*:*:*:*:*:*
 cpe:2.3:a:cosmicperl:directory_pro:*:*:*:*:*:*:*:*
 cpe:2.3:a:cosmicphp:cosmicshoppingcart:*:*:*:*:*:*:*:*
+cpe:2.3:a:cosmicstack-labs:mercury-agent:*:*:*:*:*:*:*:*
 cpe:2.3:a:cosmocms:cosmo:*:*:*:*:*:*:*:*
 cpe:2.3:a:cosmos-cloud:cosmos_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:cosmoshop:cosmoshop:*:*:*:*:*:*:*:*
@@ -45636,6 +45637,7 @@ cpe:2.3:a:netdave:webster_http_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:netdirect:shopengine:*:*:*:*:*:*:*:*
 cpe:2.3:a:netdisco:netdisco:*:*:*:*:*:*:*:*
 cpe:2.3:a:netdvr:neye3c:*:*:*:*:*:*:*:*
+cpe:2.3:a:netease-youdao:lobsterai:*:*:*:*:*:*:*:*
 cpe:2.3:a:netease:cloudmusic:*:*:*:*:*:*:*:*
 cpe:2.3:a:netease:neacsafe64:*:*:*:*:*:*:*:*
 cpe:2.3:a:netease:netease_cloudalbum:*:*:*:*:*:*:*:*
@@ -53697,6 +53699,7 @@ cpe:2.3:a:pocketmags:terrorizer_magazine:*:*:*:*:*:*:*:*
 cpe:2.3:a:pocketmags:wasps_official_programmes:*:*:*:*:*:*:*:*
 cpe:2.3:a:pocketmanga:smanga:*:*:*:*:*:*:*:*
 cpe:2.3:a:pocketpc:pocketpc.ch:*:*:*:*:*:*:*:*
+cpe:2.3:a:poco-ai:poco-agent:*:*:*:*:*:*:*:*
 cpe:2.3:a:poco-ai:poco-claw:*:*:*:*:*:*:*:*
 cpe:2.3:a:poco-z:guns-medial:*:*:*:*:*:*:*:*
 cpe:2.3:a:pocoo:babel:*:*:*:*:*:*:*:*
@@ -68283,6 +68286,7 @@ cpe:2.3:a:tiny_issue_project:tiny_issue:*:*:*:*:*:*:*:*
 cpe:2.3:a:tiny_java_web_server_project:tiny_java_web_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:tiny_portal:tiny_portal:*:*:*:*:*:*:*:*
 cpe:2.3:a:tiny_software:tiny_personal_firewall:*:*:*:*:*:*:*:*
+cpe:2.3:a:tinyagi:tinyagi:*:*:*:*:*:*:*:*
 cpe:2.3:a:tinyauth:tinyauth:*:*:*:*:*:*:*:*
 cpe:2.3:a:tinybb:tinybb:*:*:*:*:*:*:*:*
 cpe:2.3:a:tinybeans:private_family_album:*:*:*:*:*:*:*:*
