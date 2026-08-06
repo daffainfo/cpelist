@@ -25568,6 +25568,7 @@ cpe:2.3:a:google:web_designer:*:*:*:*:*:*:*:*
 cpe:2.3:a:google:web_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:google:web_stories:*:*:*:*:*:*:*:*
 cpe:2.3:a:google:web_toolkit:*:*:*:*:*:*:*:*
+cpe:2.3:a:google:workspace:*:*:*:*:*:*:*:*
 cpe:2.3:a:google:youtube_android_player_api:*:*:*:*:*:*:*:*
 cpe:2.3:a:google_adsense_project:google_adsense:*:*:*:*:*:*:*:*
 cpe:2.3:a:google_analytics_top_content_widget_project:google_analytics_top_content_widget:*:*:*:*:*:*:*:*
@@ -27001,6 +27002,7 @@ cpe:2.3:a:heroshare:hero_super_player_3000:*:*:*:*:*:*:*:*
 cpe:2.3:a:herosoft:hero_dvd_player:*:*:*:*:*:*:*:*
 cpe:2.3:a:herpin_time_radio_project:herpin_time_radio:*:*:*:*:*:*:*:*
 cpe:2.3:a:herry:sfpagent:*:*:*:*:*:*:*:*
+cpe:2.3:a:heshengtao:super-agent-party:*:*:*:*:*:*:*:*
 cpe:2.3:a:hesiod_project:hesiod:*:*:*:*:*:*:*:*
 cpe:2.3:a:hesk:hesk:*:*:*:*:*:*:*:*
 cpe:2.3:a:hessel_brouwer:php_visit_counter:*:*:*:*:*:*:*:*
@@ -37013,6 +37015,7 @@ cpe:2.3:a:koushik_dutta:superuser:*:*:*:*:*:*:*:*
 cpe:2.3:a:kovai:biztalk360:*:*:*:*:*:*:*:*
 cpe:2.3:a:kovidgoyal:calibre:*:*:*:*:*:*:*:*
 cpe:2.3:a:kovidgoyal:kitty:*:*:*:*:*:*:*:*
+cpe:2.3:a:koxudaxi:datamodel-code-generator:*:*:*:*:*:*:*:*
 cpe:2.3:a:koyo:h0-ecom100:*:*:*:*:*:*:*:*
 cpe:2.3:a:koyo:h0-ecom:*:*:*:*:*:*:*:*
 cpe:2.3:a:koyo:h2-ecom-f:*:*:*:*:*:*:*:*
@@ -37874,6 +37877,7 @@ cpe:2.3:a:letodms:letodms:*:*:*:*:*:*:*:*
 cpe:2.3:a:letodms_project:letodms:*:*:*:*:*:*:*:*
 cpe:2.3:a:letshare:world_cup_2014_brazil_-_xem_tv:*:*:*:*:*:*:*:*
 cpe:2.3:a:letsrecover_project:letsrecover:*:*:*:*:*:*:*:*
+cpe:2.3:a:letta-ai:lettabot:*:*:*:*:*:*:*:*
 cpe:2.3:a:letta:letta:*:*:*:*:*:*:*:*
 cpe:2.3:a:letterit:letterit:*:*:*:*:*:*:*:*
 cpe:2.3:a:letterman:letterman:*:*:*:*:*:*:*:*
@@ -41774,6 +41778,7 @@ cpe:2.3:a:microsoft:azure_ai_document_intelligence_studio:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_ai_face_service:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_ai_foundry:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_ai_search:*:*:*:*:*:*:*:*
+cpe:2.3:a:microsoft:azure_app_service_for_linux:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_app_service_on_azure_stack:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_application_gateway:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_arc-enabled_kubernetes:*:*:*:*:*:*:*:*
@@ -42435,6 +42440,7 @@ cpe:2.3:a:microsoft:sql_server_reporting_services:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:sql_srv:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:step-by-step_interactive_training:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:subsystem_for_unix-based_applications:*:*:*:*:*:*:*:*
+cpe:2.3:a:microsoft:surface_management_services:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:symcrypt:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:sysinternals:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:sysinternals_debugview:*:*:*:*:*:*:*:*
@@ -69453,6 +69459,7 @@ cpe:2.3:a:ttnetmuzik:ttnet_muzik:*:*:*:*:*:*:*:*
 cpe:2.3:a:ttpsc:the_scheduler:*:*:*:*:*:*:*:*
 cpe:2.3:a:ttrrs-auth-ldap_project:ttrrs-auth-ldap:*:*:*:*:*:*:*:*
 cpe:2.3:a:ttsplanning:ttsplanning:*:*:*:*:*:*:*:*
+cpe:2.3:a:ttttonyhe:oblog:*:*:*:*:*:*:*:*
 cpe:2.3:a:ttxn:file_transfer_anywhere:*:*:*:*:*:*:*:*
 cpe:2.3:a:ttyd_project:ttyd:*:*:*:*:*:*:*:*
 cpe:2.3:a:tu-braunschweig:libsmi:*:*:*:*:*:*:*:*
@@ -75831,6 +75838,7 @@ cpe:2.3:a:yajl_project:yajl:*:*:*:*:*:*:*:*
 cpe:2.3:a:yaklang:yaklang:*:*:*:*:*:*:*:*
 cpe:2.3:a:yalantis:ucrop:*:*:*:*:*:*:*:*
 cpe:2.3:a:yalehome:yale_bluetooth_key:*:*:*:*:*:*:*:*
+cpe:2.3:a:yamadashy:repomix:*:*:*:*:*:*:*:*
 cpe:2.3:a:yamaguchi:shingo_beep2:*:*:*:*:*:*:*:*
 cpe:2.3:a:yamaha:midiplug:*:*:*:*:*:*:*:*
 cpe:2.3:a:yamaha:router:*:*:*:*:*:*:*:*
