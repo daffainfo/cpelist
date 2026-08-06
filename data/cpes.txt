@@ -1312,6 +1312,7 @@ cpe:2.3:a:addsoft:storebot:*:*:*:*:*:*:*:*
 cpe:2.3:a:addthis:addthis:*:*:*:*:*:*:*:*
 cpe:2.3:a:addtoany:addtoany_share_buttons:*:*:*:*:*:*:*:*
 cpe:2.3:a:adeelraza:gixaw_chat:*:*:*:*:*:*:*:*
+cpe:2.3:a:ademarco:ui_patterns:*:*:*:*:*:*:*:*
 cpe:2.3:a:adempiere:adempiere:*:*:*:*:*:*:*:*
 cpe:2.3:a:adempiere:bazaar:*:*:*:*:*:*:*:*
 cpe:2.3:a:adenhq:hive:*:*:*:*:*:*:*:*
@@ -2780,6 +2781,7 @@ cpe:2.3:a:altenergy:power_control_software:*:*:*:*:*:*:*:*
 cpe:2.3:a:altercoder:acg_news:*:*:*:*:*:*:*:*
 cpe:2.3:a:alternate-tools:alternate_pic_view:*:*:*:*:*:*:*:*
 cpe:2.3:a:alternative_connection_project:alternative_connection:*:*:*:*:*:*:*:*
+cpe:2.3:a:alternativecommerce:alternativecommerce:*:*:*:*:*:*:*:*
 cpe:2.3:a:alternc:alternc:*:*:*:*:*:*:*:*
 cpe:2.3:a:alterpoint:logwatch:*:*:*:*:*:*:*:*
 cpe:2.3:a:alterpoint:networkauthority:*:*:*:*:*:*:*:*
@@ -3787,6 +3789,7 @@ cpe:2.3:a:antsword_redis_project:antsword_redis:*:*:*:*:*:*:*:*
 cpe:2.3:a:antti_alamki:prh_search:*:*:*:*:*:*:*:*
 cpe:2.3:a:antv:layout:*:*:*:*:*:*:*:*
 cpe:2.3:a:antville:antville:*:*:*:*:*:*:*:*
+cpe:2.3:a:anuaralfetahe:advanced_content_feedback:*:*:*:*:*:*:*:*
 cpe:2.3:a:anuj_kumar:daily_expenses_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:anujk305:bus_pass_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:anujk305:daily_expense_tracker:*:*:*:*:*:*:*:*
@@ -4139,6 +4142,7 @@ cpe:2.3:a:apache:log4net:*:*:*:*:*:*:*:*
 cpe:2.3:a:apache:lucene.net:*:*:*:*:*:*:*:*
 cpe:2.3:a:apache:lucene:*:*:*:*:*:*:*:*
 cpe:2.3:a:apache:lucene_replicator:*:*:*:*:*:*:*:*
+cpe:2.3:a:apache:lucy:*:*:*:*:*:*:*:*
 cpe:2.3:a:apache:manifoldcf:*:*:*:*:*:*:*:*
 cpe:2.3:a:apache:maven:*:*:*:*:*:*:*:*
 cpe:2.3:a:apache:maven_archetype:*:*:*:*:*:*:*:*
@@ -8380,7 +8384,7 @@ cpe:2.3:a:bmc:control-m\/enterprise_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:bmc:control-m\/forecast:*:*:*:*:*:*:*:*
 cpe:2.3:a:bmc:control-m\/managed_file_transfer:*:*:*:*:*:*:*:*
 cpe:2.3:a:bmc:control-m\/server:*:*:*:*:*:*:*:*
-cpe:2.3:a:bmc:footprints_itsm:*:*:*:*:*:*:*:*
+cpe:2.3:a:bmc:footprints:*:*:*:*:*:*:*:*
 cpe:2.3:a:bmc:footprints_service_core:*:*:*:*:*:*:*:*
 cpe:2.3:a:bmc:guardian_angel:*:*:*:*:*:*:*:*
 cpe:2.3:a:bmc:identity_management_suite:*:*:*:*:*:*:*:*
@@ -10738,6 +10742,7 @@ cpe:2.3:a:cemtan:sar2html:*:*:*:*:*:*:*:*
 cpe:2.3:a:ceneo-web-scrapper_project:ceneo-web-scrapper:*:*:*:*:*:*:*:*
 cpe:2.3:a:censorify.tanisjr_project:censorify.tanisjr:*:*:*:*:*:*:*:*
 cpe:2.3:a:censura:censura:*:*:*:*:*:*:*:*
+cpe:2.3:a:centarro:commerce_core:*:*:*:*:*:*:*:*
 cpe:2.3:a:cente:ipv4:*:*:*:*:*:*:*:*
 cpe:2.3:a:cente:ipv4snmpv2:*:*:*:*:*:*:*:*
 cpe:2.3:a:cente:ipv4snmpv3:*:*:*:*:*:*:*:*
@@ -15568,6 +15573,7 @@ cpe:2.3:a:daj:i-filter:*:*:*:*:*:*:*:*
 cpe:2.3:a:daj:i-filter_browser_\&_cloud_multiagent:*:*:*:*:*:*:*:*
 cpe:2.3:a:daj:i-filter_installer:*:*:*:*:*:*:*:*
 cpe:2.3:a:daj:m-filter:*:*:*:*:*:*:*:*
+cpe:2.3:a:dakku:tealium_iq_tag_management:*:*:*:*:*:*:*:*
 cpe:2.3:a:dakshaa:neeku_naaku_dash_dash:*:*:*:*:*:*:*:*
 cpe:2.3:a:dalbum:dalbum:*:*:*:*:*:*:*:*
 cpe:2.3:a:dale_mooney:calendar_events:*:*:*:*:*:*:*:*
@@ -17871,6 +17877,7 @@ cpe:2.3:a:doow:doow:*:*:*:*:*:*:*:*
 cpe:2.3:a:dopewars:dopewars:*:*:*:*:*:*:*:*
 cpe:2.3:a:dopewp:bbe_theme:*:*:*:*:*:*:*:*
 cpe:2.3:a:dopnetwork_project:dopnetwork:*:*:*:*:*:*:*:*
+cpe:2.3:a:dopry:geolocation_field:*:*:*:*:*:*:*:*
 cpe:2.3:a:dora_emlak:dora_emlak:*:*:*:*:*:*:*:*
 cpe:2.3:a:dormsystem_project:dormsystem:*:*:*:*:*:*:*:*
 cpe:2.3:a:dorsettcontrols:infoscan:*:*:*:*:*:*:*:*
@@ -21857,6 +21864,7 @@ cpe:2.3:a:favorites-web_project:favorites-web:*:*:*:*:*:*:*:*
 cpe:2.3:a:favorites_project:favorites:*:*:*:*:*:*:*:*
 cpe:2.3:a:faxtalk:faxtalk_communicator:*:*:*:*:*:*:*:*
 cpe:2.3:a:faye-websocket_project:faye-websocket:*:*:*:*:*:*:*:*
+cpe:2.3:a:faye:websocket-driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:faye_project:faye:*:*:*:*:*:*:*:*
 cpe:2.3:a:faz:faz.net:*:*:*:*:*:*:*:*
 cpe:2.3:a:fazecast:jserialcomm:*:*:*:*:*:*:*:*
@@ -26405,6 +26413,7 @@ cpe:2.3:a:hancom:office_word:*:*:*:*:*:*:*:*
 cpe:2.3:a:hancom:thinkfree_office_neo:*:*:*:*:*:*:*:*
 cpe:2.3:a:handcent:nextcms:*:*:*:*:*:*:*:*
 cpe:2.3:a:handcoders:content_module:*:*:*:*:*:*:*:*
+cpe:2.3:a:handkerchief:location_selector:*:*:*:*:*:*:*:*
 cpe:2.3:a:handlebars.js_project:handlebars.js:*:*:*:*:*:*:*:*
 cpe:2.3:a:handlebarsjs:handlebars:*:*:*:*:*:*:*:*
 cpe:2.3:a:handnot2:esaml:*:*:*:*:*:*:*:*
@@ -31010,6 +31019,7 @@ cpe:2.3:a:ijoomla:com_magazine:*:*:*:*:*:*:*:*
 cpe:2.3:a:ijoomla:com_news_portal:*:*:*:*:*:*:*:*
 cpe:2.3:a:ijoomla:com_rssfeeder:*:*:*:*:*:*:*:*
 cpe:2.3:a:ijoomla:guru:*:*:*:*:*:*:*:*
+cpe:2.3:a:ijsbrandy:siteimprove_analytics:*:*:*:*:*:*:*:*
 cpe:2.3:a:ikalka_rss_reader_project:ikalka_rss_reader:*:*:*:*:*:*:*:*
 cpe:2.3:a:ikarus:ikarus_antivirus:*:*:*:*:*:*:*:*
 cpe:2.3:a:ikarus:ikarus_virus_utilities_t3_command_line_scanner:*:*:*:*:*:*:*:*
@@ -33436,6 +33446,7 @@ cpe:2.3:a:j-breuer:frontend_checklist:*:*:*:*:*:*:*:*
 cpe:2.3:a:j-lis:the_public_certification_service_for_individuals:*:*:*:*:*:*:*:*
 cpe:2.3:a:j-owamp:web_interface:*:*:*:*:*:*:*:*
 cpe:2.3:a:j-pierre_dezelus:les_visiteurs:*:*:*:*:*:*:*:*
+cpe:2.3:a:j-vee:ai_seo\/geo_analyzer:*:*:*:*:*:*:*:*
 cpe:2.3:a:j._p._grossman:proquake:*:*:*:*:*:*:*:*
 cpe:2.3:a:j00lean-cms:j00lean-cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:j11g:cruddiy:*:*:*:*:*:*:*:*
@@ -35780,6 +35791,7 @@ cpe:2.3:a:jupyterhub:systemdspawner:*:*:*:*:*:*:*:*
 cpe:2.3:a:juqingcms:juqingcms:*:*:*:*:*:*:*:*
 cpe:2.3:a:juracapecoffee:internet_connectivity_kit:*:*:*:*:*:*:*:*
 cpe:2.3:a:juralsulek:realurlmanagement:*:*:*:*:*:*:*:*
+cpe:2.3:a:jurgenhaas:eca\:_event_-_condition_-_action:*:*:*:*:*:*:*:*
 cpe:2.3:a:jurpo:jurpopage:*:*:*:*:*:*:*:*
 cpe:2.3:a:jurre_de_klijn:wux_blog_editor:*:*:*:*:*:*:*:*
 cpe:2.3:a:jusapp:jusapp\!:*:*:*:*:*:*:*:*
@@ -36730,6 +36742,7 @@ cpe:2.3:a:kingsoftsecurity:kingsoft_antivirus:*:*:*:*:*:*:*:*
 cpe:2.3:a:kingsoftstore:kingsoft_wps_office:*:*:*:*:*:*:*:*
 cpe:2.3:a:kingsoftstore:wps_office_free:*:*:*:*:*:*:*:*
 cpe:2.3:a:kingstemple:the_king\'s_temple_church_website:*:*:*:*:*:*:*:*
+cpe:2.3:a:kino-kafkaesque:ssh-mcp-server:*:*:*:*:*:*:*:*
 cpe:2.3:a:kinsey:infor-lawson:*:*:*:*:*:*:*:*
 cpe:2.3:a:kinson_chan_charray:cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:kiosklogix:designerpro:*:*:*:*:*:*:*:*
@@ -37643,6 +37656,7 @@ cpe:2.3:a:leejet:stable-diffusion.cpp:*:*:*:*:*:*:*:*
 cpe:2.3:a:leenk:leenk.me:*:*:*:*:*:*:*:*
 cpe:2.3:a:leeoniya:uplot:*:*:*:*:*:*:*:*
 cpe:2.3:a:leepeuker:movary:*:*:*:*:*:*:*:*
+cpe:2.3:a:leesinliang:godot-mcp:*:*:*:*:*:*:*:*
 cpe:2.3:a:leevio:happy_addons_for_elementor:*:*:*:*:*:*:*:*
 cpe:2.3:a:lef_project:lef:*:*:*:*:*:*:*:*
 cpe:2.3:a:left_project:left:*:*:*:*:*:*:*:*
@@ -38388,6 +38402,7 @@ cpe:2.3:a:linecorp:uomasa_saiji_new:*:*:*:*:*:*:*:*
 cpe:2.3:a:linen:linen:*:*:*:*:*:*:*:*
 cpe:2.3:a:linglong_project:linglong:*:*:*:*:*:*:*:*
 cpe:2.3:a:lingotek:lingotek:*:*:*:*:*:*:*:*
+cpe:2.3:a:lingotek:ray_enterprise_translation:*:*:*:*:*:*:*:*
 cpe:2.3:a:lingx:downloadcenter:*:*:*:*:*:*:*:*
 cpe:2.3:a:lingx:page_engine_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:lingxia273:lingxia_i.c.e_cms:*:*:*:*:*:*:*:*
@@ -38861,6 +38876,7 @@ cpe:2.3:a:lobster-world:lobster_pro:*:*:*:*:*:*:*:*
 cpe:2.3:a:local_calendar_system:local_calendar_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:local_service_search_engine_management_system_project:local_service_search_engine_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:local_services_search_engine_management_system_project:local_services_search_engine_management_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:localgovdrupal:localgov_workflows:*:*:*:*:*:*:*:*
 cpe:2.3:a:localhost-now_project:localhost-now:*:*:*:*:*:*:*:*
 cpe:2.3:a:localhostlabs:karakeep:*:*:*:*:*:*:*:*
 cpe:2.3:a:localization_manager_project:localization_manager:*:*:*:*:*:*:*:*
@@ -40187,6 +40203,7 @@ cpe:2.3:a:markdown-electron_project:markdown-electron:*:*:*:*:*:*:*:*
 cpe:2.3:a:markdown-it-decorate_project:markdown-it-decorate:*:*:*:*:*:*:*:*
 cpe:2.3:a:markdown-it-highlightjs_project:markdown-it-highlightjs:*:*:*:*:*:*:*:*
 cpe:2.3:a:markdown-it-toc_project:markdown-it-toc:*:*:*:*:*:*:*:*
+cpe:2.3:a:markdown-it:linkify-it:*:*:*:*:*:*:*:*
 cpe:2.3:a:markdown-it_project:markdown-it:*:*:*:*:*:*:*:*
 cpe:2.3:a:markdown-link-extractor_project:markdown-link-extractor:*:*:*:*:*:*:*:*
 cpe:2.3:a:markdown-pdf_project:markdown-pdf:*:*:*:*:*:*:*:*
@@ -43095,6 +43112,7 @@ cpe:2.3:a:misp_project:misp:*:*:*:*:*:*:*:*
 cpe:2.3:a:missimx:msxadvanced:*:*:*:*:*:*:*:*
 cpe:2.3:a:missionlabs:smartagent:*:*:*:*:*:*:*:*
 cpe:2.3:a:missionmike:simple_share:*:*:*:*:*:*:*:*
+cpe:2.3:a:missionsquad:mcp-api:*:*:*:*:*:*:*:*
 cpe:2.3:a:misskey:misskey:*:*:*:*:*:*:*:*
 cpe:2.3:a:misskey:summaly:*:*:*:*:*:*:*:*
 cpe:2.3:a:misstt123:oasys:*:*:*:*:*:*:*:*
@@ -43584,6 +43602,7 @@ cpe:2.3:a:mohammed-eid35:bank-management-system-springboot:*:*:*:*:*:*:*:*
 cpe:2.3:a:mohammed_mehdi_panjwani:complain_center:*:*:*:*:*:*:*:*
 cpe:2.3:a:mohammed_sameer:multi-gnome-terminal:*:*:*:*:*:*:*:*
 cpe:2.3:a:mohanjith:web_invoice:*:*:*:*:*:*:*:*
+cpe:2.3:a:mohibshaikh:clawvet:*:*:*:*:*:*:*:*
 cpe:2.3:a:mohsin_rasool:paypal_pay_now_buy_now_donation_and_cart_buttons_shortcode:*:*:*:*:*:*:*:*
 cpe:2.3:a:mohsinrasool:full_screen_\(page\)_background_image_slideshow:*:*:*:*:*:*:*:*
 cpe:2.3:a:mohsinrasool:paypal_pay_now\,_buy_now\,_donation_and_cart_buttons_shortcode:*:*:*:*:*:*:*:*
@@ -43748,6 +43767,7 @@ cpe:2.3:a:monolith_productions:no_one_lives_forever_2:*:*:*:*:*:*:*:*
 cpe:2.3:a:monolith_productions:sanity:*:*:*:*:*:*:*:*
 cpe:2.3:a:monolith_productions:shogo:*:*:*:*:*:*:*:*
 cpe:2.3:a:monolith_productions:tron:*:*:*:*:*:*:*:*
+cpe:2.3:a:monomythdevelopment:la-forge-mcp:*:*:*:*:*:*:*:*
 cpe:2.3:a:mononabank:middleton_community_bank_mobile:*:*:*:*:*:*:*:*
 cpe:2.3:a:monopd:monopd:*:*:*:*:*:*:*:*
 cpe:2.3:a:monopd_project:monopd:*:*:*:*:*:*:*:*
@@ -46598,6 +46618,7 @@ cpe:2.3:a:nocc:nocc:*:*:*:*:*:*:*:*
 cpe:2.3:a:nocean:totop_link:*:*:*:*:*:*:*:*
 cpe:2.3:a:nocobase:nocobase:*:*:*:*:*:*:*:*
 cpe:2.3:a:nocodb:nocodb:*:*:*:*:*:*:*:*
+cpe:2.3:a:noctedefensor:ludusmcp:*:*:*:*:*:*:*:*
 cpe:2.3:a:nodau_project:nodau:*:*:*:*:*:*:*:*
 cpe:2.3:a:nodcms:nodcms:*:*:*:*:*:*:*:*
 cpe:2.3:a:node-air-sdk_project:node-air-sdk:*:*:*:*:*:*:*:*
@@ -48333,6 +48354,7 @@ cpe:2.3:a:openafs:openafs:*:*:*:*:*:*:*:*
 cpe:2.3:a:openagentplatform:dive:*:*:*:*:*:*:*:*
 cpe:2.3:a:openai:chatgpt:*:*:*:*:*:*:*:*
 cpe:2.3:a:openai:operator:*:*:*:*:*:*:*:*
+cpe:2.3:a:openai_provider_project:openai_provider:*:*:*:*:*:*:*:*
 cpe:2.3:a:openairinterface:cn5g_amf:*:*:*:*:*:*:*:*
 cpe:2.3:a:openairinterface:magma:*:*:*:*:*:*:*:*
 cpe:2.3:a:openairinterface:oai-cn5g-amf:*:*:*:*:*:*:*:*
@@ -49120,6 +49142,7 @@ cpe:2.3:a:oracle:10g_enterprise_manager_grid_control:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:10g_reports_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:access_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:adaptive_access_manager:*:*:*:*:*:*:*:*
+cpe:2.3:a:oracle:advanced_benefits:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:advanced_collections:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:advanced_inbound_telephony:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:advanced_networking_option:*:*:*:*:*:*:*:*
@@ -49175,6 +49198,7 @@ cpe:2.3:a:oracle:audit_vault:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:audit_vault_and_database_firewall:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:authentication_component:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:automatic_service_request:*:*:*:*:*:*:*:*
+cpe:2.3:a:oracle:autonomous_health_framework:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:autovue:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:autovue_3d_professional_advanced:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:autovue_for_agile_product_lifecycle_management:*:*:*:*:*:*:*:*
@@ -49224,6 +49248,7 @@ cpe:2.3:a:oracle:business_intelligence_publisher:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:business_process_management_suite:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:business_transaction_management:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:cadview-3d:*:*:*:*:*:*:*:*
+cpe:2.3:a:oracle:capacity:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:cash_management:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:category_management_planning_\&_optimization:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:clinical:*:*:*:*:*:*:*:*
@@ -49312,6 +49337,7 @@ cpe:2.3:a:oracle:communications_pricing_design_center:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:communications_security_gateway:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:communications_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:communications_service_broker:*:*:*:*:*:*:*:*
+cpe:2.3:a:oracle:communications_service_catalog_and_design:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:communications_services_gatekeeper:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:communications_session_boarder_controller:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:communications_session_border_controller:*:*:*:*:*:*:*:*
@@ -49349,6 +49375,7 @@ cpe:2.3:a:oracle:customer_interaction_history:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:customer_management_and_segmentation_foundation:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:customer_relationship_management_gateway_for_mobile_devices:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:customer_relationship_management_technical_foundation:*:*:*:*:*:*:*:*
+cpe:2.3:a:oracle:customer_support:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:customers_online:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:data_integrator:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:data_masking_and_subsetting:*:*:*:*:*:*:*:*
@@ -49660,7 +49687,9 @@ cpe:2.3:a:oracle:javafx:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:javase:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:jd_edwards_enterpriseone:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:jd_edwards_enterpriseone_accounts_payable:*:*:*:*:*:*:*:*
+cpe:2.3:a:oracle:jd_edwards_enterpriseone_advanced_pricing_-_procurement:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:jd_edwards_enterpriseone_configurator:*:*:*:*:*:*:*:*
+cpe:2.3:a:oracle:jd_edwards_enterpriseone_crm_foundation:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:jd_edwards_enterpriseone_ep:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:jd_edwards_enterpriseone_general_ledger:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:jd_edwards_enterpriseone_global_order_promising:*:*:*:*:*:*:*:*
@@ -49669,6 +49698,8 @@ cpe:2.3:a:oracle:jd_edwards_enterpriseone_human_resources_management:*:*:*:*:*:*
 cpe:2.3:a:oracle:jd_edwards_enterpriseone_job_cost:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:jd_edwards_enterpriseone_orchestrator:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:jd_edwards_enterpriseone_procurement_and_subcontract_management:*:*:*:*:*:*:*:*
+cpe:2.3:a:oracle:jd_edwards_enterpriseone_requirements_planning:*:*:*:*:*:*:*:*
+cpe:2.3:a:oracle:jd_edwards_enterpriseone_solution_advisor:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:jd_edwards_enterpriseone_tools:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:jd_edwards_products:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:jd_edwards_world_security:*:*:*:*:*:*:*:*
@@ -49730,6 +49761,7 @@ cpe:2.3:a:oracle:mysql:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:mysql_client:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:mysql_cluster:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:mysql_connector\/c:*:*:*:*:*:*:*:*
+cpe:2.3:a:oracle:mysql_connector\/c\+\+:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:mysql_connector\/j:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:mysql_connector\/net:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:mysql_connector\/odbc:*:*:*:*:*:*:*:*
@@ -49804,6 +49836,7 @@ cpe:2.3:a:oracle:peoplesoft_enterprise_campus_software_campus_community:*:*:*:*:
 cpe:2.3:a:oracle:peoplesoft_enterprise_cc_common_application_objects:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_enterprise_common_components:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_enterprise_cost_center_common_application_objects:*:*:*:*:*:*:*:*
+cpe:2.3:a:oracle:peoplesoft_enterprise_crm_common_objects:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_enterprise_cs_academic_advisement:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_enterprise_cs_campus:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_enterprise_cs_campus_community:*:*:*:*:*:*:*:*
@@ -49820,16 +49853,23 @@ cpe:2.3:a:oracle:peoplesoft_enterprise_fin_billing_argentina:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_enterprise_fin_cash_management:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_enterprise_fin_common_objects:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_enterprise_fin_contracts:*:*:*:*:*:*:*:*
+cpe:2.3:a:oracle:peoplesoft_enterprise_fin_engineering_argentina:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_enterprise_fin_esettlements:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_enterprise_fin_expenses:*:*:*:*:*:*:*:*
+cpe:2.3:a:oracle:peoplesoft_enterprise_fin_general_ledger_argentina:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_enterprise_fin_grants:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_enterprise_fin_install:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_enterprise_fin_it_asset_management:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_enterprise_fin_maintenance_management:*:*:*:*:*:*:*:*
+cpe:2.3:a:oracle:peoplesoft_enterprise_fin_manufacturing_argentina:*:*:*:*:*:*:*:*
+cpe:2.3:a:oracle:peoplesoft_enterprise_fin_manufacturing_brazil:*:*:*:*:*:*:*:*
+cpe:2.3:a:oracle:peoplesoft_enterprise_fin_pay\/bill_management:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_enterprise_fin_payables:*:*:*:*:*:*:*:*
+cpe:2.3:a:oracle:peoplesoft_enterprise_fin_program_management:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_enterprise_fin_project_costing:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_enterprise_fin_receivables:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_enterprise_fin_staffing_front_office:*:*:*:*:*:*:*:*
+cpe:2.3:a:oracle:peoplesoft_enterprise_fin_staffing_front_office_brazil:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_enterprise_fms:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_enterprise_fscm:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_enterprise_hcm_benefits_administration:*:*:*:*:*:*:*:*
@@ -49863,6 +49903,9 @@ cpe:2.3:a:oracle:peoplesoft_enterprise_pt_peopletools:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_enterprise_scm:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_enterprise_scm_eprocurement:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_enterprise_scm_esupplier_connection:*:*:*:*:*:*:*:*
+cpe:2.3:a:oracle:peoplesoft_enterprise_scm_inventory:*:*:*:*:*:*:*:*
+cpe:2.3:a:oracle:peoplesoft_enterprise_scm_manufacturing:*:*:*:*:*:*:*:*
+cpe:2.3:a:oracle:peoplesoft_enterprise_scm_mobile_inventory_management:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_enterprise_scm_order_management:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_enterprise_scm_purchasing:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_enterprise_scm_services_procurement:*:*:*:*:*:*:*:*
@@ -49873,6 +49916,7 @@ cpe:2.3:a:oracle:peoplesoft_enterprise_supply_chain_management_services_procurem
 cpe:2.3:a:oracle:peoplesoft_enterprise_tools:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_hcm_eperformance:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_human_resource_management_systems:*:*:*:*:*:*:*:*
+cpe:2.3:a:oracle:peoplesoft_in-memory_project_discovery:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_peopletools:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_peopletools_component:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_products:*:*:*:*:*:*:*:*
@@ -49911,6 +49955,7 @@ cpe:2.3:a:oracle:production_scheduling:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:project_contracts:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:project_costing:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:project_foundation:*:*:*:*:*:*:*:*
+cpe:2.3:a:oracle:project_intelligence:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:project_manufacturing:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:project_portfolio_analysis:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:projects:*:*:*:*:*:*:*:*
@@ -49996,6 +50041,7 @@ cpe:2.3:a:oracle:retail_xstore_payment:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:retail_xstore_point_of_service:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:revenue_management_and_billing:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:right_now_service_cloud:*:*:*:*:*:*:*:*
+cpe:2.3:a:oracle:risk_management:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:sales_for_handhelds:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:sales_offline:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:scheduler:*:*:*:*:*:*:*:*
@@ -50014,6 +50060,7 @@ cpe:2.3:a:oracle:service_architecture_leveraging_tuxedo:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:service_bus:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:service_contracts:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:service_delivery_platform:*:*:*:*:*:*:*:*
+cpe:2.3:a:oracle:service_delivery_platform_number_portability:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:service_fulfillment_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:service_intelligence:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:services_tools_bundle:*:*:*:*:*:*:*:*
@@ -50145,6 +50192,7 @@ cpe:2.3:a:oracle:vm_virtualbox:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:vrtsodm:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:vrtsvxfs:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:warehouse_builder:*:*:*:*:*:*:*:*
+cpe:2.3:a:oracle:warehouse_management:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:web_analytics:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:web_applications_desktop_integrator:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:web_cache:*:*:*:*:*:*:*:*
@@ -57519,6 +57567,7 @@ cpe:2.3:a:rezo-zero:roadiz_core-bundle-dev-app:*:*:*:*:*:*:*:*
 cpe:2.3:a:rezo-zero:roadiz_documents:*:*:*:*:*:*:*:*
 cpe:2.3:a:rfaah:cars-vehicles_script:*:*:*:*:*:*:*:*
 cpe:2.3:a:rfactor:rfactor:*:*:*:*:*:*:*:*
+cpe:2.3:a:rfay:examples_for_developers:*:*:*:*:*:*:*:*
 cpe:2.3:a:rfc6902_project:rfc6902:*:*:*:*:*:*:*:*
 cpe:2.3:a:rgallery:rgallery_plugin:*:*:*:*:*:*:*:*
 cpe:2.3:a:rgb-rust_project:rgb-rust:*:*:*:*:*:*:*:*
@@ -58493,6 +58542,7 @@ cpe:2.3:a:rportal:rportal:*:*:*:*:*:*:*:*
 cpe:2.3:a:rpyc_project:rpyc:*:*:*:*:*:*:*:*
 cpe:2.3:a:rrdbrowse:rrdbrowse:*:*:*:*:*:*:*:*
 cpe:2.3:a:rrdtool_project:rrdtool:*:*:*:*:*:*:*:*
+cpe:2.3:a:rrrene:html_sanitize_ex:*:*:*:*:*:*:*:*
 cpe:2.3:a:rrtoken_project:rrtoken:*:*:*:*:*:*:*:*
 cpe:2.3:a:rrwo:net\:\:cidr\:\:set:*:*:*:*:*:*:*:*
 cpe:2.3:a:rrwo:text\:\:minify\:\:xs:*:*:*:*:*:*:*:*
@@ -64643,6 +64693,7 @@ cpe:2.3:a:steinberg:mymp3pro:*:*:*:*:*:*:*:*
 cpe:2.3:a:steindom:contact_save:*:*:*:*:*:*:*:*
 cpe:2.3:a:steipete:summarize:*:*:*:*:*:*:*:*
 cpe:2.3:a:stelian:pop_dump:*:*:*:*:*:*:*:*
+cpe:2.3:a:stella:commerce_realex_\/_global_payments:*:*:*:*:*:*:*:*
 cpe:2.3:a:stellar-group:hpx:*:*:*:*:*:*:*:*
 cpe:2.3:a:stellar-x_software:msntauth:*:*:*:*:*:*:*:*
 cpe:2.3:a:stellar:freighter:*:*:*:*:*:*:*:*
@@ -68239,6 +68290,7 @@ cpe:2.3:a:timhillone:h264webcam:*:*:*:*:*:*:*:*
 cpe:2.3:a:timidity\+\+_project:timidity\+\+:*:*:*:*:*:*:*:*
 cpe:2.3:a:timlegge:crypt\:\:nacl\:\:sodium:*:*:*:*:*:*:*:*
 cpe:2.3:a:timlegge:crypt\:\:random:*:*:*:*:*:*:*:*
+cpe:2.3:a:timlegge:net\:\:saml2:*:*:*:*:*:*:*:*
 cpe:2.3:a:timm_maass:alice_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:timmystudios:change_color_of_keypad:*:*:*:*:*:*:*:*
 cpe:2.3:a:timmystudios:fast_typing_keyboard:*:*:*:*:*:*:*:*
@@ -71324,6 +71376,7 @@ cpe:2.3:a:victor_freitas:wpupper_share_buttons:*:*:*:*:*:*:*:*
 cpe:2.3:a:victoralagwu:cmssite:*:*:*:*:*:*:*:*
 cpe:2.3:a:victorcms_project:victorcms:*:*:*:*:*:*:*:*
 cpe:2.3:a:victorfreitas:wpupper_share_buttons:*:*:*:*:*:*:*:*
+cpe:2.3:a:victorkane:salesforce_suite:*:*:*:*:*:*:*:*
 cpe:2.3:a:victory_media_llc:zynith:*:*:*:*:*:*:*:*
 cpe:2.3:a:victure:pc420_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:a:vidalia-project:vidalia_bundle:*:*:*:*:*:*:*:*
@@ -73658,6 +73711,7 @@ cpe:2.3:a:wishlist_member:wishlist_member_x:*:*:*:*:*:*:*:*
 cpe:2.3:a:wishlist_project:wishlist:*:*:*:*:*:*:*:*
 cpe:2.3:a:wishlistmember:wishlist_member:*:*:*:*:*:*:*:*
 cpe:2.3:a:wishlistmember:wishlist_member_x:*:*:*:*:*:*:*:*
+cpe:2.3:a:wiss-ki:wisski:*:*:*:*:*:*:*:*
 cpe:2.3:a:wistron:tbt_force_power_cpntrol:*:*:*:*:*:*:*:*
 cpe:2.3:a:witchakorn_kamolpornwijit:com_facebook:*:*:*:*:*:*:*:*
 cpe:2.3:a:witcustomcontrols:witcustomcontrols:*:*:*:*:*:*:*:*
@@ -73786,6 +73840,7 @@ cpe:2.3:a:wondershare:recoverit:*:*:*:*:*:*:*:*
 cpe:2.3:a:wondershare:repairit:*:*:*:*:*:*:*:*
 cpe:2.3:a:wondershare:uniconverter:*:*:*:*:*:*:*:*
 cpe:2.3:a:wondershare_pdf_reader:wondershare_pdf_reader:*:*:*:*:*:*:*:*
+cpe:2.3:a:wondertrader:wondertrader:*:*:*:*:*:*:*:*
 cpe:2.3:a:wonderware:intouch:*:*:*:*:*:*:*:*
 cpe:2.3:a:wonderware:suitelink:*:*:*:*:*:*:*:*
 cpe:2.3:a:wonderwhy-er:desktopcommandermcp:*:*:*:*:*:*:*:*
@@ -77018,6 +77073,7 @@ cpe:2.3:a:zpanelcp:zpanel:*:*:*:*:*:*:*:*
 cpe:2.3:a:zpecoin_project:zpecoin:*:*:*:*:*:*:*:*
 cpe:2.3:a:zrlog:zrlog:*:*:*:*:*:*:*:*
 cpe:2.3:a:zroadster:zroadster.com:*:*:*:*:*:*:*:*
+cpe:2.3:a:zroger:formatter_field:*:*:*:*:*:*:*:*
 cpe:2.3:a:zsadmin2025:zs-admin:*:*:*:*:*:*:*:*
 cpe:2.3:a:zscaler:client_connector:*:*:*:*:*:*:*:*
 cpe:2.3:a:zscaler:secure_internet_and_saas_access:*:*:*:*:*:*:*:*
@@ -137564,6 +137620,7 @@ cpe:2.3:h:tp-link:archer_nx500:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:archer_nx600:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:archer_re605x:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:archer_vr1600v:*:*:*:*:*:*:*:*
+cpe:2.3:h:tp-link:archer_vx1800v:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:ax10:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:beam_bridge_5_ur:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:c20i:*:*:*:*:*:*:*:*
@@ -137571,6 +137628,7 @@ cpe:2.3:h:tp-link:c2:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:c5v:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:deco_be25:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:deco_m4:*:*:*:*:*:*:*:*
+cpe:2.3:h:tp-link:deco_m5:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:deco_x50:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:deco_xe200:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:dr3220v-4g:*:*:*:*:*:*:*:*
@@ -137636,6 +137694,8 @@ cpe:2.3:h:tp-link:g36:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:g36w-4g:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:g611:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:ipc_tl-ipc223\(p\)-6:*:*:*:*:*:*:*:*
+cpe:2.3:h:tp-link:kasa_ec70:*:*:*:*:*:*:*:*
+cpe:2.3:h:tp-link:kasa_ec71:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:kc200:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:kc300s2:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:kc310s2:*:*:*:*:*:*:*:*
@@ -186817,6 +186877,7 @@ cpe:2.3:o:tp-link:archer_nx500_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:archer_nx600_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:archer_re605x_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:archer_vr1600v_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:tp-link:archer_vx1800v_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:ax10_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:beam_bridge_5_ur_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:c20i_firmware:*:*:*:*:*:*:*:*
@@ -186824,6 +186885,7 @@ cpe:2.3:o:tp-link:c2_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:c5v_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:deco_be25_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:deco_m4_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:tp-link:deco_m5_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:deco_x50_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:deco_xe200_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:dr3220v-4g_firmware:*:*:*:*:*:*:*:*
@@ -186890,6 +186952,8 @@ cpe:2.3:o:tp-link:g36_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:g36w-4g_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:g611_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:ipc_tl-ipc223\(p\)-6_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:tp-link:kasa_ec70_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:tp-link:kasa_ec71_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:kc200_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:kc300s2_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:kc310s2_firmware:*:*:*:*:*:*:*:*
