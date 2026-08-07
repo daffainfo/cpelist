@@ -4506,6 +4506,7 @@ cpe:2.3:a:appium:appium-chromedriver:*:*:*:*:*:*:*:*
 cpe:2.3:a:appium:appium-desktop:*:*:*:*:*:*:*:*
 cpe:2.3:a:appium:appium\/base-driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:appium:appium\/support:*:*:*:*:*:*:*:*
+cpe:2.3:a:appium:java-client:*:*:*:*:*:*:*:*
 cpe:2.3:a:appjetty:copy_or_move_comments:*:*:*:*:*:*:*:*
 cpe:2.3:a:appjetty:show_all_comments:*:*:*:*:*:*:*:*
 cpe:2.3:a:applaudsolutions:applaud_hcm:*:*:*:*:*:*:*:*
@@ -17679,6 +17680,7 @@ cpe:2.3:a:docker:docker:*:*:*:*:*:*:*:*
 cpe:2.3:a:docker:docker_desktop:*:*:*:*:*:*:*:*
 cpe:2.3:a:docker:docker_enterprise:*:*:*:*:*:*:*:*
 cpe:2.3:a:docker:docker_registry:*:*:*:*:*:*:*:*
+cpe:2.3:a:docker:docker_sandboxes:*:*:*:*:*:*:*:*
 cpe:2.3:a:docker:docs:*:*:*:*:*:*:*:*
 cpe:2.3:a:docker:elixir_alpine_docker_image:*:*:*:*:*:*:*:*
 cpe:2.3:a:docker:engine:*:*:*:*:*:*:*:*
@@ -47402,6 +47404,7 @@ cpe:2.3:a:nvidia:dgx_h100_bmc:*:*:*:*:*:*:*:*
 cpe:2.3:a:nvidia:display_control_panel:*:*:*:*:*:*:*:*
 cpe:2.3:a:nvidia:display_driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:nvidia:driver:*:*:*:*:*:*:*:*
+cpe:2.3:a:nvidia:dynamo:*:*:*:*:*:*:*:*
 cpe:2.3:a:nvidia:federated_learning_application_runtime_environment:*:*:*:*:*:*:*:*
 cpe:2.3:a:nvidia:games:*:*:*:*:*:*:*:*
 cpe:2.3:a:nvidia:geforce:*:*:*:*:*:*:*:*
@@ -51669,6 +51672,7 @@ cpe:2.3:a:percona:monitoring_and_management:*:*:*:*:*:*:*:*
 cpe:2.3:a:percona:percona_backup:*:*:*:*:*:*:*:*
 cpe:2.3:a:percona:percona_clustersync:*:*:*:*:*:*:*:*
 cpe:2.3:a:percona:percona_operator:*:*:*:*:*:*:*:*
+cpe:2.3:a:percona:percona_search:*:*:*:*:*:*:*:*
 cpe:2.3:a:percona:percona_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:percona:toolkit:*:*:*:*:*:*:*:*
 cpe:2.3:a:percona:xtrabackup:*:*:*:*:*:*:*:*
@@ -58548,6 +58552,7 @@ cpe:2.3:a:rrdbrowse:rrdbrowse:*:*:*:*:*:*:*:*
 cpe:2.3:a:rrdtool_project:rrdtool:*:*:*:*:*:*:*:*
 cpe:2.3:a:rrrene:html_sanitize_ex:*:*:*:*:*:*:*:*
 cpe:2.3:a:rrtoken_project:rrtoken:*:*:*:*:*:*:*:*
+cpe:2.3:a:rrwo:data\:\:entropy:*:*:*:*:*:*:*:*
 cpe:2.3:a:rrwo:net\:\:cidr\:\:set:*:*:*:*:*:*:*:*
 cpe:2.3:a:rrwo:text\:\:minify\:\:xs:*:*:*:*:*:*:*:*
 cpe:2.3:a:rs-brightcove_project:rs-brightcove:*:*:*:*:*:*:*:*
@@ -64493,6 +64498,7 @@ cpe:2.3:a:st:x-cube-azrtos-wb:*:*:*:*:*:*:*:*
 cpe:2.3:a:st:x-cube-azrtos-wl:*:*:*:*:*:*:*:*
 cpe:2.3:a:st:x-cube-safea1:*:*:*:*:*:*:*:*
 cpe:2.3:a:st_project:st:*:*:*:*:*:*:*:*
+cpe:2.3:a:stablebit:scanner:*:*:*:*:*:*:*:*
 cpe:2.3:a:stableyieldcredit_project:stableyieldcredit:*:*:*:*:*:*:*:*
 cpe:2.3:a:stack_dst_project:stack_dst:*:*:*:*:*:*:*:*
 cpe:2.3:a:stack_project:stack:*:*:*:*:*:*:*:*
