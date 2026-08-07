@@ -4214,6 +4214,7 @@ cpe:2.3:a:apache:qpid_java:*:*:*:*:*:*:*:*
 cpe:2.3:a:apache:qpid_proton-dotnet:*:*:*:*:*:*:*:*
 cpe:2.3:a:apache:qpid_proton-j:*:*:*:*:*:*:*:*
 cpe:2.3:a:apache:qpid_proton:*:*:*:*:*:*:*:*
+cpe:2.3:a:apache:qpid_protonj2:*:*:*:*:*:*:*:*
 cpe:2.3:a:apache:rampart\/c:*:*:*:*:*:*:*:*
 cpe:2.3:a:apache:ranger:*:*:*:*:*:*:*:*
 cpe:2.3:a:apache:rave:*:*:*:*:*:*:*:*
@@ -17452,6 +17453,7 @@ cpe:2.3:a:divisait:proxia_phr:*:*:*:*:*:*:*:*
 cpe:2.3:a:divisait:proxia_suite:*:*:*:*:*:*:*:*
 cpe:2.3:a:divisait:sparkspace:*:*:*:*:*:*:*:*
 cpe:2.3:a:divscorp:doctor-appointment:*:*:*:*:*:*:*:*
+cpe:2.3:a:divvypayhq:absinthe_federation:*:*:*:*:*:*:*:*
 cpe:2.3:a:divx:aac_decoder:*:*:*:*:*:*:*:*
 cpe:2.3:a:divx:avi_codec_pack_pro:*:*:*:*:*:*:*:*
 cpe:2.3:a:divx:codec:*:*:*:*:*:*:*:*
@@ -41831,6 +41833,7 @@ cpe:2.3:a:microsoft:azure_cloud_shell:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_command-line_interface:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_compute_gallery:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_compute_resource_provider:*:*:*:*:*:*:*:*
+cpe:2.3:a:microsoft:azure_confidential_ledger:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_connected_machine_agent:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_container_apps:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_container_instances:*:*:*:*:*:*:*:*
@@ -41850,6 +41853,7 @@ cpe:2.3:a:microsoft:azure_databricks:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_devops:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_diagnostics:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_diagnostics_\(lad\):*:*:*:*:*:*:*:*
+cpe:2.3:a:microsoft:azure_dns:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_event_grid:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_file_sync:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_front_door:*:*:*:*:*:*:*:*
@@ -41867,6 +41871,7 @@ cpe:2.3:a:microsoft:azure_iot_edge_for_linux:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_iot_explorer:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_iot_hub_device_client_sdk:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_ipam:*:*:*:*:*:*:*:*
+cpe:2.3:a:microsoft:azure_key_vault:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_key_vault_provider_for_secrets_store_csi_driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_kinect_software_development_kit:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_kubernetes_service:*:*:*:*:*:*:*:*
@@ -41904,6 +41909,7 @@ cpe:2.3:a:microsoft:azure_promptflow_core:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_promptflow_tools:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_real_time_operating_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_real_time_operating_system_guix_studio:*:*:*:*:*:*:*:*
+cpe:2.3:a:microsoft:azure_red_hat_openshift:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_resource_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_rtos_guix_studio:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_rtos_usbx:*:*:*:*:*:*:*:*
@@ -41912,6 +41918,7 @@ cpe:2.3:a:microsoft:azure_sdk_for_java:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_security_center:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_sentinel:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_service_broker:*:*:*:*:*:*:*:*
+cpe:2.3:a:microsoft:azure_service_bus:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_service_connector:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_service_fabric:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_setup_kubectl:*:*:*:*:*:*:*:*
@@ -41920,6 +41927,7 @@ cpe:2.3:a:microsoft:azure_site_recovery_vmware_to_azure:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_software_development_kit:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_sphere:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_spring_cloud:*:*:*:*:*:*:*:*
+cpe:2.3:a:microsoft:azure_sql_database:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_sql_managed_instance:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_sre_agent:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_stack:*:*:*:*:*:*:*:*
@@ -63836,6 +63844,7 @@ cpe:2.3:a:sourcecodester:online_bank_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:online_boat_reservation_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:online_book_store_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:online_chatting_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:sourcecodester:online_clothing_store:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:online_complaint_site:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:online_computer_and_laptop_store:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:online_course_registration:*:*:*:*:*:*:*:*
@@ -63895,6 +63904,7 @@ cpe:2.3:a:sourcecodester:service_provider_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:ship_ferry_ticket_reservation_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:shopping_website:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:simple_and_nice_shopping_cart_script:*:*:*:*:*:*:*:*
+cpe:2.3:a:sourcecodester:simple_doctors_appointment_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:simple_file_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:simple_food_ordering_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:simple_forum_website:*:*:*:*:*:*:*:*
