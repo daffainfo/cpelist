@@ -11286,6 +11286,7 @@ cpe:2.3:a:chitora:self-extracting_archive:*:*:*:*:*:*:*:*
 cpe:2.3:a:chitta:mimicboard:*:*:*:*:*:*:*:*
 cpe:2.3:a:chitta:mimicboard_2:*:*:*:*:*:*:*:*
 cpe:2.3:a:chitubox:chitubox_basic:*:*:*:*:*:*:*:*
+cpe:2.3:a:chiuwingyan:house:*:*:*:*:*:*:*:*
 cpe:2.3:a:chkrootkit:chkrootkit:*:*:*:*:*:*:*:*
 cpe:2.3:a:chmlib:chmlib:*:*:*:*:*:*:*:*
 cpe:2.3:a:chmln:sd:*:*:*:*:*:*:*:*
@@ -31640,6 +31641,7 @@ cpe:2.3:a:inspireui:mstore_api_create_native_android_and_ios_apps_on_the_cloud:*
 cpe:2.3:a:inspirythemes:realhomes:*:*:*:*:*:*:*:*
 cpe:2.3:a:inspur:clusterengine:*:*:*:*:*:*:*:*
 cpe:2.3:a:insta.me:instamessage_-_instagram_chat:*:*:*:*:*:*:*:*
+cpe:2.3:a:insta:instaknxserviceapp:*:*:*:*:*:*:*:*
 cpe:2.3:a:instachat:instachat_-instagram_messenger:*:*:*:*:*:*:*:*
 cpe:2.3:a:instacocoa_project:instacocoa:*:*:*:*:*:*:*:*
 cpe:2.3:a:instagram-clone_project:instagram-clone:*:*:*:*:*:*:*:*
@@ -39202,6 +39204,7 @@ cpe:2.3:a:lsi:sas-ir_storage_snmp_agent:*:*:*:*:*:*:*:*
 cpe:2.3:a:lsi:symplicity_es_storage_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:lsof_project:lsof:*:*:*:*:*:*:*:*
 cpe:2.3:a:lsoft:listserv:*:*:*:*:*:*:*:*
+cpe:2.3:a:lspace-io:lspace-server:*:*:*:*:*:*:*:*
 cpe:2.3:a:lsquared:l_squared_hub:*:*:*:*:*:*:*:*
 cpe:2.3:a:lstc:ls-dyna:*:*:*:*:*:*:*:*
 cpe:2.3:a:lsyncd_project:lsyncd:*:*:*:*:*:*:*:*
@@ -44756,6 +44759,7 @@ cpe:2.3:a:myylc_project:myylc:*:*:*:*:*:*:*:*
 cpe:2.3:a:myylctoken_project:myylctoken:*:*:*:*:*:*:*:*
 cpe:2.3:a:mz-automation:lib60870:*:*:*:*:*:*:*:*
 cpe:2.3:a:mz-automation:libiec61850:*:*:*:*:*:*:*:*
+cpe:2.3:a:mz_automation:libiec61850:*:*:*:*:*:*:*:*
 cpe:2.3:a:mzautomation:libiec61850:*:*:*:*:*:*:*:*
 cpe:2.3:a:mzbservices:max.blog:*:*:*:*:*:*:*:*
 cpe:2.3:a:n-13_news:n-13_news:*:*:*:*:*:*:*:*
@@ -63829,6 +63833,7 @@ cpe:2.3:a:sourcecodester:online_computer_and_laptop_store:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:online_course_registration:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:online_courseware:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:online_diagnostic_lab_management_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:sourcecodester:online_examination_learning_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:online_eyewear_shop:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:online_flight_booking_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:online_food_ordering_system:*:*:*:*:*:*:*:*
