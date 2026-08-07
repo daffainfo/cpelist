@@ -16268,6 +16268,7 @@ cpe:2.3:a:deep_sea_electronics:dse855:*:*:*:*:*:*:*:*
 cpe:2.3:a:deepak_anand:wp_dummy_content_generator:*:*:*:*:*:*:*:*
 cpe:2.3:a:deepakmisal24:chemical_inventory_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:deepcool:deepcreative:*:*:*:*:*:*:*:*
+cpe:2.3:a:deepcool:displayservice:*:*:*:*:*:*:*:*
 cpe:2.3:a:deephas_project:deephas:*:*:*:*:*:*:*:*
 cpe:2.3:a:deepin:dde_file_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:deepin:deepin-clone:*:*:*:*:*:*:*:*
@@ -63867,6 +63868,7 @@ cpe:2.3:a:sourcecodester:petshop_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:pharmacy_sales_and_inventory_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:pharmacymedical_store_point_of_sale_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:phone_shop_sales_managements_system_using_php_with_source_code:*:*:*:*:*:*:*:*
+cpe:2.3:a:sourcecodester:photo_share_website:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:php_task_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:pisay_online_e-learning_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:pizzafy_e-commerce_system:*:*:*:*:*:*:*:*
@@ -64498,6 +64500,7 @@ cpe:2.3:a:st:x-cube-azrtos-wb:*:*:*:*:*:*:*:*
 cpe:2.3:a:st:x-cube-azrtos-wl:*:*:*:*:*:*:*:*
 cpe:2.3:a:st:x-cube-safea1:*:*:*:*:*:*:*:*
 cpe:2.3:a:st_project:st:*:*:*:*:*:*:*:*
+cpe:2.3:a:stablebit:drivepool:*:*:*:*:*:*:*:*
 cpe:2.3:a:stablebit:scanner:*:*:*:*:*:*:*:*
 cpe:2.3:a:stableyieldcredit_project:stableyieldcredit:*:*:*:*:*:*:*:*
 cpe:2.3:a:stack_dst_project:stack_dst:*:*:*:*:*:*:*:*
