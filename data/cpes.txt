@@ -4211,6 +4211,7 @@ cpe:2.3:a:apache:qpid:*:*:*:*:*:*:*:*
 cpe:2.3:a:apache:qpid_broker-j:*:*:*:*:*:*:*:*
 cpe:2.3:a:apache:qpid_dispatch:*:*:*:*:*:*:*:*
 cpe:2.3:a:apache:qpid_java:*:*:*:*:*:*:*:*
+cpe:2.3:a:apache:qpid_proton-dotnet:*:*:*:*:*:*:*:*
 cpe:2.3:a:apache:qpid_proton-j:*:*:*:*:*:*:*:*
 cpe:2.3:a:apache:qpid_proton:*:*:*:*:*:*:*:*
 cpe:2.3:a:apache:rampart\/c:*:*:*:*:*:*:*:*
