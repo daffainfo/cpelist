@@ -16688,6 +16688,7 @@ cpe:2.3:a:dell:vasa:*:*:*:*:*:*:*:*
 cpe:2.3:a:dell:vasa_provider:*:*:*:*:*:*:*:*
 cpe:2.3:a:dell:vce_vision_intelligent_operations:*:*:*:*:*:*:*:*
 cpe:2.3:a:dell:virtual_appliance_manager:*:*:*:*:*:*:*:*
+cpe:2.3:a:dell:virtual_storage_integrator:*:*:*:*:*:*:*:*
 cpe:2.3:a:dell:vxrail_hyperconverged_infrastructure:*:*:*:*:*:*:*:*
 cpe:2.3:a:dell:vxrail_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:dell:windows_embedded_standard_wyse_device_agent:*:*:*:*:*:*:*:*
@@ -137945,6 +137946,7 @@ cpe:2.3:h:tp-link:tapo_h100:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:tapo_l530e:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:tapo_l535e:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:tapo_p100:*:*:*:*:*:*:*:*
+cpe:2.3:h:tp-link:tapo_p110:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:tapo_p300:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:tapo_tc70:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:td-8816:*:*:*:*:*:*:*:*
@@ -187278,6 +187280,7 @@ cpe:2.3:o:tp-link:tapo_h100_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:tapo_l530e_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:tapo_l535e_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:tapo_p100_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:tp-link:tapo_p110_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:tapo_p300_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:tapo_tc70_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:td-w8961nd_firmware:*:*:*:*:*:*:*:*
