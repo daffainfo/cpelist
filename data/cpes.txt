@@ -494,6 +494,7 @@ cpe:2.3:a:aaron13100:404_solution:*:*:*:*:*:*:*:*
 cpe:2.3:a:aaron_ledbetter:cidentd:*:*:*:*:*:*:*:*
 cpe:2.3:a:aaron_queen:wp_customer_reviews:*:*:*:*:*:*:*:*
 cpe:2.3:a:aaronoutpost:asp_inline_corporate_calendar:*:*:*:*:*:*:*:*
+cpe:2.3:a:aaronsb:memory-graph:*:*:*:*:*:*:*:*
 cpe:2.3:a:aas9:zerocms:*:*:*:*:*:*:*:*
 cpe:2.3:a:aasi_media:net_clubs_pro:*:*:*:*:*:*:*:*
 cpe:2.3:a:aasync:aasync:*:*:*:*:*:*:*:*
@@ -1768,6 +1769,7 @@ cpe:2.3:a:adobe:xmp_toolkit_sdk:*:*:*:*:*:*:*:*
 cpe:2.3:a:adobe:xmp_toolkit_software_development_kit:*:*:*:*:*:*:*:*
 cpe:2.3:a:adodb_lite:adodb_lite:*:*:*:*:*:*:*:*
 cpe:2.3:a:adodb_project:adodb:*:*:*:*:*:*:*:*
+cpe:2.3:a:adolfosalasgomez3011:slidev-builder-mcp:*:*:*:*:*:*:*:*
 cpe:2.3:a:adolphdudu:ratio-swiper:*:*:*:*:*:*:*:*
 cpe:2.3:a:adonesevangelista:agri-trading_online_shopping_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:adonesevangelista:employee_record_management_system:*:*:*:*:*:*:*:*
@@ -3458,6 +3460,7 @@ cpe:2.3:a:andisearch:andisearch:*:*:*:*:*:*:*:*
 cpe:2.3:a:andonet:andonet_blog:*:*:*:*:*:*:*:*
 cpe:2.3:a:andre_wiethoff:exact_audio_copy:*:*:*:*:*:*:*:*
 cpe:2.3:a:andreafarracani:wowpth:*:*:*:*:*:*:*:*
+cpe:2.3:a:andreahaku:llm_memory_mcp:*:*:*:*:*:*:*:*
 cpe:2.3:a:andrealandonio:taxonomy_filter:*:*:*:*:*:*:*:*
 cpe:2.3:a:andreamarinucci:notification_for_telegram:*:*:*:*:*:*:*:*
 cpe:2.3:a:andreas_gohr:dokuwiki:*:*:*:*:*:*:*:*
@@ -40546,6 +40549,7 @@ cpe:2.3:a:mauimarketing:update_image_tag_alt_attribute:*:*:*:*:*:*:*:*
 cpe:2.3:a:maulana_al_matien:ardeacore_php_framework:*:*:*:*:*:*:*:*
 cpe:2.3:a:maurice:vrm360:*:*:*:*:*:*:*:*
 cpe:2.3:a:mauriceboe:trek:*:*:*:*:*:*:*:*
+cpe:2.3:a:mauriciomilano:coder-api:*:*:*:*:*:*:*:*
 cpe:2.3:a:mauriciopoppe:math-codegen:*:*:*:*:*:*:*:*
 cpe:2.3:a:mauro_lorenzutti:wfqbe:*:*:*:*:*:*:*:*
 cpe:2.3:a:mautic:mautic:*:*:*:*:*:*:*:*
@@ -42862,6 +42866,7 @@ cpe:2.3:a:mime_types_extended:mime_types_extended:*:*:*:*:*:*:*:*
 cpe:2.3:a:mimecast:email_security:*:*:*:*:*:*:*:*
 cpe:2.3:a:mimedefang:mimedefang:*:*:*:*:*:*:*:*
 cpe:2.3:a:mimetic:mimetic_books:*:*:*:*:*:*:*:*
+cpe:2.3:a:mimiclab:mcp-pdf-vision:*:*:*:*:*:*:*:*
 cpe:2.3:a:mimicoin_project:mimicoin:*:*:*:*:*:*:*:*
 cpe:2.3:a:mimms:mimms:*:*:*:*:*:*:*:*
 cpe:2.3:a:mimsoftware:assistant:*:*:*:*:*:*:*:*
