@@ -656,6 +656,7 @@ cpe:2.3:a:abraham_williams:twitteroauth:*:*:*:*:*:*:*:*
 cpe:2.3:a:abrahamtours:abraham_tours:*:*:*:*:*:*:*:*
 cpe:2.3:a:abrhil:employees_portal:*:*:*:*:*:*:*:*
 cpe:2.3:a:abrhil:lista_de_asistencia:*:*:*:*:*:*:*:*
+cpe:2.3:a:abrinsmead:mindpilot-mcp:*:*:*:*:*:*:*:*
 cpe:2.3:a:abrt_project:abrt:*:*:*:*:*:*:*:*
 cpe:2.3:a:abseil:common_libraries:*:*:*:*:*:*:*:*
 cpe:2.3:a:absint:stackanalyzer:*:*:*:*:*:*:*:*
@@ -5479,6 +5480,7 @@ cpe:2.3:a:astoundify:simple_registration_for_woocommerce:*:*:*:*:*:*:*:*
 cpe:2.3:a:astoundify:wp_job_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:astral:astral-tokio-tar:*:*:*:*:*:*:*:*
 cpe:2.3:a:astral:uv:*:*:*:*:*:*:*:*
+cpe:2.3:a:astralisone:rive-mcp-server-core:*:*:*:*:*:*:*:*
 cpe:2.3:a:astrbot:astrbot:*:*:*:*:*:*:*:*
 cpe:2.3:a:astro:\@astrojs\/cloudflare:*:*:*:*:*:*:*:*
 cpe:2.3:a:astro:\@astrojs\/node:*:*:*:*:*:*:*:*
