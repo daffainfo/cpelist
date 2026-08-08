@@ -3167,6 +3167,7 @@ cpe:2.3:a:amazon:opensearch_notifications:*:*:*:*:*:*:*:*
 cpe:2.3:a:amazon:opensearch_security:*:*:*:*:*:*:*:*
 cpe:2.3:a:amazon:payfort-php-sdk:*:*:*:*:*:*:*:*
 cpe:2.3:a:amazon:payfort:*:*:*:*:*:*:*:*
+cpe:2.3:a:amazon:qnabot_on_aws:*:*:*:*:*:*:*:*
 cpe:2.3:a:amazon:redshift_connector:*:*:*:*:*:*:*:*
 cpe:2.3:a:amazon:redshift_odbc_driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:amazon:relational_database_service:*:*:*:*:*:*:*:*
@@ -24677,6 +24678,7 @@ cpe:2.3:a:github:gh-ost:*:*:*:*:*:*:*:*
 cpe:2.3:a:github:github:*:*:*:*:*:*:*:*
 cpe:2.3:a:github:go-gh:*:*:*:*:*:*:*:*
 cpe:2.3:a:github:hub:*:*:*:*:*:*:*:*
+cpe:2.3:a:github:mcp_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:github:owslib:*:*:*:*:*:*:*:*
 cpe:2.3:a:github:pull_requests_and_issues:*:*:*:*:*:*:*:*
 cpe:2.3:a:github:runner:*:*:*:*:*:*:*:*
@@ -35094,6 +35096,7 @@ cpe:2.3:a:jonas_breuer:frontend_checklist:*:*:*:*:*:*:*:*
 cpe:2.3:a:jonas_gauffin:publicera:*:*:*:*:*:*:*:*
 cpe:2.3:a:jonas_renggli:vshoutbox:*:*:*:*:*:*:*:*
 cpe:2.3:a:jonas_smedegaard:sdm-terminal:*:*:*:*:*:*:*:*
+cpe:2.3:a:jonasbn:crypt\:\:openssl\:\:x509:*:*:*:*:*:*:*:*
 cpe:2.3:a:jonascms:jonascms:*:*:*:*:*:*:*:*
 cpe:2.3:a:jonashjalmarsson:html_filter_and_csv-file_search:*:*:*:*:*:*:*:*
 cpe:2.3:a:jonatahndejong:beautiful_taxonomy_filters:*:*:*:*:*:*:*:*
@@ -68298,6 +68301,7 @@ cpe:2.3:a:timeline_calendar_project:timeline_calendar:*:*:*:*:*:*:*:*
 cpe:2.3:a:timelord:elo_rating_shortcode:*:*:*:*:*:*:*:*
 cpe:2.3:a:timely:all-in-one_event_calendar:*:*:*:*:*:*:*:*
 cpe:2.3:a:timelybills:timelybills:*:*:*:*:*:*:*:*
+cpe:2.3:a:timeplus:proton:*:*:*:*:*:*:*:*
 cpe:2.3:a:timersys:popups:*:*:*:*:*:*:*:*
 cpe:2.3:a:timersys:wp_popups:*:*:*:*:*:*:*:*
 cpe:2.3:a:timescale:timescaledb:*:*:*:*:*:*:*:*
