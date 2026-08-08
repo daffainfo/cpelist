@@ -600,6 +600,7 @@ cpe:2.3:a:abcpp:abcpp:*:*:*:*:*:*:*:*
 cpe:2.3:a:abcprintf:upload-image-with-ajax:*:*:*:*:*:*:*:*
 cpe:2.3:a:abctab2ps:abctab2ps:*:*:*:*:*:*:*:*
 cpe:2.3:a:abczone.it:wwwguestbook:*:*:*:*:*:*:*:*
+cpe:2.3:a:abdullah1854:mcpgateway:*:*:*:*:*:*:*:*
 cpe:2.3:a:abdullah_irfan:document_press:*:*:*:*:*:*:*:*
 cpe:2.3:a:abdullahirfan:documentpress:*:*:*:*:*:*:*:*
 cpe:2.3:a:abdullahirfan:whitelist:*:*:*:*:*:*:*:*
@@ -29173,6 +29174,7 @@ cpe:2.3:a:hujiang:arcanist:*:*:*:*:*:*:*:*
 cpe:2.3:a:hulihanapplications:amethyst:*:*:*:*:*:*:*:*
 cpe:2.3:a:hulihanapplications:diamondlist:*:*:*:*:*:*:*:*
 cpe:2.3:a:hulihanapplications:hulihan_bxr:*:*:*:*:*:*:*:*
+cpe:2.3:a:hulupeep:mcp-ui-probe:*:*:*:*:*:*:*:*
 cpe:2.3:a:huly:huly:*:*:*:*:*:*:*:*
 cpe:2.3:a:human_head_studios:dead_mans_hand:*:*:*:*:*:*:*:*
 cpe:2.3:a:human_resource_information_system_project:human_resource_information_system:*:*:*:*:*:*:*:*
@@ -31605,6 +31607,7 @@ cpe:2.3:a:inprotect:inprotect:*:*:*:*:*:*:*:*
 cpe:2.3:a:inpsyde:akismet_privacy_policies:*:*:*:*:*:*:*:*
 cpe:2.3:a:inpsyde:backwpup:*:*:*:*:*:*:*:*
 cpe:2.3:a:inqsys:duplicate_post_page_menu_\&_custom_post_type:*:*:*:*:*:*:*:*
+cpe:2.3:a:inquirelab:mcp-bridge-api:*:*:*:*:*:*:*:*
 cpe:2.3:a:inria:caml-light:*:*:*:*:*:*:*:*
 cpe:2.3:a:inria:ocaml:*:*:*:*:*:*:*:*
 cpe:2.3:a:insane_visions:blogphp:*:*:*:*:*:*:*:*
@@ -36764,6 +36767,7 @@ cpe:2.3:a:kioware:kioware:*:*:*:*:*:*:*:*
 cpe:2.3:a:kioware:kioware_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:kioware:kiowave:*:*:*:*:*:*:*:*
 cpe:2.3:a:kippo-graph_project:kippo-graph:*:*:*:*:*:*:*:*
+cpe:2.3:a:kirachon:context-engine:*:*:*:*:*:*:*:*
 cpe:2.3:a:kiragames:unblock_me_free:*:*:*:*:*:*:*:*
 cpe:2.3:a:kirby:kirby_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:kiri:tween:*:*:*:*:*:*:*:*
