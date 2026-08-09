@@ -242,6 +242,7 @@ cpe:2.3:a:3com:tippingpoint_ips:*:*:*:*:*:*:*:*
 cpe:2.3:a:3com:tippingpoint_ips_tos:*:*:*:*:*:*:*:*
 cpe:2.3:a:3com:tippingpoint_sms_client:*:*:*:*:*:*:*:*
 cpe:2.3:a:3commarketing:3com-asesor-de-cookies:*:*:*:*:*:*:*:*
+cpe:2.3:a:3coresec:trapdoor:*:*:*:*:*:*:*:*
 cpe:2.3:a:3cx:3cx:*:*:*:*:*:*:*:*
 cpe:2.3:a:3cx:3cx_web_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:3cx:call_flow_designer:*:*:*:*:*:*:*:*
@@ -30705,6 +30706,7 @@ cpe:2.3:a:icewhale:casaos-userservice:*:*:*:*:*:*:*:*
 cpe:2.3:a:icewhaletech:casaos-userservice:*:*:*:*:*:*:*:*
 cpe:2.3:a:ichain:insurance_wallet:*:*:*:*:*:*:*:*
 cpe:2.3:a:ichat_project:ichat:*:*:*:*:*:*:*:*
+cpe:2.3:a:ichigo3766:image-gen-mcp:*:*:*:*:*:*:*:*
 cpe:2.3:a:ichiranusa:ichiran:*:*:*:*:*:*:*:*
 cpe:2.3:a:ichitaro:ichitaro:*:*:*:*:*:*:*:*
 cpe:2.3:a:ichitaro:ichitaro_viewer:*:*:*:*:*:*:*:*
@@ -38890,6 +38892,7 @@ cpe:2.3:a:llvm:llvm:*:*:*:*:*:*:*:*
 cpe:2.3:a:lm-sys:fastchat:*:*:*:*:*:*:*:*
 cpe:2.3:a:lm21:twonav:*:*:*:*:*:*:*:*
 cpe:2.3:a:lm_sensors:lm_sensors:*:*:*:*:*:*:*:*
+cpe:2.3:a:lmammino:oidc-authorizer:*:*:*:*:*:*:*:*
 cpe:2.3:a:lmcache:lmcache:*:*:*:*:*:*:*:*
 cpe:2.3:a:lmeve_project:lmeve:*:*:*:*:*:*:*:*
 cpe:2.3:a:lms:lan_management_system:*:*:*:*:*:*:*:*
@@ -47556,6 +47559,7 @@ cpe:2.3:a:nx:shared-fs-cache:*:*:*:*:*:*:*:*
 cpe:2.3:a:nxfilter:nxfilter:*:*:*:*:*:*:*:*
 cpe:2.3:a:nxlog:nxlog:*:*:*:*:*:*:*:*
 cpe:2.3:a:nxlog:nxlog_manager:*:*:*:*:*:*:*:*
+cpe:2.3:a:nxp-auto-goldvip:gvip:*:*:*:*:*:*:*:*
 cpe:2.3:a:nxp:kw41z_sdk:*:*:*:*:*:*:*:*
 cpe:2.3:a:nxp:mcuxpresso_software_development_kit:*:*:*:*:*:*:*:*
 cpe:2.3:a:nxsn:wp_hide_pages:*:*:*:*:*:*:*:*
@@ -73911,6 +73915,7 @@ cpe:2.3:a:wonderware:intouch:*:*:*:*:*:*:*:*
 cpe:2.3:a:wonderware:suitelink:*:*:*:*:*:*:*:*
 cpe:2.3:a:wonderwhy-er:desktopcommandermcp:*:*:*:*:*:*:*:*
 cpe:2.3:a:wong2:mcp-cli:*:*:*:*:*:*:*:*
+cpe:2.3:a:wongcyrus:excellexbot:*:*:*:*:*:*:*:*
 cpe:2.3:a:wonko:notftp:*:*:*:*:*:*:*:*
 cpe:2.3:a:wonko:smolder:*:*:*:*:*:*:*:*
 cpe:2.3:a:woo-myghpay-payment-gateway_project:woo-myghpay-payment-gateway:*:*:*:*:*:*:*:*
