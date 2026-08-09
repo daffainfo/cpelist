@@ -652,6 +652,7 @@ cpe:2.3:a:about-rentals_project:about-rentals:*:*:*:*:*:*:*:*
 cpe:2.3:a:about_me_3000_widget_project:about_me_3000_widget:*:*:*:*:*:*:*:*
 cpe:2.3:a:abox_project:abox:*:*:*:*:*:*:*:*
 cpe:2.3:a:abpressoptimizer:ab_press_optimizer:*:*:*:*:*:*:*:*
+cpe:2.3:a:abracadabra50:claude-sesh:*:*:*:*:*:*:*:*
 cpe:2.3:a:abraham_williams:twitteroauth:*:*:*:*:*:*:*:*
 cpe:2.3:a:abrahamtours:abraham_tours:*:*:*:*:*:*:*:*
 cpe:2.3:a:abrhil:employees_portal:*:*:*:*:*:*:*:*
@@ -2371,6 +2372,7 @@ cpe:2.3:a:akshaymenariya:export_import_menus:*:*:*:*:*:*:*:*
 cpe:2.3:a:aksoft:akplayer:*:*:*:*:*:*:*:*
 cpe:2.3:a:aktiv:phantom:*:*:*:*:*:*:*:*
 cpe:2.3:a:aktivate:aktivate:*:*:*:*:*:*:*:*
+cpe:2.3:a:aktsmm:skill-ninja-mcp-server:*:*:*:*:*:*:*:*
 cpe:2.3:a:aktueldownload:aktueldownload_haber_script:*:*:*:*:*:*:*:*
 cpe:2.3:a:akuity:kargo:*:*:*:*:*:*:*:*
 cpe:2.3:a:akunamachata:paypal_express_module:*:*:*:*:*:*:*:*
@@ -3461,6 +3463,7 @@ cpe:2.3:a:andisearch:andisearch:*:*:*:*:*:*:*:*
 cpe:2.3:a:andonet:andonet_blog:*:*:*:*:*:*:*:*
 cpe:2.3:a:andre_wiethoff:exact_audio_copy:*:*:*:*:*:*:*:*
 cpe:2.3:a:andreafarracani:wowpth:*:*:*:*:*:*:*:*
+cpe:2.3:a:andreahaku:codex_mcp:*:*:*:*:*:*:*:*
 cpe:2.3:a:andreahaku:llm_memory_mcp:*:*:*:*:*:*:*:*
 cpe:2.3:a:andrealandonio:taxonomy_filter:*:*:*:*:*:*:*:*
 cpe:2.3:a:andreamarinucci:notification_for_telegram:*:*:*:*:*:*:*:*
@@ -3590,6 +3593,7 @@ cpe:2.3:a:angrydonuts:ctools:*:*:*:*:*:*:*:*
 cpe:2.3:a:angrydonuts:nodequeue:*:*:*:*:*:*:*:*
 cpe:2.3:a:angrydonuts:views:*:*:*:*:*:*:*:*
 cpe:2.3:a:angryip:angry_ip_scanner:*:*:*:*:*:*:*:*
+cpe:2.3:a:angrysky56:advanced-reasoning-mcp:*:*:*:*:*:*:*:*
 cpe:2.3:a:angtech:haraj:*:*:*:*:*:*:*:*
 cpe:2.3:a:anguanjia:anguanjia:*:*:*:*:*:*:*:*
 cpe:2.3:a:angular-base64-upload-project:angular-base64-upload:*:*:*:*:*:*:*:*
@@ -6833,6 +6837,7 @@ cpe:2.3:a:ayuntamientodecoana:ayuntamiento_de_coana:*:*:*:*:*:*:*:*
 cpe:2.3:a:azbb:az_bulletin_board:*:*:*:*:*:*:*:*
 cpe:2.3:a:azboard:azboard:*:*:*:*:*:*:*:*
 cpe:2.3:a:azeotech:daqfactory:*:*:*:*:*:*:*:*
+cpe:2.3:a:azer:react-analyzer-mcp:*:*:*:*:*:*:*:*
 cpe:2.3:a:azerbaijan_development_group:azdgdating:*:*:*:*:*:*:*:*
 cpe:2.3:a:azerbaijan_development_group:azdgvote:*:*:*:*:*:*:*:*
 cpe:2.3:a:azerothcore:azerothcore:*:*:*:*:*:*:*:*
@@ -26943,6 +26948,7 @@ cpe:2.3:a:helix_code:go-gnome_pre-installer:*:*:*:*:*:*:*:*
 cpe:2.3:a:hello.js_project:hello.js:*:*:*:*:*:*:*:*
 cpe:2.3:a:helloasso:helloasso:*:*:*:*:*:*:*:*
 cpe:2.3:a:hellobar:subscribers:*:*:*:*:*:*:*:*
+cpe:2.3:a:helloggx:shadcn-vue-mcp:*:*:*:*:*:*:*:*
 cpe:2.3:a:hellomohsinkhan:wp_front-end_login_and_register:*:*:*:*:*:*:*:*
 cpe:2.3:a:helloprint:helloprint:*:*:*:*:*:*:*:*
 cpe:2.3:a:helloshop:deliveryorderautoupdate:*:*:*:*:*:*:*:*
@@ -31274,6 +31280,7 @@ cpe:2.3:a:incogen:bugport:*:*:*:*:*:*:*:*
 cpe:2.3:a:incognito_private_browser_project:incognito_private_browser:*:*:*:*:*:*:*:*
 cpe:2.3:a:incognito_software_inc:ismtp_gateway:*:*:*:*:*:*:*:*
 cpe:2.3:a:incomcms_project:incomcms:*:*:*:*:*:*:*:*
+cpe:2.3:a:incomestreamsurfer:roo-code-memory-bank-mcp-server:*:*:*:*:*:*:*:*
 cpe:2.3:a:inconnueteam:ecal:*:*:*:*:*:*:*:*
 cpe:2.3:a:incredible_interactive:dragonfly_commerce:*:*:*:*:*:*:*:*
 cpe:2.3:a:incrediblepbx:incredible_pbx_11:*:*:*:*:*:*:*:*
@@ -34736,6 +34743,7 @@ cpe:2.3:a:jeuxflash:jeuxflash_module:*:*:*:*:*:*:*:*
 cpe:2.3:a:jevci.net:jevci_siparis_formu_scripti:*:*:*:*:*:*:*:*
 cpe:2.3:a:jevents:jevents_search_plugin:*:*:*:*:*:*:*:*
 cpe:2.3:a:jevnet:easy_pixels:*:*:*:*:*:*:*:*
+cpe:2.3:a:jevon-zhong:ai-doctor:*:*:*:*:*:*:*:*
 cpe:2.3:a:jevontech:phpenpals:*:*:*:*:*:*:*:*
 cpe:2.3:a:jewelry_store_system_project:jewelry_store_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:jeweltheme:master_addons_for_elementor:*:*:*:*:*:*:*:*
