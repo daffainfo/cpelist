@@ -1321,6 +1321,7 @@ cpe:2.3:a:adempiere:adempiere:*:*:*:*:*:*:*:*
 cpe:2.3:a:adempiere:bazaar:*:*:*:*:*:*:*:*
 cpe:2.3:a:adenhq:hive:*:*:*:*:*:*:*:*
 cpe:2.3:a:adenion:blog2social:*:*:*:*:*:*:*:*
+cpe:2.3:a:adenot:mcp-google-search:*:*:*:*:*:*:*:*
 cpe:2.3:a:adenza:axiomsl_controllerview:*:*:*:*:*:*:*:*
 cpe:2.3:a:ader_software:cfbb:*:*:*:*:*:*:*:*
 cpe:2.3:a:adersoft:vbsedit:*:*:*:*:*:*:*:*
@@ -2613,6 +2614,7 @@ cpe:2.3:a:alivecor:kardia:*:*:*:*:*:*:*:*
 cpe:2.3:a:alivemedia:alive_mp3_wav_converter:*:*:*:*:*:*:*:*
 cpe:2.3:a:alivesites:alivesites_forum:*:*:*:*:*:*:*:*
 cpe:2.3:a:aliyun-oss-client_project:aliyun-oss-client:*:*:*:*:*:*:*:*
+cpe:2.3:a:aliyun:alibabacloud-dataworks-mcp-server:*:*:*:*:*:*:*:*
 cpe:2.3:a:alizeait:unflatto:*:*:*:*:*:*:*:*
 cpe:2.3:a:alkacon:oamp_comments:*:*:*:*:*:*:*:*
 cpe:2.3:a:alkacon:opencms:*:*:*:*:*:*:*:*
@@ -3800,6 +3802,7 @@ cpe:2.3:a:antti_alamki:prh_search:*:*:*:*:*:*:*:*
 cpe:2.3:a:antv:layout:*:*:*:*:*:*:*:*
 cpe:2.3:a:antville:antville:*:*:*:*:*:*:*:*
 cpe:2.3:a:anuaralfetahe:advanced_content_feedback:*:*:*:*:*:*:*:*
+cpe:2.3:a:anubissbe:projecthub-mcp:*:*:*:*:*:*:*:*
 cpe:2.3:a:anuj_kumar:daily_expenses_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:anujk305:bus_pass_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:anujk305:daily_expense_tracker:*:*:*:*:*:*:*:*
@@ -6116,6 +6119,7 @@ cpe:2.3:a:automatedqa:testexecute_demo:*:*:*:*:*:*:*:*
 cpe:2.3:a:automatedqa:testrecorder:*:*:*:*:*:*:*:*
 cpe:2.3:a:automatedquizeval_project:automatedquizeval:*:*:*:*:*:*:*:*
 cpe:2.3:a:automatedsolutions:modbus\/tcp_master_opc_server:*:*:*:*:*:*:*:*
+cpe:2.3:a:automateyournetwork:mcpyats:*:*:*:*:*:*:*:*
 cpe:2.3:a:automatic1111:stable-diffusion-webui:*:*:*:*:*:*:*:*
 cpe:2.3:a:automatic_question_paper_generator_project:automatic_question_paper_generator:*:*:*:*:*:*:*:*
 cpe:2.3:a:automatic_question_paper_generator_system_project:automatic_question_paper_generator_system:*:*:*:*:*:*:*:*
@@ -7250,6 +7254,7 @@ cpe:2.3:a:bayashi:dopvcomet\*:*:*:*:*:*:*:*:*
 cpe:2.3:a:bayashi:dopvstar\*:*:*:*:*:*:*:*:*
 cpe:2.3:a:bazaarbuilder:ecommerce_shopping_cart:*:*:*:*:*:*:*:*
 cpe:2.3:a:bazarr:bazarr:*:*:*:*:*:*:*:*
+cpe:2.3:a:bazylhorsey:obsidian-mcp-server:*:*:*:*:*:*:*:*
 cpe:2.3:a:bb-news:blueboy:*:*:*:*:*:*:*:*
 cpe:2.3:a:bb4:big_brother:*:*:*:*:*:*:*:*
 cpe:2.3:a:bb4:big_brother_network_monitor:*:*:*:*:*:*:*:*
@@ -13320,6 +13325,7 @@ cpe:2.3:a:code-projects:student_enrollment:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:student_enrollment_in_php:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:student_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:student_record_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:code-projects:task_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:task_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:travel_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:university_event_management_system:*:*:*:*:*:*:*:*
@@ -33607,6 +33613,7 @@ cpe:2.3:a:jan_schutze:truc:*:*:*:*:*:*:*:*
 cpe:2.3:a:jan_syski:megabip:*:*:*:*:*:*:*:*
 cpe:2.3:a:janboddez:indieblocks:*:*:*:*:*:*:*:*
 cpe:2.3:a:jandus_technologies:smart_survey:*:*:*:*:*:*:*:*
+cpe:2.3:a:jane-xiaoer:skill-vision-control:*:*:*:*:*:*:*:*
 cpe:2.3:a:janeczku:calibre-web:*:*:*:*:*:*:*:*
 cpe:2.3:a:janesoft:janetter:*:*:*:*:*:*:*:*
 cpe:2.3:a:janet-lang:janet:*:*:*:*:*:*:*:*
@@ -45330,6 +45337,7 @@ cpe:2.3:a:nekename:opendeck:*:*:*:*:*:*:*:*
 cpe:2.3:a:nekohtml_project:nekohtml:*:*:*:*:*:*:*:*
 cpe:2.3:a:nektos:act:*:*:*:*:*:*:*:*
 cpe:2.3:a:neliosoftware:nelio_ab_testing:*:*:*:*:*:*:*:*
+cpe:2.3:a:nellyw8:mcp4eda:*:*:*:*:*:*:*:*
 cpe:2.3:a:nelogic:nephp_publisher:*:*:*:*:*:*:*:*
 cpe:2.3:a:nelogic_technologies:nephp_publisher:*:*:*:*:*:*:*:*
 cpe:2.3:a:nelogic_technologies:nephp_publisher_enterprise:*:*:*:*:*:*:*:*
@@ -46400,6 +46408,8 @@ cpe:2.3:a:nigel_horne:mod_spambot:*:*:*:*:*:*:*:*
 cpe:2.3:a:night_mode_project:night_mode:*:*:*:*:*:*:*:*
 cpe:2.3:a:nightlight:fireftp:*:*:*:*:*:*:*:*
 cpe:2.3:a:nightmedia:the_city_shop:*:*:*:*:*:*:*:*
+cpe:2.3:a:nighttrek:ollama-mcp:*:*:*:*:*:*:*:*
+cpe:2.3:a:nighttrek:supabase-mcp:*:*:*:*:*:*:*:*
 cpe:2.3:a:nih:libdicom:*:*:*:*:*:*:*:*
 cpe:2.3:a:nih:libzip:*:*:*:*:*:*:*:*
 cpe:2.3:a:nih:ncbi_toolbox:*:*:*:*:*:*:*:*
@@ -53163,6 +53173,7 @@ cpe:2.3:a:pimcore:web2print_tools:*:*:*:*:*:*:*:*
 cpe:2.3:a:pimentech:pimengest2:*:*:*:*:*:*:*:*
 cpe:2.3:a:pimpstore:aprende_a_meditar:*:*:*:*:*:*:*:*
 cpe:2.3:a:pimpstore:esercizi_per_le_donne:*:*:*:*:*:*:*:*
+cpe:2.3:a:pimzino:spec-workflow-mcp:*:*:*:*:*:*:*:*
 cpe:2.3:a:pinboard:pinboard:*:*:*:*:*:*:*:*
 cpe:2.3:a:pinboard_project:pinboard:*:*:*:*:*:*:*:*
 cpe:2.3:a:pinchtab:pinchtab:*:*:*:*:*:*:*:*
