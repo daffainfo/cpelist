@@ -38930,6 +38930,7 @@ cpe:2.3:a:location_module_project:location:*:*:*:*:*:*:*:*
 cpe:2.3:a:locationvalue:restaurant_karaoke_shidax:*:*:*:*:*:*:*:*
 cpe:2.3:a:locazo:locazolist:*:*:*:*:*:*:*:*
 cpe:2.3:a:locazo:locazolist_classifieds:*:*:*:*:*:*:*:*
+cpe:2.3:a:lock-upme:opms:*:*:*:*:*:*:*:*
 cpe:2.3:a:lock_api_project:lock_api:*:*:*:*:*:*:*:*
 cpe:2.3:a:lock_password_manager_safe_app_project:lock_password_manager_safe_app:*:*:*:*:*:*:*:*
 cpe:2.3:a:locke-bot_project:locke-bot:*:*:*:*:*:*:*:*
