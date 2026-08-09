@@ -17814,6 +17814,7 @@ cpe:2.3:a:dolby:dolby_audio_x2:*:*:*:*:*:*:*:*
 cpe:2.3:a:dolby:dolby_audio_x3:*:*:*:*:*:*:*:*
 cpe:2.3:a:dolibarr:dolibarr:*:*:*:*:*:*:*:*
 cpe:2.3:a:dolibarr:dolibarr_erp\/crm:*:*:*:*:*:*:*:*
+cpe:2.3:a:dolibarr:erp:*:*:*:*:*:*:*:*
 cpe:2.3:a:dolibarr:erp_crm:*:*:*:*:*:*:*:*
 cpe:2.3:a:dolibarr_project_timesheet_project:dolibarr_project_timesheet:*:*:*:*:*:*:*:*
 cpe:2.3:a:dollar.bank:dollar_bank_mobile:*:*:*:*:*:*:*:*
@@ -18108,6 +18109,7 @@ cpe:2.3:a:drelton:medialist:*:*:*:*:*:*:*:*
 cpe:2.3:a:dremio:dremio:*:*:*:*:*:*:*:*
 cpe:2.3:a:drennansoft:my_simple_forum:*:*:*:*:*:*:*:*
 cpe:2.3:a:dreryk:gabinet:*:*:*:*:*:*:*:*
+cpe:2.3:a:dresende:node-sql-query:*:*:*:*:*:*:*:*
 cpe:2.3:a:dressup:dress_up\!_girl_party:*:*:*:*:*:*:*:*
 cpe:2.3:a:drew_withers:journalness:*:*:*:*:*:*:*:*
 cpe:2.3:a:drewish:imagecache:*:*:*:*:*:*:*:*
@@ -42768,6 +42770,7 @@ cpe:2.3:a:mielke:brltty:*:*:*:*:*:*:*:*
 cpe:2.3:a:miethner-scripting:dz_erotik_auktionshaus_v4rgo:*:*:*:*:*:*:*:*
 cpe:2.3:a:mieweb:enterprise_health:*:*:*:*:*:*:*:*
 cpe:2.3:a:mifashow:mifashow_hairstyles:*:*:*:*:*:*:*:*
+cpe:2.3:a:mifi:lossless-cut:*:*:*:*:*:*:*:*
 cpe:2.3:a:mifos:mifos-mobile:*:*:*:*:*:*:*:*
 cpe:2.3:a:miftahovn:insky_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:mig:migme:*:*:*:*:*:*:*:*
@@ -61353,6 +61356,7 @@ cpe:2.3:a:shemes:grabit:*:*:*:*:*:*:*:*
 cpe:2.3:a:shenliru_project:shenliru:*:*:*:*:*:*:*:*
 cpe:2.3:a:shenyanzhi:memorialday:*:*:*:*:*:*:*:*
 cpe:2.3:a:shenzen:guoxin_synthesis_image_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:shenzhen_aitemi:m300_wi-fi_repeater:*:*:*:*:*:*:*:*
 cpe:2.3:a:shenzhen_huizhi_software_development:enterprise_resource_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:shenzhen_interconnection_harbor_network_technology:ofweek_online_exhibition:*:*:*:*:*:*:*:*
 cpe:2.3:a:shenzhen_project:jf6000_cloud_media_collaboration_processing_platform_firmware:*:*:*:*:*:*:*:*
