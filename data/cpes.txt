@@ -3142,6 +3142,7 @@ cpe:2.3:a:amazon:aws_s3_crypto_sdk:*:*:*:*:*:*:*:*
 cpe:2.3:a:amazon:aws_sdk_for_javascipt:*:*:*:*:*:*:*:*
 cpe:2.3:a:amazon:aws_shared_configuration_file_loader:*:*:*:*:*:*:*:*
 cpe:2.3:a:amazon:aws_software_development_kit:*:*:*:*:*:*:*:*
+cpe:2.3:a:amazon:aws_transform_mcp_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:amazon:aws_workspaces:*:*:*:*:*:*:*:*
 cpe:2.3:a:amazon:awslabs_sandbox_accounts_for_events:*:*:*:*:*:*:*:*
 cpe:2.3:a:amazon:awsui\/components-react:*:*:*:*:*:*:*:*
