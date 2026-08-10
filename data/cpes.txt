@@ -3151,6 +3151,7 @@ cpe:2.3:a:amazon:cloudfront:*:*:*:*:*:*:*:*
 cpe:2.3:a:amazon:cloudwatch_agent:*:*:*:*:*:*:*:*
 cpe:2.3:a:amazon:corretto:*:*:*:*:*:*:*:*
 cpe:2.3:a:amazon:data.all:*:*:*:*:*:*:*:*
+cpe:2.3:a:amazon:documentdb_mcp_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:amazon:ec2_api_tools_java_library:*:*:*:*:*:*:*:*
 cpe:2.3:a:amazon:efs-utils:*:*:*:*:*:*:*:*
 cpe:2.3:a:amazon:efs_csi_driver:*:*:*:*:*:*:*:*
@@ -21339,7 +21340,6 @@ cpe:2.3:a:f5:nginx:*:*:*:*:*:*:*:*
 cpe:2.3:a:f5:nginx_agent:*:*:*:*:*:*:*:*
 cpe:2.3:a:f5:nginx_api_connectivity_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:f5:nginx_app_protect:*:*:*:*:*:*:*:*
-cpe:2.3:a:f5:nginx_app_protect_dos:*:*:*:*:*:*:*:*
 cpe:2.3:a:f5:nginx_app_protect_waf:*:*:*:*:*:*:*:*
 cpe:2.3:a:f5:nginx_controller:*:*:*:*:*:*:*:*
 cpe:2.3:a:f5:nginx_controller_api_management:*:*:*:*:*:*:*:*
@@ -54903,6 +54903,7 @@ cpe:2.3:a:proxyman:proxyman:*:*:*:*:*:*:*:*
 cpe:2.3:a:proxymis:html5_chat:*:*:*:*:*:*:*:*
 cpe:2.3:a:proxymis:interview:*:*:*:*:*:*:*:*
 cpe:2.3:a:proxyscotch_project:proxyscotch:*:*:*:*:*:*:*:*
+cpe:2.3:a:proxysql:proxysql:*:*:*:*:*:*:*:*
 cpe:2.3:a:proxytunnel:proxytunnel:*:*:*:*:*:*:*:*
 cpe:2.3:a:prozilla:cheats:*:*:*:*:*:*:*:*
 cpe:2.3:a:prozilla:entertainers:*:*:*:*:*:*:*:*
