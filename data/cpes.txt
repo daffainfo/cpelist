@@ -17618,6 +17618,7 @@ cpe:2.3:a:dmconcept:configurator:*:*:*:*:*:*:*:*
 cpe:2.3:a:dmcounter:dmcounter:*:*:*:*:*:*:*:*
 cpe:2.3:a:dmg2img_project:dmg2img:*:*:*:*:*:*:*:*
 cpe:2.3:a:dminnich:simple_php_news:*:*:*:*:*:*:*:*
+cpe:2.3:a:dmitriiweb:article-scraper-mcp:*:*:*:*:*:*:*:*
 cpe:2.3:a:dmitry_baryshev:ksquirrel-libs:*:*:*:*:*:*:*:*
 cpe:2.3:a:dmitry_loac:taxotouch:*:*:*:*:*:*:*:*
 cpe:2.3:a:dmitry_project:dmitry:*:*:*:*:*:*:*:*
@@ -19229,6 +19230,7 @@ cpe:2.3:a:efilego:efilego:*:*:*:*:*:*:*:*
 cpe:2.3:a:efileman:efileman:*:*:*:*:*:*:*:*
 cpe:2.3:a:efingerd:efingerd:*:*:*:*:*:*:*:*
 cpe:2.3:a:efkan_forum:efkan_forum:*:*:*:*:*:*:*:*
+cpe:2.3:a:efm:iptime_ax8004m:*:*:*:*:*:*:*:*
 cpe:2.3:a:efone:efone:*:*:*:*:*:*:*:*
 cpe:2.3:a:efrontlearning:efront:*:*:*:*:*:*:*:*
 cpe:2.3:a:efrontlearning:efront_community_\+\+:*:*:*:*:*:*:*:*
@@ -36785,6 +36787,7 @@ cpe:2.3:a:kingsoftsecurity:kingsoft_antivirus:*:*:*:*:*:*:*:*
 cpe:2.3:a:kingsoftstore:kingsoft_wps_office:*:*:*:*:*:*:*:*
 cpe:2.3:a:kingsoftstore:wps_office_free:*:*:*:*:*:*:*:*
 cpe:2.3:a:kingstemple:the_king\'s_temple_church_website:*:*:*:*:*:*:*:*
+cpe:2.3:a:kingston:fury_ctrl_rgb_control_software:*:*:*:*:*:*:*:*
 cpe:2.3:a:kino-kafkaesque:ssh-mcp-server:*:*:*:*:*:*:*:*
 cpe:2.3:a:kinsey:infor-lawson:*:*:*:*:*:*:*:*
 cpe:2.3:a:kinson_chan_charray:cms:*:*:*:*:*:*:*:*
@@ -44318,6 +44321,7 @@ cpe:2.3:a:mulesoft:mule_enterprise_management_console:*:*:*:*:*:*:*:*
 cpe:2.3:a:mulesoft:mule_runtime:*:*:*:*:*:*:*:*
 cpe:2.3:a:mullerdigital:duplicate_theme:*:*:*:*:*:*:*:*
 cpe:2.3:a:mullvad:mullvad_vpn:*:*:*:*:*:*:*:*
+cpe:2.3:a:mullvad:wireguard.sys:*:*:*:*:*:*:*:*
 cpe:2.3:a:multi-aterm:multi-aterm:*:*:*:*:*:*:*:*
 cpe:2.3:a:multi-column_tag_map_project:multi-column_tag_map:*:*:*:*:*:*:*:*
 cpe:2.3:a:multi-dnc:multi-dnc:*:*:*:*:*:*:*:*
@@ -59109,6 +59113,7 @@ cpe:2.3:a:sahipro:sahi_pro:*:*:*:*:*:*:*:*
 cpe:2.3:a:sahu:sahu_tiktok_pixel_for_e-commerce:*:*:*:*:*:*:*:*
 cpe:2.3:a:saibo:cyber_game_accelerator:*:*:*:*:*:*:*:*
 cpe:2.3:a:saifor:cvms_hub:*:*:*:*:*:*:*:*
+cpe:2.3:a:saigroup:saiadmin:*:*:*:*:*:*:*:*
 cpe:2.3:a:sail:sail:*:*:*:*:*:*:*:*
 cpe:2.3:a:sailpoint:desktop_password_reset:*:*:*:*:*:*:*:*
 cpe:2.3:a:sailpoint:identity_security_cloud:*:*:*:*:*:*:*:*
@@ -59120,6 +59125,7 @@ cpe:2.3:a:saintcorporation:saintscanner:*:*:*:*:*:*:*:*
 cpe:2.3:a:saintsystems:disable_user_login:*:*:*:*:*:*:*:*
 cpe:2.3:a:sainwp:onestore_sites:*:*:*:*:*:*:*:*
 cpe:2.3:a:saison:dataspider_servista:*:*:*:*:*:*:*:*
+cpe:2.3:a:saithink:saiadmin:*:*:*:*:*:*:*:*
 cpe:2.3:a:saitodev:soy_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:saitoha:libsixel:*:*:*:*:*:*:*:*
 cpe:2.3:a:saj-electric:saj_solar_inverter:*:*:*:*:*:*:*:*
@@ -69978,6 +69984,7 @@ cpe:2.3:a:uapplication:ublog:*:*:*:*:*:*:*:*
 cpe:2.3:a:uapplication:ublog_reload:*:*:*:*:*:*:*:*
 cpe:2.3:a:uapplication:uguestbook:*:*:*:*:*:*:*:*
 cpe:2.3:a:uapplication:uphotogallery:*:*:*:*:*:*:*:*
+cpe:2.3:a:uasoft:badaso:*:*:*:*:*:*:*:*
 cpe:2.3:a:uatech:badaso:*:*:*:*:*:*:*:*
 cpe:2.3:a:ubbcentral:ubb.threads:*:*:*:*:*:*:*:*
 cpe:2.3:a:ubcd4win:ubcd4win:*:*:*:*:*:*:*:*
