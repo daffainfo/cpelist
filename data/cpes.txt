@@ -18972,6 +18972,7 @@ cpe:2.3:a:eclime:eclime:*:*:*:*:*:*:*:*
 cpe:2.3:a:eclinicalworks:patient_portal:*:*:*:*:*:*:*:*
 cpe:2.3:a:eclinicalworks:population_health:*:*:*:*:*:*:*:*
 cpe:2.3:a:eclipse:4diac_forte:*:*:*:*:*:*:*:*
+cpe:2.3:a:eclipse:accessibility_tools_framework:*:*:*:*:*:*:*:*
 cpe:2.3:a:eclipse:angus_mail:*:*:*:*:*:*:*:*
 cpe:2.3:a:eclipse:birt:*:*:*:*:*:*:*:*
 cpe:2.3:a:eclipse:buildship:*:*:*:*:*:*:*:*
@@ -29553,6 +29554,7 @@ cpe:2.3:a:ibm:blackice_server_protection:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:bluemix:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:bootable_media_creator:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:business_automation_content_analyzer_on_cloud:*:*:*:*:*:*:*:*
+cpe:2.3:a:ibm:business_automation_insights:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:business_automation_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:business_automation_manager_open_editions:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:business_automation_workflow:*:*:*:*:*:*:*:*
@@ -35085,6 +35087,7 @@ cpe:2.3:a:johnsoncontrols:exacqvision_client:*:*:*:*:*:*:*:*
 cpe:2.3:a:johnsoncontrols:exacqvision_enterprise_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:johnsoncontrols:exacqvision_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:johnsoncontrols:exacqvision_web_service:*:*:*:*:*:*:*:*
+cpe:2.3:a:johnsoncontrols:fms_employee:*:*:*:*:*:*:*:*
 cpe:2.3:a:johnsoncontrols:kantech_entrapass:*:*:*:*:*:*:*:*
 cpe:2.3:a:johnsoncontrols:metasys:*:*:*:*:*:*:*:*
 cpe:2.3:a:johnsoncontrols:metasys_application_and_data_server:*:*:*:*:*:*:*:*
@@ -35101,6 +35104,7 @@ cpe:2.3:a:johnsoncontrols:pegasys_p2000_server_software:*:*:*:*:*:*:*:*
 cpe:2.3:a:johnsoncontrols:software_house_c-cure_9000:*:*:*:*:*:*:*:*
 cpe:2.3:a:johnsoncontrols:victor_web:*:*:*:*:*:*:*:*
 cpe:2.3:a:johnsoncontrols:victor_web_client:*:*:*:*:*:*:*:*
+cpe:2.3:a:johnsoncontrols:xaap:*:*:*:*:*:*:*:*
 cpe:2.3:a:johntp:adsense-deluxe:*:*:*:*:*:*:*:*
 cpe:2.3:a:johtru:gymnoovp:*:*:*:*:*:*:*:*
 cpe:2.3:a:join-lemmy:lemmy:*:*:*:*:*:*:*:*
@@ -63800,6 +63804,7 @@ cpe:2.3:a:sothink:swf_decompiler:*:*:*:*:*:*:*:*
 cpe:2.3:a:soti:pocket_controller-professional:*:*:*:*:*:*:*:*
 cpe:2.3:a:soumu:electronic_reception_and_examination_of_application_for_radio_licenses:*:*:*:*:*:*:*:*
 cpe:2.3:a:soumu:koukyoumuke_soumu_workflow:*:*:*:*:*:*:*:*
+cpe:2.3:a:soumu:michecker:*:*:*:*:*:*:*:*
 cpe:2.3:a:soumu:soumo_workflow:*:*:*:*:*:*:*:*
 cpe:2.3:a:soumu:soumu_workflow:*:*:*:*:*:*:*:*
 cpe:2.3:a:sound4:linkandshare_transmitter:*:*:*:*:*:*:*:*
@@ -172515,13 +172520,11 @@ cpe:2.3:o:microsoft:windows_10_21H1:*:*:*:*:*:*:*:*
 cpe:2.3:o:microsoft:windows_10_21H2:*:*:*:*:*:*:*:*
 cpe:2.3:o:microsoft:windows_10_21h1:*:*:*:*:*:*:*:*
 cpe:2.3:o:microsoft:windows_10_21h2:*:*:*:*:*:*:*:*
-cpe:2.3:o:microsoft:windows_10_22H2:*:*:*:*:*:*:*:*
 cpe:2.3:o:microsoft:windows_10_22h2:*:*:*:*:*:*:*:*
 cpe:2.3:o:microsoft:windows_10_mobile:*:*:*:*:*:*:*:*
 cpe:2.3:o:microsoft:windows_11:*:*:*:*:*:*:*:*
 cpe:2.3:o:microsoft:windows_11_21H2:*:*:*:*:*:*:*:*
 cpe:2.3:o:microsoft:windows_11_21h2:*:*:*:*:*:*:*:*
-cpe:2.3:o:microsoft:windows_11_22H2:*:*:*:*:*:*:*:*
 cpe:2.3:o:microsoft:windows_11_22h2:*:*:*:*:*:*:*:*
 cpe:2.3:o:microsoft:windows_11_23h2:*:*:*:*:*:*:*:*
 cpe:2.3:o:microsoft:windows_11_24h2:*:*:*:*:*:*:*:*
