@@ -27938,6 +27938,7 @@ cpe:2.3:a:hostingcontroller:hc8:*:*:*:*:*:*:*:*
 cpe:2.3:a:hostingcontroller:hc9:*:*:*:*:*:*:*:*
 cpe:2.3:a:hostingcontroller:hosting_controller:*:*:*:*:*:*:*:*
 cpe:2.3:a:hostinger:hostinger:*:*:*:*:*:*:*:*
+cpe:2.3:a:hostinger:hostinger_tools:*:*:*:*:*:*:*:*
 cpe:2.3:a:hostosm:tasking_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:hostr_project:hostr:*:*:*:*:*:*:*:*
 cpe:2.3:a:hot-formula-parser_project:hot-formula-parser:*:*:*:*:*:*:*:*
@@ -35073,6 +35074,7 @@ cpe:2.3:a:john_vandyk:workflow:*:*:*:*:*:*:*:*
 cpe:2.3:a:john_west:slideshow_se:*:*:*:*:*:*:*:*
 cpe:2.3:a:johnbillion:wp_crontrol:*:*:*:*:*:*:*:*
 cpe:2.3:a:johndatserakis:file-upload-with-preview:*:*:*:*:*:*:*:*
+cpe:2.3:a:johngodley:redirection:*:*:*:*:*:*:*:*
 cpe:2.3:a:johnhuang316:code-index-mcp:*:*:*:*:*:*:*:*
 cpe:2.3:a:johnkerl:miller:*:*:*:*:*:*:*:*
 cpe:2.3:a:johnkolbert:absolute_privacy:*:*:*:*:*:*:*:*
@@ -58625,6 +58627,7 @@ cpe:2.3:a:rpyc_project:rpyc:*:*:*:*:*:*:*:*
 cpe:2.3:a:rrdbrowse:rrdbrowse:*:*:*:*:*:*:*:*
 cpe:2.3:a:rrdtool_project:rrdtool:*:*:*:*:*:*:*:*
 cpe:2.3:a:rrrene:html_sanitize_ex:*:*:*:*:*:*:*:*
+cpe:2.3:a:rrrene:htmlsanitizeex:*:*:*:*:*:*:*:*
 cpe:2.3:a:rrtoken_project:rrtoken:*:*:*:*:*:*:*:*
 cpe:2.3:a:rrwo:data\:\:entropy:*:*:*:*:*:*:*:*
 cpe:2.3:a:rrwo:net\:\:cidr\:\:set:*:*:*:*:*:*:*:*
@@ -73893,6 +73896,7 @@ cpe:2.3:a:wolfram_research:webmathematica:*:*:*:*:*:*:*:*
 cpe:2.3:a:wolfram_schneider:makewhatis:*:*:*:*:*:*:*:*
 cpe:2.3:a:wolfsight:wolfsight_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:wolfssh:wolfssh:*:*:*:*:*:*:*:*
+cpe:2.3:a:wolfssl:wolfboot:*:*:*:*:*:*:*:*
 cpe:2.3:a:wolfssl:wolfcrypt:*:*:*:*:*:*:*:*
 cpe:2.3:a:wolfssl:wolfmqtt:*:*:*:*:*:*:*:*
 cpe:2.3:a:wolfssl:wolfssl:*:*:*:*:*:*:*:*
@@ -147001,6 +147005,7 @@ cpe:2.3:o:cisco:remote_phy_shelf_7200_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:cisco:residential_gateway_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:cisco:rf_gateway_1_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:cisco:roomos:*:*:*:*:*:*:*:*
+cpe:2.3:o:cisco:roomos_cloud:*:*:*:*:*:*:*:*
 cpe:2.3:o:cisco:rtp300_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:cisco:rv016_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:cisco:rv016_multi-wan_vpn_firmware:*:*:*:*:*:*:*:*
