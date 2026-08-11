@@ -3111,6 +3111,7 @@ cpe:2.3:a:amazon:amazon_web_services_internet_of_things_device_software_developm
 cpe:2.3:a:amazon:amazon_web_services_redshift_java_database_connectivity_driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:amazon:amazon_web_services_software_development_kit:*:*:*:*:*:*:*:*
 cpe:2.3:a:amazon:amplify_cli:*:*:*:*:*:*:*:*
+cpe:2.3:a:amazon:amplify_codegen_ui:*:*:*:*:*:*:*:*
 cpe:2.3:a:amazon:application_load_balancer:*:*:*:*:*:*:*:*
 cpe:2.3:a:amazon:athena_odbc:*:*:*:*:*:*:*:*
 cpe:2.3:a:amazon:audible:*:*:*:*:*:*:*:*
@@ -3122,6 +3123,7 @@ cpe:2.3:a:amazon:aws-lc-rs:*:*:*:*:*:*:*:*
 cpe:2.3:a:amazon:aws-lc-sys:*:*:*:*:*:*:*:*
 cpe:2.3:a:amazon:aws-sdk-java:*:*:*:*:*:*:*:*
 cpe:2.3:a:amazon:aws-sigv4:*:*:*:*:*:*:*:*
+cpe:2.3:a:amazon:aws-smithy-json:*:*:*:*:*:*:*:*
 cpe:2.3:a:amazon:aws_alb_route_directive_adapter_for_istio:*:*:*:*:*:*:*:*
 cpe:2.3:a:amazon:aws_api_mcp_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:amazon:aws_client_vpn:*:*:*:*:*:*:*:*
@@ -16647,6 +16649,7 @@ cpe:2.3:a:dell:rsa_bsafe_ssl-j:*:*:*:*:*:*:*:*
 cpe:2.3:a:dell:rsa_identity_governance_and_lifecycle:*:*:*:*:*:*:*:*
 cpe:2.3:a:dell:rsa_via_lifecycle_and_governance:*:*:*:*:*:*:*:*
 cpe:2.3:a:dell:rugged_control_center:*:*:*:*:*:*:*:*
+cpe:2.3:a:dell:rvtools:*:*:*:*:*:*:*:*
 cpe:2.3:a:dell:sd_rom_utility:*:*:*:*:*:*:*:*
 cpe:2.3:a:dell:secure_connect_gateway:*:*:*:*:*:*:*:*
 cpe:2.3:a:dell:secure_connect_gateway_appliance:*:*:*:*:*:*:*:*
@@ -54619,6 +54622,7 @@ cpe:2.3:a:progress:moveit_cloud:*:*:*:*:*:*:*:*
 cpe:2.3:a:progress:moveit_gateway:*:*:*:*:*:*:*:*
 cpe:2.3:a:progress:moveit_transfer:*:*:*:*:*:*:*:*
 cpe:2.3:a:progress:moveit_waf:*:*:*:*:*:*:*:*
+cpe:2.3:a:progress:moveit_web_application_firewall:*:*:*:*:*:*:*:*
 cpe:2.3:a:progress:multi-tenant_hypervisor:*:*:*:*:*:*:*:*
 cpe:2.3:a:progress:multi-tenant_loadmaster:*:*:*:*:*:*:*:*
 cpe:2.3:a:progress:objectstore:*:*:*:*:*:*:*:*
