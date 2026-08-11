@@ -21344,7 +21344,6 @@ cpe:2.3:a:f5:nginx:*:*:*:*:*:*:*:*
 cpe:2.3:a:f5:nginx_agent:*:*:*:*:*:*:*:*
 cpe:2.3:a:f5:nginx_api_connectivity_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:f5:nginx_app_protect:*:*:*:*:*:*:*:*
-cpe:2.3:a:f5:nginx_app_protect_waf:*:*:*:*:*:*:*:*
 cpe:2.3:a:f5:nginx_controller:*:*:*:*:*:*:*:*
 cpe:2.3:a:f5:nginx_controller_api_management:*:*:*:*:*:*:*:*
 cpe:2.3:a:f5:nginx_dos:*:*:*:*:*:*:*:*
@@ -40540,6 +40539,7 @@ cpe:2.3:a:matterdaddy:matterdaddy_market:*:*:*:*:*:*:*:*
 cpe:2.3:a:mattermost:channel_export:*:*:*:*:*:*:*:*
 cpe:2.3:a:mattermost:confluence:*:*:*:*:*:*:*:*
 cpe:2.3:a:mattermost:focalboard:*:*:*:*:*:*:*:*
+cpe:2.3:a:mattermost:google_drive:*:*:*:*:*:*:*:*
 cpe:2.3:a:mattermost:legal_hold:*:*:*:*:*:*:*:*
 cpe:2.3:a:mattermost:mattermost:*:*:*:*:*:*:*:*
 cpe:2.3:a:mattermost:mattermost_boards:*:*:*:*:*:*:*:*
@@ -44899,10 +44899,11 @@ cpe:2.3:a:naig:naig:*:*:*:*:*:*:*:*
 cpe:2.3:a:naist.jp:chasen:*:*:*:*:*:*:*:*
 cpe:2.3:a:najdi.si:toolbar:*:*:*:*:*:*:*:*
 cpe:2.3:a:najeeb_ahmad:simple_user_registration:*:*:*:*:*:*:*:*
-cpe:2.3:a:najeebmedia:comments_extra_fields:*:*:*:*:*:*:*:*
+cpe:2.3:a:najeebmedia:comments_extra_fields_for_post\,_pages_and_cpt:*:*:*:*:*:*:*:*
 cpe:2.3:a:najeebmedia:easy_quiz_maker:*:*:*:*:*:*:*:*
 cpe:2.3:a:najeebmedia:frontend_file_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:najeebmedia:frontend_file_manager_plugin:*:*:*:*:*:*:*:*
+cpe:2.3:a:najeebmedia:memberhero:*:*:*:*:*:*:*:*
 cpe:2.3:a:najeebmedia:n-media_file_uploader:*:*:*:*:*:*:*:*
 cpe:2.3:a:najeebmedia:n-media_post_front-end_form:*:*:*:*:*:*:*:*
 cpe:2.3:a:najeebmedia:personalized_woocommerce_cart_page:*:*:*:*:*:*:*:*
@@ -73601,6 +73602,7 @@ cpe:2.3:a:wikimedia:mediawiki-extensions-i18ntags:*:*:*:*:*:*:*:*
 cpe:2.3:a:wikimedia:mediawiki-extensions-uploadwizard:*:*:*:*:*:*:*:*
 cpe:2.3:a:wikimedia:pagetriage:*:*:*:*:*:*:*:*
 cpe:2.3:a:wikimedia:parsoid:*:*:*:*:*:*:*:*
+cpe:2.3:a:wikimedia:scribunto:*:*:*:*:*:*:*:*
 cpe:2.3:a:wikimedia:wikibase:*:*:*:*:*:*:*:*
 cpe:2.3:a:wikimedia:wikidata_query_gui:*:*:*:*:*:*:*:*
 cpe:2.3:a:wikimedia:wikimedia-extensions-css:*:*:*:*:*:*:*:*
