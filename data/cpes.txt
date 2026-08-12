@@ -13940,6 +13940,7 @@ cpe:2.3:a:comment_project:comment:*:*:*:*:*:*:*:*
 cpe:2.3:a:comment_reply_notification_project:comment_reply_notification:*:*:*:*:*:*:*:*
 cpe:2.3:a:comment_system_project:comment_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:commentapp.stetsonwood_project:commentapp.stetsonwood:*:*:*:*:*:*:*:*
+cpe:2.3:a:commenthol:md-fileserver:*:*:*:*:*:*:*:*
 cpe:2.3:a:commentluv:commentluv:*:*:*:*:*:*:*:*
 cpe:2.3:a:commerce:america\'s_economy_for_phone:*:*:*:*:*:*:*:*
 cpe:2.3:a:commerce_alphabank_redirect_project:commerce_alphabank_redirect:*:*:*:*:*:*:*:*
@@ -51415,6 +51416,7 @@ cpe:2.3:a:paulgriffinpetty:wp_plugin_lister:*:*:*:*:*:*:*:*
 cpe:2.3:a:paulprinting_project:paulprinting:*:*:*:*:*:*:*:*
 cpe:2.3:a:paulrosen:abc_notation:*:*:*:*:*:*:*:*
 cpe:2.3:a:paulrouget:dzslides:*:*:*:*:*:*:*:*
+cpe:2.3:a:paulsm:zeroconf:*:*:*:*:*:*:*:*
 cpe:2.3:a:paulycoin_project:paulycoin:*:*:*:*:*:*:*:*
 cpe:2.3:a:pauple:tablesome:*:*:*:*:*:*:*:*
 cpe:2.3:a:pavel-odintsov:fastnetmon:*:*:*:*:*:*:*:*
@@ -64437,6 +64439,7 @@ cpe:2.3:a:squareup:okhttp:*:*:*:*:*:*:*:*
 cpe:2.3:a:squareup:okio:*:*:*:*:*:*:*:*
 cpe:2.3:a:squareup:retrofit:*:*:*:*:*:*:*:*
 cpe:2.3:a:squareup:squalor:*:*:*:*:*:*:*:*
+cpe:2.3:a:squareup:wire:*:*:*:*:*:*:*:*
 cpe:2.3:a:squash:square_squash:*:*:*:*:*:*:*:*
 cpe:2.3:a:squashfs-tools_project:squashfs-tools:*:*:*:*:*:*:*:*
 cpe:2.3:a:squashfs_project:squashfs-tools:*:*:*:*:*:*:*:*
@@ -107262,6 +107265,8 @@ cpe:2.3:h:hpe:aruba_cx_9300s_32p_\(s0f83a\):*:*:*:*:*:*:*:*
 cpe:2.3:h:hpe:aruba_cx_9300s_32p_\(s0f84a\):*:*:*:*:*:*:*:*
 cpe:2.3:h:hpe:aruba_cx_9300s_32p_\(s0f87a\):*:*:*:*:*:*:*:*
 cpe:2.3:h:hpe:aruba_cx_9300s_32p_\(s0f88a\):*:*:*:*:*:*:*:*
+cpe:2.3:h:hpe:aruba_cx_9300s_32p_\(s0f95a\):*:*:*:*:*:*:*:*
+cpe:2.3:h:hpe:aruba_cx_9300s_32p_\(s0f96a\):*:*:*:*:*:*:*:*
 cpe:2.3:h:hpe:aruba_instant_on_1930_24g_4sfp\/sfp\+:*:*:*:*:*:*:*:*
 cpe:2.3:h:hpe:aruba_instant_on_1930_24g_class4_poe_4sfp\/sfp\+_195w:*:*:*:*:*:*:*:*
 cpe:2.3:h:hpe:aruba_instant_on_1930_24g_class4_poe_4sfp\/sfp\+_370w:*:*:*:*:*:*:*:*
