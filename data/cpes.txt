@@ -2116,6 +2116,7 @@ cpe:2.3:a:ahmattox:processing_embed_plugin:*:*:*:*:*:*:*:*
 cpe:2.3:a:ahmed_abdel-hamid_mohamed:acon:*:*:*:*:*:*:*:*
 cpe:2.3:a:ahmet_donmez:webeyes_guest_book:*:*:*:*:*:*:*:*
 cpe:2.3:a:ahmetimamoglu:ahmeti_wp_timeline:*:*:*:*:*:*:*:*
+cpe:2.3:a:ahnlab:epp_management:*:*:*:*:*:*:*:*
 cpe:2.3:a:ahnlab:myv3:*:*:*:*:*:*:*:*
 cpe:2.3:a:ahnlab:v3_internet_security:*:*:*:*:*:*:*:*
 cpe:2.3:a:ahnlab:v3_lite:*:*:*:*:*:*:*:*
@@ -54895,6 +54896,7 @@ cpe:2.3:a:prowler:prowler:*:*:*:*:*:*:*:*
 cpe:2.3:a:proxifier:proxifier:*:*:*:*:*:*:*:*
 cpe:2.3:a:proxmov:virtual_environment:*:*:*:*:*:*:*:*
 cpe:2.3:a:proxmox:backup_server:*:*:*:*:*:*:*:*
+cpe:2.3:a:proxmox:libpve-storage-perl:*:*:*:*:*:*:*:*
 cpe:2.3:a:proxmox:mail_gateway:*:*:*:*:*:*:*:*
 cpe:2.3:a:proxmox:proxmox-widget-toolkit:*:*:*:*:*:*:*:*
 cpe:2.3:a:proxmox:proxmox:*:*:*:*:*:*:*:*
