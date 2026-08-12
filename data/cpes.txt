@@ -918,6 +918,8 @@ cpe:2.3:a:acemetrix:jquery-deparam:*:*:*:*:*:*:*:*
 cpe:2.3:a:acer:acer_portal:*:*:*:*:*:*:*:*
 cpe:2.3:a:acer:care_center:*:*:*:*:*:*:*:*
 cpe:2.3:a:acer:lunchapp.aplunch:*:*:*:*:*:*:*:*
+cpe:2.3:a:acer:nitrosense:*:*:*:*:*:*:*:*
+cpe:2.3:a:acer:predatorsense:*:*:*:*:*:*:*:*
 cpe:2.3:a:acer:quick_access:*:*:*:*:*:*:*:*
 cpe:2.3:a:acer:quickaccess:*:*:*:*:*:*:*:*
 cpe:2.3:a:acespritech:social_link_groups:*:*:*:*:*:*:*:*
@@ -21622,6 +21624,9 @@ cpe:2.3:a:facebook:radio_de_la_cato:*:*:*:*:*:*:*:*
 cpe:2.3:a:facebook:react-dev-utils:*:*:*:*:*:*:*:*
 cpe:2.3:a:facebook:react-devtools:*:*:*:*:*:*:*:*
 cpe:2.3:a:facebook:react-native:*:*:*:*:*:*:*:*
+cpe:2.3:a:facebook:react-server-dom-parcel:*:*:*:*:*:*:*:*
+cpe:2.3:a:facebook:react-server-dom-turbopack:*:*:*:*:*:*:*:*
+cpe:2.3:a:facebook:react-server-dom-webpack:*:*:*:*:*:*:*:*
 cpe:2.3:a:facebook:react:*:*:*:*:*:*:*:*
 cpe:2.3:a:facebook:redex:*:*:*:*:*:*:*:*
 cpe:2.3:a:facebook:savage_nation_mobile_web:*:*:*:*:*:*:*:*
