@@ -8289,6 +8289,7 @@ cpe:2.3:a:blue_world_communications:lasso_cgi:*:*:*:*:*:*:*:*
 cpe:2.3:a:blue_world_communications:lasso_web_data_engine:*:*:*:*:*:*:*:*
 cpe:2.3:a:blueaccesstech:cobalt_x1:*:*:*:*:*:*:*:*
 cpe:2.3:a:blueastral:page_builder\:_live_composer:*:*:*:*:*:*:*:*
+cpe:2.3:a:bluebirdjs:bluebird:*:*:*:*:*:*:*:*
 cpe:2.3:a:bluecatnetworks:adonis:*:*:*:*:*:*:*:*
 cpe:2.3:a:bluecatnetworks:adonis_management_console:*:*:*:*:*:*:*:*
 cpe:2.3:a:bluecatnetworks:device_registration_portal:*:*:*:*:*:*:*:*
@@ -12989,6 +12990,7 @@ cpe:2.3:a:cloudfoundry:uaa_release:*:*:*:*:*:*:*:*
 cpe:2.3:a:cloudfoundry:user_account_and_authentication:*:*:*:*:*:*:*:*
 cpe:2.3:a:cloudhypervisor:cloud_hypervisor:*:*:*:*:*:*:*:*
 cpe:2.3:a:cloudilyaerp:bet_e-portal:*:*:*:*:*:*:*:*
+cpe:2.3:a:cloudinary:cloudinary:*:*:*:*:*:*:*:*
 cpe:2.3:a:cloudlinux:ai-bolit:*:*:*:*:*:*:*:*
 cpe:2.3:a:cloudlinux:cagefs:*:*:*:*:*:*:*:*
 cpe:2.3:a:cloudlinux:imunify360:*:*:*:*:*:*:*:*
@@ -26798,6 +26800,7 @@ cpe:2.3:a:hcltech:bigfix_webui_take_action:*:*:*:*:*:*:*:*
 cpe:2.3:a:hcltech:commerce:*:*:*:*:*:*:*:*
 cpe:2.3:a:hcltech:connections:*:*:*:*:*:*:*:*
 cpe:2.3:a:hcltech:connections_docs:*:*:*:*:*:*:*:*
+cpe:2.3:a:hcltech:devops_loop:*:*:*:*:*:*:*:*
 cpe:2.3:a:hcltech:devops_plan:*:*:*:*:*:*:*:*
 cpe:2.3:a:hcltech:devops_velocity:*:*:*:*:*:*:*:*
 cpe:2.3:a:hcltech:dfx_server:*:*:*:*:*:*:*:*
@@ -42117,6 +42120,7 @@ cpe:2.3:a:microsoft:endpoint_protection:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:enhanced_mitigation_experience_toolkit:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:enterprise_library:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:entourage:*:*:*:*:*:*:*:*
+cpe:2.3:a:microsoft:entra_connect:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:entra_id:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:entra_jira_sso_plugin:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:entra_provisioning_service:*:*:*:*:*:*:*:*
@@ -46031,6 +46035,7 @@ cpe:2.3:a:netwitness:netwitness_administrator:*:*:*:*:*:*:*:*
 cpe:2.3:a:netwitness:netwitness_investigator:*:*:*:*:*:*:*:*
 cpe:2.3:a:netwitness:netwitness_live_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:network-13:n-13_news:*:*:*:*:*:*:*:*
+cpe:2.3:a:network-ai:network-ai:*:*:*:*:*:*:*:*
 cpe:2.3:a:network-client.com:ftp_now:*:*:*:*:*:*:*:*
 cpe:2.3:a:network-manager_project:network-manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:network-publishing:rdf_newsfeed_export:*:*:*:*:*:*:*:*
@@ -48653,6 +48658,7 @@ cpe:2.3:a:openjsf:electroncord:*:*:*:*:*:*:*:*
 cpe:2.3:a:openjsf:eslint:*:*:*:*:*:*:*:*
 cpe:2.3:a:openjsf:express:*:*:*:*:*:*:*:*
 cpe:2.3:a:openjsf:fast-uri:*:*:*:*:*:*:*:*
+cpe:2.3:a:openjsf:jest:*:*:*:*:*:*:*:*
 cpe:2.3:a:openjsf:marko:*:*:*:*:*:*:*:*
 cpe:2.3:a:openjsf:messageformat:*:*:*:*:*:*:*:*
 cpe:2.3:a:openjsf:node_version_manager:*:*:*:*:*:*:*:*
