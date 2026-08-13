@@ -16746,6 +16746,7 @@ cpe:2.3:a:delphiturk:codebank:*:*:*:*:*:*:*:*
 cpe:2.3:a:delphiturk:delphiturk_ftp:*:*:*:*:*:*:*:*
 cpe:2.3:a:delphix:delphix_engine:*:*:*:*:*:*:*:*
 cpe:2.3:a:delrina:form_flow:*:*:*:*:*:*:*:*
+cpe:2.3:a:delskayn:rquickjs:*:*:*:*:*:*:*:*
 cpe:2.3:a:delta_electronics:cncsoft-b:*:*:*:*:*:*:*:*
 cpe:2.3:a:delta_electronics:cncsoft-g2:*:*:*:*:*:*:*:*
 cpe:2.3:a:delta_electronics:diaenergie:*:*:*:*:*:*:*:*
@@ -17736,7 +17737,6 @@ cpe:2.3:a:docker:notary:*:*:*:*:*:*:*:*
 cpe:2.3:a:docker:notary_docker_image:*:*:*:*:*:*:*:*
 cpe:2.3:a:docker:rabbitmq_docker_image:*:*:*:*:*:*:*:*
 cpe:2.3:a:docker:registry:*:*:*:*:*:*:*:*
-cpe:2.3:a:docker:sandboxes:*:*:*:*:*:*:*:*
 cpe:2.3:a:docker:spiped:*:*:*:*:*:*:*:*
 cpe:2.3:a:docker:spiped_alpine_docker_image:*:*:*:*:*:*:*:*
 cpe:2.3:a:docker:storm_docker_image:*:*:*:*:*:*:*:*
@@ -29523,6 +29523,7 @@ cpe:2.3:a:ibm:application_support_facility:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:applinx:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:appscan_source:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:as400_firewall:*:*:*:*:*:*:*:*
+cpe:2.3:a:ibm:aspera:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:aspera_application_platform_on_demand:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:aspera_cargo:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:aspera_connect:*:*:*:*:*:*:*:*
@@ -42097,6 +42098,7 @@ cpe:2.3:a:microsoft:dynamics_365_business_central_2022:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:dynamics_365_business_central_2023:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:dynamics_365_business_central_2024:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:dynamics_365_business_central_2025:*:*:*:*:*:*:*:*
+cpe:2.3:a:microsoft:dynamics_365_business_central_2026:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:dynamics_365_customer_insights:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:dynamics_365_customer_service:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:dynamics_365_customer_voice:*:*:*:*:*:*:*:*
@@ -64004,6 +64006,7 @@ cpe:2.3:a:sourcecodester:simple_payroll_system_with_dynamic_tax_bracket:*:*:*:*:
 cpe:2.3:a:sourcecodester:simple_pos_and_inventory_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:simple_realtime_quiz_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:simple_student_attendance_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:sourcecodester:simple_student_information_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:stock_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:student_grades_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:student_record_management_system:*:*:*:*:*:*:*:*
