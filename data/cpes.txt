@@ -356,6 +356,7 @@ cpe:2.3:a:626_project:626:*:*:*:*:*:*:*:*
 cpe:2.3:a:63moons:aero:*:*:*:*:*:*:*:*
 cpe:2.3:a:63moons:wave_2.0:*:*:*:*:*:*:*:*
 cpe:2.3:a:63reasons:supercron:*:*:*:*:*:*:*:*
+cpe:2.3:a:648540858:wvp-gb28181-pro:*:*:*:*:*:*:*:*
 cpe:2.3:a:666ghj:bettafish:*:*:*:*:*:*:*:*
 cpe:2.3:a:6677g:girls_games_-_shoes_maker:*:*:*:*:*:*:*:*
 cpe:2.3:a:68_classifieds:68_classifieds:*:*:*:*:*:*:*:*
@@ -8130,6 +8131,7 @@ cpe:2.3:a:blackfire:blackfire:*:*:*:*:*:*:*:*
 cpe:2.3:a:blackfire:blackfire_docker_image:*:*:*:*:*:*:*:*
 cpe:2.3:a:blackice:black_ice_barcode_sdk:*:*:*:*:*:*:*:*
 cpe:2.3:a:blackice:black_ice_document_imaging_sdk:*:*:*:*:*:*:*:*
+cpe:2.3:a:blacklanternsecurity:bbot:*:*:*:*:*:*:*:*
 cpe:2.3:a:blackmagicdesign:davinci_resolve:*:*:*:*:*:*:*:*
 cpe:2.3:a:blackmoonftpserver:blackmoon_ftp_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:blackorpheus:clanmemberskript:*:*:*:*:*:*:*:*
@@ -9262,6 +9264,7 @@ cpe:2.3:a:broadcom:unified_infrastructure_management:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:unified_infrastructure_management_snap:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:ush_host_components:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:vmware_ace_management_server:*:*:*:*:*:*:*:*
+cpe:2.3:a:broadcom:vmware_avi_load_balancer:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:vmware_center_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:vmware_cloud_foundation:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:vmware_nsx-t_data_center:*:*:*:*:*:*:*:*
@@ -32327,6 +32330,7 @@ cpe:2.3:a:intel:thunderbolt_dch_driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:thunderbolt_non-dch_driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:thunderbolt_share_software:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:trace_analyzer_and_collector:*:*:*:*:*:*:*:*
+cpe:2.3:a:intel:trust_domain_extensions_guest:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:trust_domain_extensions_module:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:trusted_execution_technology:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:turbo_boost_max_technology_3.0:*:*:*:*:*:*:*:*
@@ -35714,6 +35718,7 @@ cpe:2.3:a:juergen:weigert_screen:*:*:*:*:*:*:*:*
 cpe:2.3:a:juergen_furrer:jftcaforms:*:*:*:*:*:*:*:*
 cpe:2.3:a:juergen_schoenwaelder:scotty:*:*:*:*:*:*:*:*
 cpe:2.3:a:jugmac00:flask-reuploaded:*:*:*:*:*:*:*:*
+cpe:2.3:a:juicedata:juicefs:*:*:*:*:*:*:*:*
 cpe:2.3:a:juiker:juiker:*:*:*:*:*:*:*:*
 cpe:2.3:a:julialang:julia:*:*:*:*:*:*:*:*
 cpe:2.3:a:julialang:registrator:*:*:*:*:*:*:*:*
@@ -64003,6 +64008,7 @@ cpe:2.3:a:sourcecodester:service_provider_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:ship_ferry_ticket_reservation_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:shopping_website:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:simple_and_nice_shopping_cart_script:*:*:*:*:*:*:*:*
+cpe:2.3:a:sourcecodester:simple_client_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:simple_doctors_appointment_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:simple_file_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:simple_food_ordering_system:*:*:*:*:*:*:*:*
@@ -66164,6 +66170,7 @@ cpe:2.3:a:symcon:ip_symcon:*:*:*:*:*:*:*:*
 cpe:2.3:a:symetrie_project:symetrie:*:*:*:*:*:*:*:*
 cpe:2.3:a:symfony:symfony:*:*:*:*:*:*:*:*
 cpe:2.3:a:symfony:twig-bridge:*:*:*:*:*:*:*:*
+cpe:2.3:a:symfony:twig-bundle:*:*:*:*:*:*:*:*
 cpe:2.3:a:symfony:twig:*:*:*:*:*:*:*:*
 cpe:2.3:a:symfony:ux:*:*:*:*:*:*:*:*
 cpe:2.3:a:symfony:ux_autocomplete:*:*:*:*:*:*:*:*
@@ -69373,6 +69380,7 @@ cpe:2.3:a:trendnet:securview_wireless_internet_camera_activex_control:*:*:*:*:*:
 cpe:2.3:a:trendnet:tew-432brp:*:*:*:*:*:*:*:*
 cpe:2.3:a:trendnet:tew-635brm:*:*:*:*:*:*:*:*
 cpe:2.3:a:trendnet:tew-814dap:*:*:*:*:*:*:*:*
+cpe:2.3:a:trendnet:tew-816drm:*:*:*:*:*:*:*:*
 cpe:2.3:a:trendnet:tew-827dru_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:a:trendylogics:crypto_currency_tracker:*:*:*:*:*:*:*:*
 cpe:2.3:a:tresata:tree-orion:*:*:*:*:*:*:*:*
@@ -71802,6 +71810,7 @@ cpe:2.3:a:vitaly-t:pg-promise:*:*:*:*:*:*:*:*
 cpe:2.3:a:vitamin_plugin_project:vitamin:*:*:*:*:*:*:*:*
 cpe:2.3:a:vitaracharts:vitaracharts:*:*:*:*:*:*:*:*
 cpe:2.3:a:vitec:exterity_avediaserver:*:*:*:*:*:*:*:*
+cpe:2.3:a:vitec:flamingo:*:*:*:*:*:*:*:*
 cpe:2.3:a:vitei:qlock:*:*:*:*:*:*:*:*
 cpe:2.3:a:vitejs:vite:*:*:*:*:*:*:*:*
 cpe:2.3:a:vitemoneycoin_project:vitemoneycoin:*:*:*:*:*:*:*:*
@@ -72225,6 +72234,8 @@ cpe:2.3:a:vscripts:vbook:*:*:*:*:*:*:*:*
 cpe:2.3:a:vscripts:vnews:*:*:*:*:*:*:*:*
 cpe:2.3:a:vsctoken_project:vsctoken:*:*:*:*:*:*:*:*
 cpe:2.3:a:vsecurity:tandberg_video_communication_server:*:*:*:*:*:*:*:*
+cpe:2.3:a:vsee:clinic:*:*:*:*:*:*:*:*
+cpe:2.3:a:vsee:clinic_api:*:*:*:*:*:*:*:*
 cpe:2.3:a:vserver:linux-vserver:*:*:*:*:*:*:*:*
 cpe:2.3:a:vserver:util-vserver:*:*:*:*:*:*:*:*
 cpe:2.3:a:vsftpd_project:vsftpd:*:*:*:*:*:*:*:*
@@ -72494,6 +72505,7 @@ cpe:2.3:a:watchful:xcloner:*:*:*:*:*:*:*:*
 cpe:2.3:a:watchguard:agent:*:*:*:*:*:*:*:*
 cpe:2.3:a:watchguard:authentication_gateway:*:*:*:*:*:*:*:*
 cpe:2.3:a:watchguard:authpoint_password_manager:*:*:*:*:*:*:*:*
+cpe:2.3:a:watchguard:firebox_cloud:*:*:*:*:*:*:*:*
 cpe:2.3:a:watchguard:firebox_pptp_vpn:*:*:*:*:*:*:*:*
 cpe:2.3:a:watchguard:fireware_xtm:*:*:*:*:*:*:*:*
 cpe:2.3:a:watchguard:hawkeye_g:*:*:*:*:*:*:*:*
@@ -137400,6 +137412,7 @@ cpe:2.3:h:tenda:ac11:*:*:*:*:*:*:*:*
 cpe:2.3:h:tenda:ac1200:*:*:*:*:*:*:*:*
 cpe:2.3:h:tenda:ac1200_v-w15ev2:*:*:*:*:*:*:*:*
 cpe:2.3:h:tenda:ac1206:*:*:*:*:*:*:*:*
+cpe:2.3:h:tenda:ac12:*:*:*:*:*:*:*:*
 cpe:2.3:h:tenda:ac15:*:*:*:*:*:*:*:*
 cpe:2.3:h:tenda:ac18:*:*:*:*:*:*:*:*
 cpe:2.3:h:tenda:ac1900:*:*:*:*:*:*:*:*
