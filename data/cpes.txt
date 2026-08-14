@@ -23848,6 +23848,7 @@ cpe:2.3:a:galileo_cms_project:galileo_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:galileo_students:team_weborf:*:*:*:*:*:*:*:*
 cpe:2.3:a:galix:galix:*:*:*:*:*:*:*:*
 cpe:2.3:a:gallagher:command_centre:*:*:*:*:*:*:*:*
+cpe:2.3:a:gallagher:command_centre_mobile:*:*:*:*:*:*:*:*
 cpe:2.3:a:gallagher:command_centre_mobile_client:*:*:*:*:*:*:*:*
 cpe:2.3:a:gallagher:command_centre_mobile_connect:*:*:*:*:*:*:*:*
 cpe:2.3:a:gallagherwebsitedesign:coronavirus_\(covid-19\)_notice_message:*:*:*:*:*:*:*:*
@@ -69379,6 +69380,7 @@ cpe:2.3:a:trendmicro:worry-free_business_security_services:*:*:*:*:*:*:*:*
 cpe:2.3:a:trendnet:securview_wireless_internet_camera_activex_control:*:*:*:*:*:*:*:*
 cpe:2.3:a:trendnet:tew-432brp:*:*:*:*:*:*:*:*
 cpe:2.3:a:trendnet:tew-635brm:*:*:*:*:*:*:*:*
+cpe:2.3:a:trendnet:tew-813dru:*:*:*:*:*:*:*:*
 cpe:2.3:a:trendnet:tew-814dap:*:*:*:*:*:*:*:*
 cpe:2.3:a:trendnet:tew-816drm:*:*:*:*:*:*:*:*
 cpe:2.3:a:trendnet:tew-827dru_firmware:*:*:*:*:*:*:*:*
@@ -94420,6 +94422,15 @@ cpe:2.3:h:gajshield:data_security_firewall:*:*:*:*:*:*:*:*
 cpe:2.3:h:galilmc:rio-47100_plc:*:*:*:*:*:*:*:*
 cpe:2.3:h:gallagher:controller_6000:*:*:*:*:*:*:*:*
 cpe:2.3:h:gallagher:controller_7000:*:*:*:*:*:*:*:*
+cpe:2.3:h:gallagher:controller_7000_enhanced:*:*:*:*:*:*:*:*
+cpe:2.3:h:gallagher:controller_7000_high_security:*:*:*:*:*:*:*:*
+cpe:2.3:h:gallagher:controller_7000_single_door:*:*:*:*:*:*:*:*
+cpe:2.3:h:gallagher:controller_7000_two_door:*:*:*:*:*:*:*:*
+cpe:2.3:h:gallagher:high_sec_t20_reader:*:*:*:*:*:*:*:*
+cpe:2.3:h:gallagher:high_sec_t20_reader_multi_tech:*:*:*:*:*:*:*:*
+cpe:2.3:h:gallagher:t20_alarms_terminal:*:*:*:*:*:*:*:*
+cpe:2.3:h:gallagher:t20_mifare_terminal:*:*:*:*:*:*:*:*
+cpe:2.3:h:gallagher:t20_multi_tech_terminal:*:*:*:*:*:*:*:*
 cpe:2.3:h:galsys:nts-6002-gps:*:*:*:*:*:*:*:*
 cpe:2.3:h:garmin:empirbus_wireless_display_unit:*:*:*:*:*:*:*:*
 cpe:2.3:h:garmin:forerunner_235:*:*:*:*:*:*:*:*
