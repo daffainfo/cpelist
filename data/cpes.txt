@@ -8130,6 +8130,7 @@ cpe:2.3:a:blackfire:blackfire:*:*:*:*:*:*:*:*
 cpe:2.3:a:blackfire:blackfire_docker_image:*:*:*:*:*:*:*:*
 cpe:2.3:a:blackice:black_ice_barcode_sdk:*:*:*:*:*:*:*:*
 cpe:2.3:a:blackice:black_ice_document_imaging_sdk:*:*:*:*:*:*:*:*
+cpe:2.3:a:blacklanternsecurity:bbot:*:*:*:*:*:*:*:*
 cpe:2.3:a:blackmagicdesign:davinci_resolve:*:*:*:*:*:*:*:*
 cpe:2.3:a:blackmoonftpserver:blackmoon_ftp_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:blackorpheus:clanmemberskript:*:*:*:*:*:*:*:*
@@ -9262,6 +9263,7 @@ cpe:2.3:a:broadcom:unified_infrastructure_management:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:unified_infrastructure_management_snap:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:ush_host_components:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:vmware_ace_management_server:*:*:*:*:*:*:*:*
+cpe:2.3:a:broadcom:vmware_avi_load_balancer:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:vmware_center_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:vmware_cloud_foundation:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:vmware_nsx-t_data_center:*:*:*:*:*:*:*:*
@@ -32327,6 +32329,7 @@ cpe:2.3:a:intel:thunderbolt_dch_driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:thunderbolt_non-dch_driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:thunderbolt_share_software:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:trace_analyzer_and_collector:*:*:*:*:*:*:*:*
+cpe:2.3:a:intel:trust_domain_extensions_guest:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:trust_domain_extensions_module:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:trusted_execution_technology:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:turbo_boost_max_technology_3.0:*:*:*:*:*:*:*:*
@@ -35714,6 +35717,7 @@ cpe:2.3:a:juergen:weigert_screen:*:*:*:*:*:*:*:*
 cpe:2.3:a:juergen_furrer:jftcaforms:*:*:*:*:*:*:*:*
 cpe:2.3:a:juergen_schoenwaelder:scotty:*:*:*:*:*:*:*:*
 cpe:2.3:a:jugmac00:flask-reuploaded:*:*:*:*:*:*:*:*
+cpe:2.3:a:juicedata:juicefs:*:*:*:*:*:*:*:*
 cpe:2.3:a:juiker:juiker:*:*:*:*:*:*:*:*
 cpe:2.3:a:julialang:julia:*:*:*:*:*:*:*:*
 cpe:2.3:a:julialang:registrator:*:*:*:*:*:*:*:*
@@ -66164,6 +66168,7 @@ cpe:2.3:a:symcon:ip_symcon:*:*:*:*:*:*:*:*
 cpe:2.3:a:symetrie_project:symetrie:*:*:*:*:*:*:*:*
 cpe:2.3:a:symfony:symfony:*:*:*:*:*:*:*:*
 cpe:2.3:a:symfony:twig-bridge:*:*:*:*:*:*:*:*
+cpe:2.3:a:symfony:twig-bundle:*:*:*:*:*:*:*:*
 cpe:2.3:a:symfony:twig:*:*:*:*:*:*:*:*
 cpe:2.3:a:symfony:ux:*:*:*:*:*:*:*:*
 cpe:2.3:a:symfony:ux_autocomplete:*:*:*:*:*:*:*:*
@@ -72494,7 +72499,6 @@ cpe:2.3:a:watchful:xcloner:*:*:*:*:*:*:*:*
 cpe:2.3:a:watchguard:agent:*:*:*:*:*:*:*:*
 cpe:2.3:a:watchguard:authentication_gateway:*:*:*:*:*:*:*:*
 cpe:2.3:a:watchguard:authpoint_password_manager:*:*:*:*:*:*:*:*
-cpe:2.3:a:watchguard:firebox_cloud:*:*:*:*:*:*:*:*
 cpe:2.3:a:watchguard:firebox_pptp_vpn:*:*:*:*:*:*:*:*
 cpe:2.3:a:watchguard:fireware_xtm:*:*:*:*:*:*:*:*
 cpe:2.3:a:watchguard:hawkeye_g:*:*:*:*:*:*:*:*
