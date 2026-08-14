@@ -10103,6 +10103,7 @@ cpe:2.3:a:calinvingan:premium_seo_pack_wp_seo_plugin:*:*:*:*:*:*:*:*
 cpe:2.3:a:calipso_project:calipso:*:*:*:*:*:*:*:*
 cpe:2.3:a:calisto:calisto_internet_talker:*:*:*:*:*:*:*:*
 cpe:2.3:a:calix:calix_gigacenter_ont:*:*:*:*:*:*:*:*
+cpe:2.3:a:calix:gigaspire:*:*:*:*:*:*:*:*
 cpe:2.3:a:call-cc:chicken:*:*:*:*:*:*:*:*
 cpe:2.3:a:call-cc:http-client:*:*:*:*:*:*:*:*
 cpe:2.3:a:call-cc:spiffy:*:*:*:*:*:*:*:*
@@ -20232,6 +20233,7 @@ cpe:2.3:a:enyetech:coca-cola_fm_guatemala:*:*:*:*:*:*:*:*
 cpe:2.3:a:enyetech:coca-cola_fm_honduras:*:*:*:*:*:*:*:*
 cpe:2.3:a:enyetech:coca-cola_fm_peru:*:*:*:*:*:*:*:*
 cpe:2.3:a:enzipe:prepost_seo:*:*:*:*:*:*:*:*
+cpe:2.3:a:enzovezzaro:mcp-dominican-layer:*:*:*:*:*:*:*:*
 cpe:2.3:a:eo-video:eo-video:*:*:*:*:*:*:*:*
 cpe:2.3:a:eocms:eocms:*:*:*:*:*:*:*:*
 cpe:2.3:a:eolink:apinto-dashboard:*:*:*:*:*:*:*:*
@@ -29724,6 +29726,7 @@ cpe:2.3:a:ibm:disconnected_log_collector:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:disposal_and_governance_management_for_it:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:distributed_marketing:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:document_connect_for_application_support_facility:*:*:*:*:*:*:*:*
+cpe:2.3:a:ibm:documentation_offline:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:domino:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:domino_web_access:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:doors_next:*:*:*:*:*:*:*:*
@@ -43617,6 +43620,7 @@ cpe:2.3:a:modcluster:mod_proxy_cluster:*:*:*:*:*:*:*:*
 cpe:2.3:a:moddable:moddable:*:*:*:*:*:*:*:*
 cpe:2.3:a:moddable:moddable_sdk:*:*:*:*:*:*:*:*
 cpe:2.3:a:moddable:xs:*:*:*:*:*:*:*:*
+cpe:2.3:a:model_context_protocol:mcp-rdf-explorer:*:*:*:*:*:*:*:*
 cpe:2.3:a:model_project:model:*:*:*:*:*:*:*:*
 cpe:2.3:a:modelconverter_project:modelconverter:*:*:*:*:*:*:*:*
 cpe:2.3:a:modelisme:modelisme.com_forum\/portail:*:*:*:*:*:*:*:*
@@ -137415,11 +137419,16 @@ cpe:2.3:h:tenda:ax2_pro:*:*:*:*:*:*:*:*
 cpe:2.3:h:tenda:ax3:*:*:*:*:*:*:*:*
 cpe:2.3:h:tenda:ax9:*:*:*:*:*:*:*:*
 cpe:2.3:h:tenda:be12_pro:*:*:*:*:*:*:*:*
+cpe:2.3:h:tenda:ch10:*:*:*:*:*:*:*:*
 cpe:2.3:h:tenda:ch22:*:*:*:*:*:*:*:*
+cpe:2.3:h:tenda:ch7:*:*:*:*:*:*:*:*
+cpe:2.3:h:tenda:ch7g:*:*:*:*:*:*:*:*
+cpe:2.3:h:tenda:ch:*:*:*:*:*:*:*:*
 cpe:2.3:h:tenda:cp3:*:*:*:*:*:*:*:*
 cpe:2.3:h:tenda:cp3_pro:*:*:*:*:*:*:*:*
 cpe:2.3:h:tenda:cp6:*:*:*:*:*:*:*:*
 cpe:2.3:h:tenda:cp7:*:*:*:*:*:*:*:*
+cpe:2.3:h:tenda:cp:*:*:*:*:*:*:*:*
 cpe:2.3:h:tenda:cx12l:*:*:*:*:*:*:*:*
 cpe:2.3:h:tenda:d151:*:*:*:*:*:*:*:*
 cpe:2.3:h:tenda:d301:*:*:*:*:*:*:*:*
@@ -137473,6 +137482,10 @@ cpe:2.3:h:tenda:pw201a:*:*:*:*:*:*:*:*
 cpe:2.3:h:tenda:rx2_pro:*:*:*:*:*:*:*:*
 cpe:2.3:h:tenda:rx3:*:*:*:*:*:*:*:*
 cpe:2.3:h:tenda:rx9_pro:*:*:*:*:*:*:*:*
+cpe:2.3:h:tenda:tc3b14c:*:*:*:*:*:*:*:*
+cpe:2.3:h:tenda:tc3b15c:*:*:*:*:*:*:*:*
+cpe:2.3:h:tenda:tc3t14c:*:*:*:*:*:*:*:*
+cpe:2.3:h:tenda:tc3t15c:*:*:*:*:*:*:*:*
 cpe:2.3:h:tenda:tx3:*:*:*:*:*:*:*:*
 cpe:2.3:h:tenda:tx9:*:*:*:*:*:*:*:*
 cpe:2.3:h:tenda:tx9_pro:*:*:*:*:*:*:*:*
