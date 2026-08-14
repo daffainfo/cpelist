@@ -6994,6 +6994,7 @@ cpe:2.3:a:baguettebox.js_project:baguettebox.js:*:*:*:*:*:*:*:*
 cpe:2.3:a:bahmni:bahmnicore:*:*:*:*:*:*:*:*
 cpe:2.3:a:bahmutov:find-cypress-specs:*:*:*:*:*:*:*:*
 cpe:2.3:a:bahmutov:ggit:*:*:*:*:*:*:*:*
+cpe:2.3:a:baicells:eg3661m:*:*:*:*:*:*:*:*
 cpe:2.3:a:baicloud-cms_project:baicloud-cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:baidu-tongji-generator_project:baidu-tongji-generator:*:*:*:*:*:*:*:*
 cpe:2.3:a:baidu:baidu_hi:*:*:*:*:*:*:*:*
@@ -21101,6 +21102,7 @@ cpe:2.3:a:exv2:content_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:exv2:exv2:*:*:*:*:*:*:*:*
 cpe:2.3:a:exxp_project:exxp:*:*:*:*:*:*:*:*
 cpe:2.3:a:exxxxxxxxxxx_project:exxxxxxxxxxx:*:*:*:*:*:*:*:*
+cpe:2.3:a:eyaushev:swagger-testcase-mcp:*:*:*:*:*:*:*:*
 cpe:2.3:a:eye.fi:eye-fi_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:eye:eye-fi_helper:*:*:*:*:*:*:*:*
 cpe:2.3:a:eyeball_networks:eyeball_messenger_sdk:*:*:*:*:*:*:*:*
@@ -21994,6 +21996,7 @@ cpe:2.3:a:feed_statistics_project:feed_statistics:*:*:*:*:*:*:*:*
 cpe:2.3:a:feedburner:feedsmith:*:*:*:*:*:*:*:*
 cpe:2.3:a:feedgen_project:feedgen:*:*:*:*:*:*:*:*
 cpe:2.3:a:feedify:web_push_notifications:*:*:*:*:*:*:*:*
+cpe:2.3:a:feedmob:fm-mcp-servers:*:*:*:*:*:*:*:*
 cpe:2.3:a:feeds_project:feeds:*:*:*:*:*:*:*:*
 cpe:2.3:a:feedweb:feedweb:*:*:*:*:*:*:*:*
 cpe:2.3:a:feedwordpress_project:feedwordpress:*:*:*:*:*:*:*:*
@@ -56161,6 +56164,7 @@ cpe:2.3:a:rainmachine:rainmachine_web_application:*:*:*:*:*:*:*:*
 cpe:2.3:a:rainniar:bike_delivery_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:rainworx:auctionworx:*:*:*:*:*:*:*:*
 cpe:2.3:a:rainworx:rwauction_pro:*:*:*:*:*:*:*:*
+cpe:2.3:a:raisecom:communication_command_and_dispatch_management_platform:*:*:*:*:*:*:*:*
 cpe:2.3:a:raiseitsolutions:rits_browser:*:*:*:*:*:*:*:*
 cpe:2.3:a:raiserweb:competition_form:*:*:*:*:*:*:*:*
 cpe:2.3:a:raisulislamg4:student_management_system_by_php:*:*:*:*:*:*:*:*
@@ -63862,6 +63866,7 @@ cpe:2.3:a:sourcecodehero:clothes_recommendation_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodehero:event_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:accounts_manager_app:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:advocate_office_management_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:sourcecodester:air_cargo_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:airline_ticket_reservation_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:airport_booking_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:aplaya_beach_resort_online_reservation_system:*:*:*:*:*:*:*:*
@@ -72489,6 +72494,7 @@ cpe:2.3:a:watchful:xcloner:*:*:*:*:*:*:*:*
 cpe:2.3:a:watchguard:agent:*:*:*:*:*:*:*:*
 cpe:2.3:a:watchguard:authentication_gateway:*:*:*:*:*:*:*:*
 cpe:2.3:a:watchguard:authpoint_password_manager:*:*:*:*:*:*:*:*
+cpe:2.3:a:watchguard:firebox_cloud:*:*:*:*:*:*:*:*
 cpe:2.3:a:watchguard:firebox_pptp_vpn:*:*:*:*:*:*:*:*
 cpe:2.3:a:watchguard:fireware_xtm:*:*:*:*:*:*:*:*
 cpe:2.3:a:watchguard:hawkeye_g:*:*:*:*:*:*:*:*
@@ -137445,6 +137451,7 @@ cpe:2.3:h:tenda:fh1205:*:*:*:*:*:*:*:*
 cpe:2.3:h:tenda:fh1206:*:*:*:*:*:*:*:*
 cpe:2.3:h:tenda:fh303:*:*:*:*:*:*:*:*
 cpe:2.3:h:tenda:fh451:*:*:*:*:*:*:*:*
+cpe:2.3:h:tenda:g0:*:*:*:*:*:*:*:*
 cpe:2.3:h:tenda:g103:*:*:*:*:*:*:*:*
 cpe:2.3:h:tenda:g1:*:*:*:*:*:*:*:*
 cpe:2.3:h:tenda:g300-f:*:*:*:*:*:*:*:*
