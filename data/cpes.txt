@@ -40105,6 +40105,7 @@ cpe:2.3:a:mangboard:mangboard_wp:*:*:*:*:*:*:*:*
 cpe:2.3:a:mangobery_cms:mangobery_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:mangoraft:giting:*:*:*:*:*:*:*:*
 cpe:2.3:a:mangoswebv4_project:mangoswebv4:*:*:*:*:*:*:*:*
+cpe:2.3:a:mangroup:dtale:*:*:*:*:*:*:*:*
 cpe:2.3:a:mani_stats_reader:mani_stats_reader:*:*:*:*:*:*:*:*
 cpe:2.3:a:maniacomputer:mcshoutbox:*:*:*:*:*:*:*:*
 cpe:2.3:a:maniacomputer:new5starrating:*:*:*:*:*:*:*:*
