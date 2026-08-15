@@ -72640,6 +72640,7 @@ cpe:2.3:a:wddgroup:fantasy:*:*:*:*:*:*:*:*
 cpe:2.3:a:wddgroup:fantsy:*:*:*:*:*:*:*:*
 cpe:2.3:a:wdja:wdja:*:*:*:*:*:*:*:*
 cpe:2.3:a:wdja:wdja_cms:*:*:*:*:*:*:*:*
+cpe:2.3:a:wdmtech:vbizz:*:*:*:*:*:*:*:*
 cpe:2.3:a:wdoyo:doyo:*:*:*:*:*:*:*:*
 cpe:2.3:a:wdoyo:doyocms:*:*:*:*:*:*:*:*
 cpe:2.3:a:we-com:municipality_portal_cms:*:*:*:*:*:*:*:*
