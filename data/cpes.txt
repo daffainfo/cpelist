@@ -69384,6 +69384,7 @@ cpe:2.3:a:trendnet:tew-813dru:*:*:*:*:*:*:*:*
 cpe:2.3:a:trendnet:tew-814dap:*:*:*:*:*:*:*:*
 cpe:2.3:a:trendnet:tew-816drm:*:*:*:*:*:*:*:*
 cpe:2.3:a:trendnet:tew-827dru_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:a:trendnet:tew-wlc100:*:*:*:*:*:*:*:*
 cpe:2.3:a:trendylogics:crypto_currency_tracker:*:*:*:*:*:*:*:*
 cpe:2.3:a:tresata:tree-orion:*:*:*:*:*:*:*:*
 cpe:2.3:a:trestle-auth_project:trestle-auth:*:*:*:*:*:*:*:*
@@ -88409,6 +88410,7 @@ cpe:2.3:h:d-link:dir-826l_wireless_n600_cloud_router:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dir-830l:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dir-836l:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dir-841:*:*:*:*:*:*:*:*
+cpe:2.3:h:d-link:dir-842:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dir-845:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dir-846:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dir-850l:*:*:*:*:*:*:*:*
