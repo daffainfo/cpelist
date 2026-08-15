@@ -37617,6 +37617,7 @@ cpe:2.3:a:lazy_mouse_project:lazy_mouse:*:*:*:*:*:*:*:*
 cpe:2.3:a:lazy_social_comments_project:lazy_social_comments:*:*:*:*:*:*:*:*
 cpe:2.3:a:lazyer:doodle_drop:*:*:*:*:*:*:*:*
 cpe:2.3:a:lazysizes_project:lazysizes:*:*:*:*:*:*:*:*
+cpe:2.3:a:lb-link:x-pro:*:*:*:*:*:*:*:*
 cpe:2.3:a:lb_link:bl_w1210m:*:*:*:*:*:*:*:*
 cpe:2.3:a:lbl:lbl_traceroute:*:*:*:*:*:*:*:*
 cpe:2.3:a:lbl:tcpdump:*:*:*:*:*:*:*:*
@@ -53509,6 +53510,7 @@ cpe:2.3:a:pkobo-vote01_project:pkobo-vote01:*:*:*:*:*:*:*:*
 cpe:2.3:a:pkp.sfu:open_journal_systems:*:*:*:*:*:*:*:*
 cpe:2.3:a:pkp:open_journal_systems:*:*:*:*:*:*:*:*
 cpe:2.3:a:pkp:pkb-lib:*:*:*:*:*:*:*:*
+cpe:2.3:a:pkp:pkp-lib:*:*:*:*:*:*:*:*
 cpe:2.3:a:pkp:pkp_web_application_library:*:*:*:*:*:*:*:*
 cpe:2.3:a:pkr_internet:taskjitsu:*:*:*:*:*:*:*:*
 cpe:2.3:a:pkware:pkzip:*:*:*:*:*:*:*:*
@@ -71517,6 +71519,7 @@ cpe:2.3:a:victor_freitas:wpupper_share_buttons:*:*:*:*:*:*:*:*
 cpe:2.3:a:victoralagwu:cmssite:*:*:*:*:*:*:*:*
 cpe:2.3:a:victorcms_project:victorcms:*:*:*:*:*:*:*:*
 cpe:2.3:a:victorfreitas:wpupper_share_buttons:*:*:*:*:*:*:*:*
+cpe:2.3:a:victoriametrics:victoriametrics:*:*:*:*:*:*:*:*
 cpe:2.3:a:victorkane:salesforce_suite:*:*:*:*:*:*:*:*
 cpe:2.3:a:victory_media_llc:zynith:*:*:*:*:*:*:*:*
 cpe:2.3:a:victure:pc420_firmware:*:*:*:*:*:*:*:*
