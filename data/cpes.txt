@@ -13304,6 +13304,7 @@ cpe:2.3:a:code-projects:online_restaurant_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:online_shoe_store:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:online_shop_store:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:online_shop_stores:*:*:*:*:*:*:*:*
+cpe:2.3:a:code-projects:online_shopping_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:online_voting_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:patient_record_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:pharmacy_management:*:*:*:*:*:*:*:*
@@ -20822,6 +20823,7 @@ cpe:2.3:a:everestthemes:gucherry_blog:*:*:*:*:*:*:*:*
 cpe:2.3:a:everestthemes:mocho_blog:*:*:*:*:*:*:*:*
 cpe:2.3:a:everestthemes:viable_blog:*:*:*:*:*:*:*:*
 cpe:2.3:a:evergreen-ils:evergreen:*:*:*:*:*:*:*:*
+cpe:2.3:a:evergreen:evergreen:*:*:*:*:*:*:*:*
 cpe:2.3:a:evergreencontentposter:evergreen_content_poster:*:*:*:*:*:*:*:*
 cpe:2.3:a:evernewscripts:free_joke_script:*:*:*:*:*:*:*:*
 cpe:2.3:a:evernote:evernote:*:*:*:*:*:*:*:*
@@ -48500,6 +48502,7 @@ cpe:2.3:a:openbmcs:openbmcs:*:*:*:*:*:*:*:*
 cpe:2.3:a:openbook:openbook:*:*:*:*:*:*:*:*
 cpe:2.3:a:openbook_book_data_project:openbook_book_data:*:*:*:*:*:*:*:*
 cpe:2.3:a:openbor:openbor:*:*:*:*:*:*:*:*
+cpe:2.3:a:openboxes:openboxes:*:*:*:*:*:*:*:*
 cpe:2.3:a:openbravo:openbravo_erp:*:*:*:*:*:*:*:*
 cpe:2.3:a:openbrowser_project:openbrowser:*:*:*:*:*:*:*:*
 cpe:2.3:a:openbsd:ftpd:*:*:*:*:*:*:*:*
@@ -135801,6 +135804,7 @@ cpe:2.3:h:sourcefire:dc1000:*:*:*:*:*:*:*:*
 cpe:2.3:h:sourcefire:defense_center:*:*:*:*:*:*:*:*
 cpe:2.3:h:soyal:ar-727h:*:*:*:*:*:*:*:*
 cpe:2.3:h:soyal:ar-829ev5:*:*:*:*:*:*:*:*
+cpe:2.3:h:spacex:starlink_router_gen_3:*:*:*:*:*:*:*:*
 cpe:2.3:h:spacex:starlink_wifi_router_gen2:*:*:*:*:*:*:*:*
 cpe:2.3:h:spearhead:netgap_200:*:*:*:*:*:*:*:*
 cpe:2.3:h:spearhead:netgap_300:*:*:*:*:*:*:*:*
