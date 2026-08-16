@@ -16350,6 +16350,8 @@ cpe:2.3:a:deeserver:ultimate_webboard:*:*:*:*:*:*:*:*
 cpe:2.3:a:def-blog:def-blog:*:*:*:*:*:*:*:*
 cpe:2.3:a:defa-online-image-protector_project:defa-online-image-protector:*:*:*:*:*:*:*:*
 cpe:2.3:a:defaultfuction:content_management_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:defaultfuction:customer-relationship-management-in-c-project:*:*:*:*:*:*:*:*
+cpe:2.3:a:defaultfuction:notice-system-managent:*:*:*:*:*:*:*:*
 cpe:2.3:a:defaults-deep_project:defaults-deep:*:*:*:*:*:*:*:*
 cpe:2.3:a:defence:defence.pk:*:*:*:*:*:*:*:*
 cpe:2.3:a:defenseunicorns:pepr:*:*:*:*:*:*:*:*
@@ -41291,6 +41293,7 @@ cpe:2.3:a:menasoft:sphereserver:*:*:*:*:*:*:*:*
 cpe:2.3:a:mend:curekit:*:*:*:*:*:*:*:*
 cpe:2.3:a:mendel_cooper:shred:*:*:*:*:*:*:*:*
 cpe:2.3:a:mendelson:oftp2:*:*:*:*:*:*:*:*
+cpe:2.3:a:mendi:neurofeedback_headset:*:*:*:*:*:*:*:*
 cpe:2.3:a:mendix:database_replication:*:*:*:*:*:*:*:*
 cpe:2.3:a:mendix:excel_importer:*:*:*:*:*:*:*:*
 cpe:2.3:a:mendix:forgot_password:*:*:*:*:*:*:*:*
