@@ -1264,6 +1264,7 @@ cpe:2.3:a:adaware:protect:*:*:*:*:*:*:*:*
 cpe:2.3:a:adazing:morning_coffee:*:*:*:*:*:*:*:*
 cpe:2.3:a:adb-driver_project:adb-driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:adblock:adblock:*:*:*:*:*:*:*:*
+cpe:2.3:a:adblock_for_youtube_extension:adblock_for_youtube_extension:*:*:*:*:*:*:*:*
 cpe:2.3:a:adblockplus:adblock_plus:*:*:*:*:*:*:*:*
 cpe:2.3:a:adbnewssender:adbnewssender:*:*:*:*:*:*:*:*
 cpe:2.3:a:adbnewssender_project:adbnewssender:*:*:*:*:*:*:*:*
@@ -2400,6 +2401,7 @@ cpe:2.3:a:aladdin:hasp_srm_run-time:*:*:*:*:*:*:*:*
 cpe:2.3:a:aladdin_enterprises:ghostscript:*:*:*:*:*:*:*:*
 cpe:2.3:a:aladdin_knowledge_systems:esafe_gateway:*:*:*:*:*:*:*:*
 cpe:2.3:a:aladdin_knowledge_systems:etoken:*:*:*:*:*:*:*:*
+cpe:2.3:a:alaev:seo_tools_extension:*:*:*:*:*:*:*:*
 cpe:2.3:a:alain_barbet:filesys_smbclientparser:*:*:*:*:*:*:*:*
 cpe:2.3:a:alain_gonzalez:alphabetical-list:*:*:*:*:*:*:*:*
 cpe:2.3:a:alaingg:accordion_image_menu:*:*:*:*:*:*:*:*
@@ -34949,6 +34951,7 @@ cpe:2.3:a:jjnapiork:pagi\:\:middleware\:\:session\:\:store\:\:cookie:*:*:*:*:*:*
 cpe:2.3:a:jjson_project:jjson:*:*:*:*:*:*:*:*
 cpe:2.3:a:jjwdesign:php_booking_calendar:*:*:*:*:*:*:*:*
 cpe:2.3:a:jjwwebdesign:phpbookingcalendar:*:*:*:*:*:*:*:*
+cpe:2.3:a:jkawamoto:mcp-florence2:*:*:*:*:*:*:*:*
 cpe:2.3:a:jkeenan:file-path_module:*:*:*:*:*:*:*:*
 cpe:2.3:a:jkev:dental_clinic_appointment_reservation_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:jkev:record_management_system:*:*:*:*:*:*:*:*
@@ -44032,6 +44035,7 @@ cpe:2.3:a:motivian:content_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:moto-treks:com_mtfireeagle:*:*:*:*:*:*:*:*
 cpe:2.3:a:motobit:motobit:*:*:*:*:*:*:*:*
 cpe:2.3:a:motocms:motocms:*:*:*:*:*:*:*:*
+cpe:2.3:a:motogadget:mo.lock_ignition_lock:*:*:*:*:*:*:*:*
 cpe:2.3:a:motopress:getwid:*:*:*:*:*:*:*:*
 cpe:2.3:a:motopress:getwid_-_gutenberg_blocks:*:*:*:*:*:*:*:*
 cpe:2.3:a:motopress:hotel_booking_lite:*:*:*:*:*:*:*:*
@@ -50359,6 +50363,7 @@ cpe:2.3:a:oramon:oramon:*:*:*:*:*:*:*:*
 cpe:2.3:a:oranbyte:school_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:orange-form_project:orange-form:*:*:*:*:*:*:*:*
 cpe:2.3:a:orange_software:orange_web_server:*:*:*:*:*:*:*:*
+cpe:2.3:a:orange_view_limited:dualsafe_password_manager_digital_vault_extension:*:*:*:*:*:*:*:*
 cpe:2.3:a:orangecat:syntx:*:*:*:*:*:*:*:*
 cpe:2.3:a:orangehrm:orangehrm:*:*:*:*:*:*:*:*
 cpe:2.3:a:orangelab:imagemagick_engine:*:*:*:*:*:*:*:*
