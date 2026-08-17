@@ -6876,6 +6876,7 @@ cpe:2.3:a:azure_dex:data_expert_ultimate:*:*:*:*:*:*:*:*
 cpe:2.3:a:azurecurve:toggle_show\/hide:*:*:*:*:*:*:*:*
 cpe:2.3:a:azureus_tracker:azureus_tracker:*:*:*:*:*:*:*:*
 cpe:2.3:a:azuriom:azuriom:*:*:*:*:*:*:*:*
+cpe:2.3:a:azuriom:cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:azuriontoken_project:azuriontoken:*:*:*:*:*:*:*:*
 cpe:2.3:a:azursoft:myhorus:*:*:*:*:*:*:*:*
 cpe:2.3:a:azzaroco:ultimate_membership_pro:*:*:*:*:*:*:*:*
@@ -13452,6 +13453,7 @@ cpe:2.3:a:codecall:com_ionfiles:*:*:*:*:*:*:*:*
 cpe:2.3:a:codecanyon:crmgo_saas:*:*:*:*:*:*:*:*
 cpe:2.3:a:codecanyon:phpsound:*:*:*:*:*:*:*:*
 cpe:2.3:a:codecanyon:rise_ultimate_project_manager:*:*:*:*:*:*:*:*
+cpe:2.3:a:codecanyon:timecamp_integration_for_crm:*:*:*:*:*:*:*:*
 cpe:2.3:a:codecanyon:wooevents:*:*:*:*:*:*:*:*
 cpe:2.3:a:codecentric:spring_boot_admin:*:*:*:*:*:*:*:*
 cpe:2.3:a:codecept:codeceptjs:*:*:*:*:*:*:*:*
@@ -13928,6 +13930,7 @@ cpe:2.3:a:comet:comet_webfile_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:cometbft:cometbft:*:*:*:*:*:*:*:*
 cpe:2.3:a:cometd:cometd:*:*:*:*:*:*:*:*
 cpe:2.3:a:comex:shlex:*:*:*:*:*:*:*:*
+cpe:2.3:a:comfast:cf-n1-s:*:*:*:*:*:*:*:*
 cpe:2.3:a:comfast:cf-wr631ax_v3:*:*:*:*:*:*:*:*
 cpe:2.3:a:comforte:swap:*:*:*:*:*:*:*:*
 cpe:2.3:a:comfy:comfyui-manager:*:*:*:*:*:*:*:*
@@ -19251,6 +19254,7 @@ cpe:2.3:a:efilego:efilego:*:*:*:*:*:*:*:*
 cpe:2.3:a:efileman:efileman:*:*:*:*:*:*:*:*
 cpe:2.3:a:efingerd:efingerd:*:*:*:*:*:*:*:*
 cpe:2.3:a:efkan_forum:efkan_forum:*:*:*:*:*:*:*:*
+cpe:2.3:a:efm:iptime_a3004t:*:*:*:*:*:*:*:*
 cpe:2.3:a:efm:iptime_ax8004m:*:*:*:*:*:*:*:*
 cpe:2.3:a:efone:efone:*:*:*:*:*:*:*:*
 cpe:2.3:a:efrontlearning:efront:*:*:*:*:*:*:*:*
@@ -24846,6 +24850,8 @@ cpe:2.3:a:gl-sh:deaf_forum:*:*:*:*:*:*:*:*
 cpe:2.3:a:gl.inet:a1300:*:*:*:*:*:*:*:*
 cpe:2.3:a:gl.inet:ax1800:*:*:*:*:*:*:*:*
 cpe:2.3:a:gl.inet:axt1800:*:*:*:*:*:*:*:*
+cpe:2.3:a:gl.inet:be10000:*:*:*:*:*:*:*:*
+cpe:2.3:a:gl.inet:be1400:*:*:*:*:*:*:*:*
 cpe:2.3:a:gl.inet:be3600:*:*:*:*:*:*:*:*
 cpe:2.3:a:gl.inet:be6500:*:*:*:*:*:*:*:*
 cpe:2.3:a:gl.inet:be9300:*:*:*:*:*:*:*:*
@@ -34876,6 +34882,7 @@ cpe:2.3:a:jigoshop:swipe_hq_checkout_for_jigoshop:*:*:*:*:*:*:*:*
 cpe:2.3:a:jigowatt:php_login_\&_user_management:*:*:*:*:*:*:*:*
 cpe:2.3:a:jigunet:twinftp_enterprise:*:*:*:*:*:*:*:*
 cpe:2.3:a:jigunet:twinftp_standard:*:*:*:*:*:*:*:*
+cpe:2.3:a:jij-inc:jij-mcp-server:*:*:*:*:*:*:*:*
 cpe:2.3:a:jijitechnologies:active_directory_cleaner:*:*:*:*:*:*:*:*
 cpe:2.3:a:jikaka:teams_structure_module:*:*:*:*:*:*:*:*
 cpe:2.3:a:jikes_project:jikes:*:*:*:*:*:*:*:*
@@ -37624,6 +37631,7 @@ cpe:2.3:a:lazy_mouse_project:lazy_mouse:*:*:*:*:*:*:*:*
 cpe:2.3:a:lazy_social_comments_project:lazy_social_comments:*:*:*:*:*:*:*:*
 cpe:2.3:a:lazyer:doodle_drop:*:*:*:*:*:*:*:*
 cpe:2.3:a:lazysizes_project:lazysizes:*:*:*:*:*:*:*:*
+cpe:2.3:a:lb-link:wr1210m:*:*:*:*:*:*:*:*
 cpe:2.3:a:lb-link:x-pro:*:*:*:*:*:*:*:*
 cpe:2.3:a:lb_link:bl_w1210m:*:*:*:*:*:*:*:*
 cpe:2.3:a:lbl:lbl_traceroute:*:*:*:*:*:*:*:*
@@ -69186,6 +69194,7 @@ cpe:2.3:a:treck:ipv6:*:*:*:*:*:*:*:*
 cpe:2.3:a:treck:tcp\/ip:*:*:*:*:*:*:*:*
 cpe:2.3:a:tree-kill_project:tree-kill:*:*:*:*:*:*:*:*
 cpe:2.3:a:tree_kit_project:tree_kit:*:*:*:*:*:*:*:*
+cpe:2.3:a:treefrogframework:treefrog-framework:*:*:*:*:*:*:*:*
 cpe:2.3:a:treekill_project:treekill:*:*:*:*:*:*:*:*
 cpe:2.3:a:trek_software:education_portal:*:*:*:*:*:*:*:*
 cpe:2.3:a:trellian:ftp:*:*:*:*:*:*:*:*
@@ -168231,6 +168240,7 @@ cpe:2.3:o:jensenofscandinavia:al59300_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:jensenofscandinavia:eagle_1200ac_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:jezetek-intl:bcm93383wrg_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:jfree:jfreechart:*:*:*:*:*:*:*:*
+cpe:2.3:o:jiantao88:android-mcp-server:*:*:*:*:*:*:*:*
 cpe:2.3:o:jinglemining:jasminer_x4_server_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:jins:jins_meme_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:jio:4g_hotspot_m2s_firmware:*:*:*:*:*:*:*:*
