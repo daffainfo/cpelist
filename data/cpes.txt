@@ -25411,6 +25411,7 @@ cpe:2.3:a:gollum_project:gollum:*:*:*:*:*:*:*:*
 cpe:2.3:a:gollum_project:grit_adapter:*:*:*:*:*:*:*:*
 cpe:2.3:a:golosinassimpson:golosinas_simpson1:*:*:*:*:*:*:*:*
 cpe:2.3:a:gom_player:gom_player:*:*:*:*:*:*:*:*
+cpe:2.3:a:gomarble-ai:facebook-ads-mcp-server:*:*:*:*:*:*:*:*
 cpe:2.3:a:gomarkdown:markdown:*:*:*:*:*:*:*:*
 cpe:2.3:a:gomeplus-h5-proxy_project:gomeplus-h5-proxy:*:*:*:*:*:*:*:*
 cpe:2.3:a:gomineworld_project:gomineworld:*:*:*:*:*:*:*:*
@@ -69110,6 +69111,7 @@ cpe:2.3:a:traefik:traefik_enterprise:*:*:*:*:*:*:*:*
 cpe:2.3:a:trafficgate:rakuten_install:*:*:*:*:*:*:*:*
 cpe:2.3:a:traggo:traggo:*:*:*:*:*:*:*:*
 cpe:2.3:a:traidnt:traidnt_up:*:*:*:*:*:*:*:*
+cpe:2.3:a:traildb:traildb:*:*:*:*:*:*:*:*
 cpe:2.3:a:trailing-slash_project:trailing-slash:*:*:*:*:*:*:*:*
 cpe:2.3:a:trailofbits:fickling:*:*:*:*:*:*:*:*
 cpe:2.3:a:trailofbits:rfc3161-client:*:*:*:*:*:*:*:*
