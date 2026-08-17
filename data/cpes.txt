@@ -25908,6 +25908,7 @@ cpe:2.3:a:graphisoft:archicad:*:*:*:*:*:*:*:*
 cpe:2.3:a:graphisoft:bimx_desktop_viewer:*:*:*:*:*:*:*:*
 cpe:2.3:a:graphite_project:graphite:*:*:*:*:*:*:*:*
 cpe:2.3:a:graphiti:graphiti:*:*:*:*:*:*:*:*
+cpe:2.3:a:graphlit:graphlit-mcp-server:*:*:*:*:*:*:*:*
 cpe:2.3:a:graphon:go-global:*:*:*:*:*:*:*:*
 cpe:2.3:a:graphon:go-global_ux:*:*:*:*:*:*:*:*
 cpe:2.3:a:graphpaperpress:f8_lite:*:*:*:*:*:*:*:*
@@ -29461,6 +29462,7 @@ cpe:2.3:a:iatek:intranetapp:*:*:*:*:*:*:*:*
 cpe:2.3:a:iatek:portalapp:*:*:*:*:*:*:*:*
 cpe:2.3:a:iatek:projectapp:*:*:*:*:*:*:*:*
 cpe:2.3:a:iatek:siteenable:*:*:*:*:*:*:*:*
+cpe:2.3:a:iatsiuk:pptr-mcp:*:*:*:*:*:*:*:*
 cpe:2.3:a:iaudiosoft.com:absolute_mp3_splitter:*:*:*:*:*:*:*:*
 cpe:2.3:a:iaudiosoft.com:absolute_sound_recorder:*:*:*:*:*:*:*:*
 cpe:2.3:a:iaudiosoft.com:absolute_video_to_audio_converter:*:*:*:*:*:*:*:*
