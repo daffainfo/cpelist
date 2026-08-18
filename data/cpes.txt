@@ -20421,6 +20421,7 @@ cpe:2.3:a:eric_raymond:sng:*:*:*:*:*:*:*:*
 cpe:2.3:a:eric_rescorla:ssldump:*:*:*:*:*:*:*:*
 cpe:2.3:a:erichamby:adicon_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:erick_woods:terminal_server_client:*:*:*:*:*:*:*:*
+cpe:2.3:a:ericlbuehler:mistral.rs:*:*:*:*:*:*:*:*
 cpe:2.3:a:ericmj:decimal:*:*:*:*:*:*:*:*
 cpe:2.3:a:ericom:access_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:ericom:accessnow_server:*:*:*:*:*:*:*:*
@@ -38740,6 +38741,7 @@ cpe:2.3:a:linuxfoundation:strimzi:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:strimzi_kafka_operator:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:tekton_pipelines:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:the_update_framework:*:*:*:*:*:*:*:*
+cpe:2.3:a:linuxfoundation:torchvision:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:tremor-script:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:tremor:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:umoci:*:*:*:*:*:*:*:*
@@ -44346,6 +44348,7 @@ cpe:2.3:a:msi:micro-star_international_feature_navigator:*:*:*:*:*:*:*:*
 cpe:2.3:a:msi:true_color:*:*:*:*:*:*:*:*
 cpe:2.3:a:msi:wrapper:*:*:*:*:*:*:*:*
 cpe:2.3:a:msiemens:one2html:*:*:*:*:*:*:*:*
+cpe:2.3:a:msiemens:rust_onenote_file_parser:*:*:*:*:*:*:*:*
 cpe:2.3:a:mskcc:oauth2_client:*:*:*:*:*:*:*:*
 cpe:2.3:a:mskocik:svelecte:*:*:*:*:*:*:*:*
 cpe:2.3:a:msoftplugins:security_antivirus_firewall:*:*:*:*:*:*:*:*
@@ -45046,6 +45049,7 @@ cpe:2.3:a:narr8:spin_-_motion_comic:*:*:*:*:*:*:*:*
 cpe:2.3:a:nas4free:nas4free:*:*:*:*:*:*:*:*
 cpe:2.3:a:nasa:ait-core:*:*:*:*:*:*:*:*
 cpe:2.3:a:nasa:ait_core:*:*:*:*:*:*:*:*
+cpe:2.3:a:nasa:ait_gui:*:*:*:*:*:*:*:*
 cpe:2.3:a:nasa:cfitsio:*:*:*:*:*:*:*:*
 cpe:2.3:a:nasa:cfs:*:*:*:*:*:*:*:*
 cpe:2.3:a:nasa:core_flight_system:*:*:*:*:*:*:*:*
@@ -45179,6 +45183,7 @@ cpe:2.3:a:nbubna:store:*:*:*:*:*:*:*:*
 cpe:2.3:a:nc3:testing_platform:*:*:*:*:*:*:*:*
 cpe:2.3:a:nc3_lu:testing_platform:*:*:*:*:*:*:*:*
 cpe:2.3:a:nc_linklist:nc_linklist:*:*:*:*:*:*:*:*
+cpe:2.3:a:ncalc:ncalc:*:*:*:*:*:*:*:*
 cpe:2.3:a:ncast_project:ncast:*:*:*:*:*:*:*:*
 cpe:2.3:a:ncaster:ncaster:*:*:*:*:*:*:*:*
 cpe:2.3:a:ncbi:toolbox:*:*:*:*:*:*:*:*
@@ -54330,6 +54335,7 @@ cpe:2.3:a:pre_projects:pre_dynamic_institution:*:*:*:*:*:*:*:*
 cpe:2.3:a:pre_projects:pre_news_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:pre_projects:pre_shopping_mall:*:*:*:*:*:*:*:*
 cpe:2.3:a:preactjs:preact:*:*:*:*:*:*:*:*
+cpe:2.3:a:prebid:prebid_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:prebuild-lwip_project:prebuild-lwip:*:*:*:*:*:*:*:*
 cpe:2.3:a:precisely:spectrum_spatial_analyst:*:*:*:*:*:*:*:*
 cpe:2.3:a:precisionbridge:precision_bridge:*:*:*:*:*:*:*:*
@@ -54345,6 +54351,7 @@ cpe:2.3:a:predictionfootball:predictionfootball:*:*:*:*:*:*:*:*
 cpe:2.3:a:preemptive_solutions:dotfuscator:*:*:*:*:*:*:*:*
 cpe:2.3:a:prefect:prefect:*:*:*:*:*:*:*:*
 cpe:2.3:a:prelude-technologies:prewikka:*:*:*:*:*:*:*:*
+cpe:2.3:a:premailer:css_parser:*:*:*:*:*:*:*:*
 cpe:2.3:a:premid:premid:*:*:*:*:*:*:*:*
 cpe:2.3:a:premierethemes:log_wp_mail:*:*:*:*:*:*:*:*
 cpe:2.3:a:premio:all_in_one_floating_contact_form_my_sticky_elements:*:*:*:*:*:*:*:*
@@ -63766,6 +63773,7 @@ cpe:2.3:a:sonium:enterprise_adressbook:*:*:*:*:*:*:*:*
 cpe:2.3:a:sonos:era_100:*:*:*:*:*:*:*:*
 cpe:2.3:a:sonos:s1:*:*:*:*:*:*:*:*
 cpe:2.3:a:sonos:s2:*:*:*:*:*:*:*:*
+cpe:2.3:a:sonos:tract:*:*:*:*:*:*:*:*
 cpe:2.3:a:sony:audio_usb_driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:sony:axruploadserver_activex_control:*:*:*:*:*:*:*:*
 cpe:2.3:a:sony:bravia_signage:*:*:*:*:*:*:*:*
