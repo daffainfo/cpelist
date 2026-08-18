@@ -36243,6 +36243,7 @@ cpe:2.3:a:kaptinlin:striking:*:*:*:*:*:*:*:*
 cpe:2.3:a:kaqoo:kaqoo_auction_software:*:*:*:*:*:*:*:*
 cpe:2.3:a:karacsi_maci:banner_garden:*:*:*:*:*:*:*:*
 cpe:2.3:a:karakas-online:chm2pdf:*:*:*:*:*:*:*:*
+cpe:2.3:a:karakeep-app:karakeep:*:*:*:*:*:*:*:*
 cpe:2.3:a:karamasoft:ultimateeditor:*:*:*:*:*:*:*:*
 cpe:2.3:a:karaokey_project:karaokey:*:*:*:*:*:*:*:*
 cpe:2.3:a:karaz:karazal:*:*:*:*:*:*:*:*
@@ -45049,6 +45050,7 @@ cpe:2.3:a:narr8:spin_-_motion_comic:*:*:*:*:*:*:*:*
 cpe:2.3:a:nas4free:nas4free:*:*:*:*:*:*:*:*
 cpe:2.3:a:nasa:ait-core:*:*:*:*:*:*:*:*
 cpe:2.3:a:nasa:ait_core:*:*:*:*:*:*:*:*
+cpe:2.3:a:nasa:ait_dsn:*:*:*:*:*:*:*:*
 cpe:2.3:a:nasa:ait_gui:*:*:*:*:*:*:*:*
 cpe:2.3:a:nasa:cfitsio:*:*:*:*:*:*:*:*
 cpe:2.3:a:nasa:cfs:*:*:*:*:*:*:*:*
@@ -61550,6 +61552,7 @@ cpe:2.3:a:shishnet:shimmie:*:*:*:*:*:*:*:*
 cpe:2.3:a:shishuocms_project:shishuocms:*:*:*:*:*:*:*:*
 cpe:2.3:a:shit-server_project:shit-server:*:*:*:*:*:*:*:*
 cpe:2.3:a:shiva-server_project:shiva-server:*:*:*:*:*:*:*:*
+cpe:2.3:a:shivammathur:setup_php:*:*:*:*:*:*:*:*
 cpe:2.3:a:shixxnote:shixxnote:*:*:*:*:*:*:*:*
 cpe:2.3:a:shizutetsu:shizutetsu_store:*:*:*:*:*:*:*:*
 cpe:2.3:a:shlomi_fish:config-inifiles:*:*:*:*:*:*:*:*
