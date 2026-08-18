@@ -69017,6 +69017,7 @@ cpe:2.3:a:totolink:ca750-poe:*:*:*:*:*:*:*:*
 cpe:2.3:a:totolink:cp450:*:*:*:*:*:*:*:*
 cpe:2.3:a:totolink:cp900_l:*:*:*:*:*:*:*:*
 cpe:2.3:a:totolink:cs185r_t10:*:*:*:*:*:*:*:*
+cpe:2.3:a:totolink:ex1200l:*:*:*:*:*:*:*:*
 cpe:2.3:a:totolink:ex200:*:*:*:*:*:*:*:*
 cpe:2.3:a:totolink:lr350_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:a:totolink:outdoor_cpe_cp450:*:*:*:*:*:*:*:*
