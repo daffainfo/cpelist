@@ -8743,6 +8743,7 @@ cpe:2.3:a:botan_project:botan:*:*:*:*:*:*:*:*
 cpe:2.3:a:botanikyazilim:pharmacy_automation:*:*:*:*:*:*:*:*
 cpe:2.3:a:botbait_project:botbait:*:*:*:*:*:*:*:*
 cpe:2.3:a:botcha_spam_prevention_project:botcha:*:*:*:*:*:*:*:*
+cpe:2.3:a:botpress:botpress:*:*:*:*:*:*:*:*
 cpe:2.3:a:bottelet:daybydaycrm:*:*:*:*:*:*:*:*
 cpe:2.3:a:bottle-auth_project:bottle-auth:*:*:*:*:*:*:*:*
 cpe:2.3:a:bottlepy:bottle:*:*:*:*:*:*:*:*
@@ -20504,6 +20505,7 @@ cpe:2.3:a:escanav:escan_internet_security_suite:*:*:*:*:*:*:*:*
 cpe:2.3:a:escanav:escan_management_console:*:*:*:*:*:*:*:*
 cpe:2.3:a:eschew.net:phpbannerexchange:*:*:*:*:*:*:*:*
 cpe:2.3:a:escortwebsitedesign:escort-agency-cms:*:*:*:*:*:*:*:*
+cpe:2.3:a:escriptorium:escriptorium:*:*:*:*:*:*:*:*
 cpe:2.3:a:escucha_eldiario_project:escucha_eldiario:*:*:*:*:*:*:*:*
 cpe:2.3:a:esdoc:esdoc-publish-html-plugin:*:*:*:*:*:*:*:*
 cpe:2.3:a:esds.co:emagic_data_center_management:*:*:*:*:*:*:*:*
@@ -67259,6 +67261,7 @@ cpe:2.3:a:tenable:log_correlation_engine:*:*:*:*:*:*:*:*
 cpe:2.3:a:tenable:nessus:*:*:*:*:*:*:*:*
 cpe:2.3:a:tenable:nessus_agent:*:*:*:*:*:*:*:*
 cpe:2.3:a:tenable:nessus_network_monitor:*:*:*:*:*:*:*:*
+cpe:2.3:a:tenable:operational_technology_exposure:*:*:*:*:*:*:*:*
 cpe:2.3:a:tenable:plugin-set:*:*:*:*:*:*:*:*
 cpe:2.3:a:tenable:plugin_feed:*:*:*:*:*:*:*:*
 cpe:2.3:a:tenable:security_center:*:*:*:*:*:*:*:*
@@ -71508,6 +71511,7 @@ cpe:2.3:a:verycd:stormplayer:*:*:*:*:*:*:*:*
 cpe:2.3:a:verydows:verydows:*:*:*:*:*:*:*:*
 cpe:2.3:a:veryfitpro_project:veryfitpro:*:*:*:*:*:*:*:*
 cpe:2.3:a:verygoodplugins:fatal_error_notify:*:*:*:*:*:*:*:*
+cpe:2.3:a:verygoodplugins:whatsapp_mcp_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:verygoodplugins:wp_fusion:*:*:*:*:*:*:*:*
 cpe:2.3:a:verylost:lostbook:*:*:*:*:*:*:*:*
 cpe:2.3:a:verynginx_project:verynginx:*:*:*:*:*:*:*:*
@@ -72160,6 +72164,7 @@ cpe:2.3:a:vmware:vsphere:*:*:*:*:*:*:*:*
 cpe:2.3:a:vmware:vsphere_client:*:*:*:*:*:*:*:*
 cpe:2.3:a:vmware:vsphere_data_protection:*:*:*:*:*:*:*:*
 cpe:2.3:a:vmware:vsphere_esxi:*:*:*:*:*:*:*:*
+cpe:2.3:a:vmware:vsphere_foundation:*:*:*:*:*:*:*:*
 cpe:2.3:a:vmware:vsphere_host_update_utility:*:*:*:*:*:*:*:*
 cpe:2.3:a:vmware:vsphere_integrated_containers:*:*:*:*:*:*:*:*
 cpe:2.3:a:vmware:vsphere_profile-driven_storage:*:*:*:*:*:*:*:*
