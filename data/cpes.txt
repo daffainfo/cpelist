@@ -21112,6 +21112,7 @@ cpe:2.3:a:extremepow:extreme_file_hosting:*:*:*:*:*:*:*:*
 cpe:2.3:a:extremetoken_project:extremetoken:*:*:*:*:*:*:*:*
 cpe:2.3:a:extremez-ip:file_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:extremez:print_server:*:*:*:*:*:*:*:*
+cpe:2.3:a:extro:responsive_portfolio:*:*:*:*:*:*:*:*
 cpe:2.3:a:extron:extroncorlib:*:*:*:*:*:*:*:*
 cpe:2.3:a:extropia:bbs_forum.cgi:*:*:*:*:*:*:*:*
 cpe:2.3:a:extropia:extropia_webstore:*:*:*:*:*:*:*:*
@@ -29549,6 +29550,7 @@ cpe:2.3:a:ibm:afp_viewer_plug-in:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:afs:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:agent_controller:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:agentics:*:*:*:*:*:*:*:*
+cpe:2.3:a:ibm:aix:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:aix_5l:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:aix_enetwork_firewall:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:aix_parallel_systems_support_programs:*:*:*:*:*:*:*:*
@@ -30168,6 +30170,7 @@ cpe:2.3:a:ibm:powersc:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:powervc:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:powervm_hypervisor:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:powervm_novalink:*:*:*:*:*:*:*:*
+cpe:2.3:a:ibm:powervm_vios:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:powervm_virtual_i\/o_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:process_federation_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:process_mining:*:*:*:*:*:*:*:*
@@ -35244,6 +35247,7 @@ cpe:2.3:a:jool:jool:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomanager:joomanager:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomanager_project:joomanager:*:*:*:*:*:*:*:*
 cpe:2.3:a:joombooking:jb_bus:*:*:*:*:*:*:*:*
+cpe:2.3:a:joombooking:jb_visa:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomboost:easy_quick_contact:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomcode:jcdashboard:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomcoder:joomcck:*:*:*:*:*:*:*:*
@@ -35452,6 +35456,7 @@ cpe:2.3:a:joomlart:s5_register:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomlaseller:com_jscalendar:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomlaserviceprovider:jsp_store_locator:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomlaserviceprovider:wsecure:*:*:*:*:*:*:*:*
+cpe:2.3:a:joomlashack:osdownloads:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomlashack:shack_forms_pro:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomlashowroom:pro_desk_support_center:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomlaskin:js_multi_hotel:*:*:*:*:*:*:*:*
@@ -35476,6 +35481,8 @@ cpe:2.3:a:joommasters:jms_slider:*:*:*:*:*:*:*:*
 cpe:2.3:a:joommasters:jmspagebuilder:*:*:*:*:*:*:*:*
 cpe:2.3:a:joommasters:jmssetting:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomplace:com_joomportfolio:*:*:*:*:*:*:*:*
+cpe:2.3:a:joomplace:quiz_deluxe:*:*:*:*:*:*:*:*
+cpe:2.3:a:joomplace:survey_force_deluxe:*:*:*:*:*:*:*:*
 cpe:2.3:a:joompolitan:com_livechat:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomprod:com_versioning:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomservices:com_dms:*:*:*:*:*:*:*:*
@@ -36839,6 +36846,7 @@ cpe:2.3:a:kinesphere_corporation:exchange_pop3:*:*:*:*:*:*:*:*
 cpe:2.3:a:kinetic_innovative_technologies_sdn_bhd:kineticpay_for_woocommerce:*:*:*:*:*:*:*:*
 cpe:2.3:a:kinetica:kinetica:*:*:*:*:*:*:*:*
 cpe:2.3:a:kinfusion:com_sportfusion:*:*:*:*:*:*:*:*
+cpe:2.3:a:king-products:learning_management_system_king:*:*:*:*:*:*:*:*
 cpe:2.3:a:king-products:lms_king_lite:*:*:*:*:*:*:*:*
 cpe:2.3:a:king-theme:kingcomposer:*:*:*:*:*:*:*:*
 cpe:2.3:a:king-theme:page_builder_king_composer:*:*:*:*:*:*:*:*
@@ -46361,6 +46369,7 @@ cpe:2.3:a:nextendweb:smart_slider:*:*:*:*:*:*:*:*
 cpe:2.3:a:nextendweb:smart_slider_3:*:*:*:*:*:*:*:*
 cpe:2.3:a:nexters:throne_rush:*:*:*:*:*:*:*:*
 cpe:2.3:a:nextgen:mirth_connect:*:*:*:*:*:*:*:*
+cpe:2.3:a:nextgeneditor:nextgen_editor:*:*:*:*:*:*:*:*
 cpe:2.3:a:nextgenupdate:nextgenupdate:*:*:*:*:*:*:*:*
 cpe:2.3:a:nextit:activeagent:*:*:*:*:*:*:*:*
 cpe:2.3:a:nextlevel_systems:audio_editor_gold:*:*:*:*:*:*:*:*
@@ -73125,6 +73134,7 @@ cpe:2.3:a:webkitgtk:webkit2gtk3:*:*:*:*:*:*:*:*
 cpe:2.3:a:webkitgtk:webkitgtk:*:*:*:*:*:*:*:*
 cpe:2.3:a:webkitgtk:webkitgtk\+:*:*:*:*:*:*:*:*
 cpe:2.3:a:webklex:php-imap:*:*:*:*:*:*:*:*
+cpe:2.3:a:webkul:ajax_quiz:*:*:*:*:*:*:*:*
 cpe:2.3:a:webkul:bagisto:*:*:*:*:*:*:*:*
 cpe:2.3:a:webkul:bundle_product:*:*:*:*:*:*:*:*
 cpe:2.3:a:webkul:com_ultimateportfolio:*:*:*:*:*:*:*:*
@@ -73190,6 +73200,8 @@ cpe:2.3:a:webo:webo:*:*:*:*:*:*:*:*
 cpe:2.3:a:weboddity:weboddity:*:*:*:*:*:*:*:*
 cpe:2.3:a:webodid:dropdown_and_scrollable_text:*:*:*:*:*:*:*:*
 cpe:2.3:a:webonyx:graphql-php:*:*:*:*:*:*:*:*
+cpe:2.3:a:weborange:bargain_product_vm3:*:*:*:*:*:*:*:*
+cpe:2.3:a:weborange:price_alert:*:*:*:*:*:*:*:*
 cpe:2.3:a:weborf_project:weborf:*:*:*:*:*:*:*:*
 cpe:2.3:a:webp:webp_server_go:*:*:*:*:*:*:*:*
 cpe:2.3:a:webp_and_svg_support:webp_and_svg_support:*:*:*:*:*:*:*:*
@@ -119974,6 +119986,7 @@ cpe:2.3:h:mediatek:mt6899:*:*:*:*:*:*:*:*
 cpe:2.3:h:mediatek:mt6980:*:*:*:*:*:*:*:*
 cpe:2.3:h:mediatek:mt6980d:*:*:*:*:*:*:*:*
 cpe:2.3:h:mediatek:mt6982:*:*:*:*:*:*:*:*
+cpe:2.3:h:mediatek:mt6982vb:*:*:*:*:*:*:*:*
 cpe:2.3:h:mediatek:mt6983:*:*:*:*:*:*:*:*
 cpe:2.3:h:mediatek:mt6983t:*:*:*:*:*:*:*:*
 cpe:2.3:h:mediatek:mt6983w:*:*:*:*:*:*:*:*
@@ -172228,6 +172241,7 @@ cpe:2.3:o:mediatek:mt6897_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt6899_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt6980_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt6980d_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:mediatek:mt6982vb_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt6983_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt6983t_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt6985_firmware:*:*:*:*:*:*:*:*
