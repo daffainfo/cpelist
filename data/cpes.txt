@@ -69449,6 +69449,7 @@ cpe:2.3:a:trendnet:tew-814dap:*:*:*:*:*:*:*:*
 cpe:2.3:a:trendnet:tew-816drm:*:*:*:*:*:*:*:*
 cpe:2.3:a:trendnet:tew-827dru_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:a:trendnet:tew-wlc100:*:*:*:*:*:*:*:*
+cpe:2.3:a:trendnet:tv-ip751wic:*:*:*:*:*:*:*:*
 cpe:2.3:a:trendylogics:crypto_currency_tracker:*:*:*:*:*:*:*:*
 cpe:2.3:a:tresata:tree-orion:*:*:*:*:*:*:*:*
 cpe:2.3:a:trestle-auth_project:trestle-auth:*:*:*:*:*:*:*:*
