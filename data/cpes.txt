@@ -8754,6 +8754,12 @@ cpe:2.3:a:bouncycastle:bc-csharp:*:*:*:*:*:*:*:*
 cpe:2.3:a:bouncycastle:bc-fja:*:*:*:*:*:*:*:*
 cpe:2.3:a:bouncycastle:bc-java:*:*:*:*:*:*:*:*
 cpe:2.3:a:bouncycastle:bc_c_.net:*:*:*:*:*:*:*:*
+cpe:2.3:a:bouncycastle:bcjmail-fips:*:*:*:*:*:*:*:*
+cpe:2.3:a:bouncycastle:bcmail-fips:*:*:*:*:*:*:*:*
+cpe:2.3:a:bouncycastle:bcpg-fips:*:*:*:*:*:*:*:*
+cpe:2.3:a:bouncycastle:bcpkix-fips:*:*:*:*:*:*:*:*
+cpe:2.3:a:bouncycastle:bctls-fips:*:*:*:*:*:*:*:*
+cpe:2.3:a:bouncycastle:bcutil-fips:*:*:*:*:*:*:*:*
 cpe:2.3:a:bouncycastle:bouncy-castle-crypto-package:*:*:*:*:*:*:*:*
 cpe:2.3:a:bouncycastle:bouncy_castle_crypto_package:*:*:*:*:*:*:*:*
 cpe:2.3:a:bouncycastle:bouncy_castle_fips_.net_api:*:*:*:*:*:*:*:*
@@ -13302,6 +13308,7 @@ cpe:2.3:a:code-projects:online_faculty_clearance:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:online_food_order_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:online_hospital_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:online_job_portal:*:*:*:*:*:*:*:*
+cpe:2.3:a:code-projects:online_job_portal_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:online_music_site:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:online_polling:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:online_quiz_site:*:*:*:*:*:*:*:*
@@ -64078,6 +64085,7 @@ cpe:2.3:a:sourcecodester:simple_inventory_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:simple_library_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:simple_music_cloud_community_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:simple_online_bidding_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:sourcecodester:simple_online_food_ordering_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:simple_payroll_system_with_dynamic_tax_bracket:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:simple_pos_and_inventory_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:simple_realtime_quiz_system:*:*:*:*:*:*:*:*
@@ -64388,6 +64396,7 @@ cpe:2.3:a:splunk:splunk_enterprise:*:*:*:*:*:*:*:*
 cpe:2.3:a:splunk:splunk_secure_gateway:*:*:*:*:*:*:*:*
 cpe:2.3:a:splunk:universal_forwarder:*:*:*:*:*:*:*:*
 cpe:2.3:a:splus:soroushplus:*:*:*:*:*:*:*:*
+cpe:2.3:a:splware:esproc:*:*:*:*:*:*:*:*
 cpe:2.3:a:spmjs:spmrc:*:*:*:*:*:*:*:*
 cpe:2.3:a:spnego_http_authentication_module_project:spnego_http_authentication_module:*:*:*:*:*:*:*:*
 cpe:2.3:a:spomky-labs:webauthn-lib:*:*:*:*:*:*:*:*
@@ -69447,6 +69456,7 @@ cpe:2.3:a:trendnet:tew-635brm:*:*:*:*:*:*:*:*
 cpe:2.3:a:trendnet:tew-813dru:*:*:*:*:*:*:*:*
 cpe:2.3:a:trendnet:tew-814dap:*:*:*:*:*:*:*:*
 cpe:2.3:a:trendnet:tew-816drm:*:*:*:*:*:*:*:*
+cpe:2.3:a:trendnet:tew-823dru:*:*:*:*:*:*:*:*
 cpe:2.3:a:trendnet:tew-827dru_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:a:trendnet:tew-wlc100:*:*:*:*:*:*:*:*
 cpe:2.3:a:trendnet:tv-ip751wic:*:*:*:*:*:*:*:*
@@ -120019,6 +120029,7 @@ cpe:2.3:h:mediatek:mt7992:*:*:*:*:*:*:*:*
 cpe:2.3:h:mediatek:mt7993:*:*:*:*:*:*:*:*
 cpe:2.3:h:mediatek:mt8113:*:*:*:*:*:*:*:*
 cpe:2.3:h:mediatek:mt8115:*:*:*:*:*:*:*:*
+cpe:2.3:h:mediatek:mt8126:*:*:*:*:*:*:*:*
 cpe:2.3:h:mediatek:mt8127:*:*:*:*:*:*:*:*
 cpe:2.3:h:mediatek:mt8135:*:*:*:*:*:*:*:*
 cpe:2.3:h:mediatek:mt8137:*:*:*:*:*:*:*:*
@@ -120028,6 +120039,7 @@ cpe:2.3:h:mediatek:mt8167:*:*:*:*:*:*:*:*
 cpe:2.3:h:mediatek:mt8167s:*:*:*:*:*:*:*:*
 cpe:2.3:h:mediatek:mt8168:*:*:*:*:*:*:*:*
 cpe:2.3:h:mediatek:mt8169:*:*:*:*:*:*:*:*
+cpe:2.3:h:mediatek:mt8171:*:*:*:*:*:*:*:*
 cpe:2.3:h:mediatek:mt8173:*:*:*:*:*:*:*:*
 cpe:2.3:h:mediatek:mt8175:*:*:*:*:*:*:*:*
 cpe:2.3:h:mediatek:mt8176:*:*:*:*:*:*:*:*
@@ -120037,6 +120049,7 @@ cpe:2.3:h:mediatek:mt8185:*:*:*:*:*:*:*:*
 cpe:2.3:h:mediatek:mt8186:*:*:*:*:*:*:*:*
 cpe:2.3:h:mediatek:mt8188:*:*:*:*:*:*:*:*
 cpe:2.3:h:mediatek:mt8188t:*:*:*:*:*:*:*:*
+cpe:2.3:h:mediatek:mt8189:*:*:*:*:*:*:*:*
 cpe:2.3:h:mediatek:mt8192:*:*:*:*:*:*:*:*
 cpe:2.3:h:mediatek:mt8195:*:*:*:*:*:*:*:*
 cpe:2.3:h:mediatek:mt8195z:*:*:*:*:*:*:*:*
@@ -120121,6 +120134,7 @@ cpe:2.3:h:mediatek:mt8796:*:*:*:*:*:*:*:*
 cpe:2.3:h:mediatek:mt8797:*:*:*:*:*:*:*:*
 cpe:2.3:h:mediatek:mt8797wifi:*:*:*:*:*:*:*:*
 cpe:2.3:h:mediatek:mt8798:*:*:*:*:*:*:*:*
+cpe:2.3:h:mediatek:mt8799:*:*:*:*:*:*:*:*
 cpe:2.3:h:mediatek:mt8863:*:*:*:*:*:*:*:*
 cpe:2.3:h:mediatek:mt8863t:*:*:*:*:*:*:*:*
 cpe:2.3:h:mediatek:mt8871:*:*:*:*:*:*:*:*
@@ -138583,6 +138597,7 @@ cpe:2.3:h:trango:a600-25-us:*:*:*:*:*:*:*:*
 cpe:2.3:h:trango:a600-ext-us:*:*:*:*:*:*:*:*
 cpe:2.3:h:transcend-info:wifisd:*:*:*:*:*:*:*:*
 cpe:2.3:h:transsion:tecno_pova6_pro_5g:*:*:*:*:*:*:*:*
+cpe:2.3:h:trendnet:router:*:*:*:*:*:*:*:*
 cpe:2.3:h:trendnet:securview_wireless_internet_camera:*:*:*:*:*:*:*:*
 cpe:2.3:h:trendnet:teg-30102ws:*:*:*:*:*:*:*:*
 cpe:2.3:h:trendnet:teg-40128:*:*:*:*:*:*:*:*
@@ -172257,11 +172272,14 @@ cpe:2.3:o:mediatek:mt7990_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt7992_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt7993_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt8115_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:mediatek:mt8126_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt8163_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt8167s_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:mediatek:mt8171_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt8175_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt8186_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt8188_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:mediatek:mt8189_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt8196_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt8362a_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt8365_firmware:*:*:*:*:*:*:*:*
@@ -172302,6 +172320,7 @@ cpe:2.3:o:mediatek:mt8795t_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt8796_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt8797_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt8798_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:mediatek:mt8799_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt8863_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt8873_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt8883_firmware:*:*:*:*:*:*:*:*
