@@ -42,6 +42,7 @@ cpe:2.3:a:100plugins:locations_and_areas:*:*:*:*:*:*:*:*
 cpe:2.3:a:100plugins:open_user_map:*:*:*:*:*:*:*:*
 cpe:2.3:a:100plus:101eip:*:*:*:*:*:*:*:*
 cpe:2.3:a:101_project:101:*:*:*:*:*:*:*:*
+cpe:2.3:a:101arrowz:fflate:*:*:*:*:*:*:*:*
 cpe:2.3:a:1024_cms:1024_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:1024cms:1024_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:1024tools:1024tools:*:*:*:*:*:*:*:*
@@ -13131,8 +13132,12 @@ cpe:2.3:a:cmsimple-xh:cmsimple_xh:*:*:*:*:*:*:*:*
 cpe:2.3:a:cmsimple:cmsimple:*:*:*:*:*:*:*:*
 cpe:2.3:a:cmsimple:cmsimple_classic:*:*:*:*:*:*:*:*
 cpe:2.3:a:cmsisweb:cms_isweb:*:*:*:*:*:*:*:*
+cpe:2.3:a:cmsjunkie:classifiedsmanager:*:*:*:*:*:*:*:*
 cpe:2.3:a:cmsjunkie:j-businessdirectory:*:*:*:*:*:*:*:*
 cpe:2.3:a:cmsjunkie:j-classifiedsmanager:*:*:*:*:*:*:*:*
+cpe:2.3:a:cmsjunkie:j-cruiseportal:*:*:*:*:*:*:*:*
+cpe:2.3:a:cmsjunkie:jhotelreservation:*:*:*:*:*:*:*:*
+cpe:2.3:a:cmsjunkie:multiplehotelreservation:*:*:*:*:*:*:*:*
 cpe:2.3:a:cmsmadesimple:bable\:multilingual_site:*:*:*:*:*:*:*:*
 cpe:2.3:a:cmsmadesimple:cms_made_simple:*:*:*:*:*:*:*:*
 cpe:2.3:a:cmsmadesimple:cmsmadesimple:*:*:*:*:*:*:*:*
@@ -21075,6 +21080,7 @@ cpe:2.3:a:extendthemes:vireo:*:*:*:*:*:*:*:*
 cpe:2.3:a:extendwings:opcache_dashboard:*:*:*:*:*:*:*:*
 cpe:2.3:a:extensiondepot:com_jsupport:*:*:*:*:*:*:*:*
 cpe:2.3:a:extensiondeveloper:questions:*:*:*:*:*:*:*:*
+cpe:2.3:a:extensions:joomla_payage:*:*:*:*:*:*:*:*
 cpe:2.3:a:extensionsforjoomla:com_vikrealestate:*:*:*:*:*:*:*:*
 cpe:2.3:a:extensis:mrsid:*:*:*:*:*:*:*:*
 cpe:2.3:a:extensis:netpublish_server:*:*:*:*:*:*:*:*
@@ -21588,6 +21594,7 @@ cpe:2.3:a:fabiantodt:private_post_share:*:*:*:*:*:*:*:*
 cpe:2.3:a:fabien_coelho:mod_macro:*:*:*:*:*:*:*:*
 cpe:2.3:a:fabiolb:fabio:*:*:*:*:*:*:*:*
 cpe:2.3:a:faboba:falang:*:*:*:*:*:*:*:*
+cpe:2.3:a:faboba:ultimate_property_listing:*:*:*:*:*:*:*:*
 cpe:2.3:a:fabric-js_project:fabric-js:*:*:*:*:*:*:*:*
 cpe:2.3:a:fabricadigital:publique\!:*:*:*:*:*:*:*:*
 cpe:2.3:a:fabricators:vanilla_os_core_image:*:*:*:*:*:*:*:*
@@ -22698,6 +22705,7 @@ cpe:2.3:a:fntsoftware:fnt_command:*:*:*:*:*:*:*:*
 cpe:2.3:a:fobybus:social-media-skeleton:*:*:*:*:*:*:*:*
 cpe:2.3:a:focalmedia.net:quick_polls:*:*:*:*:*:*:*:*
 cpe:2.3:a:focalmedia.net:sitenet_bbs:*:*:*:*:*:*:*:*
+cpe:2.3:a:focalpointx:focalpoint:*:*:*:*:*:*:*:*
 cpe:2.3:a:focalscope:focalscope:*:*:*:*:*:*:*:*
 cpe:2.3:a:foconet:foconet:*:*:*:*:*:*:*:*
 cpe:2.3:a:focus-sis:focus_sis:*:*:*:*:*:*:*:*
@@ -24180,6 +24188,8 @@ cpe:2.3:a:geert_moernaut:lsrunase:*:*:*:*:*:*:*:*
 cpe:2.3:a:geert_moernaut:supercrypt:*:*:*:*:*:*:*:*
 cpe:2.3:a:geertsen_holdings_inc:geecarts:*:*:*:*:*:*:*:*
 cpe:2.3:a:geex-arts:django-jet:*:*:*:*:*:*:*:*
+cpe:2.3:a:gegabyte:my_projects:*:*:*:*:*:*:*:*
+cpe:2.3:a:gegabyte:user_bench:*:*:*:*:*:*:*:*
 cpe:2.3:a:gegl:gegl:*:*:*:*:*:*:*:*
 cpe:2.3:a:gegl:generic_graphics_library:*:*:*:*:*:*:*:*
 cpe:2.3:a:gehealthcare:centricity_analytics_server:*:*:*:*:*:*:*:*
@@ -30005,6 +30015,7 @@ cpe:2.3:a:ibm:kenexa_lms_on_cloud:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:kitura:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:knowledge_catalog:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:knowledge_catalog_standard_cartridge:*:*:*:*:*:*:*:*
+cpe:2.3:a:ibm:langflow:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:langflow_desktop:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:langflow_oss:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:leads:*:*:*:*:*:*:*:*
@@ -35249,6 +35260,8 @@ cpe:2.3:a:joomanager_project:joomanager:*:*:*:*:*:*:*:*
 cpe:2.3:a:joombooking:jb_bus:*:*:*:*:*:*:*:*
 cpe:2.3:a:joombooking:jb_visa:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomboost:easy_quick_contact:*:*:*:*:*:*:*:*
+cpe:2.3:a:joomboost:joomla_joomrecipe:*:*:*:*:*:*:*:*
+cpe:2.3:a:joomboost:joomrecipe:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomcode:jcdashboard:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomcoder:joomcck:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomdle:com_joomdle:*:*:*:*:*:*:*:*
@@ -35263,6 +35276,7 @@ cpe:2.3:a:joomla:akobook:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomla:be_it_easypartner_component:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomla:bibtex:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomla:bsq_sitestats:*:*:*:*:*:*:*:*
+cpe:2.3:a:joomla:calendar_planner:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomla:car_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomla:classifieds_component:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomla:colophon:*:*:*:*:*:*:*:*
@@ -35415,6 +35429,7 @@ cpe:2.3:a:joomlabear:mod_joomulus:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomlabiblestudy:com_biblestudy:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomlaboard:joomlaboard:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomlaboat:com_youtubegallery:*:*:*:*:*:*:*:*
+cpe:2.3:a:joomlaboat:extra_search:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomlacache:com_cbresumebuilder:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomlacalendars:event_calendar:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomlacalendars:picture_calendar:*:*:*:*:*:*:*:*
@@ -35486,6 +35501,7 @@ cpe:2.3:a:joomplace:survey_force_deluxe:*:*:*:*:*:*:*:*
 cpe:2.3:a:joompolitan:com_livechat:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomprod:com_versioning:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomservices:com_dms:*:*:*:*:*:*:*:*
+cpe:2.3:a:joomshaper:standard_pro_movie_database:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomshark:com_jsjobs:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomsky:js_autoz:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomsky:js_help_desk:*:*:*:*:*:*:*:*
@@ -37883,6 +37899,7 @@ cpe:2.3:a:lenovo:emulator:*:*:*:*:*:*:*:*
 cpe:2.3:a:lenovo:energy_management:*:*:*:*:*:*:*:*
 cpe:2.3:a:lenovo:enterprise_network_disk:*:*:*:*:*:*:*:*
 cpe:2.3:a:lenovo:fan_power_controller:*:*:*:*:*:*:*:*
+cpe:2.3:a:lenovo:filez:*:*:*:*:*:*:*:*
 cpe:2.3:a:lenovo:fingerprint_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:lenovo:fingerprint_manager_pro:*:*:*:*:*:*:*:*
 cpe:2.3:a:lenovo:flex_system_x240_m5_bios:*:*:*:*:*:*:*:*
@@ -44786,6 +44803,7 @@ cpe:2.3:a:mypikpak:pikpak:*:*:*:*:*:*:*:*
 cpe:2.3:a:mypixs_project:mypixs:*:*:*:*:*:*:*:*
 cpe:2.3:a:myplugins:gen_msn:*:*:*:*:*:*:*:*
 cpe:2.3:a:mypopups:pop-up:*:*:*:*:*:*:*:*
+cpe:2.3:a:myportfolio:myportfolio:*:*:*:*:*:*:*:*
 cpe:2.3:a:mypresta:customer_files_upload:*:*:*:*:*:*:*:*
 cpe:2.3:a:mypresta:customer_photo_gallery:*:*:*:*:*:*:*:*
 cpe:2.3:a:mypresta:manufacturers_\(brands\)_images_block:*:*:*:*:*:*:*:*
@@ -55163,6 +55181,8 @@ cpe:2.3:a:pulseaudio:pulseaudio:*:*:*:*:*:*:*:*
 cpe:2.3:a:pulseaudio_project:pulseaudio:*:*:*:*:*:*:*:*
 cpe:2.3:a:pulsecms:pulse_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:pulseextensions:altra_side_menu:*:*:*:*:*:*:*:*
+cpe:2.3:a:pulseextensions:flip_wall:*:*:*:*:*:*:*:*
+cpe:2.3:a:pulseextensions:sponsor_wall:*:*:*:*:*:*:*:*
 cpe:2.3:a:pulseinfotech:com_flipwall:*:*:*:*:*:*:*:*
 cpe:2.3:a:pulseinfotech:com_sponsorwall:*:*:*:*:*:*:*:*
 cpe:2.3:a:pulsesecure:client:*:*:*:*:*:*:*:*
@@ -59028,6 +59048,7 @@ cpe:2.3:a:rust-lang:socket2:*:*:*:*:*:*:*:*
 cpe:2.3:a:rust-openssl_project:rust-openssl:*:*:*:*:*:*:*:*
 cpe:2.3:a:rust-osdev:linked-list-allocator:*:*:*:*:*:*:*:*
 cpe:2.3:a:rust-protobuf_project:rust-protobuf:*:*:*:*:*:*:*:*
+cpe:2.3:a:rust-random:rand:*:*:*:*:*:*:*:*
 cpe:2.3:a:rust-vmm:vmm-sys-util:*:*:*:*:*:*:*:*
 cpe:2.3:a:rust-websocket_project:rust-websocket:*:*:*:*:*:*:*:*
 cpe:2.3:a:rustaurius:ultimate_wp_mail:*:*:*:*:*:*:*:*
@@ -62315,6 +62336,7 @@ cpe:2.3:a:simbin:gtr_-_fia_get_racing_game:*:*:*:*:*:*:*:*
 cpe:2.3:a:simbin:gtr_2:*:*:*:*:*:*:*:*
 cpe:2.3:a:simbin:race_-_the_wtcc_game:*:*:*:*:*:*:*:*
 cpe:2.3:a:simbiotnetwork:simgene:*:*:*:*:*:*:*:*
+cpe:2.3:a:simbunch:simgenealogy:*:*:*:*:*:*:*:*
 cpe:2.3:a:simdcomp_project:simdcomp:*:*:*:*:*:*:*:*
 cpe:2.3:a:simdjson_project:simdjson:*:*:*:*:*:*:*:*
 cpe:2.3:a:simeji:simeji:*:*:*:*:*:*:*:*
@@ -63388,6 +63410,7 @@ cpe:2.3:a:soflyy:wp_all_import:*:*:*:*:*:*:*:*
 cpe:2.3:a:sofotex:bisonftp:*:*:*:*:*:*:*:*
 cpe:2.3:a:soft-master:affiliate_platform:*:*:*:*:*:*:*:*
 cpe:2.3:a:soft-o:free_password_manager:*:*:*:*:*:*:*:*
+cpe:2.3:a:soft-php:jcart_for_opencart:*:*:*:*:*:*:*:*
 cpe:2.3:a:soft-xpansion:perfect_pdf_10:*:*:*:*:*:*:*:*
 cpe:2.3:a:soft-xpansion:perfect_pdf_reader:*:*:*:*:*:*:*:*
 cpe:2.3:a:soft3304:04webserver:*:*:*:*:*:*:*:*
@@ -72730,6 +72753,7 @@ cpe:2.3:a:wddgroup:fantsy:*:*:*:*:*:*:*:*
 cpe:2.3:a:wdja:wdja:*:*:*:*:*:*:*:*
 cpe:2.3:a:wdja:wdja_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:wdmtech:vbizz:*:*:*:*:*:*:*:*
+cpe:2.3:a:wdmtech:vmap:*:*:*:*:*:*:*:*
 cpe:2.3:a:wdoyo:doyo:*:*:*:*:*:*:*:*
 cpe:2.3:a:wdoyo:doyocms:*:*:*:*:*:*:*:*
 cpe:2.3:a:we-com:municipality_portal_cms:*:*:*:*:*:*:*:*
@@ -163473,6 +163497,7 @@ cpe:2.3:o:ibm:power_740_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:ibm:power_760_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:ibm:power_770_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:ibm:power_9_ac922_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:ibm:power_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:ibm:power_hardware_management_console_\(7063-cr1\)_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:ibm:power_hardware_management_console_\(7063-cr2\)_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:ibm:power_hardware_management_console_firmware:*:*:*:*:*:*:*:*
@@ -163515,6 +163540,7 @@ cpe:2.3:o:ibm:power_system_s922_\(9009-22g\)_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:ibm:power_system_s922_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:ibm:power_system_s924_\(9009-42a\)_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:ibm:power_system_s924_\(9009-42g\)_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:ibm:power_systems_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:ibm:powerlinux:*:*:*:*:*:*:*:*
 cpe:2.3:o:ibm:powervm:*:*:*:*:*:*:*:*
 cpe:2.3:o:ibm:powervm_hypervisor:*:*:*:*:*:*:*:*
@@ -172318,6 +172344,7 @@ cpe:2.3:o:mediatek:mt8696_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt8755_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt8765_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt8766_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:mediatek:mt8766r_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt8768_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt8771_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt8775_firmware:*:*:*:*:*:*:*:*
