@@ -13352,6 +13352,7 @@ cpe:2.3:a:code-projects:simple_car_rental_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:simple_chat_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:simple_crud_functionality:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:simple_flight_ticket_booking_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:code-projects:simple_inventory_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:simple_laundry_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:simple_online_hotel_reservation_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:simple_school_management_system:*:*:*:*:*:*:*:*
@@ -14923,6 +14924,7 @@ cpe:2.3:a:crewai:crewai:*:*:*:*:*:*:*:*
 cpe:2.3:a:crewhrm:crewhrm:*:*:*:*:*:*:*:*
 cpe:2.3:a:crgroup-lb:c.r._group:*:*:*:*:*:*:*:*
 cpe:2.3:a:cribl:cribl:*:*:*:*:*:*:*:*
+cpe:2.3:a:cribl:cribl_stream:*:*:*:*:*:*:*:*
 cpe:2.3:a:cridio:listingpro:*:*:*:*:*:*:*:*
 cpe:2.3:a:crie_sue:phplojafacil:*:*:*:*:*:*:*:*
 cpe:2.3:a:crime_reporting_system_project:crime_reporting_system:*:*:*:*:*:*:*:*
@@ -26068,6 +26070,7 @@ cpe:2.3:a:grestul:grestul:*:*:*:*:*:*:*:*
 cpe:2.3:a:grey\'s_anatomy_fan_project:grey\'s_anatomy_fan:*:*:*:*:*:*:*:*
 cpe:2.3:a:grey_opaque_project:grey_opaque:*:*:*:*:*:*:*:*
 cpe:2.3:a:greyd:greyd.suite:*:*:*:*:*:*:*:*
+cpe:2.3:a:greydgl:pentestgpt:*:*:*:*:*:*:*:*
 cpe:2.3:a:greymatter:greymatter:*:*:*:*:*:*:*:*
 cpe:2.3:a:greymatter:greymatter_forum:*:*:*:*:*:*:*:*
 cpe:2.3:a:greyware:domain_time_ii:*:*:*:*:*:*:*:*
@@ -44971,10 +44974,7 @@ cpe:2.3:a:n2ws:n2w:*:*:*:*:*:*:*:*
 cpe:2.3:a:n3uron:web_user_interface:*:*:*:*:*:*:*:*
 cpe:2.3:a:n5_upload_form_project:n5_upload_form:*:*:*:*:*:*:*:*
 cpe:2.3:a:n8n-mcp:n8n-mcp:*:*:*:*:*:*:*:*
-cpe:2.3:a:n8n:fastapi:*:*:*:*:*:*:*:*
 cpe:2.3:a:n8n:n8n:*:*:*:*:*:*:*:*
-cpe:2.3:a:n8n:pydantic:*:*:*:*:*:*:*:*
-cpe:2.3:a:n8n:uvicorn:*:*:*:*:*:*:*:*
 cpe:2.3:a:n:z-blogphp:*:*:*:*:*:*:*:*
 cpe:2.3:a:n_squared:appointment_booking_calendar:*:*:*:*:*:*:*:*
 cpe:2.3:a:naa986:videojs_html5_player:*:*:*:*:*:*:*:*
@@ -52081,6 +52081,7 @@ cpe:2.3:a:pgpi:pgpdisk:*:*:*:*:*:*:*:*
 cpe:2.3:a:pgpool:pgpool-ii:*:*:*:*:*:*:*:*
 cpe:2.3:a:pgpool:pgpooladmin:*:*:*:*:*:*:*:*
 cpe:2.3:a:pgsync_project:pgsync:*:*:*:*:*:*:*:*
+cpe:2.3:a:pgvector_project:pgvector:*:*:*:*:*:*:*:*
 cpe:2.3:a:pgxn:pg_partman:*:*:*:*:*:*:*:*
 cpe:2.3:a:pgyer:codefever:*:*:*:*:*:*:*:*
 cpe:2.3:a:ph-json_project:ph-json:*:*:*:*:*:*:*:*
@@ -77030,6 +77031,7 @@ cpe:2.3:a:ziahamza:webui-aria2:*:*:*:*:*:*:*:*
 cpe:2.3:a:zibal_project:zibal:*:*:*:*:*:*:*:*
 cpe:2.3:a:zibbs_project:zibbs:*:*:*:*:*:*:*:*
 cpe:2.3:a:zibtoken:zibtoken:*:*:*:*:*:*:*:*
+cpe:2.3:a:zie619:n8n_workflow_collection:*:*:*:*:*:*:*:*
 cpe:2.3:a:ziftrshop:primecoin:*:*:*:*:*:*:*:*
 cpe:2.3:a:zihanggao:php-jwt:*:*:*:*:*:*:*:*
 cpe:2.3:a:ziku:zikula:*:*:*:*:*:*:*:*
