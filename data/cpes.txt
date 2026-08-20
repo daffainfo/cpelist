@@ -12056,6 +12056,7 @@ cpe:2.3:a:cisco:secure_endpoint:*:*:*:*:*:*:*:*
 cpe:2.3:a:cisco:secure_endpoint_private_cloud:*:*:*:*:*:*:*:*
 cpe:2.3:a:cisco:secure_firewall_management_center:*:*:*:*:*:*:*:*
 cpe:2.3:a:cisco:secure_firewall_management_center_software:*:*:*:*:*:*:*:*
+cpe:2.3:a:cisco:secure_firewall_threat_defennse:*:*:*:*:*:*:*:*
 cpe:2.3:a:cisco:secure_firewall_threat_defense:*:*:*:*:*:*:*:*
 cpe:2.3:a:cisco:secure_intrusion_detection_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:cisco:secure_malware_analytics:*:*:*:*:*:*:*:*
@@ -26667,6 +26668,7 @@ cpe:2.3:a:hashicorp:consul_docker_image:*:*:*:*:*:*:*:*
 cpe:2.3:a:hashicorp:consul_template:*:*:*:*:*:*:*:*
 cpe:2.3:a:hashicorp:go-getter:*:*:*:*:*:*:*:*
 cpe:2.3:a:hashicorp:go-slug:*:*:*:*:*:*:*:*
+cpe:2.3:a:hashicorp:go_slug:*:*:*:*:*:*:*:*
 cpe:2.3:a:hashicorp:hermes:*:*:*:*:*:*:*:*
 cpe:2.3:a:hashicorp:nomad:*:*:*:*:*:*:*:*
 cpe:2.3:a:hashicorp:packer:*:*:*:*:*:*:*:*
@@ -30173,7 +30175,9 @@ cpe:2.3:a:ibm:planning_analytics_on_cloud_pak_for_data:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:planning_analytics_workspace:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:platform_lsf:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:platform_symphony:*:*:*:*:*:*:*:*
+cpe:2.3:a:ibm:portieris:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:power_hardware_management_console:*:*:*:*:*:*:*:*
+cpe:2.3:a:ibm:power_systems_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:powerha:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:powerha_system_mirror:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:powerkvm:*:*:*:*:*:*:*:*
@@ -30274,6 +30278,7 @@ cpe:2.3:a:ibm:rational_test_virtualization_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:rational_test_workbench:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:rational_testmanager:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:reference_data_management:*:*:*:*:*:*:*:*
+cpe:2.3:a:ibm:reliable_scalable_cluster_technology:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:remote_supervisor_adapter_ii_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:removable_media_management:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:removable_media_manager:*:*:*:*:*:*:*:*
