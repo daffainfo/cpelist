@@ -1978,6 +1978,7 @@ cpe:2.3:a:aes_encryption_project:aes_encryption:*:*:*:*:*:*:*:*
 cpe:2.3:a:aescrypt:aes_crypt:*:*:*:*:*:*:*:*
 cpe:2.3:a:aescrypt_project:aescrypt:*:*:*:*:*:*:*:*
 cpe:2.3:a:aestiva:html_os:*:*:*:*:*:*:*:*
+cpe:2.3:a:aeternalabshq:pullmd:*:*:*:*:*:*:*:*
 cpe:2.3:a:aethon:tug_home_base_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:aewebworks:aedating:*:*:*:*:*:*:*:*
 cpe:2.3:a:afcommerce:afcommerce:*:*:*:*:*:*:*:*
@@ -3347,6 +3348,7 @@ cpe:2.3:a:amini7:zarinpal_paid_download:*:*:*:*:*:*:*:*
 cpe:2.3:a:amiro:amiro.cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:amirocms:amiro.cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:amirraminfar:dozzle:*:*:*:*:*:*:*:*
+cpe:2.3:a:amirsanni:mini-inventory-and-sales-management-system:*:*:*:*:*:*:*:*
 cpe:2.3:a:amirziai:flatten_json:*:*:*:*:*:*:*:*
 cpe:2.3:a:amiscu:michael_baker_federal_credit_union:*:*:*:*:*:*:*:*
 cpe:2.3:a:amiscu:westmoreland_water_fcu:*:*:*:*:*:*:*:*
@@ -10307,6 +10309,7 @@ cpe:2.3:a:canonical:apt-xapian-index:*:*:*:*:*:*:*:*
 cpe:2.3:a:canonical:authd:*:*:*:*:*:*:*:*
 cpe:2.3:a:canonical:bazaar:*:*:*:*:*:*:*:*
 cpe:2.3:a:canonical:c-kernel:*:*:*:*:*:*:*:*
+cpe:2.3:a:canonical:canonical-livepatch:*:*:*:*:*:*:*:*
 cpe:2.3:a:canonical:checkinstall:*:*:*:*:*:*:*:*
 cpe:2.3:a:canonical:cloud-init:*:*:*:*:*:*:*:*
 cpe:2.3:a:canonical:juju:*:*:*:*:*:*:*:*
@@ -10354,6 +10357,7 @@ cpe:2.3:a:canonical:ubuntu_subiquity:*:*:*:*:*:*:*:*
 cpe:2.3:a:canonical:unity-firefox-extension:*:*:*:*:*:*:*:*
 cpe:2.3:a:canonical:update-manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:canonical:whoopsie:*:*:*:*:*:*:*:*
+cpe:2.3:a:canop:termimad:*:*:*:*:*:*:*:*
 cpe:2.3:a:cantata_project:cantata:*:*:*:*:*:*:*:*
 cpe:2.3:a:canteen_management_system_project:canteen_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:cantemo:portal:*:*:*:*:*:*:*:*
@@ -13299,6 +13303,7 @@ cpe:2.3:a:code-projects:laundry_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:library_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:library_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:local_storage_todo_app:*:*:*:*:*:*:*:*
+cpe:2.3:a:code-projects:login_registration_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:mobile_shop:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:modern_bag:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:news-buzz:*:*:*:*:*:*:*:*
@@ -17073,6 +17078,7 @@ cpe:2.3:a:devolutions:devolutions_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:devolutions:gfwx:*:*:*:*:*:*:*:*
 cpe:2.3:a:devolutions:hub_reporting_service:*:*:*:*:*:*:*:*
 cpe:2.3:a:devolutions:password_hub:*:*:*:*:*:*:*:*
+cpe:2.3:a:devolutions:password_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:devolutions:powershell_universal:*:*:*:*:*:*:*:*
 cpe:2.3:a:devolutions:remote_desktop_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:devolutions:remote_desktop_manager_powershell:*:*:*:*:*:*:*:*
@@ -18413,6 +18419,7 @@ cpe:2.3:a:dteenergy:dte_energy:*:*:*:*:*:*:*:*
 cpe:2.3:a:dtelepathy:slidedeck_1_lite_content_slider:*:*:*:*:*:*:*:*
 cpe:2.3:a:dthdevelopment:dt_register:*:*:*:*:*:*:*:*
 cpe:2.3:a:dtlink:areaedit:*:*:*:*:*:*:*:*
+cpe:2.3:a:dtolnay:quote:*:*:*:*:*:*:*:*
 cpe:2.3:a:dtracker_project:dtracker:*:*:*:*:*:*:*:*
 cpe:2.3:a:dts:monitoring:*:*:*:*:*:*:*:*
 cpe:2.3:a:dtsearch:dtsearch:*:*:*:*:*:*:*:*
@@ -37799,6 +37806,8 @@ cpe:2.3:a:learnwithfair:php-ecommerce-project:*:*:*:*:*:*:*:*
 cpe:2.3:a:lebios:phptonuke.php:*:*:*:*:*:*:*:*
 cpe:2.3:a:lebisoft:lebisoft_zdefter:*:*:*:*:*:*:*:*
 cpe:2.3:a:lebisoft:ziyaretci_defteri:*:*:*:*:*:*:*:*
+cpe:2.3:a:leboiko:markdown-tui-explorer:*:*:*:*:*:*:*:*
+cpe:2.3:a:leboiko:mermaid-text:*:*:*:*:*:*:*:*
 cpe:2.3:a:lebriton:ihatetobudget:*:*:*:*:*:*:*:*
 cpe:2.3:a:lecms:lecms:*:*:*:*:*:*:*:*
 cpe:2.3:a:ledger-cli:ledger:*:*:*:*:*:*:*:*
@@ -47134,6 +47143,7 @@ cpe:2.3:a:notaryproject:notation-go:*:*:*:*:*:*:*:*
 cpe:2.3:a:notaryproject:notation:*:*:*:*:*:*:*:*
 cpe:2.3:a:notation-go_project:notation-go:*:*:*:*:*:*:*:*
 cpe:2.3:a:note_project:note:*:*:*:*:*:*:*:*
+cpe:2.3:a:notegen:notegen:*:*:*:*:*:*:*:*
 cpe:2.3:a:notepad--_project:notepad--:*:*:*:*:*:*:*:*
 cpe:2.3:a:notepad-plus-plus:notepad\+\+:*:*:*:*:*:*:*:*
 cpe:2.3:a:notepad\+\+:notepad\+\+:*:*:*:*:*:*:*:*
