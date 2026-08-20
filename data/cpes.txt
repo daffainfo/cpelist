@@ -26537,6 +26537,7 @@ cpe:2.3:a:handkerchief:location_selector:*:*:*:*:*:*:*:*
 cpe:2.3:a:handlebars.js_project:handlebars.js:*:*:*:*:*:*:*:*
 cpe:2.3:a:handlebarsjs:handlebars:*:*:*:*:*:*:*:*
 cpe:2.3:a:handnot2:esaml:*:*:*:*:*:*:*:*
+cpe:2.3:a:handnot2:samly:*:*:*:*:*:*:*:*
 cpe:2.3:a:handsome_testimonials_\&_reviews_project:handsome_testimonials_\&_reviews:*:*:*:*:*:*:*:*
 cpe:2.3:a:handsomeweb:sos_webpages:*:*:*:*:*:*:*:*
 cpe:2.3:a:handsontable:handsontable:*:*:*:*:*:*:*:*
@@ -37957,6 +37958,7 @@ cpe:2.3:a:lenovo:service_framework:*:*:*:*:*:*:*:*
 cpe:2.3:a:lenovo:shareit:*:*:*:*:*:*:*:*
 cpe:2.3:a:lenovo:slim_usb_keyboard_driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:lenovo:smart_assistant:*:*:*:*:*:*:*:*
+cpe:2.3:a:lenovo:smart_connect:*:*:*:*:*:*:*:*
 cpe:2.3:a:lenovo:smart_standby_driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:lenovo:solution_center:*:*:*:*:*:*:*:*
 cpe:2.3:a:lenovo:starstudio:*:*:*:*:*:*:*:*
@@ -69664,6 +69666,7 @@ cpe:2.3:a:true_north:internet_anywhere_mail_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:truecaller:truecaller-caller_id_\&_block:*:*:*:*:*:*:*:*
 cpe:2.3:a:trueconf:server:*:*:*:*:*:*:*:*
 cpe:2.3:a:trueconf:trueconf:*:*:*:*:*:*:*:*
+cpe:2.3:a:trueconf:trueconf_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:truecrypt:truecrypt:*:*:*:*:*:*:*:*
 cpe:2.3:a:truecrypt_foundation:truecrypt:*:*:*:*:*:*:*:*
 cpe:2.3:a:truecrypt_project:truecrypt:*:*:*:*:*:*:*:*
