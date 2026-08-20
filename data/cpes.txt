@@ -11225,6 +11225,7 @@ cpe:2.3:a:chemssou_blink_project:chemssou_blink:*:*:*:*:*:*:*:*
 cpe:2.3:a:chendotjs:lotos_webserver:*:*:*:*:*:*:*:*
 cpe:2.3:a:chengdu_everbrite_network_technology:beike_shop:*:*:*:*:*:*:*:*
 cpe:2.3:a:chengdu_everbrite_network_technology:beikeshop:*:*:*:*:*:*:*:*
+cpe:2.3:a:chenhg5:cc-connect:*:*:*:*:*:*:*:*
 cpe:2.3:a:chernobile:chernobile:*:*:*:*:*:*:*:*
 cpe:2.3:a:cherokee-project:cherokee:*:*:*:*:*:*:*:*
 cpe:2.3:a:cherokee-project:cherokee_web_server:*:*:*:*:*:*:*:*
@@ -163597,6 +163598,8 @@ cpe:2.3:o:ibm:system_networking_rackswitch__g8316_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:ibm:system_networking_rackswitch__g8332_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:ibm:system_networking_rackswitch__si4093_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:ibm:system_storage_ds8000_management_console_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:ibm:system_storage_ds8900f:*:*:*:*:*:*:*:*
+cpe:2.3:o:ibm:system_storage_ds8A00:*:*:*:*:*:*:*:*
 cpe:2.3:o:ibm:system_storage_virtualization_engine_ts7700_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:ibm:system_x3100_m4_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:ibm:system_x3100_m5_firmware:*:*:*:*:*:*:*:*
