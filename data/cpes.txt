@@ -10440,7 +10440,6 @@ cpe:2.3:a:carel:plantvisor:*:*:*:*:*:*:*:*
 cpe:2.3:a:carel:plantvisor_enhanced:*:*:*:*:*:*:*:*
 cpe:2.3:a:carel:plantvisorenhanced:*:*:*:*:*:*:*:*
 cpe:2.3:a:carello:e-commerce:*:*:*:*:*:*:*:*
-cpe:2.3:a:carenlove:online_public_access_catalog:*:*:*:*:*:*:*:*
 cpe:2.3:a:carestream:carestream_vue_ris:*:*:*:*:*:*:*:*
 cpe:2.3:a:caret:caret:*:*:*:*:*:*:*:*
 cpe:2.3:a:caret:country_access_limit:*:*:*:*:*:*:*:*
@@ -12061,7 +12060,6 @@ cpe:2.3:a:cisco:secure_endpoint:*:*:*:*:*:*:*:*
 cpe:2.3:a:cisco:secure_endpoint_private_cloud:*:*:*:*:*:*:*:*
 cpe:2.3:a:cisco:secure_firewall_management_center:*:*:*:*:*:*:*:*
 cpe:2.3:a:cisco:secure_firewall_management_center_software:*:*:*:*:*:*:*:*
-cpe:2.3:a:cisco:secure_firewall_threat_defennse:*:*:*:*:*:*:*:*
 cpe:2.3:a:cisco:secure_firewall_threat_defense:*:*:*:*:*:*:*:*
 cpe:2.3:a:cisco:secure_intrusion_detection_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:cisco:secure_malware_analytics:*:*:*:*:*:*:*:*
@@ -33444,6 +33442,7 @@ cpe:2.3:a:itsourcecode:online_hotel_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:online_house_rental_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:online_house_rental_system_project_in_php_with_source_code:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:online_laundry_management_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:itsourcecode:online_public_access_catalog:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:online_student_enrollment_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:payroll_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:payroll_management_system_project_in_php_with_source_code:*:*:*:*:*:*:*:*
