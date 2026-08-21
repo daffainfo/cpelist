@@ -38529,6 +38529,7 @@ cpe:2.3:a:limitloginattempts:limit_login_attempts_reloaded:*:*:*:*:*:*:*:*
 cpe:2.3:a:limnoria_project:limnoria:*:*:*:*:*:*:*:*
 cpe:2.3:a:limny:limny:*:*:*:*:*:*:*:*
 cpe:2.3:a:lin-cms_project:lin-cms:*:*:*:*:*:*:*:*
+cpe:2.3:a:lin-snow:ech0:*:*:*:*:*:*:*:*
 cpe:2.3:a:lina_wolf:seo_pack_for_tt_news:*:*:*:*:*:*:*:*
 cpe:2.3:a:linagora:hublin:*:*:*:*:*:*:*:*
 cpe:2.3:a:linagora:twake:*:*:*:*:*:*:*:*
