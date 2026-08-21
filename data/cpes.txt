@@ -5182,6 +5182,8 @@ cpe:2.3:a:artifex:jbig2dec:*:*:*:*:*:*:*:*
 cpe:2.3:a:artifex:mujs:*:*:*:*:*:*:*:*
 cpe:2.3:a:artifex:mupdf:*:*:*:*:*:*:*:*
 cpe:2.3:a:artificial_intelligence_project:artificial_intelligence:*:*:*:*:*:*:*:*
+cpe:2.3:a:artio:book_it\!:*:*:*:*:*:*:*:*
+cpe:2.3:a:artio:com_booking_component:*:*:*:*:*:*:*:*
 cpe:2.3:a:artio:joomdoc:*:*:*:*:*:*:*:*
 cpe:2.3:a:artiosmedia:product_code_for_woocommerce:*:*:*:*:*:*:*:*
 cpe:2.3:a:artiphp:artiphp_cms:*:*:*:*:*:*:*:*
@@ -20199,6 +20201,7 @@ cpe:2.3:a:entergal_mx:entergal_mx:*:*:*:*:*:*:*:*
 cpe:2.3:a:enterprise_heart:enterprise_connector:*:*:*:*:*:*:*:*
 cpe:2.3:a:enterprise_payroll_systems:enterprise_payroll_systems:*:*:*:*:*:*:*:*
 cpe:2.3:a:enterprisedb:hybrid_manager:*:*:*:*:*:*:*:*
+cpe:2.3:a:enterprisedb:pglogical:*:*:*:*:*:*:*:*
 cpe:2.3:a:enterprisedb:postgres_advanced_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:enterprisedb:postgres_enterprise_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:enterprisedt:completeftp_server:*:*:*:*:*:*:*:*
@@ -44615,6 +44618,11 @@ cpe:2.3:a:mvnrepository:h2o-core:*:*:*:*:*:*:*:*
 cpe:2.3:a:mvpthemes:click_mag:*:*:*:*:*:*:*:*
 cpe:2.3:a:mvpthemes:zox_news:*:*:*:*:*:*:*:*
 cpe:2.3:a:mvpthemes:zoxpress:*:*:*:*:*:*:*:*
+cpe:2.3:a:mvtec:merlic_creator:*:*:*:*:*:*:*:*
+cpe:2.3:a:mvtec:merlic_frontend:*:*:*:*:*:*:*:*
+cpe:2.3:a:mvtec:merlic_runtime_and_development:*:*:*:*:*:*:*:*
+cpe:2.3:a:mvtec:merlic_runtime_environment:*:*:*:*:*:*:*:*
+cpe:2.3:a:mvtec:merlic_runtime_environment_setup:*:*:*:*:*:*:*:*
 cpe:2.3:a:mw6_technologies:1d_barcode_decoder_activex:*:*:*:*:*:*:*:*
 cpe:2.3:a:mw6_technologies:aztec_activex:*:*:*:*:*:*:*:*
 cpe:2.3:a:mw6_technologies:barcode_activex:*:*:*:*:*:*:*:*
@@ -64023,6 +64031,7 @@ cpe:2.3:a:sourcecodester:daily_calories_monitoring_tool:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:daily_expenses_monitoring_app:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:downloading_client_database_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:drag_and_drop_image_upload:*:*:*:*:*:*:*:*
+cpe:2.3:a:sourcecodester:dynamic_input_field_generator_using_html_css_and_php:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:ecommerce_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:edoc_doctor_appointment_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:electric_billing_management_system:*:*:*:*:*:*:*:*
@@ -64433,10 +64442,13 @@ cpe:2.3:a:splunk:add-on_builder:*:*:*:*:*:*:*:*
 cpe:2.3:a:splunk:ai_toolkit:*:*:*:*:*:*:*:*
 cpe:2.3:a:splunk:cloud:*:*:*:*:*:*:*:*
 cpe:2.3:a:splunk:cloudconnect_software_development_kit:*:*:*:*:*:*:*:*
+cpe:2.3:a:splunk:connect_for_kafka:*:*:*:*:*:*:*:*
 cpe:2.3:a:splunk:enterprise_security:*:*:*:*:*:*:*:*
 cpe:2.3:a:splunk:hadoop_connect:*:*:*:*:*:*:*:*
 cpe:2.3:a:splunk:it_service_intelligence:*:*:*:*:*:*:*:*
+cpe:2.3:a:splunk:model_context_protocol_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:splunk:nozzle:*:*:*:*:*:*:*:*
+cpe:2.3:a:splunk:on-call:*:*:*:*:*:*:*:*
 cpe:2.3:a:splunk:soar:*:*:*:*:*:*:*:*
 cpe:2.3:a:splunk:software_development_kit:*:*:*:*:*:*:*:*
 cpe:2.3:a:splunk:splunk:*:*:*:*:*:*:*:*
