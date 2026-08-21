@@ -12118,6 +12118,7 @@ cpe:2.3:a:cisco:system_controller_3640:*:*:*:*:*:*:*:*
 cpe:2.3:a:cisco:system_unified_contact_center_enterprise:*:*:*:*:*:*:*:*
 cpe:2.3:a:cisco:tac_plus:*:*:*:*:*:*:*:*
 cpe:2.3:a:cisco:tacacs\+:*:*:*:*:*:*:*:*
+cpe:2.3:a:cisco:talos_intelligence_for_enterprise_security_cloud:*:*:*:*:*:*:*:*
 cpe:2.3:a:cisco:tandberg_endpoint:*:*:*:*:*:*:*:*
 cpe:2.3:a:cisco:tandberg_personal_video_unit_software:*:*:*:*:*:*:*:*
 cpe:2.3:a:cisco:telepresence_advanced_media_gateway:*:*:*:*:*:*:*:*
@@ -27118,6 +27119,7 @@ cpe:2.3:a:henriksjokvist:markdown_preview:*:*:*:*:*:*:*:*
 cpe:2.3:a:henriquedornas:henriquedornas:*:*:*:*:*:*:*:*
 cpe:2.3:a:henriquerodrigues:safetyforms:*:*:*:*:*:*:*:*
 cpe:2.3:a:henryholtgeerts:pdf_block:*:*:*:*:*:*:*:*
+cpe:2.3:a:henryschorradt:bridge:*:*:*:*:*:*:*:*
 cpe:2.3:a:henschen:court_document_management:*:*:*:*:*:*:*:*
 cpe:2.3:a:hentaisolo_project:hentaisolo:*:*:*:*:*:*:*:*
 cpe:2.3:a:henzljw:hashtech:*:*:*:*:*:*:*:*
@@ -35274,6 +35276,7 @@ cpe:2.3:a:jooby:jooby:*:*:*:*:*:*:*:*
 cpe:2.3:a:jooforge:com_gamesbox:*:*:*:*:*:*:*:*
 cpe:2.3:a:jooforge:com_jukebox:*:*:*:*:*:*:*:*
 cpe:2.3:a:jool:jool:*:*:*:*:*:*:*:*
+cpe:2.3:a:joomalshowroom:event_registration_pro_calendar:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomanager:joomanager:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomanager_project:joomanager:*:*:*:*:*:*:*:*
 cpe:2.3:a:joombooking:jb_bus:*:*:*:*:*:*:*:*
