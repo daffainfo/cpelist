@@ -35583,6 +35583,7 @@ cpe:2.3:a:joshfabean:bookable_calendar:*:*:*:*:*:*:*:*
 cpe:2.3:a:joshics:contact_form_fields:*:*:*:*:*:*:*:*
 cpe:2.3:a:joshkohlbach:auto-refresh-single-page:*:*:*:*:*:*:*:*
 cpe:2.3:a:joshlobe:ultimate_tinymce:*:*:*:*:*:*:*:*
+cpe:2.3:a:joshnuss:xml_builder:*:*:*:*:*:*:*:*
 cpe:2.3:a:joshprakash:com_jembed:*:*:*:*:*:*:*:*
 cpe:2.3:a:joshua_chamas:apache_asp:*:*:*:*:*:*:*:*
 cpe:2.3:a:joshua_clayton:feed_comments_number:*:*:*:*:*:*:*:*
@@ -47043,6 +47044,7 @@ cpe:2.3:a:nordicsemi:nrf5_sdk_for_mesh:*:*:*:*:*:*:*:*
 cpe:2.3:a:nordicsemi:nrf_sniffer_for_bluetooth:*:*:*:*:*:*:*:*
 cpe:2.3:a:nordicwind:noah:*:*:*:*:*:*:*:*
 cpe:2.3:a:nordicwind:nordicwind_document_management_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:nordmograph:streetguessr_game:*:*:*:*:*:*:*:*
 cpe:2.3:a:nordomatic:webdatorcentral:*:*:*:*:*:*:*:*
 cpe:2.3:a:nordugrid:nordugrid-arc:*:*:*:*:*:*:*:*
 cpe:2.3:a:nordvpn:nordvpn:*:*:*:*:*:*:*:*
@@ -56285,6 +56287,7 @@ cpe:2.3:a:rainbowpdf:office_server_document_converter:*:*:*:*:*:*:*:*
 cpe:2.3:a:rainbowsoft:z-blog:*:*:*:*:*:*:*:*
 cpe:2.3:a:raindance:web_conferencing_pro:*:*:*:*:*:*:*:*
 cpe:2.3:a:raindrop:raindrop:*:*:*:*:*:*:*:*
+cpe:2.3:a:raindropsinfotech:twitch_tv:*:*:*:*:*:*:*:*
 cpe:2.3:a:rainier:open_virtual_simulation_experiment_teaching_management_platform:*:*:*:*:*:*:*:*
 cpe:2.3:a:rainloop:webmail:*:*:*:*:*:*:*:*
 cpe:2.3:a:rainmachine:rainmachine_web_application:*:*:*:*:*:*:*:*
@@ -67507,6 +67510,7 @@ cpe:2.3:a:terria:terriajs-server:*:*:*:*:*:*:*:*
 cpe:2.3:a:terry_lin:wp_githuber_md:*:*:*:*:*:*:*:*
 cpe:2.3:a:terryl:wp_githuber_md:*:*:*:*:*:*:*:*
 cpe:2.3:a:terryl:wp_shieldon:*:*:*:*:*:*:*:*
+cpe:2.3:a:terrywcarter:kissgallery:*:*:*:*:*:*:*:*
 cpe:2.3:a:terser:html-minifier-terser:*:*:*:*:*:*:*:*
 cpe:2.3:a:terser:terser:*:*:*:*:*:*:*:*
 cpe:2.3:a:teruten:webcube:*:*:*:*:*:*:*:*
@@ -76819,6 +76823,7 @@ cpe:2.3:a:zcfees_project:zcfees:*:*:*:*:*:*:*:*
 cpe:2.3:a:zchunk:zchunk:*:*:*:*:*:*:*:*
 cpe:2.3:a:zclassic:z-nomp:*:*:*:*:*:*:*:*
 cpe:2.3:a:zcms_project:zcms:*:*:*:*:*:*:*:*
+cpe:2.3:a:zcontent:zap_calendar_lite:*:*:*:*:*:*:*:*
 cpe:2.3:a:zcubes:zpaint:*:*:*:*:*:*:*:*
 cpe:2.3:a:zdaemon:zdaemon:*:*:*:*:*:*:*:*
 cpe:2.3:a:zdir:zdir:*:*:*:*:*:*:*:*
