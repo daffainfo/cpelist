@@ -35279,7 +35279,9 @@ cpe:2.3:a:joomanager_project:joomanager:*:*:*:*:*:*:*:*
 cpe:2.3:a:joombooking:jb_bus:*:*:*:*:*:*:*:*
 cpe:2.3:a:joombooking:jb_visa:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomboost:easy_quick_contact:*:*:*:*:*:*:*:*
+cpe:2.3:a:joomboost:joomcrm:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomboost:joomla_joomrecipe:*:*:*:*:*:*:*:*
+cpe:2.3:a:joomboost:joomproject:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomboost:joomrecipe:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomcode:jcdashboard:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomcoder:joomcck:*:*:*:*:*:*:*:*
@@ -35528,6 +35530,7 @@ cpe:2.3:a:joomsky:js_job_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomsky:js_jobs:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomsky:js_support_ticket:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomstar:starshop:*:*:*:*:*:*:*:*
+cpe:2.3:a:joomtech:easy_shop:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomtracker:com_joomtracker:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomtraders:com_allcinevid:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomunited:wp-smart-editor:*:*:*:*:*:*:*:*
@@ -72788,8 +72791,12 @@ cpe:2.3:a:wddgroup:fantasy:*:*:*:*:*:*:*:*
 cpe:2.3:a:wddgroup:fantsy:*:*:*:*:*:*:*:*
 cpe:2.3:a:wdja:wdja:*:*:*:*:*:*:*:*
 cpe:2.3:a:wdja:wdja_cms:*:*:*:*:*:*:*:*
+cpe:2.3:a:wdmtech:vaccount:*:*:*:*:*:*:*:*
 cpe:2.3:a:wdmtech:vbizz:*:*:*:*:*:*:*:*
 cpe:2.3:a:wdmtech:vmap:*:*:*:*:*:*:*:*
+cpe:2.3:a:wdmtech:vrestaurant:*:*:*:*:*:*:*:*
+cpe:2.3:a:wdmtech:vreview:*:*:*:*:*:*:*:*
+cpe:2.3:a:wdmtech:vwishlist:*:*:*:*:*:*:*:*
 cpe:2.3:a:wdoyo:doyo:*:*:*:*:*:*:*:*
 cpe:2.3:a:wdoyo:doyocms:*:*:*:*:*:*:*:*
 cpe:2.3:a:we-com:municipality_portal_cms:*:*:*:*:*:*:*:*
