@@ -33427,6 +33427,7 @@ cpe:2.3:a:itsourcecode:farm_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:fees_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:free_hotel_reservation_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:hospital_management_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:itsourcecode:hospital_management_system_project_in_php:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:insurance_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:laravel_accounting_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:laravel_property_management_system:*:*:*:*:*:*:*:*
