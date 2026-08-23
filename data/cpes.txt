@@ -2531,6 +2531,7 @@ cpe:2.3:a:alexred:com_oziogallery:*:*:*:*:*:*:*:*
 cpe:2.3:a:alexscriptengine:download-engine:*:*:*:*:*:*:*:*
 cpe:2.3:a:alexscriptengine:picture-engine:*:*:*:*:*:*:*:*
 cpe:2.3:a:alexstack:laravel_cms:*:*:*:*:*:*:*:*
+cpe:2.3:a:alexta69:metube:*:*:*:*:*:*:*:*
 cpe:2.3:a:alextselegidis:easyappointments:*:*:*:*:*:*:*:*
 cpe:2.3:a:alexufo:youtube_speedload:*:*:*:*:*:*:*:*
 cpe:2.3:a:alexusmai:laravel_file_manager:*:*:*:*:*:*:*:*
@@ -71300,6 +71301,7 @@ cpe:2.3:a:varnish.projects.linpro:varnish:*:*:*:*:*:*:*:*
 cpe:2.3:a:varnish_cache_project:varnish_cache:*:*:*:*:*:*:*:*
 cpe:2.3:a:varnish_http_accelerator_integration_project:varnish:*:*:*:*:*:*:*:*
 cpe:2.3:a:varunsardana004:blood_bank_and_donation_management_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:vas3k:taxhacker:*:*:*:*:*:*:*:*
 cpe:2.3:a:vasco:digipass:*:*:*:*:*:*:*:*
 cpe:2.3:a:vasco:identikey_authentication_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:vasiliskerasiotis:affiliator:*:*:*:*:*:*:*:*
