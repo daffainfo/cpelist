@@ -13261,6 +13261,7 @@ cpe:2.3:a:code-projects:admin_dashboard:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:agro-school-management-system:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:assessment_management:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:automated_voting_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:code-projects:barangay_resident_profiling_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:blood_bank:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:blood_bank_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:blood_bank_system:*:*:*:*:*:*:*:*
