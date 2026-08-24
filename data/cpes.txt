@@ -37983,6 +37983,7 @@ cpe:2.3:a:lenovo:slim_usb_keyboard_driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:lenovo:smart_assistant:*:*:*:*:*:*:*:*
 cpe:2.3:a:lenovo:smart_connect:*:*:*:*:*:*:*:*
 cpe:2.3:a:lenovo:smart_standby_driver:*:*:*:*:*:*:*:*
+cpe:2.3:a:lenovo:software_fix:*:*:*:*:*:*:*:*
 cpe:2.3:a:lenovo:solution_center:*:*:*:*:*:*:*:*
 cpe:2.3:a:lenovo:starstudio:*:*:*:*:*:*:*:*
 cpe:2.3:a:lenovo:superfile:*:*:*:*:*:*:*:*
