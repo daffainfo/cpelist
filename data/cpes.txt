@@ -942,6 +942,7 @@ cpe:2.3:a:acgvclick:acgvclick:*:*:*:*:*:*:*:*
 cpe:2.3:a:achal_dhir:dual_dhcp_dns_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:achievo:achievo:*:*:*:*:*:*:*:*
 cpe:2.3:a:achmad_zaenuri:ezradius:*:*:*:*:*:*:*:*
+cpe:2.3:a:achorein:expo-share-intent:*:*:*:*:*:*:*:*
 cpe:2.3:a:aci:4d_webserver:*:*:*:*:*:*:*:*
 cpe:2.3:a:aci_escola_project:aci_escola:*:*:*:*:*:*:*:*
 cpe:2.3:a:aci_worldwide:proactive_risk_manager:*:*:*:*:*:*:*:*
@@ -33439,6 +33440,7 @@ cpe:2.3:a:itsourcecode:learning_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:learning_management_system_project_in_php:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:learning_management_system_project_in_php_with_source_code:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:leave_management_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:itsourcecode:library_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:loan_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:magbanua_beach_resort_online_reservation_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:monbela_tourist_inn_online_reservation_system:*:*:*:*:*:*:*:*
@@ -33460,6 +33462,7 @@ cpe:2.3:a:itsourcecode:online_public_access_catalog:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:online_student_enrollment_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:payroll_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:payroll_management_system_project_in_php_with_source_code:*:*:*:*:*:*:*:*
+cpe:2.3:a:itsourcecode:payroll_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:placement_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:pool_of_bethesda_online_reservation_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:project_expense_monitoring_system:*:*:*:*:*:*:*:*
