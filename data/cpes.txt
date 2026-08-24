@@ -19286,6 +19286,8 @@ cpe:2.3:a:efingerd:efingerd:*:*:*:*:*:*:*:*
 cpe:2.3:a:efkan_forum:efkan_forum:*:*:*:*:*:*:*:*
 cpe:2.3:a:efm:iptime_a3004t:*:*:*:*:*:*:*:*
 cpe:2.3:a:efm:iptime_ax8004m:*:*:*:*:*:*:*:*
+cpe:2.3:a:efm:iptime_t16000m:*:*:*:*:*:*:*:*
+cpe:2.3:a:efm:iptime_t24000m:*:*:*:*:*:*:*:*
 cpe:2.3:a:efone:efone:*:*:*:*:*:*:*:*
 cpe:2.3:a:efrontlearning:efront:*:*:*:*:*:*:*:*
 cpe:2.3:a:efrontlearning:efront_community_\+\+:*:*:*:*:*:*:*:*
@@ -33461,6 +33463,7 @@ cpe:2.3:a:itsourcecode:payroll_management_system_project_in_php_with_source_code
 cpe:2.3:a:itsourcecode:placement_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:pool_of_bethesda_online_reservation_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:project_expense_monitoring_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:itsourcecode:sales_and_inventory_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:school_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:simple_online_hotel_reservation_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:simple_task_list:*:*:*:*:*:*:*:*
@@ -35681,6 +35684,7 @@ cpe:2.3:a:jqueryvalidation:jquery_validation:*:*:*:*:*:*:*:*
 cpe:2.3:a:jquey_project:jquey:*:*:*:*:*:*:*:*
 cpe:2.3:a:jquickcontact_project:jquickcontact:*:*:*:*:*:*:*:*
 cpe:2.3:a:jquindlen:wpstorecart:*:*:*:*:*:*:*:*
+cpe:2.3:a:jqwidgets:jqwidgets:*:*:*:*:*:*:*:*
 cpe:2.3:a:jrbcs:webform_report:*:*:*:*:*:*:*:*
 cpe:2.3:a:jrbecart:iframe_forms:*:*:*:*:*:*:*:*
 cpe:2.3:a:jrburke:requirejs:*:*:*:*:*:*:*:*
@@ -55035,6 +55039,7 @@ cpe:2.3:a:prototype_of_an_php_application:prototype_of_an_php_application:*:*:*:
 cpe:2.3:a:prototype_solution:abw_badger_database:*:*:*:*:*:*:*:*
 cpe:2.3:a:prototypejs:prototype:*:*:*:*:*:*:*:*
 cpe:2.3:a:prototypejs:prototype_framework:*:*:*:*:*:*:*:*
+cpe:2.3:a:provectus:kafka-ui:*:*:*:*:*:*:*:*
 cpe:2.3:a:provectus:ui:*:*:*:*:*:*:*:*
 cpe:2.3:a:proverbs:proverbs_web_calendar:*:*:*:*:*:*:*:*
 cpe:2.3:a:providence:providence_crypto_casino:*:*:*:*:*:*:*:*
@@ -56171,6 +56176,7 @@ cpe:2.3:a:rackspace:rackspace:*:*:*:*:*:*:*:*
 cpe:2.3:a:racktables:racktables:*:*:*:*:*:*:*:*
 cpe:2.3:a:racktables_project:racktables:*:*:*:*:*:*:*:*
 cpe:2.3:a:ractf:core:*:*:*:*:*:*:*:*
+cpe:2.3:a:ractivejs:ractive:*:*:*:*:*:*:*:*
 cpe:2.3:a:rad_inks:rad_upload:*:*:*:*:*:*:*:*
 cpe:2.3:a:radactive:i-load:*:*:*:*:*:*:*:*
 cpe:2.3:a:radar:radar:*:*:*:*:*:*:*:*
@@ -57800,6 +57806,7 @@ cpe:2.3:a:rewardingyourself:rewardingyourself:*:*:*:*:*:*:*:*
 cpe:2.3:a:rewweb:bbp_style_pack:*:*:*:*:*:*:*:*
 cpe:2.3:a:rex100:helmholz:*:*:*:*:*:*:*:*
 cpe:2.3:a:rexians:rex-web:*:*:*:*:*:*:*:*
+cpe:2.3:a:rexrainbow:phaser3-rex-notes:*:*:*:*:*:*:*:*
 cpe:2.3:a:rextheme:cart_lift_-_abandoned_cart_recovery_for_woocommerce_and_edd:*:*:*:*:*:*:*:*
 cpe:2.3:a:rextheme:product_feed_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:rextheme:wp_vr:*:*:*:*:*:*:*:*
@@ -61555,6 +61562,7 @@ cpe:2.3:a:shenliru_project:shenliru:*:*:*:*:*:*:*:*
 cpe:2.3:a:shenyanzhi:memorialday:*:*:*:*:*:*:*:*
 cpe:2.3:a:shenzen:guoxin_synthesis_image_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:shenzhen_aitemi:m300_wi-fi_repeater:*:*:*:*:*:*:*:*
+cpe:2.3:a:shenzhen_gongji_technology:xbrother_dynamic_environment_monitoring_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:shenzhen_huizhi_software_development:enterprise_resource_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:shenzhen_interconnection_harbor_network_technology:ofweek_online_exhibition:*:*:*:*:*:*:*:*
 cpe:2.3:a:shenzhen_project:jf6000_cloud_media_collaboration_processing_platform_firmware:*:*:*:*:*:*:*:*
@@ -66789,6 +66797,7 @@ cpe:2.3:a:tanklogger:tanklogger:*:*:*:*:*:*:*:*
 cpe:2.3:a:tanne:tanne:*:*:*:*:*:*:*:*
 cpe:2.3:a:tanng:giga_messenger:*:*:*:*:*:*:*:*
 cpe:2.3:a:tanstack:db:*:*:*:*:*:*:*:*
+cpe:2.3:a:tanstack:devtools-vite:*:*:*:*:*:*:*:*
 cpe:2.3:a:tanstack:query:*:*:*:*:*:*:*:*
 cpe:2.3:a:tanstack:react-query-next-experimental:*:*:*:*:*:*:*:*
 cpe:2.3:a:tanstack:tanstack\/arktype-adapter:*:*:*:*:*:*:*:*
@@ -67633,6 +67642,7 @@ cpe:2.3:a:the-guild:graphql-tools:*:*:*:*:*:*:*:*
 cpe:2.3:a:the-guild:graphql_mesh:*:*:*:*:*:*:*:*
 cpe:2.3:a:the-guild:graphql_mesh_cli:*:*:*:*:*:*:*:*
 cpe:2.3:a:the-guild:graphql_mesh_http:*:*:*:*:*:*:*:*
+cpe:2.3:a:the-momentum:open-wearables:*:*:*:*:*:*:*:*
 cpe:2.3:a:the-rat-cms:the-rat-cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:the-sz:netchat:*:*:*:*:*:*:*:*
 cpe:2.3:a:the_address_book:the_address_book:*:*:*:*:*:*:*:*
