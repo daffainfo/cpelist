@@ -9695,6 +9695,7 @@ cpe:2.3:a:byron:gitoxide:*:*:*:*:*:*:*:*
 cpe:2.3:a:byte_fusion:bftelnet:*:*:*:*:*:*:*:*
 cpe:2.3:a:byte_struct_project:byte_struct:*:*:*:*:*:*:*:*
 cpe:2.3:a:bytebase:bytebase:*:*:*:*:*:*:*:*
+cpe:2.3:a:bytebot-ai:bytebot:*:*:*:*:*:*:*:*
 cpe:2.3:a:bytecode_viewer_project:bytecode_viewer:*:*:*:*:*:*:*:*
 cpe:2.3:a:bytecodealliance:cranelift-codegen:*:*:*:*:*:*:*:*
 cpe:2.3:a:bytecodealliance:lucet:*:*:*:*:*:*:*:*
@@ -13100,7 +13101,6 @@ cpe:2.3:a:cminds:cm_tooltip_glossary:*:*:*:*:*:*:*:*
 cpe:2.3:a:cminds:enhanced-tooltipglossary:*:*:*:*:*:*:*:*
 cpe:2.3:a:cminds:tooltip_glossary:*:*:*:*:*:*:*:*
 cpe:2.3:a:cminds:video_lessons_manager:*:*:*:*:*:*:*:*
-cpe:2.3:a:cminds:video_lessons_manager_pro:*:*:*:*:*:*:*:*
 cpe:2.3:a:cmix_project:cmix:*:*:*:*:*:*:*:*
 cpe:2.3:a:cmonos:cmonos:*:*:*:*:*:*:*:*
 cpe:2.3:a:cmorillas1:external_database_based_actions:*:*:*:*:*:*:*:*
