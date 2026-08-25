@@ -12798,6 +12798,8 @@ cpe:2.3:a:clever:underscore.deep:*:*:*:*:*:*:*:*
 cpe:2.3:a:clever_components:clever_database_comparer:*:*:*:*:*:*:*:*
 cpe:2.3:a:clever_components:internet_activex_suite:*:*:*:*:*:*:*:*
 cpe:2.3:a:clever_copy:clever_copy:*:*:*:*:*:*:*:*
+cpe:2.3:a:cleverbrush:deep:*:*:*:*:*:*:*:*
+cpe:2.3:a:cleverbrush:framework:*:*:*:*:*:*:*:*
 cpe:2.3:a:cleverpath:aion_bpm:*:*:*:*:*:*:*:*
 cpe:2.3:a:cleverpath:portal:*:*:*:*:*:*:*:*
 cpe:2.3:a:cleverplugins:delete_duplicate_posts:*:*:*:*:*:*:*:*
@@ -21985,6 +21987,7 @@ cpe:2.3:a:fccview:cronmaster:*:*:*:*:*:*:*:*
 cpe:2.3:a:fcgphilipp:mujecms:*:*:*:*:*:*:*:*
 cpe:2.3:a:fcitx_5_project:fcitx_5:*:*:*:*:*:*:*:*
 cpe:2.3:a:fckeditor:fckeditor:*:*:*:*:*:*:*:*
+cpe:2.3:a:fdawgs:node-poppler:*:*:*:*:*:*:*:*
 cpe:2.3:a:fdclone:fdclone:*:*:*:*:*:*:*:*
 cpe:2.3:a:fdgroup:olib7_webview:*:*:*:*:*:*:*:*
 cpe:2.3:a:fdkaac_project:fdkaac:*:*:*:*:*:*:*:*
@@ -51830,6 +51833,8 @@ cpe:2.3:a:peercoin:peercoin:*:*:*:*:*:*:*:*
 cpe:2.3:a:peerftp_5:peerftp_5:*:*:*:*:*:*:*:*
 cpe:2.3:a:peergoal:myspace_content_zone:*:*:*:*:*:*:*:*
 cpe:2.3:a:peerigon:angular-expressions:*:*:*:*:*:*:*:*
+cpe:2.3:a:peerigon:unzip-crx-3:*:*:*:*:*:*:*:*
+cpe:2.3:a:peerigon:unzip-crx:*:*:*:*:*:*:*:*
 cpe:2.3:a:peering-manager:peering_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:peeringmanager:peering-manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:peernet:file_conversion_center:*:*:*:*:*:*:*:*
@@ -67654,7 +67659,6 @@ cpe:2.3:a:the-guild:graphql-tools:*:*:*:*:*:*:*:*
 cpe:2.3:a:the-guild:graphql_mesh:*:*:*:*:*:*:*:*
 cpe:2.3:a:the-guild:graphql_mesh_cli:*:*:*:*:*:*:*:*
 cpe:2.3:a:the-guild:graphql_mesh_http:*:*:*:*:*:*:*:*
-cpe:2.3:a:the-momentum:open-wearables:*:*:*:*:*:*:*:*
 cpe:2.3:a:the-rat-cms:the-rat-cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:the-sz:netchat:*:*:*:*:*:*:*:*
 cpe:2.3:a:the_address_book:the_address_book:*:*:*:*:*:*:*:*
