@@ -16407,6 +16407,7 @@ cpe:2.3:a:deislabs:oras:*:*:*:*:*:*:*:*
 cpe:2.3:a:dejavuprotech:crescendo_-_sales_crm:*:*:*:*:*:*:*:*
 cpe:2.3:a:dek_software:alchemy_network_monitor:*:*:*:*:*:*:*:*
 cpe:2.3:a:dekart:private_disk:*:*:*:*:*:*:*:*
+cpe:2.3:a:dekdee:adobe-xd-mcp:*:*:*:*:*:*:*:*
 cpe:2.3:a:delabon:woomotiv:*:*:*:*:*:*:*:*
 cpe:2.3:a:delayed_job_web_project:delayed_job_web:*:*:*:*:*:*:*:*
 cpe:2.3:a:delegate:delegate:*:*:*:*:*:*:*:*
@@ -22390,6 +22391,7 @@ cpe:2.3:a:fish:fish:*:*:*:*:*:*:*:*
 cpe:2.3:a:fishaudio:bert-vits2:*:*:*:*:*:*:*:*
 cpe:2.3:a:fishbowlinventory:fishbowl:*:*:*:*:*:*:*:*
 cpe:2.3:a:fishcart:fishcart:*:*:*:*:*:*:*:*
+cpe:2.3:a:fishcodetech:muteki:*:*:*:*:*:*:*:*
 cpe:2.3:a:fishnet:fishcart:*:*:*:*:*:*:*:*
 cpe:2.3:a:fishshell:fish:*:*:*:*:*:*:*:*
 cpe:2.3:a:fishtank_project:fishtank:*:*:*:*:*:*:*:*
@@ -68078,6 +68080,7 @@ cpe:2.3:a:themographics:listingo:*:*:*:*:*:*:*:*
 cpe:2.3:a:themoneytizer:the_moneytizer:*:*:*:*:*:*:*:*
 cpe:2.3:a:themooltipass:moolticute:*:*:*:*:*:*:*:*
 cpe:2.3:a:themoyles:church_admin:*:*:*:*:*:*:*:*
+cpe:2.3:a:themrdemonized:xray-monolith:*:*:*:*:*:*:*:*
 cpe:2.3:a:thenahidul:responsive_owl_carousel_for_elementor:*:*:*:*:*:*:*:*
 cpe:2.3:a:thenbrent:social_connect_plugin:*:*:*:*:*:*:*:*
 cpe:2.3:a:thenet:checkbo:*:*:*:*:*:*:*:*
@@ -71594,6 +71597,7 @@ cpe:2.3:a:verosky_media:instant_photo_gallery:*:*:*:*:*:*:*:*
 cpe:2.3:a:verot:class.upload.php:*:*:*:*:*:*:*:*
 cpe:2.3:a:verot_project:verot:*:*:*:*:*:*:*:*
 cpe:2.3:a:versa-networks:concerto:*:*:*:*:*:*:*:*
+cpe:2.3:a:versa-networks:sase_client:*:*:*:*:*:*:*:*
 cpe:2.3:a:versa-networks:versa_analytics:*:*:*:*:*:*:*:*
 cpe:2.3:a:versa-networks:versa_director:*:*:*:*:*:*:*:*
 cpe:2.3:a:versa:director:*:*:*:*:*:*:*:*
