@@ -38532,6 +38532,7 @@ cpe:2.3:a:likebtn-like-button_project:likebtn-like-button:*:*:*:*:*:*:*:*
 cpe:2.3:a:likebtn:like_button_rating:*:*:*:*:*:*:*:*
 cpe:2.3:a:likeheroapp:likehero_get_instagram_likes:*:*:*:*:*:*:*:*
 cpe:2.3:a:likeshop:likeshop:*:*:*:*:*:*:*:*
+cpe:2.3:a:liketrek:trek:*:*:*:*:*:*:*:*
 cpe:2.3:a:likewise:likewise_cifs:*:*:*:*:*:*:*:*
 cpe:2.3:a:likewise:likewise_open:*:*:*:*:*:*:*:*
 cpe:2.3:a:likno:allwebmenus_plugin:*:*:*:*:*:*:*:*
