@@ -13101,6 +13101,7 @@ cpe:2.3:a:cminds:cm_tooltip_glossary:*:*:*:*:*:*:*:*
 cpe:2.3:a:cminds:enhanced-tooltipglossary:*:*:*:*:*:*:*:*
 cpe:2.3:a:cminds:tooltip_glossary:*:*:*:*:*:*:*:*
 cpe:2.3:a:cminds:video_lessons_manager:*:*:*:*:*:*:*:*
+cpe:2.3:a:cminds:video_lessons_manager_pro:*:*:*:*:*:*:*:*
 cpe:2.3:a:cmix_project:cmix:*:*:*:*:*:*:*:*
 cpe:2.3:a:cmonos:cmonos:*:*:*:*:*:*:*:*
 cpe:2.3:a:cmorillas1:external_database_based_actions:*:*:*:*:*:*:*:*
@@ -15317,6 +15318,7 @@ cpe:2.3:a:customer_relationship_management_system_project:customer_relationship_
 cpe:2.3:a:customer_support_system_project:customer_support_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:customercentric-selling-poland:playtuber:*:*:*:*:*:*:*:*
 cpe:2.3:a:customerparadigm:pagedirector_cms:*:*:*:*:*:*:*:*
+cpe:2.3:a:cutcode:moonshine_sortable_tree_resource:*:*:*:*:*:*:*:*
 cpe:2.3:a:cute_png:cute_png:*:*:*:*:*:*:*:*
 cpe:2.3:a:cuteflow-bin:cuteflow_bin:*:*:*:*:*:*:*:*
 cpe:2.3:a:cuteflow:cuteflow:*:*:*:*:*:*:*:*
@@ -61861,6 +61863,7 @@ cpe:2.3:a:siemens:industrial_edge_management_hub:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:industrial_edge_management_pro:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:industrial_edge_management_virtual:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:intermesh_7177_hybrid2.0_subscriber:*:*:*:*:*:*:*:*
+cpe:2.3:a:siemens:intermesh_7177_hybrid_2.0_subscriber:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:intermesh_7707_fire_subscriber:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:jt2go:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:jt_open:*:*:*:*:*:*:*:*
