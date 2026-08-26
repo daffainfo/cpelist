@@ -20424,6 +20424,7 @@ cpe:2.3:a:equalweb:equalweb_accessibility_widget:*:*:*:*:*:*:*:*
 cpe:2.3:a:equanimity_project:equanimity:*:*:*:*:*:*:*:*
 cpe:2.3:a:eques:eques:*:*:*:*:*:*:*:*
 cpe:2.3:a:equifax:equifax_mobile:*:*:*:*:*:*:*:*
+cpe:2.3:a:equifax:victim_information_notification_exchange:*:*:*:*:*:*:*:*
 cpe:2.3:a:equinix:network_edge:*:*:*:*:*:*:*:*
 cpe:2.3:a:equinoxce:control_expert:*:*:*:*:*:*:*:*
 cpe:2.3:a:equipment_inventory_system_project:equipment_inventory_system:*:*:*:*:*:*:*:*
@@ -42154,6 +42155,7 @@ cpe:2.3:a:microsoft:azure_storage_resource_provider:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_synapse:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_uamqp:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_virtual_desktop:*:*:*:*:*:*:*:*
+cpe:2.3:a:microsoft:azure_virtual_machines:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_virtual_network_gateway:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_web_apps:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:background_intelligent_transfer_service:*:*:*:*:*:*:*:*
@@ -62347,6 +62349,7 @@ cpe:2.3:a:silentweb:listmessenger:*:*:*:*:*:*:*:*
 cpe:2.3:a:silexlabs:silex:*:*:*:*:*:*:*:*
 cpe:2.3:a:silextechnology:amc_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:silicon_project:silicon:*:*:*:*:*:*:*:*
+cpe:2.3:a:sililawijesinghe:food_ordering_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:silisoftware:backupdb\(\):*:*:*:*:*:*:*:*
 cpe:2.3:a:silisoftware:phpthumb\(\):*:*:*:*:*:*:*:*
 cpe:2.3:a:silk-v3-decoder_project:silk-v3-decoder:*:*:*:*:*:*:*:*
@@ -68119,6 +68122,14 @@ cpe:2.3:a:therealestatescript:the_real_estate_script:*:*:*:*:*:*:*:*
 cpe:2.3:a:thereceptionist:the_receptionist_for_ipad:*:*:*:*:*:*:*:*
 cpe:2.3:a:theresehansen:commenttweets:*:*:*:*:*:*:*:*
 cpe:2.3:a:thermalright:tr-vision_home:*:*:*:*:*:*:*:*
+cpe:2.3:a:thermofisher:abi_prism_3100\/3100-avant_data_collection_software:*:*:*:*:*:*:*:*
+cpe:2.3:a:thermofisher:abi_prism_310_data_collection_software:*:*:*:*:*:*:*:*
+cpe:2.3:a:thermofisher:applied_biosystems_3130_series_data_collection_software:*:*:*:*:*:*:*:*
+cpe:2.3:a:thermofisher:applied_biosystems_3500\/3500xl_series_data_collection_software:*:*:*:*:*:*:*:*
+cpe:2.3:a:thermofisher:applied_biosystems_3730\/3730xl_series_data_collection_software:*:*:*:*:*:*:*:*
+cpe:2.3:a:thermofisher:applied_biosystems_seqstudio_flex_series_instrument_software:*:*:*:*:*:*:*:*
+cpe:2.3:a:thermofisher:applied_biosystems_seqstudio_genetic_analyzer_data_collection_software:*:*:*:*:*:*:*:*
+cpe:2.3:a:thermofisher:genemapper_id-x:*:*:*:*:*:*:*:*
 cpe:2.3:a:thermofisher:torrent_suite_software:*:*:*:*:*:*:*:*
 cpe:2.3:a:thermostat_project:thermostat:*:*:*:*:*:*:*:*
 cpe:2.3:a:thesamur:embedai:*:*:*:*:*:*:*:*
