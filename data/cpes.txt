@@ -4537,7 +4537,9 @@ cpe:2.3:a:appinghouse:memono:*:*:*:*:*:*:*:*
 cpe:2.3:a:appintellect:spotlight_crm:*:*:*:*:*:*:*:*
 cpe:2.3:a:appium:appium-chromedriver:*:*:*:*:*:*:*:*
 cpe:2.3:a:appium:appium-desktop:*:*:*:*:*:*:*:*
+cpe:2.3:a:appium:appium-mcp:*:*:*:*:*:*:*:*
 cpe:2.3:a:appium:appium\/base-driver:*:*:*:*:*:*:*:*
+cpe:2.3:a:appium:appium\/storage-plugin:*:*:*:*:*:*:*:*
 cpe:2.3:a:appium:appium\/support:*:*:*:*:*:*:*:*
 cpe:2.3:a:appium:java-client:*:*:*:*:*:*:*:*
 cpe:2.3:a:appjetty:copy_or_move_comments:*:*:*:*:*:*:*:*
@@ -19495,6 +19497,7 @@ cpe:2.3:a:electrolink:modular_fm_transmitter:*:*:*:*:*:*:*:*
 cpe:2.3:a:electrolink:uhf_tv_transmitter:*:*:*:*:*:*:*:*
 cpe:2.3:a:electrolink:vhf_tv_transmitter:*:*:*:*:*:*:*:*
 cpe:2.3:a:electron-packager_project:electron-packager:*:*:*:*:*:*:*:*
+cpe:2.3:a:electron:builder-util-runtime:*:*:*:*:*:*:*:*
 cpe:2.3:a:electron:electron-builder:*:*:*:*:*:*:*:*
 cpe:2.3:a:electron:electron:*:*:*:*:*:*:*:*
 cpe:2.3:a:electron:packager:*:*:*:*:*:*:*:*
@@ -38814,6 +38817,7 @@ cpe:2.3:a:linuxfoundation:opensearch:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:opentelemetry-go:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:opentelemetry-go_contrib:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:opentelemetry_instrumentation_for_java:*:*:*:*:*:*:*:*
+cpe:2.3:a:linuxfoundation:oras:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:osquery:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:pipecd:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:podman_desktop:*:*:*:*:*:*:*:*
@@ -48823,6 +48827,7 @@ cpe:2.3:a:openjsf:express:*:*:*:*:*:*:*:*
 cpe:2.3:a:openjsf:fast-uri:*:*:*:*:*:*:*:*
 cpe:2.3:a:openjsf:jest:*:*:*:*:*:*:*:*
 cpe:2.3:a:openjsf:marko:*:*:*:*:*:*:*:*
+cpe:2.3:a:openjsf:marko\/runtime-tags:*:*:*:*:*:*:*:*
 cpe:2.3:a:openjsf:messageformat:*:*:*:*:*:*:*:*
 cpe:2.3:a:openjsf:node_version_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:openjsf:packager:*:*:*:*:*:*:*:*
@@ -111966,6 +111971,9 @@ cpe:2.3:h:intel:killer_wi-fi_6e_ax1675x\/w:*:*:*:*:*:*:*:*
 cpe:2.3:h:intel:killer_wi-fi_6e_ax1690:*:*:*:*:*:*:*:*
 cpe:2.3:h:intel:killer_wi-fi_6e_ax1690i\/s:*:*:*:*:*:*:*:*
 cpe:2.3:h:intel:killer_wi-fi_7_be1750:*:*:*:*:*:*:*:*
+cpe:2.3:h:intel:killer_wi-fi_7_be1750i\/s:*:*:*:*:*:*:*:*
+cpe:2.3:h:intel:killer_wi-fi_7_be1750x\/w:*:*:*:*:*:*:*:*
+cpe:2.3:h:intel:killer_wi-fi_7_be1775i\/s:*:*:*:*:*:*:*:*
 cpe:2.3:h:intel:killer_wireless-ac_1550:*:*:*:*:*:*:*:*
 cpe:2.3:h:intel:killer_wireless-ac_1550i\/s:*:*:*:*:*:*:*:*
 cpe:2.3:h:intel:lapac71g:*:*:*:*:*:*:*:*
@@ -113509,6 +113517,8 @@ cpe:2.3:h:intel:wi-fi_6e_ax411:*:*:*:*:*:*:*:*
 cpe:2.3:h:intel:wi-fi_7_be200:*:*:*:*:*:*:*:*
 cpe:2.3:h:intel:wi-fi_7_be201:*:*:*:*:*:*:*:*
 cpe:2.3:h:intel:wi-fi_7_be202:*:*:*:*:*:*:*:*
+cpe:2.3:h:intel:wi-fi_7_be211:*:*:*:*:*:*:*:*
+cpe:2.3:h:intel:wi-fi_7_be213:*:*:*:*:*:*:*:*
 cpe:2.3:h:intel:wireless-ac_9260:*:*:*:*:*:*:*:*
 cpe:2.3:h:intel:wireless-ac_9461:*:*:*:*:*:*:*:*
 cpe:2.3:h:intel:wireless-ac_9462:*:*:*:*:*:*:*:*
@@ -115755,6 +115765,9 @@ cpe:2.3:h:juniper:fips_secure_access_4000:*:*:*:*:*:*:*:*
 cpe:2.3:h:juniper:fips_secure_access_4500:*:*:*:*:*:*:*:*
 cpe:2.3:h:juniper:fips_secure_access_6000:*:*:*:*:*:*:*:*
 cpe:2.3:h:juniper:fips_secure_access_6500:*:*:*:*:*:*:*:*
+cpe:2.3:h:juniper:fpc3-ptx-u2:*:*:*:*:*:*:*:*
+cpe:2.3:h:juniper:fpc3-ptx-u3:*:*:*:*:*:*:*:*
+cpe:2.3:h:juniper:fpc3-sff-ptx:*:*:*:*:*:*:*:*
 cpe:2.3:h:juniper:gfx3600:*:*:*:*:*:*:*:*
 cpe:2.3:h:juniper:idp250:*:*:*:*:*:*:*:*
 cpe:2.3:h:juniper:idp75:*:*:*:*:*:*:*:*
@@ -115778,7 +115791,12 @@ cpe:2.3:h:juniper:jsa7800:*:*:*:*:*:*:*:*
 cpe:2.3:h:juniper:junos:*:*:*:*:*:*:*:*
 cpe:2.3:h:juniper:junos_space_ja1500_appliance:*:*:*:*:*:*:*:*
 cpe:2.3:h:juniper:junos_space_ja2500_appliance:*:*:*:*:*:*:*:*
+cpe:2.3:h:juniper:lc1101:*:*:*:*:*:*:*:*
+cpe:2.3:h:juniper:lc1102:*:*:*:*:*:*:*:*
+cpe:2.3:h:juniper:lc1104:*:*:*:*:*:*:*:*
+cpe:2.3:h:juniper:lc1105:*:*:*:*:*:*:*:*
 cpe:2.3:h:juniper:lc2101:*:*:*:*:*:*:*:*
+cpe:2.3:h:juniper:lc2103:*:*:*:*:*:*:*:*
 cpe:2.3:h:juniper:lc4800:*:*:*:*:*:*:*:*
 cpe:2.3:h:juniper:lc4802:*:*:*:*:*:*:*:*
 cpe:2.3:h:juniper:lc480:*:*:*:*:*:*:*:*
