@@ -76806,6 +76806,7 @@ cpe:2.3:a:zabbix:zabbix_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:zacharysegal:catablog:*:*:*:*:*:*:*:*
 cpe:2.3:a:zack_coburn:meunity_community_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:zack_smith:unrtf:*:*:*:*:*:*:*:*
+cpe:2.3:a:zackees:transcribe-anything:*:*:*:*:*:*:*:*
 cpe:2.3:a:zackgrossbart:editorial_calendar:*:*:*:*:*:*:*:*
 cpe:2.3:a:zadarma:zadarma:*:*:*:*:*:*:*:*
 cpe:2.3:a:zahiraccounting:zahir_enterprise_plus:*:*:*:*:*:*:*:*
@@ -115768,6 +115769,7 @@ cpe:2.3:h:juniper:junos_space_ja1500_appliance:*:*:*:*:*:*:*:*
 cpe:2.3:h:juniper:junos_space_ja2500_appliance:*:*:*:*:*:*:*:*
 cpe:2.3:h:juniper:lc2101:*:*:*:*:*:*:*:*
 cpe:2.3:h:juniper:lc4800:*:*:*:*:*:*:*:*
+cpe:2.3:h:juniper:lc4802:*:*:*:*:*:*:*:*
 cpe:2.3:h:juniper:lc480:*:*:*:*:*:*:*:*
 cpe:2.3:h:juniper:lc9600:*:*:*:*:*:*:*:*
 cpe:2.3:h:juniper:ln1000:*:*:*:*:*:*:*:*
