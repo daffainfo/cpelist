@@ -230,6 +230,7 @@ cpe:2.3:a:360class.jansenhm_project:360class.jansenhm:*:*:*:*:*:*:*:*
 cpe:2.3:a:360totalsecurity:360_total_security:*:*:*:*:*:*:*:*
 cpe:2.3:a:360totalsecurity:antivirus:*:*:*:*:*:*:*:*
 cpe:2.3:a:360zip:360zip:*:*:*:*:*:*:*:*
+cpe:2.3:a:37signals:fizzy:*:*:*:*:*:*:*:*
 cpe:2.3:a:3cfr:3cfr:*:*:*:*:*:*:*:*
 cpe:2.3:a:3com:3c15100d:*:*:*:*:*:*:*:*
 cpe:2.3:a:3com:3c16115-us:*:*:*:*:*:*:*:*
@@ -9349,6 +9350,7 @@ cpe:2.3:a:brown_bear_software:calcium:*:*:*:*:*:*:*:*
 cpe:2.3:a:brown_bear_software:ical:*:*:*:*:*:*:*:*
 cpe:2.3:a:browsbox:brows_box:*:*:*:*:*:*:*:*
 cpe:2.3:a:browseftp:browseftp_client:*:*:*:*:*:*:*:*
+cpe:2.3:a:browser-use:browser_use:*:*:*:*:*:*:*:*
 cpe:2.3:a:browser.360:chrome:*:*:*:*:*:*:*:*
 cpe:2.3:a:browser.360:safe_browser:*:*:*:*:*:*:*:*
 cpe:2.3:a:browser_and_operating_system_finder_project:browser_and_operating_system_finder:*:*:*:*:*:*:*:*
@@ -19745,6 +19747,9 @@ cpe:2.3:a:embed_pdf_project:embed_pdf:*:*:*:*:*:*:*:*
 cpe:2.3:a:embed_swagger_project:embed_swagger:*:*:*:*:*:*:*:*
 cpe:2.3:a:embedcalendly:embed_calendly:*:*:*:*:*:*:*:*
 cpe:2.3:a:embedchain:embedchain:*:*:*:*:*:*:*:*
+cpe:2.3:a:embedded-experts:freemodbus:*:*:*:*:*:*:*:*
+cpe:2.3:a:embedded-experts:modbus_master:*:*:*:*:*:*:*:*
+cpe:2.3:a:embedded-experts:modbus_slave:*:*:*:*:*:*:*:*
 cpe:2.3:a:embedded-solutions:freemodbus:*:*:*:*:*:*:*:*
 cpe:2.3:a:embedplus:youtube:*:*:*:*:*:*:*:*
 cpe:2.3:a:embedsocial:embedsocial:*:*:*:*:*:*:*:*
@@ -25727,6 +25732,7 @@ cpe:2.3:a:google_doc_embedder:google_doc_embedder:*:*:*:*:*:*:*:*
 cpe:2.3:a:google_doc_embedder_project:google_doc_embedder:*:*:*:*:*:*:*:*
 cpe:2.3:a:google_forms_project:google_forms:*:*:*:*:*:*:*:*
 cpe:2.3:a:google_map_landkarten_project:google_map_landkarten:*:*:*:*:*:*:*:*
+cpe:2.3:a:google_map_on_post\/page_project:google_map_on_post\/page:*:*:*:*:*:*:*:*
 cpe:2.3:a:google_map_shortcode_project:google_map_shortcode:*:*:*:*:*:*:*:*
 cpe:2.3:a:google_maps\:_store_locator_project:google_maps\:_store_locator:*:*:*:*:*:*:*:*
 cpe:2.3:a:google_maps_anywhere_project:google_maps_anywhere:*:*:*:*:*:*:*:*
@@ -31599,6 +31605,7 @@ cpe:2.3:a:informs:picserver:*:*:*:*:*:*:*:*
 cpe:2.3:a:infornweb:logo_showcase_with_slick_slider:*:*:*:*:*:*:*:*
 cpe:2.3:a:infornweb:news_\&_blog_designer_pack:*:*:*:*:*:*:*:*
 cpe:2.3:a:infornweb:news_\&_blog_designer_pack_wordpress_blog_plugin:*:*:*:*:*:*:*:*
+cpe:2.3:a:infornweb:post_list_designer:*:*:*:*:*:*:*:*
 cpe:2.3:a:infornweb:post_slider_and_post_carousel:*:*:*:*:*:*:*:*
 cpe:2.3:a:infornweb:posts_list_designer:*:*:*:*:*:*:*:*
 cpe:2.3:a:infornweb:posts_list_designer_by_category:*:*:*:*:*:*:*:*
@@ -35716,6 +35723,7 @@ cpe:2.3:a:jrss_widget_project:jrss_widget:*:*:*:*:*:*:*:*
 cpe:2.3:a:jruby:jruby-openssl:*:*:*:*:*:*:*:*
 cpe:2.3:a:jruby:jruby:*:*:*:*:*:*:*:*
 cpe:2.3:a:js-beautify_project:js-beautify:*:*:*:*:*:*:*:*
+cpe:2.3:a:js-cookie:javascript_cookie:*:*:*:*:*:*:*:*
 cpe:2.3:a:js-data:js-data:*:*:*:*:*:*:*:*
 cpe:2.3:a:js-extend_project:js-extend:*:*:*:*:*:*:*:*
 cpe:2.3:a:js-given_project:js-given:*:*:*:*:*:*:*:*
@@ -57221,6 +57229,7 @@ cpe:2.3:a:redhat:openshift_developer_tools_and_services:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:openshift_distributed_tracing:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:openshift_gitops:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:openshift_installer:*:*:*:*:*:*:*:*
+cpe:2.3:a:redhat:openshift_lightspeed:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:openshift_logging:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:openshift_machine-config-operator:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:openshift_origin:*:*:*:*:*:*:*:*
@@ -68682,6 +68691,7 @@ cpe:2.3:a:tinyfilemanager_project:tinyfilemanager:*:*:*:*:*:*:*:*
 cpe:2.3:a:tinyftp_project:tinyftp:*:*:*:*:*:*:*:*
 cpe:2.3:a:tinygltf_project:tinygltf:*:*:*:*:*:*:*:*
 cpe:2.3:a:tinyhttpd:tinyhttpd:*:*:*:*:*:*:*:*
+cpe:2.3:a:tinyhumans:openhuman:*:*:*:*:*:*:*:*
 cpe:2.3:a:tinyirc:tinyidentd:*:*:*:*:*:*:*:*
 cpe:2.3:a:tinylab:cloud_lab:*:*:*:*:*:*:*:*
 cpe:2.3:a:tinylab:linux_lab:*:*:*:*:*:*:*:*
@@ -75789,6 +75799,7 @@ cpe:2.3:a:xhtml2pdf:xhtml2pdf:*:*:*:*:*:*:*:*
 cpe:2.3:a:xhttp_project:xhttp:*:*:*:*:*:*:*:*
 cpe:2.3:a:xhyve_project:xhyve:*:*:*:*:*:*:*:*
 cpe:2.3:a:xi-soft:nettransport_download_manager:*:*:*:*:*:*:*:*
+cpe:2.3:a:xi-yuer:go-cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:xi_graphics:accelerated-x_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:xi_graphics:dextop:*:*:*:*:*:*:*:*
 cpe:2.3:a:xia_zuojie:nexusphp:*:*:*:*:*:*:*:*
@@ -94946,6 +94957,7 @@ cpe:2.3:h:geovision:gv-lpc2211:*:*:*:*:*:*:*:*
 cpe:2.3:h:geovision:gv-lx_4_v2:*:*:*:*:*:*:*:*
 cpe:2.3:h:geovision:gv-lx_4_v3:*:*:*:*:*:*:*:*
 cpe:2.3:h:geovision:gv-vd8700:*:*:*:*:*:*:*:*
+cpe:2.3:h:geovision:gv-vms20:*:*:*:*:*:*:*:*
 cpe:2.3:h:geovision:gv-vms:*:*:*:*:*:*:*:*
 cpe:2.3:h:geovision:gv-vr360:*:*:*:*:*:*:*:*
 cpe:2.3:h:geovision:gv-vs03:*:*:*:*:*:*:*:*
@@ -147897,6 +147909,7 @@ cpe:2.3:o:cisco:ucs_e180d_m3_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:cisco:ucs_s3260_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:cisco:umbrella_insights_virtual_appliance:*:*:*:*:*:*:*:*
 cpe:2.3:o:cisco:unified_computing_system:*:*:*:*:*:*:*:*
+cpe:2.3:o:cisco:unified_computing_system_e-series_software:*:*:*:*:*:*:*:*
 cpe:2.3:o:cisco:unified_computing_system_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:cisco:unified_computing_system_infrastructure_and_unified_computing_system_software:*:*:*:*:*:*:*:*
 cpe:2.3:o:cisco:unified_computing_system_manager_firmware:*:*:*:*:*:*:*:*
