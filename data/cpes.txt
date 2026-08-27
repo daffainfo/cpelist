@@ -20070,6 +20070,7 @@ cpe:2.3:a:emta_grup:pdks:*:*:*:*:*:*:*:*
 cpe:2.3:a:emtec:pyrobatchftp:*:*:*:*:*:*:*:*
 cpe:2.3:a:emtec:zoc:*:*:*:*:*:*:*:*
 cpe:2.3:a:emtec:zoc_terminal:*:*:*:*:*:*:*:*
+cpe:2.3:a:emudhra:emsigner:*:*:*:*:*:*:*:*
 cpe:2.3:a:emule:emule:*:*:*:*:*:*:*:*
 cpe:2.3:a:emule:emule_plus:*:*:*:*:*:*:*:*
 cpe:2.3:a:emule:x_ray:*:*:*:*:*:*:*:*
@@ -49166,6 +49167,9 @@ cpe:2.3:a:opentelemetry:opentelemetry.extensions.propagators:*:*:*:*:*:*:*:*
 cpe:2.3:a:opentelemetry:opentelemetry.opamp.client:*:*:*:*:*:*:*:*
 cpe:2.3:a:opentelemetry:opentelemetry.resources.azure:*:*:*:*:*:*:*:*
 cpe:2.3:a:opentelemetry:opentelemetry:*:*:*:*:*:*:*:*
+cpe:2.3:a:opentelemetry:opentelemetry\/auto-instrumentations-node:*:*:*:*:*:*:*:*
+cpe:2.3:a:opentelemetry:opentelemetry\/exporter-prometheus:*:*:*:*:*:*:*:*
+cpe:2.3:a:opentelemetry:opentelemetry\/sdk-node:*:*:*:*:*:*:*:*
 cpe:2.3:a:opentelemetry:opentelemetry_collector:*:*:*:*:*:*:*:*
 cpe:2.3:a:opentelemetry:opentelemetry_collector_contrib:*:*:*:*:*:*:*:*
 cpe:2.3:a:opentelemetry:opentelemetry_ebpf_instrumentation:*:*:*:*:*:*:*:*
