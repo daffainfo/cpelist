@@ -8802,6 +8802,7 @@ cpe:2.3:a:boxcar_media:shopping_cart:*:*:*:*:*:*:*:*
 cpe:2.3:a:boxes_project:boxes:*:*:*:*:*:*:*:*
 cpe:2.3:a:boxoft:boxoft_wav_to_mp3_converter:*:*:*:*:*:*:*:*
 cpe:2.3:a:boxoft:wav_to_wma_converter:*:*:*:*:*:*:*:*
+cpe:2.3:a:boxpositron:with-context-mcp:*:*:*:*:*:*:*:*
 cpe:2.3:a:boxtal:envoimoinscher:*:*:*:*:*:*:*:*
 cpe:2.3:a:boxug:trape:*:*:*:*:*:*:*:*
 cpe:2.3:a:boxystudio:booked:*:*:*:*:*:*:*:*
@@ -9401,6 +9402,7 @@ cpe:2.3:a:bsdi:gauntlet:*:*:*:*:*:*:*:*
 cpe:2.3:a:bsdperimeter:pfsense:*:*:*:*:*:*:*:*
 cpe:2.3:a:bsen_ordering_software_project:bsen_ordering_software:*:*:*:*:*:*:*:*
 cpe:2.3:a:bsm_store:dependent_forums:*:*:*:*:*:*:*:*
+cpe:2.3:a:bsmi021:mcp-file-context-server:*:*:*:*:*:*:*:*
 cpe:2.3:a:bson-objectid_project:bson-objectid:*:*:*:*:*:*:*:*
 cpe:2.3:a:bson_project:bson:*:*:*:*:*:*:*:*
 cpe:2.3:a:bsplayer:bs.player:*:*:*:*:*:*:*:*
@@ -16143,6 +16145,7 @@ cpe:2.3:a:dd-plist_project:dd-plist:*:*:*:*:*:*:*:*
 cpe:2.3:a:dd-wrt:dd-wrt:*:*:*:*:*:*:*:*
 cpe:2.3:a:dd32:core_control:*:*:*:*:*:*:*:*
 cpe:2.3:a:ddev:ddev:*:*:*:*:*:*:*:*
+cpe:2.3:a:ddfourtwo:sentry-selfhosted-mcp:*:*:*:*:*:*:*:*
 cpe:2.3:a:ddick:crypt\:\:urandom:*:*:*:*:*:*:*:*
 cpe:2.3:a:ddlcms:ddl_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:ddmal:mei2volpiano:*:*:*:*:*:*:*:*
@@ -89179,6 +89182,7 @@ cpe:2.3:h:daktronics:vfc-dmp-5000:*:*:*:*:*:*:*:*
 cpe:2.3:h:dallas_semiconductor:ibutton:*:*:*:*:*:*:*:*
 cpe:2.3:h:danfoss:ak-em100:*:*:*:*:*:*:*:*
 cpe:2.3:h:danfoss:ak-sm_800a:*:*:*:*:*:*:*:*
+cpe:2.3:h:danielpopamd:linkedin-ads-mcp:*:*:*:*:*:*:*:*
 cpe:2.3:h:dasan:h660gw:*:*:*:*:*:*:*:*
 cpe:2.3:h:dasannetworks:ds2924:*:*:*:*:*:*:*:*
 cpe:2.3:h:dasannetworks:gpon_router:*:*:*:*:*:*:*:*
