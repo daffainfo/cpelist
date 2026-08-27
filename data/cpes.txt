@@ -2523,6 +2523,7 @@ cpe:2.3:a:alexdtn:simple_al_slider:*:*:*:*:*:*:*:*
 cpe:2.3:a:alexej_kryukov:fontforge:*:*:*:*:*:*:*:*
 cpe:2.3:a:alexey_sukhotin:elfinder:*:*:*:*:*:*:*:*
 cpe:2.3:a:alexghr:got-fetch:*:*:*:*:*:*:*:*
+cpe:2.3:a:alexgladkov:claude-in-mobile:*:*:*:*:*:*:*:*
 cpe:2.3:a:alexguestbook:\@lex_guestbook:*:*:*:*:*:*:*:*
 cpe:2.3:a:alexis_wilke:protected_node:*:*:*:*:*:*:*:*
 cpe:2.3:a:alexmacarthur:complete_open_graph:*:*:*:*:*:*:*:*
@@ -8148,6 +8149,7 @@ cpe:2.3:a:blackice:black_ice_document_imaging_sdk:*:*:*:*:*:*:*:*
 cpe:2.3:a:blacklanternsecurity:bbot:*:*:*:*:*:*:*:*
 cpe:2.3:a:blackmagicdesign:davinci_resolve:*:*:*:*:*:*:*:*
 cpe:2.3:a:blackmoonftpserver:blackmoon_ftp_server:*:*:*:*:*:*:*:*
+cpe:2.3:a:blackms:aistack:*:*:*:*:*:*:*:*
 cpe:2.3:a:blackorpheus:clanmemberskript:*:*:*:*:*:*:*:*
 cpe:2.3:a:blackprint:blackprint_engine:*:*:*:*:*:*:*:*
 cpe:2.3:a:blackrainbow:nimbus:*:*:*:*:*:*:*:*
