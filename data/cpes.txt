@@ -33337,6 +33337,7 @@ cpe:2.3:a:istrong:four_mountain_torrent_disaster_prevention\,_control_monitoring
 cpe:2.3:a:istrong:mountain_flood_disaster_prevention_monitoring_and_early_warning_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:istyle:\@cosme:*:*:*:*:*:*:*:*
 cpe:2.3:a:isucon:isucon_5_qualifier_eventapp:*:*:*:*:*:*:*:*
+cpe:2.3:a:iswalle:getnote-mcp:*:*:*:*:*:*:*:*
 cpe:2.3:a:isweb:isweb:*:*:*:*:*:*:*:*
 cpe:2.3:a:isygen:com_icrmbasic:*:*:*:*:*:*:*:*
 cpe:2.3:a:isygen:icrm_basic:*:*:*:*:*:*:*:*
