@@ -58683,6 +58683,7 @@ cpe:2.3:a:roninwp:revy:*:*:*:*:*:*:*:*
 cpe:2.3:a:ronomon:opened:*:*:*:*:*:*:*:*
 cpe:2.3:a:ronvalstar:pocket_widget:*:*:*:*:*:*:*:*
 cpe:2.3:a:roocode:roo_code:*:*:*:*:*:*:*:*
+cpe:2.3:a:roocodeinc:roo-code:*:*:*:*:*:*:*:*
 cpe:2.3:a:room_34_creative_services:enable_svg:*:*:*:*:*:*:*:*
 cpe:2.3:a:room_34_creative_services:ics_calendar:*:*:*:*:*:*:*:*
 cpe:2.3:a:room_rent_portal_site_project:room_rent_portal_site:*:*:*:*:*:*:*:*
@@ -74540,6 +74541,7 @@ cpe:2.3:a:wowroster:wowroster:*:*:*:*:*:*:*:*
 cpe:2.3:a:wowsoft:printchaser:*:*:*:*:*:*:*:*
 cpe:2.3:a:wowthemes:mediumish:*:*:*:*:*:*:*:*
 cpe:2.3:a:wowza:streaming_engine:*:*:*:*:*:*:*:*
+cpe:2.3:a:woylie:doggo:*:*:*:*:*:*:*:*
 cpe:2.3:a:wp-advanced-search_project:wp-advanced-search:*:*:*:*:*:*:*:*
 cpe:2.3:a:wp-appbox_project:wp-appbox:*:*:*:*:*:*:*:*
 cpe:2.3:a:wp-backpack:wp_backpack:*:*:*:*:*:*:*:*
