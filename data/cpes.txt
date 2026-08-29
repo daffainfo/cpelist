@@ -25694,6 +25694,7 @@ cpe:2.3:a:google:protobuf-kotlin-lite:*:*:*:*:*:*:*:*
 cpe:2.3:a:google:protobuf-kotlin:*:*:*:*:*:*:*:*
 cpe:2.3:a:google:protobuf-python:*:*:*:*:*:*:*:*
 cpe:2.3:a:google:protobuf:*:*:*:*:*:*:*:*
+cpe:2.3:a:google:puppeteer:*:*:*:*:*:*:*:*
 cpe:2.3:a:google:quick_share:*:*:*:*:*:*:*:*
 cpe:2.3:a:google:rendertron:*:*:*:*:*:*:*:*
 cpe:2.3:a:google:reverb:*:*:*:*:*:*:*:*
@@ -32251,6 +32252,7 @@ cpe:2.3:a:intel:network_connections:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:network_interface_controller:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:neural_compressor:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:neural_compressor_software:*:*:*:*:*:*:*:*
+cpe:2.3:a:intel:neural_processing_unit_driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:nios_ii:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:non-volatile_memory_update_utility:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:nuc_hdmi_firmware_update_tool:*:*:*:*:*:*:*:*
@@ -113805,6 +113807,7 @@ cpe:2.3:h:intel:xeon_696x:*:*:*:*:*:*:*:*
 cpe:2.3:h:intel:xeon_6972p:*:*:*:*:*:*:*:*
 cpe:2.3:h:intel:xeon_6978p:*:*:*:*:*:*:*:*
 cpe:2.3:h:intel:xeon_6979p:*:*:*:*:*:*:*:*
+cpe:2.3:h:intel:xeon_6980p:*:*:*:*:*:*:*:*
 cpe:2.3:h:intel:xeon_698x:*:*:*:*:*:*:*:*
 cpe:2.3:h:intel:xeon_7020:*:*:*:*:*:*:*:*
 cpe:2.3:h:intel:xeon_7030:*:*:*:*:*:*:*:*
@@ -113870,6 +113873,11 @@ cpe:2.3:h:intel:xeon_bronze_3206r:*:*:*:*:*:*:*:*
 cpe:2.3:h:intel:xeon_bronze_3408u:*:*:*:*:*:*:*:*
 cpe:2.3:h:intel:xeon_bronze_3508u:*:*:*:*:*:*:*:*
 cpe:2.3:h:intel:xeon_bronze_processors:*:*:*:*:*:*:*:*
+cpe:2.3:h:intel:xeon_cpu_max_9460:*:*:*:*:*:*:*:*
+cpe:2.3:h:intel:xeon_cpu_max_9462:*:*:*:*:*:*:*:*
+cpe:2.3:h:intel:xeon_cpu_max_9468:*:*:*:*:*:*:*:*
+cpe:2.3:h:intel:xeon_cpu_max_9470:*:*:*:*:*:*:*:*
+cpe:2.3:h:intel:xeon_cpu_max_9480:*:*:*:*:*:*:*:*
 cpe:2.3:h:intel:xeon_cpu_max_series_processors:*:*:*:*:*:*:*:*
 cpe:2.3:h:intel:xeon_d-1513n:*:*:*:*:*:*:*:*
 cpe:2.3:h:intel:xeon_d-1518:*:*:*:*:*:*:*:*
@@ -167314,6 +167322,7 @@ cpe:2.3:o:intel:xeon_696x_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:intel:xeon_6972p_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:intel:xeon_6978p_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:intel:xeon_6979p_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:intel:xeon_6980p_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:intel:xeon_698x_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:intel:xeon_7020_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:intel:xeon_7030_firmware:*:*:*:*:*:*:*:*
@@ -167370,6 +167379,11 @@ cpe:2.3:o:intel:xeon_bronze_3206r_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:intel:xeon_bronze_3408u_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:intel:xeon_bronze_3508u_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:intel:xeon_bronze_processors_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:intel:xeon_cpu_max_9460_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:intel:xeon_cpu_max_9462_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:intel:xeon_cpu_max_9468_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:intel:xeon_cpu_max_9470_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:intel:xeon_cpu_max_9480_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:intel:xeon_d-1500_series_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:intel:xeon_d-1513n_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:intel:xeon_d-1518_firmware:*:*:*:*:*:*:*:*
