@@ -16692,6 +16692,7 @@ cpe:2.3:a:dell:powerprotect_data_domain_management_center:*:*:*:*:*:*:*:*
 cpe:2.3:a:dell:powerprotect_data_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:dell:powerprotect_data_protection:*:*:*:*:*:*:*:*
 cpe:2.3:a:dell:powerprotect_dp_series_appliance:*:*:*:*:*:*:*:*
+cpe:2.3:a:dell:powerprotect_one:*:*:*:*:*:*:*:*
 cpe:2.3:a:dell:powerscale_insightiq:*:*:*:*:*:*:*:*
 cpe:2.3:a:dell:powerscale_onefs:*:*:*:*:*:*:*:*
 cpe:2.3:a:dell:powerstore_command_line_interface:*:*:*:*:*:*:*:*
@@ -29608,6 +29609,7 @@ cpe:2.3:a:ibm:access_manager_for_microsoft_.net:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:access_support_activex_control:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:acprunner:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:actuate_encyclopedia_for_ibm_maximo:*:*:*:*:*:*:*:*
+cpe:2.3:a:ibm:administration_runtime_expert_for_i:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:advanced_management_module:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:advanced_settings_utility:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:afp_viewer_plug-in:*:*:*:*:*:*:*:*
@@ -29728,6 +29730,7 @@ cpe:2.3:a:ibm:cloud_pak_for_applications:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:cloud_pak_for_automation:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:cloud_pak_for_business_automation:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:cloud_pak_for_data:*:*:*:*:*:*:*:*
+cpe:2.3:a:ibm:cloud_pak_for_data_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:cloud_pak_for_data_system_-_cyclops:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:cloud_pak_for_data_system___cyclops:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:cloud_pak_for_multicloud_management:*:*:*:*:*:*:*:*
@@ -33714,6 +33717,7 @@ cpe:2.3:a:jaegertracing:jaeger_ui:*:*:*:*:*:*:*:*
 cpe:2.3:a:jaf_cms:jaf_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:jaguarsoft:jaguaredit:*:*:*:*:*:*:*:*
 cpe:2.3:a:jahia:jahia_xcm:*:*:*:*:*:*:*:*
+cpe:2.3:a:jahlives:openssl_encrypt:*:*:*:*:*:*:*:*
 cpe:2.3:a:jaia_interactive:mytopix:*:*:*:*:*:*:*:*
 cpe:2.3:a:jailed_project:jailed:*:*:*:*:*:*:*:*
 cpe:2.3:a:jairiidriss:restaurant-website-php-mysql:*:*:*:*:*:*:*:*
@@ -50250,6 +50254,7 @@ cpe:2.3:a:oracle:project_planning_and_control:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:project_portfolio_analysis:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:projects:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:property_manager:*:*:*:*:*:*:*:*
+cpe:2.3:a:oracle:proposals:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:providers_for_asp.net_help:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:public_sector_financials:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:public_sector_human_resources:*:*:*:*:*:*:*:*
