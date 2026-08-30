@@ -5303,7 +5303,9 @@ cpe:2.3:a:asgaros:asgaros_forum:*:*:*:*:*:*:*:*
 cpe:2.3:a:ash-aio_project:ash-aio:*:*:*:*:*:*:*:*
 cpe:2.3:a:ash-hq:ash_framework:*:*:*:*:*:*:*:*
 cpe:2.3:a:ash-project:ash:*:*:*:*:*:*:*:*
+cpe:2.3:a:ash-project:ash_oban:*:*:*:*:*:*:*:*
 cpe:2.3:a:ash-project:ash_paper_trail:*:*:*:*:*:*:*:*
+cpe:2.3:a:ash-project:ash_sql:*:*:*:*:*:*:*:*
 cpe:2.3:a:ash-project:ash_sqlite:*:*:*:*:*:*:*:*
 cpe:2.3:a:ash-rs:ash:*:*:*:*:*:*:*:*
 cpe:2.3:a:ash_framework:ashpostgres:*:*:*:*:*:*:*:*
