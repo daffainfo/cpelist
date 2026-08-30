@@ -5303,6 +5303,8 @@ cpe:2.3:a:asgaros:asgaros_forum:*:*:*:*:*:*:*:*
 cpe:2.3:a:ash-aio_project:ash-aio:*:*:*:*:*:*:*:*
 cpe:2.3:a:ash-hq:ash_framework:*:*:*:*:*:*:*:*
 cpe:2.3:a:ash-project:ash:*:*:*:*:*:*:*:*
+cpe:2.3:a:ash-project:ash_cloak:*:*:*:*:*:*:*:*
+cpe:2.3:a:ash-project:ash_graphql:*:*:*:*:*:*:*:*
 cpe:2.3:a:ash-project:ash_oban:*:*:*:*:*:*:*:*
 cpe:2.3:a:ash-project:ash_paper_trail:*:*:*:*:*:*:*:*
 cpe:2.3:a:ash-project:ash_postgres:*:*:*:*:*:*:*:*
@@ -64221,6 +64223,7 @@ cpe:2.3:a:sourcecodester:product_show_room:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:profile_registration_without_reload_refresh:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:qr_code_attendance_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:qr_code_bookmark_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:sourcecodester:queue_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:record_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:resort_reservation_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:restaurant_management_system:*:*:*:*:*:*:*:*
