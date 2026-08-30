@@ -5303,6 +5303,8 @@ cpe:2.3:a:asgaros:asgaros_forum:*:*:*:*:*:*:*:*
 cpe:2.3:a:ash-aio_project:ash-aio:*:*:*:*:*:*:*:*
 cpe:2.3:a:ash-hq:ash_framework:*:*:*:*:*:*:*:*
 cpe:2.3:a:ash-project:ash:*:*:*:*:*:*:*:*
+cpe:2.3:a:ash-project:ash_paper_trail:*:*:*:*:*:*:*:*
+cpe:2.3:a:ash-project:ash_sqlite:*:*:*:*:*:*:*:*
 cpe:2.3:a:ash-rs:ash:*:*:*:*:*:*:*:*
 cpe:2.3:a:ash_framework:ashpostgres:*:*:*:*:*:*:*:*
 cpe:2.3:a:ash_project:ash:*:*:*:*:*:*:*:*
@@ -20528,6 +20530,7 @@ cpe:2.3:a:erlang:erts:*:*:*:*:*:*:*:*
 cpe:2.3:a:erlang:ftp:*:*:*:*:*:*:*:*
 cpe:2.3:a:erlang:otp:*:*:*:*:*:*:*:*
 cpe:2.3:a:erlang:rebar3:*:*:*:*:*:*:*:*
+cpe:2.3:a:erlef:oidcc:*:*:*:*:*:*:*:*
 cpe:2.3:a:erlef:oidcc_plug:*:*:*:*:*:*:*:*
 cpe:2.3:a:ermenegildo_fiorito:irmin_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:ermig1979:simd:*:*:*:*:*:*:*:*
