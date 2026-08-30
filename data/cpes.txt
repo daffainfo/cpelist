@@ -5305,6 +5305,7 @@ cpe:2.3:a:ash-hq:ash_framework:*:*:*:*:*:*:*:*
 cpe:2.3:a:ash-project:ash:*:*:*:*:*:*:*:*
 cpe:2.3:a:ash-project:ash_oban:*:*:*:*:*:*:*:*
 cpe:2.3:a:ash-project:ash_paper_trail:*:*:*:*:*:*:*:*
+cpe:2.3:a:ash-project:ash_postgres:*:*:*:*:*:*:*:*
 cpe:2.3:a:ash-project:ash_sql:*:*:*:*:*:*:*:*
 cpe:2.3:a:ash-project:ash_sqlite:*:*:*:*:*:*:*:*
 cpe:2.3:a:ash-rs:ash:*:*:*:*:*:*:*:*
@@ -59467,6 +59468,7 @@ cpe:2.3:a:samba:volume_service:*:*:*:*:*:*:*:*
 cpe:2.3:a:sambar:sambar_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:sambas:akos:*:*:*:*:*:*:*:*
 cpe:2.3:a:sambitraj:student-management-system:*:*:*:*:*:*:*:*
+cpe:2.3:a:sambitraj:student_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:samedia:landshop:*:*:*:*:*:*:*:*
 cpe:2.3:a:samelinux:way_of_the_warrior:*:*:*:*:*:*:*:*
 cpe:2.3:a:samglover:client_power_tools:*:*:*:*:*:*:*:*
@@ -73773,6 +73775,7 @@ cpe:2.3:a:wftpserver:winftp_ftp_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:wftpserver:wing_ftp_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:wgcc:web_group_communication_center:*:*:*:*:*:*:*:*
 cpe:2.3:a:wgdashboard:wgdashboard:*:*:*:*:*:*:*:*
+cpe:2.3:a:wger-project:wger:*:*:*:*:*:*:*:*
 cpe:2.3:a:wger:wger:*:*:*:*:*:*:*:*
 cpe:2.3:a:wger:workout_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:wget:wget:*:*:*:*:*:*:*:*
@@ -172231,6 +172234,7 @@ cpe:2.3:o:linux:linux_kernel_ixgbe:*:*:*:*:*:*:*:*
 cpe:2.3:o:linux:parduslinux:*:*:*:*:*:*:*:*
 cpe:2.3:o:linux:systemd:*:*:*:*:*:*:*:*
 cpe:2.3:o:linux:tizen:*:*:*:*:*:*:*:*
+cpe:2.3:o:linux_foundation:magma:*:*:*:*:*:*:*:*
 cpe:2.3:o:linux_workbooth:linux_workbooth:*:*:*:*:*:*:*:*
 cpe:2.3:o:linuxfoundation:acrn:*:*:*:*:*:*:*:*
 cpe:2.3:o:linuxfoundation:automotive_grade_linux:*:*:*:*:*:*:*:*
