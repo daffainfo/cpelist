@@ -52927,6 +52927,7 @@ cpe:2.3:a:phpgurukul:scholarship_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:phpgurukul:small_crm:*:*:*:*:*:*:*:*
 cpe:2.3:a:phpgurukul:society_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:phpgurukul:staff_leave_management_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:phpgurukul:student_information_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:phpgurukul:student_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:phpgurukul:student_record_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:phpgurukul:student_result_management:*:*:*:*:*:*:*:*
