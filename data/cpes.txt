@@ -7486,6 +7486,7 @@ cpe:2.3:a:beep_project:beep:*:*:*:*:*:*:*:*
 cpe:2.3:a:beerwin:phplinkadmin:*:*:*:*:*:*:*:*
 cpe:2.3:a:beescms:beescms:*:*:*:*:*:*:*:*
 cpe:2.3:a:beeteam368:vidmov:*:*:*:*:*:*:*:*
+cpe:2.3:a:beetel:450tc3:*:*:*:*:*:*:*:*
 cpe:2.3:a:beetl-bbs_project:beetl-bbs:*:*:*:*:*:*:*:*
 cpe:2.3:a:beetl_project:beetl:*:*:*:*:*:*:*:*
 cpe:2.3:a:beeware:briefcase:*:*:*:*:*:*:*:*
@@ -45192,6 +45193,7 @@ cpe:2.3:a:nasa:openmct:*:*:*:*:*:*:*:*
 cpe:2.3:a:nasa:pyblock:*:*:*:*:*:*:*:*
 cpe:2.3:a:nasa:rtretrievalframework:*:*:*:*:*:*:*:*
 cpe:2.3:a:nasa:singledop:*:*:*:*:*:*:*:*
+cpe:2.3:a:nasa:trick:*:*:*:*:*:*:*:*
 cpe:2.3:a:nasa_ames_research_center:bigview:*:*:*:*:*:*:*:*
 cpe:2.3:a:nasa_goddard_space_flight_center:common_data_format:*:*:*:*:*:*:*:*
 cpe:2.3:a:nasa_universe_wallpapers_xeus_project:nasa_universe_wallpapers_xeus:*:*:*:*:*:*:*:*
