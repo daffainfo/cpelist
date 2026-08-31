@@ -167109,6 +167109,7 @@ cpe:2.3:o:intel:stratix_10_tx_850_fpga_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:intel:swift_canyon_bios:*:*:*:*:*:*:*:*
 cpe:2.3:o:intel:syskli35.86a:*:*:*:*:*:*:*:*
 cpe:2.3:o:intel:tatlow_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:intel:tdx_module:*:*:*:*:*:*:*:*
 cpe:2.3:o:intel:thunderbolt_3_controller_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:intel:tiger_lake_h\/up3_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:intel:tri-band_wireless-ac_17265:*:*:*:*:*:*:*:*
