@@ -5092,6 +5092,7 @@ cpe:2.3:a:armcode:adult_filter:*:*:*:*:*:*:*:*
 cpe:2.3:a:armcode:alienip:*:*:*:*:*:*:*:*
 cpe:2.3:a:armemberplugin:armember:*:*:*:*:*:*:*:*
 cpe:2.3:a:armin_burgmeier:net6:*:*:*:*:*:*:*:*
+cpe:2.3:a:armink:struct2json:*:*:*:*:*:*:*:*
 cpe:2.3:a:armoli:cargo_tracking_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:armorlogic:profense_web_application_firewall:*:*:*:*:*:*:*:*
 cpe:2.3:a:armorx:android_app:*:*:*:*:*:*:*:*
@@ -7534,6 +7535,7 @@ cpe:2.3:a:ben-sb:javascript_deobfuscator:*:*:*:*:*:*:*:*
 cpe:2.3:a:ben10_omniverse_walkthrough_project:ben10_omniverse_walkthrough:*:*:*:*:*:*:*:*
 cpe:2.3:a:ben3w:2bgal:*:*:*:*:*:*:*:*
 cpe:2.3:a:ben_chivers:ben_chivers_guestbook:*:*:*:*:*:*:*:*
+cpe:2.3:a:ben_group:tubebuddy_for_youtube_extension:*:*:*:*:*:*:*:*
 cpe:2.3:a:ben_jeavons:ownterm:*:*:*:*:*:*:*:*
 cpe:2.3:a:ben_spink:crushftp_ftp_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:ben_webb:dopewars:*:*:*:*:*:*:*:*
@@ -17244,6 +17246,7 @@ cpe:2.3:a:dianakcury:pet_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:diangemilang:dgnews:*:*:*:*:*:*:*:*
 cpe:2.3:a:diaowen:dwsurvey:*:*:*:*:*:*:*:*
 cpe:2.3:a:dibbler:dibbler:*:*:*:*:*:*:*:*
+cpe:2.3:a:dibo-software:diboot:*:*:*:*:*:*:*:*
 cpe:2.3:a:dicas:mpegable_player:*:*:*:*:*:*:*:*
 cpe:2.3:a:dice_project:dice:*:*:*:*:*:*:*:*
 cpe:2.3:a:dicebear:dicebear:*:*:*:*:*:*:*:*
@@ -21141,6 +21144,7 @@ cpe:2.3:a:extendthemes:mesmerize_companion:*:*:*:*:*:*:*:*
 cpe:2.3:a:extendthemes:teluro:*:*:*:*:*:*:*:*
 cpe:2.3:a:extendthemes:vireo:*:*:*:*:*:*:*:*
 cpe:2.3:a:extendwings:opcache_dashboard:*:*:*:*:*:*:*:*
+cpe:2.3:a:extension.vn:2fa_authenticator_extension:*:*:*:*:*:*:*:*
 cpe:2.3:a:extensiondepot:com_jsupport:*:*:*:*:*:*:*:*
 cpe:2.3:a:extensiondeveloper:questions:*:*:*:*:*:*:*:*
 cpe:2.3:a:extensions:joomla_payage:*:*:*:*:*:*:*:*
@@ -31105,6 +31109,7 @@ cpe:2.3:a:ietf:rfc:*:*:*:*:*:*:*:*
 cpe:2.3:a:ietf:tcp:*:*:*:*:*:*:*:*
 cpe:2.3:a:ietf:transport_layer_security:*:*:*:*:*:*:*:*
 cpe:2.3:a:ietf:x.509_certificate:*:*:*:*:*:*:*:*
+cpe:2.3:a:ieungsoft:ultra_ramdisk_pro:*:*:*:*:*:*:*:*
 cpe:2.3:a:iexpress:estate_agent_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:iexpress:munch_pro:*:*:*:*:*:*:*:*
 cpe:2.3:a:iexpress:property_pro:*:*:*:*:*:*:*:*
@@ -31444,6 +31449,7 @@ cpe:2.3:a:inboundnow:call_to_action:*:*:*:*:*:*:*:*
 cpe:2.3:a:inboundnow:landing-pages:*:*:*:*:*:*:*:*
 cpe:2.3:a:inboundnow:wordpress_landing_pages:*:*:*:*:*:*:*:*
 cpe:2.3:a:inboundwp:calls_to_action:*:*:*:*:*:*:*:*
+cpe:2.3:a:inbox_foundry:activeinbox_extension:*:*:*:*:*:*:*:*
 cpe:2.3:a:inca:nprotect_avs:*:*:*:*:*:*:*:*
 cpe:2.3:a:inca:nprotect_gameguard:*:*:*:*:*:*:*:*
 cpe:2.3:a:inccms_technology:inccms_core:*:*:*:*:*:*:*:*
@@ -68938,6 +68944,7 @@ cpe:2.3:a:todoomasters:todoo_forum:*:*:*:*:*:*:*:*
 cpe:2.3:a:todor_lazarov:t-htb_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:toenda_software_development:toendacms:*:*:*:*:*:*:*:*
 cpe:2.3:a:togatech:tenvoy:*:*:*:*:*:*:*:*
+cpe:2.3:a:toggl_o_:toggl_track_extension:*:*:*:*:*:*:*:*
 cpe:2.3:a:toggle-the-title_project:toggle-the-title:*:*:*:*:*:*:*:*
 cpe:2.3:a:togglee:togglee:*:*:*:*:*:*:*:*
 cpe:2.3:a:togglz:togglz:*:*:*:*:*:*:*:*
@@ -71851,6 +71858,7 @@ cpe:2.3:a:videowhisper:video_presentation:*:*:*:*:*:*:*:*
 cpe:2.3:a:videowhisper:videowhisper:*:*:*:*:*:*:*:*
 cpe:2.3:a:videowhisper:videowhisper_live_streaming_integration:*:*:*:*:*:*:*:*
 cpe:2.3:a:videowhisper:webcam:*:*:*:*:*:*:*:*
+cpe:2.3:a:vidiq:vision_for_youtube_extension:*:*:*:*:*:*:*:*
 cpe:2.3:a:vidiscript:vidiscript:*:*:*:*:*:*:*:*
 cpe:2.3:a:vidyo:vidyo:*:*:*:*:*:*:*:*
 cpe:2.3:a:vidyo:vidyo_conferencing_outlook_plug-in:*:*:*:*:*:*:*:*
