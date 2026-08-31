@@ -13305,6 +13305,7 @@ cpe:2.3:a:code-projects:daily_expense_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:dormitory_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:e-health_care_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:ecommerce_website:*:*:*:*:*:*:*:*
+cpe:2.3:a:code-projects:employee_leave_managing_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:employee_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:employee_profile_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:exam_form_submission:*:*:*:*:*:*:*:*
@@ -13929,6 +13930,7 @@ cpe:2.3:a:colorbox_node:dennis_blake:*:*:*:*:*:*:*:*
 cpe:2.3:a:colorbox_project:colorbox:*:*:*:*:*:*:*:*
 cpe:2.3:a:colord_project:colord:*:*:*:*:*:*:*:*
 cpe:2.3:a:colored_scripts:easy_message_board:*:*:*:*:*:*:*:*
+cpe:2.3:a:colorful:igamecenter:*:*:*:*:*:*:*:*
 cpe:2.3:a:colorlib:activello:*:*:*:*:*:*:*:*
 cpe:2.3:a:colorlib:activello_theme:*:*:*:*:*:*:*:*
 cpe:2.3:a:colorlib:bonkers:*:*:*:*:*:*:*:*
@@ -17266,6 +17268,7 @@ cpe:2.3:a:dieboldnixdorf:vynamic_security_suite:*:*:*:*:*:*:*:*
 cpe:2.3:a:dieboldnixdorf:vynamic_view:*:*:*:*:*:*:*:*
 cpe:2.3:a:dieboldnixdorf:wnbios64.sys:*:*:*:*:*:*:*:*
 cpe:2.3:a:diego_uscanga:atube_catcher:*:*:*:*:*:*:*:*
+cpe:2.3:a:diem-project:diem:*:*:*:*:*:*:*:*
 cpe:2.3:a:diesel:diesel:*:*:*:*:*:*:*:*
 cpe:2.3:a:dieselscripts:diesel_job_site:*:*:*:*:*:*:*:*
 cpe:2.3:a:dieselscripts:diesel_joke_site:*:*:*:*:*:*:*:*
@@ -32980,6 +32983,8 @@ cpe:2.3:a:iobit:itop_screenshot:*:*:*:*:*:*:*:*
 cpe:2.3:a:iobit:itop_vpn:*:*:*:*:*:*:*:*
 cpe:2.3:a:iobit:malware_fighter:*:*:*:*:*:*:*:*
 cpe:2.3:a:iobit:smart_defrag:*:*:*:*:*:*:*:*
+cpe:2.3:a:iobit:uninstaller:*:*:*:*:*:*:*:*
+cpe:2.3:a:iobit:unlocker:*:*:*:*:*:*:*:*
 cpe:2.3:a:iobroker:iobroker.admin:*:*:*:*:*:*:*:*
 cpe:2.3:a:iobroker:iobroker.js-controller:*:*:*:*:*:*:*:*
 cpe:2.3:a:iobroker:iobroker.web:*:*:*:*:*:*:*:*
@@ -34050,6 +34055,7 @@ cpe:2.3:a:jeecg:jeecgboot:*:*:*:*:*:*:*:*
 cpe:2.3:a:jeecg:jimureport:*:*:*:*:*:*:*:*
 cpe:2.3:a:jeecg_p3_biz_chat_project:jeecg_p3_biz_chat:*:*:*:*:*:*:*:*
 cpe:2.3:a:jeecgboot:jeecgboot:*:*:*:*:*:*:*:*
+cpe:2.3:a:jeecgboot:jeewx-boot:*:*:*:*:*:*:*:*
 cpe:2.3:a:jeecgboot:the_server_processes_these_urls:*:*:*:*:*:*:*:*
 cpe:2.3:a:jeecms:jeecms:*:*:*:*:*:*:*:*
 cpe:2.3:a:jeecms:jeecms_x:*:*:*:*:*:*:*:*
@@ -63474,6 +63480,8 @@ cpe:2.3:a:soap\:\:lite_project:soap\:\:lite:*:*:*:*:*:*:*:*
 cpe:2.3:a:soapbox_project:soapbox:*:*:*:*:*:*:*:*
 cpe:2.3:a:soapmakingforum:soap_making:*:*:*:*:*:*:*:*
 cpe:2.3:a:soaringsoftware:tcmax:*:*:*:*:*:*:*:*
+cpe:2.3:a:soarkey:_:*:*:*:*:*:*:*:*
+cpe:2.3:a:soarkey:studentmanagement:*:*:*:*:*:*:*:*
 cpe:2.3:a:soarlabs:soarcoin:*:*:*:*:*:*:*:*
 cpe:2.3:a:sobexsrv:sobexsrv:*:*:*:*:*:*:*:*
 cpe:2.3:a:sobey:media_convergence_system:*:*:*:*:*:*:*:*
@@ -71314,6 +71322,7 @@ cpe:2.3:a:validators_project:validators:*:*:*:*:*:*:*:*
 cpe:2.3:a:validformbuilder:validform_builder:*:*:*:*:*:*:*:*
 cpe:2.3:a:valijson_project:valijson:*:*:*:*:*:*:*:*
 cpe:2.3:a:valine.js:valine:*:*:*:*:*:*:*:*
+cpe:2.3:a:valkey-io:valkey:*:*:*:*:*:*:*:*
 cpe:2.3:a:vallheru:vallheru:*:*:*:*:*:*:*:*
 cpe:2.3:a:valmet:dna:*:*:*:*:*:*:*:*
 cpe:2.3:a:valor_apps:easy_folder_listing_pro:*:*:*:*:*:*:*:*
@@ -76369,6 +76378,7 @@ cpe:2.3:a:yanocc:yanocc:*:*:*:*:*:*:*:*
 cpe:2.3:a:yansongda:pay:*:*:*:*:*:*:*:*
 cpe:2.3:a:yanzhenjie:andserver:*:*:*:*:*:*:*:*
 cpe:2.3:a:yaofache:hittoken:*:*:*:*:*:*:*:*
+cpe:2.3:a:yaojingang:geoflow:*:*:*:*:*:*:*:*
 cpe:2.3:a:yap:yap_blog:*:*:*:*:*:*:*:*
 cpe:2.3:a:yapbb:yapbb:*:*:*:*:*:*:*:*
 cpe:2.3:a:yapig:yapig:*:*:*:*:*:*:*:*
@@ -88776,6 +88786,7 @@ cpe:2.3:h:d-link:dsl2740u:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dsl2750u:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dsl2888a:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dsl6740u:*:*:*:*:*:*:*:*
+cpe:2.3:h:d-link:dsm-g600:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dsp-w215:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dsr-1000:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dsr-1000ac:*:*:*:*:*:*:*:*
