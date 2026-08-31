@@ -19214,6 +19214,7 @@ cpe:2.3:a:edgexfoundry:application_functions_software_development_kit:*:*:*:*:*:
 cpe:2.3:a:edgexfoundry:edgex_foundry:*:*:*:*:*:*:*:*
 cpe:2.3:a:edifecs:transaction_management:*:*:*:*:*:*:*:*
 cpe:2.3:a:edikon:phpshop:*:*:*:*:*:*:*:*
+cpe:2.3:a:edimax:br-6214k:*:*:*:*:*:*:*:*
 cpe:2.3:a:edimax:br-6228nc:*:*:*:*:*:*:*:*
 cpe:2.3:a:edimax:br-6478ac_v2:*:*:*:*:*:*:*:*
 cpe:2.3:a:edimax:br-6675nd:*:*:*:*:*:*:*:*
@@ -32485,6 +32486,7 @@ cpe:2.3:a:intel:usb_3.0_extensible_host_controller_driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:usb_type_c_power_delivery_controller:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:vcust_tool:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:virtual_raid_on_cpu:*:*:*:*:*:*:*:*
+cpe:2.3:a:intel:vision:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:vroc_software:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:vtune_amplifier:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:vtune_profiler:*:*:*:*:*:*:*:*
@@ -45205,6 +45207,7 @@ cpe:2.3:a:nasa:cfitsio:*:*:*:*:*:*:*:*
 cpe:2.3:a:nasa:cfs:*:*:*:*:*:*:*:*
 cpe:2.3:a:nasa:core_flight_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:nasa:cryptolib:*:*:*:*:*:*:*:*
+cpe:2.3:a:nasa:earthdata-search:*:*:*:*:*:*:*:*
 cpe:2.3:a:nasa:fprime:*:*:*:*:*:*:*:*
 cpe:2.3:a:nasa:kodiak:*:*:*:*:*:*:*:*
 cpe:2.3:a:nasa:openmct:*:*:*:*:*:*:*:*
@@ -50363,7 +50366,9 @@ cpe:2.3:a:oracle:retail_xstore_point_of_service:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:revenue_management_and_billing:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:right_now_service_cloud:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:risk_management:*:*:*:*:*:*:*:*
+cpe:2.3:a:oracle:sales:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:sales_for_handhelds:*:*:*:*:*:*:*:*
+cpe:2.3:a:oracle:sales_foundation:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:sales_offline:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:scheduler:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:scripting:*:*:*:*:*:*:*:*
@@ -115134,6 +115139,7 @@ cpe:2.3:h:intel:xeon_silver_4310t:*:*:*:*:*:*:*:*
 cpe:2.3:h:intel:xeon_silver_4314:*:*:*:*:*:*:*:*
 cpe:2.3:h:intel:xeon_silver_4316:*:*:*:*:*:*:*:*
 cpe:2.3:h:intel:xeon_silver_4410t:*:*:*:*:*:*:*:*
+cpe:2.3:h:intel:xeon_silver_4410tm:*:*:*:*:*:*:*:*
 cpe:2.3:h:intel:xeon_silver_4410y:*:*:*:*:*:*:*:*
 cpe:2.3:h:intel:xeon_silver_4416:*:*:*:*:*:*:*:*
 cpe:2.3:h:intel:xeon_silver_4416\+:*:*:*:*:*:*:*:*
@@ -168304,6 +168310,7 @@ cpe:2.3:o:intel:xeon_silver_4310t_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:intel:xeon_silver_4314_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:intel:xeon_silver_4316_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:intel:xeon_silver_4410t_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:intel:xeon_silver_4410tm_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:intel:xeon_silver_4410y_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:intel:xeon_silver_4416\+_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:intel:xeon_silver_4416_firmware:*:*:*:*:*:*:*:*
