@@ -88679,6 +88679,7 @@ cpe:2.3:h:d-link:dir-825\/ac_g1:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dir-825\/acf:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dir-825\/gf:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dir-825_rev.b:*:*:*:*:*:*:*:*
+cpe:2.3:h:d-link:dir-825m:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dir-826l:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dir-826l_wireless_n600_cloud_router:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dir-830l:*:*:*:*:*:*:*:*
