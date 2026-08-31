@@ -5303,10 +5303,13 @@ cpe:2.3:a:asgaros:asgaros_forum:*:*:*:*:*:*:*:*
 cpe:2.3:a:ash-aio_project:ash-aio:*:*:*:*:*:*:*:*
 cpe:2.3:a:ash-hq:ash_framework:*:*:*:*:*:*:*:*
 cpe:2.3:a:ash-project:ash:*:*:*:*:*:*:*:*
+cpe:2.3:a:ash-project:ash_admin:*:*:*:*:*:*:*:*
+cpe:2.3:a:ash-project:ash_ai:*:*:*:*:*:*:*:*
 cpe:2.3:a:ash-project:ash_cloak:*:*:*:*:*:*:*:*
 cpe:2.3:a:ash-project:ash_graphql:*:*:*:*:*:*:*:*
 cpe:2.3:a:ash-project:ash_oban:*:*:*:*:*:*:*:*
 cpe:2.3:a:ash-project:ash_paper_trail:*:*:*:*:*:*:*:*
+cpe:2.3:a:ash-project:ash_phoenix:*:*:*:*:*:*:*:*
 cpe:2.3:a:ash-project:ash_postgres:*:*:*:*:*:*:*:*
 cpe:2.3:a:ash-project:ash_sql:*:*:*:*:*:*:*:*
 cpe:2.3:a:ash-project:ash_sqlite:*:*:*:*:*:*:*:*
@@ -14762,6 +14765,7 @@ cpe:2.3:a:cozmoslabs:membership_\&_content_restriction_-_paid_member_subscriptio
 cpe:2.3:a:cozmoslabs:paid_member_subscriptions:*:*:*:*:*:*:*:*
 cpe:2.3:a:cozmoslabs:paid_membership_subscriptions:*:*:*:*:*:*:*:*
 cpe:2.3:a:cozmoslabs:profile_builder:*:*:*:*:*:*:*:*
+cpe:2.3:a:cozmoslabs:profile_builder_plugin:*:*:*:*:*:*:*:*
 cpe:2.3:a:cozmoslabs:translatepress:*:*:*:*:*:*:*:*
 cpe:2.3:a:cozmoslabs:user_profile_picture:*:*:*:*:*:*:*:*
 cpe:2.3:a:cozy:cozy:*:*:*:*:*:*:*:*
@@ -33508,6 +33512,7 @@ cpe:2.3:a:itsourcecode:online_hotel_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:online_house_rental_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:online_house_rental_system_project_in_php_with_source_code:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:online_laundry_management_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:itsourcecode:online_medicine_delivery_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:online_pharmacy_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:online_public_access_catalog:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:online_student_enrollment_system:*:*:*:*:*:*:*:*
@@ -37717,6 +37722,7 @@ cpe:2.3:a:latchset:jose:*:*:*:*:*:*:*:*
 cpe:2.3:a:latchset:jwcrypto:*:*:*:*:*:*:*:*
 cpe:2.3:a:latchset:pkcs11-provider:*:*:*:*:*:*:*:*
 cpe:2.3:a:late-static_project:late-static:*:*:*:*:*:*:*:*
+cpe:2.3:a:latencyutils:latencyutils:*:*:*:*:*:*:*:*
 cpe:2.3:a:latepoint:latepoint:*:*:*:*:*:*:*:*
 cpe:2.3:a:latepoint:latepoint_plugin:*:*:*:*:*:*:*:*
 cpe:2.3:a:latest_posts_on_profile_project:latest_posts_on_profile:*:*:*:*:*:*:*:*
@@ -39282,6 +39288,7 @@ cpe:2.3:a:logmein:ractrl.dll:*:*:*:*:*:*:*:*
 cpe:2.3:a:logmeininc:join.me:*:*:*:*:*:*:*:*
 cpe:2.3:a:logmethods:logmethods:*:*:*:*:*:*:*:*
 cpe:2.3:a:logmx:logmx:*:*:*:*:*:*:*:*
+cpe:2.3:a:lognet:grpc-spring-boot-starter:*:*:*:*:*:*:*:*
 cpe:2.3:a:logo_manager_for_enamad:logo_manager_for_enamad:*:*:*:*:*:*:*:*
 cpe:2.3:a:logo_slider_project:logo_slider:*:*:*:*:*:*:*:*
 cpe:2.3:a:logo_slider_wordpress:logo_slider_wordpress:*:*:*:*:*:*:*:*
