@@ -9230,6 +9230,7 @@ cpe:2.3:a:broadcom:siteminder:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:siteminder_federation:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:spectrum:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:spring_authorization_server:*:*:*:*:*:*:*:*
+cpe:2.3:a:broadcom:spring_cloud_commons:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:spring_cloud_sleuth:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:spring_data_commons:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:spring_data_keyvalue:*:*:*:*:*:*:*:*
@@ -30928,6 +30929,8 @@ cpe:2.3:a:icopydoc:maps_for_wp:*:*:*:*:*:*:*:*
 cpe:2.3:a:icopydoc:xml_for_google_merchant_center:*:*:*:*:*:*:*:*
 cpe:2.3:a:icopydoc:yml_for_yandex_market:*:*:*:*:*:*:*:*
 cpe:2.3:a:icoutils_project:icoutils:*:*:*:*:*:*:*:*
+cpe:2.3:a:icp_das:ua-2200:*:*:*:*:*:*:*:*
+cpe:2.3:a:icp_das:ua-5200:*:*:*:*:*:*:*:*
 cpe:2.3:a:icq:activelist_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:icq:icq:*:*:*:*:*:*:*:*
 cpe:2.3:a:icq:icq_toolbar:*:*:*:*:*:*:*:*
@@ -62951,7 +62954,6 @@ cpe:2.3:a:sitos:sitos_six:*:*:*:*:*:*:*:*
 cpe:2.3:a:sitracker:support_incident_tracker:*:*:*:*:*:*:*:*
 cpe:2.3:a:sivann:it_items_database:*:*:*:*:*:*:*:*
 cpe:2.3:a:sivel:page_restrict:*:*:*:*:*:*:*:*
-cpe:2.3:a:sivel:pagerestrict:*:*:*:*:*:*:*:*
 cpe:2.3:a:siwapp:siwapp-ror:*:*:*:*:*:*:*:*
 cpe:2.3:a:six2dez:reconftw:*:*:*:*:*:*:*:*
 cpe:2.3:a:six_apart:movable_type:*:*:*:*:*:*:*:*
@@ -67815,7 +67817,6 @@ cpe:2.3:a:theaccessgroup:corehr_core_portal:*:*:*:*:*:*:*:*
 cpe:2.3:a:thealpinepress:alpine-photo-tile-for-instagram:*:*:*:*:*:*:*:*
 cpe:2.3:a:thealpinepress:alpine_phototile_for_pinterest:*:*:*:*:*:*:*:*
 cpe:2.3:a:theandystratton:page_restrict:*:*:*:*:*:*:*:*
-cpe:2.3:a:theandystratton:pagerestrict:*:*:*:*:*:*:*:*
 cpe:2.3:a:thebrowser:arc:*:*:*:*:*:*:*:*
 cpe:2.3:a:thebrowser:arc_search:*:*:*:*:*:*:*:*
 cpe:2.3:a:thebuggenie:the_bug_genie:*:*:*:*:*:*:*:*
