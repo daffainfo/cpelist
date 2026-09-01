@@ -10400,6 +10400,7 @@ cpe:2.3:a:canvasflow:canvasflow:*:*:*:*:*:*:*:*
 cpe:2.3:a:canvasgfx:canvas_draw:*:*:*:*:*:*:*:*
 cpe:2.3:a:canvg:canvg:*:*:*:*:*:*:*:*
 cpe:2.3:a:caolilinode_project:caolilinode:*:*:*:*:*:*:*:*
+cpe:2.3:a:caoqianming:django-vue-admin:*:*:*:*:*:*:*:*
 cpe:2.3:a:cap-strap_project:cap-strap:*:*:*:*:*:*:*:*
 cpe:2.3:a:capa_protect_project:capa_protect:*:*:*:*:*:*:*:*
 cpe:2.3:a:capasystems:capainstaller:*:*:*:*:*:*:*:*
@@ -15254,6 +15255,7 @@ cpe:2.3:a:ctrip:apollo:*:*:*:*:*:*:*:*
 cpe:2.3:a:ctrlo:lenio:*:*:*:*:*:*:*:*
 cpe:2.3:a:cts_projects\&software:classad:*:*:*:*:*:*:*:*
 cpe:2.3:a:ctw_design:findnix:*:*:*:*:*:*:*:*
+cpe:2.3:a:cu:silicon:*:*:*:*:*:*:*:*
 cpe:2.3:a:cub-scout-tracker_project:cub-scout-tracker:*:*:*:*:*:*:*:*
 cpe:2.3:a:cube:cube.js:*:*:*:*:*:*:*:*
 cpe:2.3:a:cubecart:cubecart:*:*:*:*:*:*:*:*
@@ -17779,7 +17781,9 @@ cpe:2.3:a:doc2k:re-chat:*:*:*:*:*:*:*:*
 cpe:2.3:a:doc2txt_project:doc2txt:*:*:*:*:*:*:*:*
 cpe:2.3:a:doc4design:multicons:*:*:*:*:*:*:*:*
 cpe:2.3:a:doccano:auto_labeling_pipeline:*:*:*:*:*:*:*:*
+cpe:2.3:a:doccano:auto_labeling_pipeline_module_to_annotate_a_document_automatically:*:*:*:*:*:*:*:*
 cpe:2.3:a:doccano:doccano:*:*:*:*:*:*:*:*
+cpe:2.3:a:doccano:open_source_annotation_tools_for_machine_learning_practitioners:*:*:*:*:*:*:*:*
 cpe:2.3:a:doccms:doccms:*:*:*:*:*:*:*:*
 cpe:2.3:a:doccoinpreico_project:doccoinpreico:*:*:*:*:*:*:*:*
 cpe:2.3:a:docebo:docebo:*:*:*:*:*:*:*:*
@@ -37024,6 +37028,7 @@ cpe:2.3:a:kiro:kiro_cli:*:*:*:*:*:*:*:*
 cpe:2.3:a:kiro:kiro_ide:*:*:*:*:*:*:*:*
 cpe:2.3:a:kirona:dynamic_resource_scheduling:*:*:*:*:*:*:*:*
 cpe:2.3:a:kirstyburgoine:responsive_video:*:*:*:*:*:*:*:*
+cpe:2.3:a:kishan0725:hospital-management-system:*:*:*:*:*:*:*:*
 cpe:2.3:a:kishan0725:hospital_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:kishanlal:hospital_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:kishor-23:food_waste_management_system:*:*:*:*:*:*:*:*
@@ -57501,6 +57506,9 @@ cpe:2.3:a:redocly:redoc:*:*:*:*:*:*:*:*
 cpe:2.3:a:redon:roblox_purchasing_hub:*:*:*:*:*:*:*:*
 cpe:2.3:a:redpanda:redpanda:*:*:*:*:*:*:*:*
 cpe:2.3:a:redplanetcomputers:laundry_management_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:redport:optimizer_wxa-203:*:*:*:*:*:*:*:*
+cpe:2.3:a:redport:optimizer_wxa-213:*:*:*:*:*:*:*:*
+cpe:2.3:a:redport:optimizer_wxa-223:*:*:*:*:*:*:*:*
 cpe:2.3:a:redports_project:redports:*:*:*:*:*:*:*:*
 cpe:2.3:a:redprairie:redprairie_application_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:redprairie:redprairie_client:*:*:*:*:*:*:*:*
@@ -60902,6 +60910,7 @@ cpe:2.3:a:scylladb:scylla:*:*:*:*:*:*:*:*
 cpe:2.3:a:scylladb:scylladb:*:*:*:*:*:*:*:*
 cpe:2.3:a:scytl:secure_vote:*:*:*:*:*:*:*:*
 cpe:2.3:a:sd_studio:sd_studio_cms:*:*:*:*:*:*:*:*
+cpe:2.3:a:sdcb:chats:*:*:*:*:*:*:*:*
 cpe:2.3:a:sdcms:sdcms:*:*:*:*:*:*:*:*
 cpe:2.3:a:sdd-baro_project:sdd-baro:*:*:*:*:*:*:*:*
 cpe:2.3:a:sddm_project:sddm:*:*:*:*:*:*:*:*
