@@ -88089,6 +88089,7 @@ cpe:2.3:h:cobham:satcom_sailor_250:*:*:*:*:*:*:*:*
 cpe:2.3:h:cobham:satcom_sailor_500:*:*:*:*:*:*:*:*
 cpe:2.3:h:cobham:satcom_sailor_800:*:*:*:*:*:*:*:*
 cpe:2.3:h:cobham:satcom_sailor_900:*:*:*:*:*:*:*:*
+cpe:2.3:h:cobham:satcom_vsat7090_maritime_satellite_router:*:*:*:*:*:*:*:*
 cpe:2.3:h:cobham:sea_tel_116:*:*:*:*:*:*:*:*
 cpe:2.3:h:cobham:sea_tel_121:*:*:*:*:*:*:*:*
 cpe:2.3:h:cobham:sea_tel_4009_vsat_broadband-at-sea:*:*:*:*:*:*:*:*
