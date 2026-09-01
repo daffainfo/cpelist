@@ -5314,6 +5314,7 @@ cpe:2.3:a:ash-project:ash_phoenix:*:*:*:*:*:*:*:*
 cpe:2.3:a:ash-project:ash_postgres:*:*:*:*:*:*:*:*
 cpe:2.3:a:ash-project:ash_sql:*:*:*:*:*:*:*:*
 cpe:2.3:a:ash-project:ash_sqlite:*:*:*:*:*:*:*:*
+cpe:2.3:a:ash-project:ash_typescript:*:*:*:*:*:*:*:*
 cpe:2.3:a:ash-rs:ash:*:*:*:*:*:*:*:*
 cpe:2.3:a:ash_framework:ashpostgres:*:*:*:*:*:*:*:*
 cpe:2.3:a:ash_project:ash:*:*:*:*:*:*:*:*
@@ -62949,6 +62950,7 @@ cpe:2.3:a:sitolog:sitolog_application_connect:*:*:*:*:*:*:*:*
 cpe:2.3:a:sitos:sitos_six:*:*:*:*:*:*:*:*
 cpe:2.3:a:sitracker:support_incident_tracker:*:*:*:*:*:*:*:*
 cpe:2.3:a:sivann:it_items_database:*:*:*:*:*:*:*:*
+cpe:2.3:a:sivel:page_restrict:*:*:*:*:*:*:*:*
 cpe:2.3:a:sivel:pagerestrict:*:*:*:*:*:*:*:*
 cpe:2.3:a:siwapp:siwapp-ror:*:*:*:*:*:*:*:*
 cpe:2.3:a:six2dez:reconftw:*:*:*:*:*:*:*:*
