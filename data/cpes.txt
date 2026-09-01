@@ -57576,6 +57576,7 @@ cpe:2.3:a:relative_real_estate_systems:relative_real_estate_systems:*:*:*:*:*:*:
 cpe:2.3:a:relativity:relativityone:*:*:*:*:*:*:*:*
 cpe:2.3:a:relax-and-recover:relax-and-recover:*:*:*:*:*:*:*:*
 cpe:2.3:a:release-it:conventional-changelog:*:*:*:*:*:*:*:*
+cpe:2.3:a:releasit:releasit_cod_form_upsells:*:*:*:*:*:*:*:*
 cpe:2.3:a:relevanssi:relevanssi-live-ajax-search:*:*:*:*:*:*:*:*
 cpe:2.3:a:relevanssi:relevanssi:*:*:*:*:*:*:*:*
 cpe:2.3:a:reliablecontrols:rc-licensemanager:*:*:*:*:*:*:*:*
@@ -75957,6 +75958,7 @@ cpe:2.3:a:xinfu:oa_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:xinha:wysiwyg_editor:*:*:*:*:*:*:*:*
 cpe:2.3:a:xinha:xinha:*:*:*:*:*:*:*:*
 cpe:2.3:a:xinheinformation:xinhe_teaching_platform_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:xinhu:rainrock_rockoa:*:*:*:*:*:*:*:*
 cpe:2.3:a:xinhu:rockoa:*:*:*:*:*:*:*:*
 cpe:2.3:a:xinhua-news:xinhua_international:*:*:*:*:*:*:*:*
 cpe:2.3:a:xinje:xd\/e_series_plc_program_tool:*:*:*:*:*:*:*:*
