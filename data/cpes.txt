@@ -47531,6 +47531,7 @@ cpe:2.3:a:nt-ware:uniflow_smartclient:*:*:*:*:*:*:*:*
 cpe:2.3:a:nt:bbs_e-market:*:*:*:*:*:*:*:*
 cpe:2.3:a:nta:e-tax:*:*:*:*:*:*:*:*
 cpe:2.3:a:nta:e-tax_reception_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:ntegrals:openbrowser:*:*:*:*:*:*:*:*
 cpe:2.3:a:nteloswireless:my_ntelos:*:*:*:*:*:*:*:*
 cpe:2.3:a:nteract:nteract:*:*:*:*:*:*:*:*
 cpe:2.3:a:ntesseract_project:ntesseract:*:*:*:*:*:*:*:*
@@ -48012,6 +48013,7 @@ cpe:2.3:a:octolize:usps_shipping_for_woocommerce-live_rates:*:*:*:*:*:*:*:*
 cpe:2.3:a:octolize:woocommerce_ups_shipping:*:*:*:*:*:*:*:*
 cpe:2.3:a:octopoller_project:octopoller:*:*:*:*:*:*:*:*
 cpe:2.3:a:octoprint:octoprint:*:*:*:*:*:*:*:*
+cpe:2.3:a:octopus:codefresh:*:*:*:*:*:*:*:*
 cpe:2.3:a:octopus:halibut:*:*:*:*:*:*:*:*
 cpe:2.3:a:octopus:octopus_deploy:*:*:*:*:*:*:*:*
 cpe:2.3:a:octopus:octopus_server:*:*:*:*:*:*:*:*
@@ -69937,6 +69939,7 @@ cpe:2.3:a:tsdisplay4xoops:tsdisplay4xoops:*:*:*:*:*:*:*:*
 cpe:2.3:a:tsep:tsep:*:*:*:*:*:*:*:*
 cpe:2.3:a:tsg-solutions:tokheim_profleet_dialog:*:*:*:*:*:*:*:*
 cpe:2.3:a:tshirtecommerce:custom_product_designer:*:*:*:*:*:*:*:*
+cpe:2.3:a:tsi-coop:tsi-dpdp-cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:tsingsee:easyplayerpro:*:*:*:*:*:*:*:*
 cpe:2.3:a:tsixm:axdcms:*:*:*:*:*:*:*:*
 cpe:2.3:a:tskynet:kongreg8:*:*:*:*:*:*:*:*
