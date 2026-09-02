@@ -2209,6 +2209,7 @@ cpe:2.3:a:air_cargo_management_system_project:air_cargo_management_system:*:*:*:
 cpe:2.3:a:air_sender_project:air_sender:*:*:*:*:*:*:*:*
 cpe:2.3:a:air_transfer_project:air_transfer:*:*:*:*:*:*:*:*
 cpe:2.3:a:air_war_hero_project:air_war_hero:*:*:*:*:*:*:*:*
+cpe:2.3:a:airasia:move_app:*:*:*:*:*:*:*:*
 cpe:2.3:a:airbnb:knowledge_repo:*:*:*:*:*:*:*:*
 cpe:2.3:a:airbnb:optica:*:*:*:*:*:*:*:*
 cpe:2.3:a:airbrake:airbrake:*:*:*:*:*:*:*:*
@@ -13115,6 +13116,7 @@ cpe:2.3:a:cmcm:cm_browser_-_fast_\&_secure:*:*:*:*:*:*:*:*
 cpe:2.3:a:cmcm:cm_launcher_3d:*:*:*:*:*:*:*:*
 cpe:2.3:a:cmder:cmder:*:*:*:*:*:*:*:*
 cpe:2.3:a:cmder_project:cmder:*:*:*:*:*:*:*:*
+cpe:2.3:a:cmem:claude-mem:*:*:*:*:*:*:*:*
 cpe:2.3:a:cmfperception:liteserve:*:*:*:*:*:*:*:*
 cpe:2.3:a:cmft_project:cmft:*:*:*:*:*:*:*:*
 cpe:2.3:a:cmg:openwave_wap_gateway:*:*:*:*:*:*:*:*
@@ -25888,6 +25890,7 @@ cpe:2.3:a:gots:civa:*:*:*:*:*:*:*:*
 cpe:2.3:a:gouae:dwd_realty:*:*:*:*:*:*:*:*
 cpe:2.3:a:gougucms:gougucms:*:*:*:*:*:*:*:*
 cpe:2.3:a:gougucms:pythagorean_oa_office_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:gouguoa:gouguoa:*:*:*:*:*:*:*:*
 cpe:2.3:a:gouguoyin:phprap:*:*:*:*:*:*:*:*
 cpe:2.3:a:gouniverse:golang_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:gource:gource:*:*:*:*:*:*:*:*
@@ -32486,6 +32489,7 @@ cpe:2.3:a:intel:thunderbolt_dch_driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:thunderbolt_non-dch_driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:thunderbolt_share_software:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:trace_analyzer_and_collector:*:*:*:*:*:*:*:*
+cpe:2.3:a:intel:transfer_learning_tool:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:trust_domain_extensions_guest:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:trust_domain_extensions_module:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:trusted_execution_technology:*:*:*:*:*:*:*:*
@@ -40377,6 +40381,7 @@ cpe:2.3:a:mapplic:mapplic_lite:*:*:*:*:*:*:*:*
 cpe:2.3:a:mappresspro:mappress:*:*:*:*:*:*:*:*
 cpe:2.3:a:mappresspro:mappress_maps:*:*:*:*:*:*:*:*
 cpe:2.3:a:mappresspro:mappress_maps_for_wordpress:*:*:*:*:*:*:*:*
+cpe:2.3:a:mapquest:get_directions_app:*:*:*:*:*:*:*:*
 cpe:2.3:a:mapr:mapr:*:*:*:*:*:*:*:*
 cpe:2.3:a:maps-js-icoads_project:maps-js-icoads:*:*:*:*:*:*:*:*
 cpe:2.3:a:mapshaper:mapshaper:*:*:*:*:*:*:*:*
@@ -40837,6 +40842,7 @@ cpe:2.3:a:mavo:mavo:*:*:*:*:*:*:*:*
 cpe:2.3:a:mawashimono:nikki:*:*:*:*:*:*:*:*
 cpe:2.3:a:max-3000:maxsite_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:max-mapper:extract-zip:*:*:*:*:*:*:*:*
+cpe:2.3:a:max-sixty:worktrunk:*:*:*:*:*:*:*:*
 cpe:2.3:a:max-wilhelm_bruker:bftpd:*:*:*:*:*:*:*:*
 cpe:2.3:a:max7301_project:max7301:*:*:*:*:*:*:*:*
 cpe:2.3:a:max_feoktistov:small_http_server:*:*:*:*:*:*:*:*
@@ -62802,6 +62808,7 @@ cpe:2.3:a:sinatrateam:sinatra:*:*:*:*:*:*:*:*
 cpe:2.3:a:sincerely:ink_cards:*:*:*:*:*:*:*:*
 cpe:2.3:a:sinch:mailjet:*:*:*:*:*:*:*:*
 cpe:2.3:a:sindresorhus:file-type:*:*:*:*:*:*:*:*
+cpe:2.3:a:sindresorhus:ky:*:*:*:*:*:*:*:*
 cpe:2.3:a:sindresorhus:type-fest:*:*:*:*:*:*:*:*
 cpe:2.3:a:sinecms:sinecms:*:*:*:*:*:*:*:*
 cpe:2.3:a:sing:sing:*:*:*:*:*:*:*:*
