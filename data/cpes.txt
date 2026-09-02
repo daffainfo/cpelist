@@ -9216,6 +9216,7 @@ cpe:2.3:a:broadcom:proxysg:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:rabbitmq_java_client:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:rabbitmq_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:raid_controller_web_interface:*:*:*:*:*:*:*:*
+cpe:2.3:a:broadcom:reactor_core:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:release_automation:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:resource_initialization_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:risk_authentication:*:*:*:*:*:*:*:*
@@ -10564,6 +10565,7 @@ cpe:2.3:a:casa_systems:nl1901acv:*:*:*:*:*:*:*:*
 cpe:2.3:a:casap_automated_enrollment_system_project:casap_automated_enrollment_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:casbin:casdoor:*:*:*:*:*:*:*:*
 cpe:2.3:a:cascadesoft:w3mail:*:*:*:*:*:*:*:*
+cpe:2.3:a:casdoor:casdoor:*:*:*:*:*:*:*:*
 cpe:2.3:a:caseproof:memberpress:*:*:*:*:*:*:*:*
 cpe:2.3:a:caseproof:pretty_link:*:*:*:*:*:*:*:*
 cpe:2.3:a:caseproof:prettylinks:*:*:*:*:*:*:*:*
@@ -39616,6 +39618,7 @@ cpe:2.3:a:lutece:lutece:*:*:*:*:*:*:*:*
 cpe:2.3:a:lutel:lutelwall:*:*:*:*:*:*:*:*
 cpe:2.3:a:lutils_project:lutils:*:*:*:*:*:*:*:*
 cpe:2.3:a:lutim_project:lutim:*:*:*:*:*:*:*:*
+cpe:2.3:a:lutzroeder:netron:*:*:*:*:*:*:*:*
 cpe:2.3:a:luxbum:luxbum:*:*:*:*:*:*:*:*
 cpe:2.3:a:luxcal:web_calendar:*:*:*:*:*:*:*:*
 cpe:2.3:a:luxcore:lux:*:*:*:*:*:*:*:*
