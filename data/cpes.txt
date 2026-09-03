@@ -189,6 +189,7 @@ cpe:2.3:a:2daybiz:web_template_software:*:*:*:*:*:*:*:*
 cpe:2.3:a:2dogz:blogin:*:*:*:*:*:*:*:*
 cpe:2.3:a:2enetworx:openforum:*:*:*:*:*:*:*:*
 cpe:2.3:a:2enetworx:statcountex:*:*:*:*:*:*:*:*
+cpe:2.3:a:2fastlabs:agent-squad:*:*:*:*:*:*:*:*
 cpe:2.3:a:2fauth:2fauth:*:*:*:*:*:*:*:*
 cpe:2.3:a:2fax:2fax:*:*:*:*:*:*:*:*
 cpe:2.3:a:2fly:gift_delivery_system:*:*:*:*:*:*:*:*
@@ -4658,6 +4659,7 @@ cpe:2.3:a:apple:swift_foundation:*:*:*:*:*:*:*:*
 cpe:2.3:a:apple:swift_prometheus:*:*:*:*:*:*:*:*
 cpe:2.3:a:apple:swiftnio:*:*:*:*:*:*:*:*
 cpe:2.3:a:apple:swiftnio_http\/2:*:*:*:*:*:*:*:*
+cpe:2.3:a:apple:swiftnio_ssh:*:*:*:*:*:*:*:*
 cpe:2.3:a:apple:swiftnio_ssl:*:*:*:*:*:*:*:*
 cpe:2.3:a:apple:tcp_ip_configuration_utility:*:*:*:*:*:*:*:*
 cpe:2.3:a:apple:terminal:*:*:*:*:*:*:*:*
