@@ -138531,6 +138531,7 @@ cpe:2.3:h:tp-link:deco_m4:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:deco_m5:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:deco_x50:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:deco_xe200:*:*:*:*:*:*:*:*
+cpe:2.3:h:tp-link:dr3150:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:dr3220v-4g:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:dr3650v-4g:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:dr3650v:*:*:*:*:*:*:*:*
@@ -138574,6 +138575,7 @@ cpe:2.3:h:tp-link:er5110g:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:er5120g:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:er5510g:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:er5520g:*:*:*:*:*:*:*:*
+cpe:2.3:h:tp-link:er603wp-4g-outdoor:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:er605:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:er605w:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:er701-5g-outdoor:*:*:*:*:*:*:*:*
@@ -138797,6 +138799,8 @@ cpe:2.3:h:tp-link:tl-ipc325\(kp\):*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:tl-ipc40a-4:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:tl-ipc42c:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:tl-ipc544ep-w4:*:*:*:*:*:*:*:*
+cpe:2.3:h:tp-link:tl-mr100:*:*:*:*:*:*:*:*
+cpe:2.3:h:tp-link:tl-mr150:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:tl-mr3020:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:tl-mr3220:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:tl-mr6400:*:*:*:*:*:*:*:*
@@ -188034,6 +188038,7 @@ cpe:2.3:o:tp-link:deco_m4_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:deco_m5_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:deco_x50_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:deco_xe200_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:tp-link:dr3150_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:dr3220v-4g_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:dr3650v-4g_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:dr3650v_firmware:*:*:*:*:*:*:*:*
@@ -188076,6 +188081,7 @@ cpe:2.3:o:tp-link:er5110g_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:er5120g_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:er5510g_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:er5520g_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:tp-link:er603wp-4g-outdoor_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:er605:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:er605_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:er605w_firmware:*:*:*:*:*:*:*:*
@@ -188298,6 +188304,8 @@ cpe:2.3:o:tp-link:tl-ipc325\(kp\)_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:tl-ipc40a-4_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:tl-ipc42c_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:tl-ipc544ep-w4_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:tp-link:tl-mr100_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:tp-link:tl-mr150_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:tl-mr200_v4_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:tl-mr3020_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:tl-mr3220_firmware:*:*:*:*:*:*:*:*
