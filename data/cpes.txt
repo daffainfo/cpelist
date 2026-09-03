@@ -56758,6 +56758,7 @@ cpe:2.3:a:readdle:pdf_expert:*:*:*:*:*:*:*:*
 cpe:2.3:a:readdle:printer_pro:*:*:*:*:*:*:*:*
 cpe:2.3:a:readdle:scanner_pro:*:*:*:*:*:*:*:*
 cpe:2.3:a:readdle:spark:*:*:*:*:*:*:*:*
+cpe:2.3:a:reader_tools:pdf_reader_app:*:*:*:*:*:*:*:*
 cpe:2.3:a:readium:readium-js:*:*:*:*:*:*:*:*
 cpe:2.3:a:readplease:readplease_plus:*:*:*:*:*:*:*:*
 cpe:2.3:a:readstat_project:readstat:*:*:*:*:*:*:*:*
@@ -58822,6 +58823,7 @@ cpe:2.3:a:rovicorp:sonic_update_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:rovinbhandari_ftp_project:rovinbhandari_ftp:*:*:*:*:*:*:*:*
 cpe:2.3:a:rovio:angry_birds_space:*:*:*:*:*:*:*:*
 cpe:2.3:a:rovio:bad_piggies:*:*:*:*:*:*:*:*
+cpe:2.3:a:rowboatlabs:rowboat:*:*:*:*:*:*:*:*
 cpe:2.3:a:rowindex:us_zip_codes_database_script:*:*:*:*:*:*:*:*
 cpe:2.3:a:rowlandsolutions:lent_experience:*:*:*:*:*:*:*:*
 cpe:2.3:a:rox:filer:*:*:*:*:*:*:*:*
@@ -62403,6 +62405,7 @@ cpe:2.3:a:signkorea:skcommax_activex_control:*:*:*:*:*:*:*:*
 cpe:2.3:a:signond_project:signond:*:*:*:*:*:*:*:*
 cpe:2.3:a:signotec:signopad-api\/web:*:*:*:*:*:*:*:*
 cpe:2.3:a:signumtte:windesk.fm:*:*:*:*:*:*:*:*
+cpe:2.3:a:sigoden:aichat:*:*:*:*:*:*:*:*
 cpe:2.3:a:sigong_ebook_project:sigong_ebook:*:*:*:*:*:*:*:*
 cpe:2.3:a:sigsiu.net:sobi2:*:*:*:*:*:*:*:*
 cpe:2.3:a:sigstore:cosign:*:*:*:*:*:*:*:*
