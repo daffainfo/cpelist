@@ -21499,6 +21499,12 @@ cpe:2.3:a:fabasoft:fabasoft_cloud_enterprise_client:*:*:*:*:*:*:*:*
 cpe:2.3:a:fabasoft:folio_\/_egov-suite:*:*:*:*:*:*:*:*
 cpe:2.3:a:fabbricadigitale:multiux:*:*:*:*:*:*:*:*
 cpe:2.3:a:fabedge:fabedge:*:*:*:*:*:*:*:*
+cpe:2.3:a:faberon:kaku:*:*:*:*:*:*:*:*
+cpe:2.3:a:faberon:kami:*:*:*:*:*:*:*:*
+cpe:2.3:a:faberon:miaoyan:*:*:*:*:*:*:*:*
+cpe:2.3:a:faberon:mole:*:*:*:*:*:*:*:*
+cpe:2.3:a:faberon:pake:*:*:*:*:*:*:*:*
+cpe:2.3:a:faberon:waza:*:*:*:*:*:*:*:*
 cpe:2.3:a:fabfile:fabric:*:*:*:*:*:*:*:*
 cpe:2.3:a:fabian:album_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:fabian:atm_banking:*:*:*:*:*:*:*:*
@@ -29379,9 +29385,14 @@ cpe:2.3:a:humansignal:label_studio_ml_backend:*:*:*:*:*:*:*:*
 cpe:2.3:a:humayun_shabbir:php-cms_project:*:*:*:*:*:*:*:*
 cpe:2.3:a:humayun_shabbir_bhutta:asp_product_catalog:*:*:*:*:*:*:*:*
 cpe:2.3:a:humhub:calendar:*:*:*:*:*:*:*:*
+cpe:2.3:a:humhub:custom_pages:*:*:*:*:*:*:*:*
 cpe:2.3:a:humhub:files:*:*:*:*:*:*:*:*
 cpe:2.3:a:humhub:humhub:*:*:*:*:*:*:*:*
+cpe:2.3:a:humhub:mail:*:*:*:*:*:*:*:*
+cpe:2.3:a:humhub:rest:*:*:*:*:*:*:*:*
 cpe:2.3:a:humhub:social_network_kit:*:*:*:*:*:*:*:*
+cpe:2.3:a:humhub:tasks:*:*:*:*:*:*:*:*
+cpe:2.3:a:humhub:updater:*:*:*:*:*:*:*:*
 cpe:2.3:a:hummerrisk:hummerrisk:*:*:*:*:*:*:*:*
 cpe:2.3:a:hummingbird:bi_query:*:*:*:*:*:*:*:*
 cpe:2.3:a:hummingbird:bi_query_user:*:*:*:*:*:*:*:*
@@ -31959,7 +31970,9 @@ cpe:2.3:a:intel:advanced_link_analyzer:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:advisor:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:advisor_for_oneapi:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:advisor_tools:*:*:*:*:*:*:*:*
+cpe:2.3:a:intel:ai_containers:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:ai_hackathon:*:*:*:*:*:*:*:*
+cpe:2.3:a:intel:ai_reference_models:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:aptio_v_uefi_firmware_integrator_tools:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:arc_a_graphics:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:arc_pro_graphics:*:*:*:*:*:*:*:*
@@ -54902,6 +54915,7 @@ cpe:2.3:a:progress:kendo_ui:*:*:*:*:*:*:*:*
 cpe:2.3:a:progress:kendo_ui_for_vue:*:*:*:*:*:*:*:*
 cpe:2.3:a:progress:kendoreact:*:*:*:*:*:*:*:*
 cpe:2.3:a:progress:loadmaster:*:*:*:*:*:*:*:*
+cpe:2.3:a:progress:marklogic_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:progress:mixlib-archive:*:*:*:*:*:*:*:*
 cpe:2.3:a:progress:moveit:*:*:*:*:*:*:*:*
 cpe:2.3:a:progress:moveit_automation:*:*:*:*:*:*:*:*
@@ -71835,6 +71849,7 @@ cpe:2.3:a:victorkane:salesforce_suite:*:*:*:*:*:*:*:*
 cpe:2.3:a:victory_media_llc:zynith:*:*:*:*:*:*:*:*
 cpe:2.3:a:victure:pc420_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:a:vidalia-project:vidalia_bundle:*:*:*:*:*:*:*:*
+cpe:2.3:a:vidarholen:shellcheck:*:*:*:*:*:*:*:*
 cpe:2.3:a:vidco:voc_tester:*:*:*:*:*:*:*:*
 cpe:2.3:a:viddy:viddy:*:*:*:*:*:*:*:*
 cpe:2.3:a:video-embed-box_project:video-embed-box:*:*:*:*:*:*:*:*
