@@ -4648,6 +4648,7 @@ cpe:2.3:a:apple:remote_desktop:*:*:*:*:*:*:*:*
 cpe:2.3:a:apple:safari:*:*:*:*:*:*:*:*
 cpe:2.3:a:apple:securtiy_update_catalina:*:*:*:*:*:*:*:*
 cpe:2.3:a:apple:server_manager:*:*:*:*:*:*:*:*
+cpe:2.3:a:apple:servicetalk:*:*:*:*:*:*:*:*
 cpe:2.3:a:apple:shazam:*:*:*:*:*:*:*:*
 cpe:2.3:a:apple:shortcuts:*:*:*:*:*:*:*:*
 cpe:2.3:a:apple:smart_card_services:*:*:*:*:*:*:*:*
@@ -21953,6 +21954,7 @@ cpe:2.3:a:fastify:fastify-multipart:*:*:*:*:*:*:*:*
 cpe:2.3:a:fastify:fastify-static:*:*:*:*:*:*:*:*
 cpe:2.3:a:fastify:fastify:*:*:*:*:*:*:*:*
 cpe:2.3:a:fastify:fastify\/accepts-serializer:*:*:*:*:*:*:*:*
+cpe:2.3:a:fastify:fastify\/busyboy:*:*:*:*:*:*:*:*
 cpe:2.3:a:fastify:fastify\/express:*:*:*:*:*:*:*:*
 cpe:2.3:a:fastify:fastify\/forwarded:*:*:*:*:*:*:*:*
 cpe:2.3:a:fastify:fastify\/http-proxy:*:*:*:*:*:*:*:*
@@ -50028,6 +50030,7 @@ cpe:2.3:a:oracle:interaction_blending:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:interaction_center_intelligence:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:internet_directory:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:internet_expenses:*:*:*:*:*:*:*:*
+cpe:2.3:a:oracle:internet_procurement_connector:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:inventory_management:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:iplanet_web_proxy_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:iplanet_web_server:*:*:*:*:*:*:*:*
@@ -70009,6 +70012,7 @@ cpe:2.3:a:tug:tex_live:*:*:*:*:*:*:*:*
 cpe:2.3:a:tug:texlive:*:*:*:*:*:*:*:*
 cpe:2.3:a:tug:texlive_2007:*:*:*:*:*:*:*:*
 cpe:2.3:a:tugcantopaloglu:godot-mcp:*:*:*:*:*:*:*:*
+cpe:2.3:a:tugcantopaloglu:openclaw_agent_dashboard:*:*:*:*:*:*:*:*
 cpe:2.3:a:tugzip:tugzip:*:*:*:*:*:*:*:*
 cpe:2.3:a:tuition_management_system_project:tuition_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:tukaani:xz:*:*:*:*:*:*:*:*
@@ -138488,6 +138492,7 @@ cpe:2.3:h:tp-link:archer_be400:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:archer_be450:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:archer_be7200:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:archer_c1200:*:*:*:*:*:*:*:*
+cpe:2.3:h:tp-link:archer_c1900:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:archer_c20:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:archer_c20i:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:archer_c2:*:*:*:*:*:*:*:*
@@ -138900,6 +138905,7 @@ cpe:2.3:h:tp-link:tl-wr742n:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:tl-wr743nd:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:tl-wr743nd_v1:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:tl-wr802n:*:*:*:*:*:*:*:*
+cpe:2.3:h:tp-link:tl-wr810n:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:tl-wr820n:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:tl-wr840n:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:tl-wr841:*:*:*:*:*:*:*:*
@@ -138913,12 +138919,14 @@ cpe:2.3:h:tp-link:tl-wr841nd_\(10.0\):*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:tl-wr841nd_\(9.0\):*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:tl-wr841nd_v11:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:tl-wr841nd_v7:*:*:*:*:*:*:*:*
+cpe:2.3:h:tp-link:tl-wr843n:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:tl-wr845n:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:tl-wr849n:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:tl-wr850n:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:tl-wr886n:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:tl-wr902ac:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:tl-wr940n:*:*:*:*:*:*:*:*
+cpe:2.3:h:tp-link:tl-wr940n_plus:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:tl-wr940n_v2:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:tl-wr940n_v4:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:tl-wr941nd:*:*:*:*:*:*:*:*
@@ -187994,6 +188002,7 @@ cpe:2.3:o:tp-link:archer_be400_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:archer_be450_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:archer_be7200_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:archer_c1200_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:tp-link:archer_c1900_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:archer_c20_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:archer_c20i_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:archer_c2_v1_firmware:*:*:*:*:*:*:*:*
@@ -188401,6 +188410,7 @@ cpe:2.3:o:tp-link:tl-wr742n_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:tl-wr743nd_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:tl-wr743nd_v1_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:tl-wr802n_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:tp-link:tl-wr810n_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:tl-wr820n_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:tl-wr840n_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:tl-wr841_firmware:*:*:*:*:*:*:*:*
@@ -188415,12 +188425,14 @@ cpe:2.3:o:tp-link:tl-wr841nd_\(9.0\)_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:tl-wr841nd_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:tl-wr841nd_v11_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:tl-wr841nd_v7_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:tp-link:tl-wr843n_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:tl-wr845n_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:tl-wr849n_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:tl-wr850n_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:tl-wr886n_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:tl-wr902ac_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:tl-wr940n_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:tp-link:tl-wr940n_plus_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:tl-wr940n_v2_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:tl-wr940n_v4_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:tl-wr941nd_firmware:*:*:*:*:*:*:*:*
