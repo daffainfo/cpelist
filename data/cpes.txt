@@ -19641,6 +19641,7 @@ cpe:2.3:a:elespare:elespare:*:*:*:*:*:*:*:*
 cpe:2.3:a:elevateico:elevatecoin:*:*:*:*:*:*:*:*
 cpe:2.3:a:eleveo:call_recording:*:*:*:*:*:*:*:*
 cpe:2.3:a:eleveo:call_recording_software:*:*:*:*:*:*:*:*
+cpe:2.3:a:eleveo:quality_management:*:*:*:*:*:*:*:*
 cpe:2.3:a:elf-parser_project:elf-parser:*:*:*:*:*:*:*:*
 cpe:2.3:a:elfden:eshop_plugin:*:*:*:*:*:*:*:*
 cpe:2.3:a:elfinder.aspnet_project:elfinder.aspnet:*:*:*:*:*:*:*:*
@@ -21955,11 +21956,13 @@ cpe:2.3:a:fastify:fastify-multipart:*:*:*:*:*:*:*:*
 cpe:2.3:a:fastify:fastify-static:*:*:*:*:*:*:*:*
 cpe:2.3:a:fastify:fastify:*:*:*:*:*:*:*:*
 cpe:2.3:a:fastify:fastify\/accepts-serializer:*:*:*:*:*:*:*:*
+cpe:2.3:a:fastify:fastify\/aws-lambda:*:*:*:*:*:*:*:*
 cpe:2.3:a:fastify:fastify\/busyboy:*:*:*:*:*:*:*:*
 cpe:2.3:a:fastify:fastify\/express:*:*:*:*:*:*:*:*
 cpe:2.3:a:fastify:fastify\/forwarded:*:*:*:*:*:*:*:*
 cpe:2.3:a:fastify:fastify\/http-proxy:*:*:*:*:*:*:*:*
 cpe:2.3:a:fastify:fastify\/middie:*:*:*:*:*:*:*:*
+cpe:2.3:a:fastify:fastify\/oauth2:*:*:*:*:*:*:*:*
 cpe:2.3:a:fastify:fastify\/rate-limit:*:*:*:*:*:*:*:*
 cpe:2.3:a:fastify:fastify\/reply-from:*:*:*:*:*:*:*:*
 cpe:2.3:a:fastify:github_action_merge_dependabot:*:*:*:*:*:*:*:*
@@ -48384,6 +48387,7 @@ cpe:2.3:a:onevision:workspace:*:*:*:*:*:*:*:*
 cpe:2.3:a:onewebsite:wp_repost:*:*:*:*:*:*:*:*
 cpe:2.3:a:oneworld:oneworld_tools:*:*:*:*:*:*:*:*
 cpe:2.3:a:oneworldstore:oneworldstore:*:*:*:*:*:*:*:*
+cpe:2.3:a:ongres:stackgres:*:*:*:*:*:*:*:*
 cpe:2.3:a:oniguruma_project:oniguruma:*:*:*:*:*:*:*:*
 cpe:2.3:a:onion-oled-js_project:onion-oled-js:*:*:*:*:*:*:*:*
 cpe:2.3:a:onion_project:onion:*:*:*:*:*:*:*:*
