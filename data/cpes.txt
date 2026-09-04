@@ -9222,6 +9222,7 @@ cpe:2.3:a:broadcom:rabbitmq_java_client:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:rabbitmq_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:raid_controller_web_interface:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:reactor_core:*:*:*:*:*:*:*:*
+cpe:2.3:a:broadcom:reactor_netty:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:release_automation:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:resource_initialization_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:risk_authentication:*:*:*:*:*:*:*:*
@@ -9242,7 +9243,9 @@ cpe:2.3:a:broadcom:spring_cloud_sleuth:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:spring_data_commons:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:spring_data_keyvalue:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:spring_data_redis:*:*:*:*:*:*:*:*
+cpe:2.3:a:broadcom:spring_data_relational:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:spring_rest_docs:*:*:*:*:*:*:*:*
+cpe:2.3:a:broadcom:spring_web_flow:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:spring_web_services:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:ssl_visibility_aapliance:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:ssl_visibility_appliance:*:*:*:*:*:*:*:*
@@ -35248,6 +35251,7 @@ cpe:2.3:a:joetesta:hellbent:*:*:*:*:*:*:*:*
 cpe:2.3:a:joey_hess:bsdgames:*:*:*:*:*:*:*:*
 cpe:2.3:a:joey_schulze:mod_auth_mysql:*:*:*:*:*:*:*:*
 cpe:2.3:a:joeybling:bootplus:*:*:*:*:*:*:*:*
+cpe:2.3:a:jofpin:trape:*:*:*:*:*:*:*:*
 cpe:2.3:a:jogamp:joal:*:*:*:*:*:*:*:*
 cpe:2.3:a:jogamp:jogamp:*:*:*:*:*:*:*:*
 cpe:2.3:a:joget:joget_dx:*:*:*:*:*:*:*:*
@@ -42172,6 +42176,7 @@ cpe:2.3:a:microsoft:azure_cyclecloud:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_data_box_gateway:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_data_explorer:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_data_factory:*:*:*:*:*:*:*:*
+cpe:2.3:a:microsoft:azure_data_manager_for_energy:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_data_science_virtual_machine:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_data_studio:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_database_for_postgresql_flexible_server:*:*:*:*:*:*:*:*
@@ -42408,6 +42413,7 @@ cpe:2.3:a:microsoft:expression_blend:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:expression_design:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:expression_media:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:expression_web:*:*:*:*:*:*:*:*
+cpe:2.3:a:microsoft:fabric:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:fabric_data_warehouse:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:fast_esp:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:file_transfer_manager:*:*:*:*:*:*:*:*
@@ -72361,6 +72367,7 @@ cpe:2.3:a:vmware:spring_cloud_netflix:*:*:*:*:*:*:*:*
 cpe:2.3:a:vmware:spring_cloud_netflix_zuul:*:*:*:*:*:*:*:*
 cpe:2.3:a:vmware:spring_cloud_openfeign:*:*:*:*:*:*:*:*
 cpe:2.3:a:vmware:spring_cloud_sso_connector:*:*:*:*:*:*:*:*
+cpe:2.3:a:vmware:spring_cloud_stream:*:*:*:*:*:*:*:*
 cpe:2.3:a:vmware:spring_cloud_task:*:*:*:*:*:*:*:*
 cpe:2.3:a:vmware:spring_cloud_vault:*:*:*:*:*:*:*:*
 cpe:2.3:a:vmware:spring_data_java_persistence_api:*:*:*:*:*:*:*:*
