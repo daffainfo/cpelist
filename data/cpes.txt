@@ -13315,6 +13315,7 @@ cpe:2.3:a:code-projects:content_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:crime_reporting_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:crud_operation_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:daily_expense_manager:*:*:*:*:*:*:*:*
+cpe:2.3:a:code-projects:doctor_appointment_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:dormitory_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:e-health_care_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:ecommerce_website:*:*:*:*:*:*:*:*
@@ -30236,6 +30237,7 @@ cpe:2.3:a:ibm:net.commerce_start:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:net.data:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:netezza_performance_portal:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:netezza_performance_server_replication_services:*:*:*:*:*:*:*:*
+cpe:2.3:a:ibm:netezza_software:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:netfinity_remote_control:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:network_appliance_data_ontap:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:network_path_manager:*:*:*:*:*:*:*:*
@@ -38580,6 +38582,7 @@ cpe:2.3:a:liftoffsoftware:gateone:*:*:*:*:*:*:*:*
 cpe:2.3:a:liftweb:lift:*:*:*:*:*:*:*:*
 cpe:2.3:a:ligeo-archives:ligeo_basics:*:*:*:*:*:*:*:*
 cpe:2.3:a:ligerosmart:ligerosmart:*:*:*:*:*:*:*:*
+cpe:2.3:a:light0011:cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:light:light:*:*:*:*:*:*:*:*
 cpe:2.3:a:light_fman_php:light_fman_php:*:*:*:*:*:*:*:*
 cpe:2.3:a:light_httpd:light_httpd:*:*:*:*:*:*:*:*
@@ -64496,6 +64499,7 @@ cpe:2.3:a:speciesfilegroup:taxonworks:*:*:*:*:*:*:*:*
 cpe:2.3:a:specklesystems:speckle_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:specotech:web_viewer:*:*:*:*:*:*:*:*
 cpe:2.3:a:specter:specter_ids:*:*:*:*:*:*:*:*
+cpe:2.3:a:specterops:bloodhound:*:*:*:*:*:*:*:*
 cpe:2.3:a:spectolabs:hoverfly:*:*:*:*:*:*:*:*
 cpe:2.3:a:spectrumcu:cash_receipting_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:specview:specview:*:*:*:*:*:*:*:*
@@ -88809,6 +88813,7 @@ cpe:2.3:h:d-link:dns-120:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dns-1550-04:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dns-315l:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dns-320:*:*:*:*:*:*:*:*
+cpe:2.3:h:d-link:dns-320_sharecenter:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dns-320b:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dns-320l:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dns-320lw:*:*:*:*:*:*:*:*
