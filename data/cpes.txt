@@ -3124,7 +3124,6 @@ cpe:2.3:a:amazon:amazon_web_services_freertos:*:*:*:*:*:*:*:*
 cpe:2.3:a:amazon:amazon_web_services_internet_of_things_device_software_development_kit_v2:*:*:*:*:*:*:*:*
 cpe:2.3:a:amazon:amazon_web_services_redshift_java_database_connectivity_driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:amazon:amazon_web_services_software_development_kit:*:*:*:*:*:*:*:*
-cpe:2.3:a:amazon:amplify_cli:*:*:*:*:*:*:*:*
 cpe:2.3:a:amazon:amplify_codegen_ui:*:*:*:*:*:*:*:*
 cpe:2.3:a:amazon:application_load_balancer:*:*:*:*:*:*:*:*
 cpe:2.3:a:amazon:athena_odbc:*:*:*:*:*:*:*:*
@@ -3139,6 +3138,7 @@ cpe:2.3:a:amazon:aws-sdk-java:*:*:*:*:*:*:*:*
 cpe:2.3:a:amazon:aws-sigv4:*:*:*:*:*:*:*:*
 cpe:2.3:a:amazon:aws-smithy-json:*:*:*:*:*:*:*:*
 cpe:2.3:a:amazon:aws_alb_route_directive_adapter_for_istio:*:*:*:*:*:*:*:*
+cpe:2.3:a:amazon:aws_amplify_cli:*:*:*:*:*:*:*:*
 cpe:2.3:a:amazon:aws_api_mcp_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:amazon:aws_client_vpn:*:*:*:*:*:*:*:*
 cpe:2.3:a:amazon:aws_cloud_development_kit:*:*:*:*:*:*:*:*
@@ -29833,6 +29833,8 @@ cpe:2.3:a:ibm:content_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:content_manager_ondemand_for_multiplatforms:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:content_navigator:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:content_template_catalog:*:*:*:*:*:*:*:*
+cpe:2.3:a:ibm:contextforge-mcp-gateway:*:*:*:*:*:*:*:*
+cpe:2.3:a:ibm:contextforge_mcp_gateway_translate_utility:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:control_center:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:control_desk:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:controller:*:*:*:*:*:*:*:*
@@ -30226,6 +30228,7 @@ cpe:2.3:a:ibm:monitoring_agent_for_unix_logs:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:monitoring_server_\(ms\)_and_shared_libraries_\(ax\):*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:mq:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:mq_advanced:*:*:*:*:*:*:*:*
+cpe:2.3:a:ibm:mq_agent:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:mq_appliance:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:mq_appliance_m2000:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:mq_certified_container:*:*:*:*:*:*:*:*
@@ -138783,7 +138786,9 @@ cpe:2.3:h:tp-link:re650:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:smart_plug:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:t2600g-28sq:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:tapo_c100:*:*:*:*:*:*:*:*
+cpe:2.3:h:tp-link:tapo_c101:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:tapo_c110:*:*:*:*:*:*:*:*
+cpe:2.3:h:tp-link:tapo_c120:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:tapo_c200:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:tapo_c200_v1:*:*:*:*:*:*:*:*
 cpe:2.3:h:tp-link:tapo_c210:*:*:*:*:*:*:*:*
@@ -188294,7 +188299,9 @@ cpe:2.3:o:tp-link:re650_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:smart_plug_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:t2600g-28sq_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:tapo_c100_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:tp-link:tapo_c101_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:tapo_c110_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:tp-link:tapo_c120_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:tapo_c200_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:tapo_c200_v1_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:tp-link:tapo_c210_firmware:*:*:*:*:*:*:*:*
