@@ -3167,6 +3167,7 @@ cpe:2.3:a:amazon:cloudfront:*:*:*:*:*:*:*:*
 cpe:2.3:a:amazon:cloudwatch_agent:*:*:*:*:*:*:*:*
 cpe:2.3:a:amazon:corretto:*:*:*:*:*:*:*:*
 cpe:2.3:a:amazon:data.all:*:*:*:*:*:*:*:*
+cpe:2.3:a:amazon:diagram-as-code:*:*:*:*:*:*:*:*
 cpe:2.3:a:amazon:documentdb_mcp_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:amazon:ec2_api_tools_java_library:*:*:*:*:*:*:*:*
 cpe:2.3:a:amazon:efs-utils:*:*:*:*:*:*:*:*
@@ -9242,6 +9243,7 @@ cpe:2.3:a:broadcom:spring_data_commons:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:spring_data_keyvalue:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:spring_data_redis:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:spring_rest_docs:*:*:*:*:*:*:*:*
+cpe:2.3:a:broadcom:spring_web_services:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:ssl_visibility_aapliance:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:ssl_visibility_appliance:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:strong_authentication:*:*:*:*:*:*:*:*
@@ -19486,6 +19488,7 @@ cpe:2.3:a:elastic:kibana_reporting:*:*:*:*:*:*:*:*
 cpe:2.3:a:elastic:kibana_x-pack:*:*:*:*:*:*:*:*
 cpe:2.3:a:elastic:logstash:*:*:*:*:*:*:*:*
 cpe:2.3:a:elastic:logstash_x-pack:*:*:*:*:*:*:*:*
+cpe:2.3:a:elastic:metricbeat:*:*:*:*:*:*:*:*
 cpe:2.3:a:elastic:network_drive_connector:*:*:*:*:*:*:*:*
 cpe:2.3:a:elastic:winlogbeat:*:*:*:*:*:*:*:*
 cpe:2.3:a:elastic:x-pack:*:*:*:*:*:*:*:*
@@ -21961,6 +21964,7 @@ cpe:2.3:a:fastify:fastify\/busyboy:*:*:*:*:*:*:*:*
 cpe:2.3:a:fastify:fastify\/express:*:*:*:*:*:*:*:*
 cpe:2.3:a:fastify:fastify\/forwarded:*:*:*:*:*:*:*:*
 cpe:2.3:a:fastify:fastify\/http-proxy:*:*:*:*:*:*:*:*
+cpe:2.3:a:fastify:fastify\/jwt:*:*:*:*:*:*:*:*
 cpe:2.3:a:fastify:fastify\/middie:*:*:*:*:*:*:*:*
 cpe:2.3:a:fastify:fastify\/oauth2:*:*:*:*:*:*:*:*
 cpe:2.3:a:fastify:fastify\/rate-limit:*:*:*:*:*:*:*:*
@@ -49526,6 +49530,7 @@ cpe:2.3:a:oracle:advanced_replication:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:advanced_replication_component:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:advanced_supply_chain_planning:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:agile_engineering_data_management:*:*:*:*:*:*:*:*
+cpe:2.3:a:oracle:agile_engineering_data_management_product_of_oracle_supply_chain:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:agile_plm:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:agile_plm_framework:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:agile_plm_mcad_connector:*:*:*:*:*:*:*:*
@@ -49823,6 +49828,7 @@ cpe:2.3:a:oracle:enterprise_manager_for_mysql_database:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:enterprise_manager_for_oracle_database:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:enterprise_manager_for_peoplesoft:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:enterprise_manager_for_storage_management:*:*:*:*:*:*:*:*
+cpe:2.3:a:oracle:enterprise_manager_for_systems_infrastructure:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:enterprise_manager_for_virtualization:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:enterprise_manager_fusion_middleware_control:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:enterprise_manager_grid_control:*:*:*:*:*:*:*:*
@@ -50075,6 +50081,7 @@ cpe:2.3:a:oracle:jd_edwards_enterpriseone_procurement_and_subcontract_management
 cpe:2.3:a:oracle:jd_edwards_enterpriseone_requirements_planning:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:jd_edwards_enterpriseone_solution_advisor:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:jd_edwards_enterpriseone_tools:*:*:*:*:*:*:*:*
+cpe:2.3:a:oracle:jd_edwards_enterpriseone_us_payroll:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:jd_edwards_products:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:jd_edwards_world_security:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:jd_edwards_world_technical_foundation:*:*:*:*:*:*:*:*
@@ -50448,6 +50455,7 @@ cpe:2.3:a:oracle:siebel_applications:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:siebel_apps_-_customer_order_management:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:siebel_apps_-_e-billing:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:siebel_apps_-_marketing:*:*:*:*:*:*:*:*
+cpe:2.3:a:oracle:siebel_artificial_intelligence:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:siebel_core-common_components:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:siebel_core-server_framework:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:siebel_core_-_automation:*:*:*:*:*:*:*:*
@@ -64956,6 +64964,7 @@ cpe:2.3:a:stackposts:social_marketing_tool:*:*:*:*:*:*:*:*
 cpe:2.3:a:stackrox:stackrox:*:*:*:*:*:*:*:*
 cpe:2.3:a:stacks:stacks_mobile_app_builder:*:*:*:*:*:*:*:*
 cpe:2.3:a:stacksmarket:stacks_mobile_app_builder:*:*:*:*:*:*:*:*
+cpe:2.3:a:stackstorm:st2:*:*:*:*:*:*:*:*
 cpe:2.3:a:stackstorm:stackstorm:*:*:*:*:*:*:*:*
 cpe:2.3:a:stacktable.js_project:stacktable.js:*:*:*:*:*:*:*:*
 cpe:2.3:a:stackvector_project:stackvector:*:*:*:*:*:*:*:*
