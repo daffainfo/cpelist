@@ -9245,6 +9245,7 @@ cpe:2.3:a:broadcom:spring_data_keyvalue:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:spring_data_redis:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:spring_data_relational:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:spring_rest_docs:*:*:*:*:*:*:*:*
+cpe:2.3:a:broadcom:spring_retry:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:spring_web_flow:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:spring_web_services:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:ssl_visibility_aapliance:*:*:*:*:*:*:*:*
@@ -56514,6 +56515,7 @@ cpe:2.3:a:ramdajs:ramda:*:*:*:*:*:*:*:*
 cpe:2.3:a:rami.io_gmbh:pretiix_widget_wordpress_plugin:*:*:*:*:*:*:*:*
 cpe:2.3:a:rami:pretix:*:*:*:*:*:*:*:*
 cpe:2.3:a:raml-module-builder_project:raml-module-builder:*:*:*:*:*:*:*:*
+cpe:2.3:a:ramon-victor:freegpt-webui:*:*:*:*:*:*:*:*
 cpe:2.3:a:ramoncastro:siestta:*:*:*:*:*:*:*:*
 cpe:2.3:a:ramp:altimeter:*:*:*:*:*:*:*:*
 cpe:2.3:a:ramsite:r1_cms:*:*:*:*:*:*:*:*
