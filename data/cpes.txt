@@ -8199,6 +8199,7 @@ cpe:2.3:a:blazethemes:newsmatic:*:*:*:*:*:*:*:*
 cpe:2.3:a:blazethemes:pubnews:*:*:*:*:*:*:*:*
 cpe:2.3:a:blazevideo:blaze_dvd:*:*:*:*:*:*:*:*
 cpe:2.3:a:blazevideo:hdtv_player:*:*:*:*:*:*:*:*
+cpe:2.3:a:blazy_project:blazy:*:*:*:*:*:*:*:*
 cpe:2.3:a:blazzdev:rate_my_post:*:*:*:*:*:*:*:*
 cpe:2.3:a:blazzdev:rate_my_post_-_wp_rating_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:bleachbit:bleachbit:*:*:*:*:*:*:*:*
@@ -10438,6 +10439,7 @@ cpe:2.3:a:captainform:captainform:*:*:*:*:*:*:*:*
 cpe:2.3:a:captaris:infinite_mobile_delivery_webmail:*:*:*:*:*:*:*:*
 cpe:2.3:a:captcha:cryptographp:*:*:*:*:*:*:*:*
 cpe:2.3:a:captcha_code_project:captcha_code:*:*:*:*:*:*:*:*
+cpe:2.3:a:captcha_protected_page_project:captcha_protected_page:*:*:*:*:*:*:*:*
 cpe:2.3:a:captoz_project:captoz:*:*:*:*:*:*:*:*
 cpe:2.3:a:captura_project:captura:*:*:*:*:*:*:*:*
 cpe:2.3:a:capturix:scanshare:*:*:*:*:*:*:*:*
@@ -15894,6 +15896,7 @@ cpe:2.3:a:data61:mp-spdz:*:*:*:*:*:*:*:*
 cpe:2.3:a:data\:\:uuid_project:data\:\:uuid:*:*:*:*:*:*:*:*
 cpe:2.3:a:data\:\:validate\:\:ip_project:data\:\:validate\:\:ip:*:*:*:*:*:*:*:*
 cpe:2.3:a:data_dumper_project:data_dumper:*:*:*:*:*:*:*:*
+cpe:2.3:a:data_field_project:data_field:*:*:*:*:*:*:*:*
 cpe:2.3:a:data_general:dg_ux:*:*:*:*:*:*:*:*
 cpe:2.3:a:data_stream_algorithm_benchmark_project:data_stream_algorithm_benchmark:*:*:*:*:*:*:*:*
 cpe:2.3:a:data_tools_project:data_tools:*:*:*:*:*:*:*:*
@@ -18607,6 +18610,7 @@ cpe:2.3:a:dx_library_project:dx_library:*:*:*:*:*:*:*:*
 cpe:2.3:a:dxfscope:dxf_file_format_viewer:*:*:*:*:*:*:*:*
 cpe:2.3:a:dxm2008:xm_easy_personal_ftp_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:dxmsoft:xm_easy_personal_ftp_server:*:*:*:*:*:*:*:*
+cpe:2.3:a:dxpr_builder_project:dxpr_builder:*:*:*:*:*:*:*:*
 cpe:2.3:a:dxproscripts:dxshopcart:*:*:*:*:*:*:*:*
 cpe:2.3:a:dxstudio:dx_studio_player:*:*:*:*:*:*:*:*
 cpe:2.3:a:dyadyalesha:dl_robots.txt:*:*:*:*:*:*:*:*
