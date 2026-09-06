@@ -13422,6 +13422,7 @@ cpe:2.3:a:code-projects:student_enrollment_in_php:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:student_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:student_record_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:task_management_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:code-projects:task_management_system_in_php:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:task_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:travel_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:university_event_management_system:*:*:*:*:*:*:*:*
@@ -16441,6 +16442,7 @@ cpe:2.3:a:deeserver:ultimate_webboard:*:*:*:*:*:*:*:*
 cpe:2.3:a:def-blog:def-blog:*:*:*:*:*:*:*:*
 cpe:2.3:a:defa-online-image-protector_project:defa-online-image-protector:*:*:*:*:*:*:*:*
 cpe:2.3:a:defaultfuction:content_management_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:defaultfuction:crm:*:*:*:*:*:*:*:*
 cpe:2.3:a:defaultfuction:customer-relationship-management-in-c-project:*:*:*:*:*:*:*:*
 cpe:2.3:a:defaultfuction:notice-system-managent:*:*:*:*:*:*:*:*
 cpe:2.3:a:defaults-deep_project:defaults-deep:*:*:*:*:*:*:*:*
@@ -56331,6 +56333,7 @@ cpe:2.3:a:rabbitmq:jms_client:*:*:*:*:*:*:*:*
 cpe:2.3:a:rabbitmq:rabbitmq-java-client:*:*:*:*:*:*:*:*
 cpe:2.3:a:rabidhamster:r2\/:*:*:*:*:*:*:*:*
 cpe:2.3:a:rabidhamster:r2\/extreme:*:*:*:*:*:*:*:*
+cpe:2.3:a:rabindralamsal:inventory-management-system:*:*:*:*:*:*:*:*
 cpe:2.3:a:rabox:winlpd:*:*:*:*:*:*:*:*
 cpe:2.3:a:racemotocross_project:racemotocross:*:*:*:*:*:*:*:*
 cpe:2.3:a:racer:racer:*:*:*:*:*:*:*:*
