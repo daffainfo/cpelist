@@ -44577,6 +44577,8 @@ cpe:2.3:a:msp360:backup_agent:*:*:*:*:*:*:*:*
 cpe:2.3:a:mssql-node_project:mssql-node:*:*:*:*:*:*:*:*
 cpe:2.3:a:mssql.js_project:mssql.js:*:*:*:*:*:*:*:*
 cpe:2.3:a:msteam:sharepoint_birthday_reminder:*:*:*:*:*:*:*:*
+cpe:2.3:a:mstfakts:college-management-system:*:*:*:*:*:*:*:*
+cpe:2.3:a:mstfakts_college-management-system:mstfakts_college-management-system:*:*:*:*:*:*:*:*
 cpe:2.3:a:msvod:msvod_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:msweet:codedoc:*:*:*:*:*:*:*:*
 cpe:2.3:a:msweet:mini-xml:*:*:*:*:*:*:*:*
