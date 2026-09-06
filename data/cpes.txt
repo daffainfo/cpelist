@@ -618,6 +618,7 @@ cpe:2.3:a:abetlen:llama-cpp-python:*:*:*:*:*:*:*:*
 cpe:2.3:a:abhayrajmca:breadcrumb_simple:*:*:*:*:*:*:*:*
 cpe:2.3:a:abhinavsingh:wordpress_toolbar:*:*:*:*:*:*:*:*
 cpe:2.3:a:abhiphile:fermat:*:*:*:*:*:*:*:*
+cpe:2.3:a:abhiphile:fermat_mcp:*:*:*:*:*:*:*:*
 cpe:2.3:a:abhishake1:supersurkhet\/cli:*:*:*:*:*:*:*:*
 cpe:2.3:a:abhishake1:supersurkhet\/sdk:*:*:*:*:*:*:*:*
 cpe:2.3:a:abhishake1:taskflow-corp\/cli:*:*:*:*:*:*:*:*
@@ -39187,6 +39188,7 @@ cpe:2.3:a:lmeve_project:lmeve:*:*:*:*:*:*:*:*
 cpe:2.3:a:lms:lan_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:lms:lms:*:*:*:*:*:*:*:*
 cpe:2.3:a:lmsdoctor:2_factor_authentication:*:*:*:*:*:*:*:*
+cpe:2.3:a:lmsys:fastchat:*:*:*:*:*:*:*:*
 cpe:2.3:a:lmsys:sglang:*:*:*:*:*:*:*:*
 cpe:2.3:a:lmxcms:lmxcms:*:*:*:*:*:*:*:*
 cpe:2.3:a:ln-lab:webproxy:*:*:*:*:*:*:*:*
@@ -64309,6 +64311,7 @@ cpe:2.3:a:sourcecodester:online_student_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:online_timesheet:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:online_tours_and_travels_management:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:online_veterinary_appointment_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:sourcecodester:online_voting_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:onlne_examination_learning_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:open_source_medicine_ordering_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:packers_and_movers_management_system:*:*:*:*:*:*:*:*
