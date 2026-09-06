@@ -13340,6 +13340,7 @@ cpe:2.3:a:code-projects:hospital_bed_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:hospital_information_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:hospital_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:hotel_and_tourism_reservation:*:*:*:*:*:*:*:*
+cpe:2.3:a:code-projects:hotel_and_tourism_reservation_in_php:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:hotel_and_tourism_reservation_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:hotel_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:human_resource_integrated_system:*:*:*:*:*:*:*:*
