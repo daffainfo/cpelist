@@ -1922,6 +1922,19 @@ cpe:2.3:a:advantech:webaccess_dashboard:*:*:*:*:*:*:*:*
 cpe:2.3:a:advantech:webaccess_hmi_designer:*:*:*:*:*:*:*:*
 cpe:2.3:a:advantech:webaccess_scada:*:*:*:*:*:*:*:*
 cpe:2.3:a:advantech:webop:*:*:*:*:*:*:*:*
+cpe:2.3:a:advantech:wise-6610-cb:*:*:*:*:*:*:*:*
+cpe:2.3:a:advantech:wise-6610-eb:*:*:*:*:*:*:*:*
+cpe:2.3:a:advantech:wise-6610-el-cb:*:*:*:*:*:*:*:*
+cpe:2.3:a:advantech:wise-6610-el-eb:*:*:*:*:*:*:*:*
+cpe:2.3:a:advantech:wise-6610-el-jb:*:*:*:*:*:*:*:*
+cpe:2.3:a:advantech:wise-6610-el-nb:*:*:*:*:*:*:*:*
+cpe:2.3:a:advantech:wise-6610-el-tb:*:*:*:*:*:*:*:*
+cpe:2.3:a:advantech:wise-6610-jb:*:*:*:*:*:*:*:*
+cpe:2.3:a:advantech:wise-6610-nb:*:*:*:*:*:*:*:*
+cpe:2.3:a:advantech:wise-6610-tb:*:*:*:*:*:*:*:*
+cpe:2.3:a:advantech:wise-6610p-dea:*:*:*:*:*:*:*:*
+cpe:2.3:a:advantech:wise-6610p-dna:*:*:*:*:*:*:*:*
+cpe:2.3:a:advantech:wise-6610p-dta:*:*:*:*:*:*:*:*
 cpe:2.3:a:advantech:wise-deviceon_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:advantech:wise-paas\/ota:*:*:*:*:*:*:*:*
 cpe:2.3:a:advantech:wise-paas\/rmm:*:*:*:*:*:*:*:*
@@ -7514,6 +7527,7 @@ cpe:2.3:a:beijerelectronics:h-designer:*:*:*:*:*:*:*:*
 cpe:2.3:a:beijerelectronics:webiq:*:*:*:*:*:*:*:*
 cpe:2.3:a:beijing_digital_china_cloud_technology:dcme-320:*:*:*:*:*:*:*:*
 cpe:2.3:a:beijing_digital_china_cloud_technology:imcloud:*:*:*:*:*:*:*:*
+cpe:2.3:a:beijing_meite_software_technology:u_smart_enjoyment_website:*:*:*:*:*:*:*:*
 cpe:2.3:a:beijing_shenzhou_shihan_technology:multimedia_integrated_business_display_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:beijing_xinwang_medical_information_technology:cloud_based_customer_service_management_platform:*:*:*:*:*:*:*:*
 cpe:2.3:a:beikeshop:beikeshop:*:*:*:*:*:*:*:*
@@ -8628,6 +8642,7 @@ cpe:2.3:a:books_\&_papers_project:books_\&_papers:*:*:*:*:*:*:*:*
 cpe:2.3:a:booksbyraven:raven_-_the_culture_lover:*:*:*:*:*:*:*:*
 cpe:2.3:a:booksellerscanada:free_canadian_author_previews:*:*:*:*:*:*:*:*
 cpe:2.3:a:bookshelf_project:bookshelf:*:*:*:*:*:*:*:*
+cpe:2.3:a:bookstack:bookstack:*:*:*:*:*:*:*:*
 cpe:2.3:a:bookstackapp:bookstack:*:*:*:*:*:*:*:*
 cpe:2.3:a:bookstore_management_system_project:bookstore_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:bookwalker:book_walker:*:*:*:*:*:*:*:*
@@ -34014,6 +34029,7 @@ cpe:2.3:a:jaxcms:jaxcms:*:*:*:*:*:*:*:*
 cpe:2.3:a:jaxultrabb:jaxultrabb:*:*:*:*:*:*:*:*
 cpe:2.3:a:jay-jayx0r:phpmyblockchecker:*:*:*:*:*:*:*:*
 cpe:2.3:a:jay_eckles:cgi_calendar:*:*:*:*:*:*:*:*
+cpe:2.3:a:jaychouchannel:tourism-management-system:*:*:*:*:*:*:*:*
 cpe:2.3:a:jayde_online:spnbabble:*:*:*:*:*:*:*:*
 cpe:2.3:a:jayesh:hotel_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:jayesh:online_exam_system:*:*:*:*:*:*:*:*
@@ -43899,6 +43915,7 @@ cpe:2.3:a:moddable:moddable_sdk:*:*:*:*:*:*:*:*
 cpe:2.3:a:moddable:xs:*:*:*:*:*:*:*:*
 cpe:2.3:a:model_context_protocol:mcp-rdf-explorer:*:*:*:*:*:*:*:*
 cpe:2.3:a:model_project:model:*:*:*:*:*:*:*:*
+cpe:2.3:a:modelcloud:gptqmodel:*:*:*:*:*:*:*:*
 cpe:2.3:a:modelconverter_project:modelconverter:*:*:*:*:*:*:*:*
 cpe:2.3:a:modelisme:modelisme.com_forum\/portail:*:*:*:*:*:*:*:*
 cpe:2.3:a:modelscope:agentscope:*:*:*:*:*:*:*:*
@@ -55106,6 +55123,7 @@ cpe:2.3:a:projectzealous:pz_frontend_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:projektseminar_proservice_wwu:virtual_civil_services:*:*:*:*:*:*:*:*
 cpe:2.3:a:projen_project:projen:*:*:*:*:*:*:*:*
 cpe:2.3:a:projeqtor:projeqtor:*:*:*:*:*:*:*:*
+cpe:2.3:a:projeto-siga:siga:*:*:*:*:*:*:*:*
 cpe:2.3:a:projoom:smart_flash_header:*:*:*:*:*:*:*:*
 cpe:2.3:a:proland:protector_plus:*:*:*:*:*:*:*:*
 cpe:2.3:a:prolific:ez-dub_finder:*:*:*:*:*:*:*:*
@@ -64382,6 +64400,7 @@ cpe:2.3:a:sourcecodester:student_study_center_desk_management_system:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:sup_online_shopping:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:survey_application_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:syllabus-aligned_learning_management_and_examination_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:sourcecodester:syllabus-aligned_learning_management_examination_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:task_progress_tracker:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:telecom_billing_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:todo_list_in_kanban_board:*:*:*:*:*:*:*:*
