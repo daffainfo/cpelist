@@ -44798,6 +44798,7 @@ cpe:2.3:a:mw6tech:datamatrix_activex_control:*:*:*:*:*:*:*:*
 cpe:2.3:a:mw6tech:maxicode_activex_control:*:*:*:*:*:*:*:*
 cpe:2.3:a:mw_wp_form_project:mw_wp_form:*:*:*:*:*:*:*:*
 cpe:2.3:a:mwchat_pro:mwchat_pro:*:*:*:*:*:*:*:*
+cpe:2.3:a:mwiede:jsch:*:*:*:*:*:*:*:*
 cpe:2.3:a:mwielgoszewski:doorman:*:*:*:*:*:*:*:*
 cpe:2.3:a:mwm:edjing_mix:*:*:*:*:*:*:*:*
 cpe:2.3:a:mwopen:e-commerce:*:*:*:*:*:*:*:*
@@ -55047,6 +55048,7 @@ cpe:2.3:a:projectsend:projectsend:*:*:*:*:*:*:*:*
 cpe:2.3:a:projectsprouts:sprout:*:*:*:*:*:*:*:*
 cpe:2.3:a:projectsworld:online_lawyer_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:projectteam:mini-tmall:*:*:*:*:*:*:*:*
+cpe:2.3:a:projectwolds:online_attendance_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:projectworlds:advanced_library_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:projectworlds:apartment_visitors_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:projectworlds:asset_management_system:*:*:*:*:*:*:*:*
