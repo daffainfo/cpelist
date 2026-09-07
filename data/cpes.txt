@@ -33994,6 +33994,7 @@ cpe:2.3:a:jath_pala:cookiecheck:*:*:*:*:*:*:*:*
 cpe:2.3:a:jatos:jatos:*:*:*:*:*:*:*:*
 cpe:2.3:a:jaumo:chat_flirt_\&_dating_heart_jaumo:*:*:*:*:*:*:*:*
 cpe:2.3:a:java-aodeng:hope-boot:*:*:*:*:*:*:*:*
+cpe:2.3:a:java-json-tools:jackson-coreutils:*:*:*:*:*:*:*:*
 cpe:2.3:a:java-json-tools:json-patch:*:*:*:*:*:*:*:*
 cpe:2.3:a:java-merge-sort_project:java-merge-sort:*:*:*:*:*:*:*:*
 cpe:2.3:a:java-websocket_project:java-websocket:*:*:*:*:*:*:*:*
