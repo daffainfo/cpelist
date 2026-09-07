@@ -33554,6 +33554,7 @@ cpe:2.3:a:itsourcecode:fees_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:free_hotel_reservation_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:hospital_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:hospital_management_system_project_in_php:*:*:*:*:*:*:*:*
+cpe:2.3:a:itsourcecode:information_system_society_membership_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:insurance_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:laravel_accounting_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:laravel_property_management_system:*:*:*:*:*:*:*:*
@@ -39075,6 +39076,7 @@ cpe:2.3:a:littlebigrefresh:bunkum:*:*:*:*:*:*:*:*
 cpe:2.3:a:littlecms:lcms:*:*:*:*:*:*:*:*
 cpe:2.3:a:littlecms:little_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:littlecms:little_cms_color_engine:*:*:*:*:*:*:*:*
+cpe:2.3:a:liufee:feehicms:*:*:*:*:*:*:*:*
 cpe:2.3:a:liujianview:gymxmjpa:*:*:*:*:*:*:*:*
 cpe:2.3:a:liulishuo:filedownloader:*:*:*:*:*:*:*:*
 cpe:2.3:a:liumengxuan04:minicode:*:*:*:*:*:*:*:*
@@ -48745,6 +48747,7 @@ cpe:2.3:a:openacs:openacs:*:*:*:*:*:*:*:*
 cpe:2.3:a:openads:openads:*:*:*:*:*:*:*:*
 cpe:2.3:a:openafs:openafs:*:*:*:*:*:*:*:*
 cpe:2.3:a:openagentplatform:dive:*:*:*:*:*:*:*:*
+cpe:2.3:a:openagents-org:openagents:*:*:*:*:*:*:*:*
 cpe:2.3:a:openai:chatgpt:*:*:*:*:*:*:*:*
 cpe:2.3:a:openai:operator:*:*:*:*:*:*:*:*
 cpe:2.3:a:openai_provider_project:openai_provider:*:*:*:*:*:*:*:*
@@ -61577,6 +61580,7 @@ cpe:2.3:a:sfs_ez_pub:fsf_ex_pub:*:*:*:*:*:*:*:*
 cpe:2.3:a:sftnow:sftnow:*:*:*:*:*:*:*:*
 cpe:2.3:a:sftpgo_project:sftpgo:*:*:*:*:*:*:*:*
 cpe:2.3:a:sfturing:hosp_order:*:*:*:*:*:*:*:*
+cpe:2.3:a:sfturing:ssm_pro:*:*:*:*:*:*:*:*
 cpe:2.3:a:sfu:customlocale:*:*:*:*:*:*:*:*
 cpe:2.3:a:sfu:open_journal_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sfu:open_journal_systems:*:*:*:*:*:*:*:*
