@@ -415,6 +415,7 @@ cpe:2.3:a:9.dotpp.net:megalith:*:*:*:*:*:*:*:*
 cpe:2.3:a:9001:copyparty:*:*:*:*:*:*:*:*
 cpe:2.3:a:90meter:cac_smartcard_manager-90:*:*:*:*:*:*:*:*
 cpe:2.3:a:90meter:card_issuance_workstation:*:*:*:*:*:*:*:*
+cpe:2.3:a:92181:markdown:*:*:*:*:*:*:*:*
 cpe:2.3:a:93digital:typing_effect:*:*:*:*:*:*:*:*
 cpe:2.3:a:984.ru:for_the_visually_impaired:*:*:*:*:*:*:*:*
 cpe:2.3:a:99only:buy_99_cents_only_products:*:*:*:*:*:*:*:*
@@ -64393,6 +64394,7 @@ cpe:2.3:a:sourcecodester:simple_pos_and_inventory_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:simple_realtime_quiz_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:simple_student_attendance_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:simple_student_information_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:sourcecodester:simple_traffic_offense_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:stock_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:student_grades_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:student_record_management_system:*:*:*:*:*:*:*:*
@@ -88791,6 +88793,7 @@ cpe:2.3:h:d-link:dir-600m:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dir-600m_c1:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dir-601:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dir-604m:*:*:*:*:*:*:*:*
+cpe:2.3:h:d-link:dir-605:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dir-605l:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dir-615:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dir-615_t1:*:*:*:*:*:*:*:*
@@ -88823,6 +88826,7 @@ cpe:2.3:h:d-link:dir-818lw:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dir-820l:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dir-822-us:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dir-822:*:*:*:*:*:*:*:*
+cpe:2.3:h:d-link:dir-822a:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dir-823:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dir-823g:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dir-825:*:*:*:*:*:*:*:*
