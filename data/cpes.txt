@@ -2234,6 +2234,7 @@ cpe:2.3:a:airbridge:dmptoken:*:*:*:*:*:*:*:*
 cpe:2.3:a:airbus:tetra_connectivity_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:airbyte:airbytehq:*:*:*:*:*:*:*:*
 cpe:2.3:a:airc:mynet:*:*:*:*:*:*:*:*
+cpe:2.3:a:aircheng-org:iwebshop-5:*:*:*:*:*:*:*:*
 cpe:2.3:a:aircontacttoken_project:aircontacttoken:*:*:*:*:*:*:*:*
 cpe:2.3:a:aircrack-ng:aircrack-ng:*:*:*:*:*:*:*:*
 cpe:2.3:a:aircrack-ng:airodump-ng:*:*:*:*:*:*:*:*
@@ -10862,6 +10863,7 @@ cpe:2.3:a:ceneo-web-scrapper_project:ceneo-web-scrapper:*:*:*:*:*:*:*:*
 cpe:2.3:a:censorify.tanisjr_project:censorify.tanisjr:*:*:*:*:*:*:*:*
 cpe:2.3:a:censura:censura:*:*:*:*:*:*:*:*
 cpe:2.3:a:centarro:commerce_core:*:*:*:*:*:*:*:*
+cpe:2.3:a:centarro:commerce_paypal:*:*:*:*:*:*:*:*
 cpe:2.3:a:cente:ipv4:*:*:*:*:*:*:*:*
 cpe:2.3:a:cente:ipv4snmpv2:*:*:*:*:*:*:*:*
 cpe:2.3:a:cente:ipv4snmpv3:*:*:*:*:*:*:*:*
@@ -20331,6 +20333,7 @@ cpe:2.3:a:enthrallweb:ereservations:*:*:*:*:*:*:*:*
 cpe:2.3:a:enthrallweb:eshopping_cart:*:*:*:*:*:*:*:*
 cpe:2.3:a:enthusiast:enthusiast:*:*:*:*:*:*:*:*
 cpe:2.3:a:entity_api_project:entity_api:*:*:*:*:*:*:*:*
+cpe:2.3:a:entity_browser_project:entity_browser:*:*:*:*:*:*:*:*
 cpe:2.3:a:entity_delete_log_project:entity_delete_log:*:*:*:*:*:*:*:*
 cpe:2.3:a:entity_reference_project:entityreference:*:*:*:*:*:*:*:*
 cpe:2.3:a:entity_registration_project:entity_registration:*:*:*:*:*:*:*:*
@@ -62211,6 +62214,7 @@ cpe:2.3:a:siemens:siguard_dsa:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:simaris_configuration:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:simatic_automatic_tool:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:simatic_automation_tool:*:*:*:*:*:*:*:*
+cpe:2.3:a:siemens:simatic_ax_runtime:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:simatic_batch:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:simatic_cfc:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:simatic_cn_4100:*:*:*:*:*:*:*:*
@@ -134624,6 +134628,12 @@ cpe:2.3:h:siemens:simatic_hmi_mobile_panel_277:*:*:*:*:*:*:*:*
 cpe:2.3:h:siemens:simatic_hmi_mobile_panels:*:*:*:*:*:*:*:*
 cpe:2.3:h:siemens:simatic_hmi_mobile_panels_2nd_generation:*:*:*:*:*:*:*:*
 cpe:2.3:h:siemens:simatic_hmi_mp:*:*:*:*:*:*:*:*
+cpe:2.3:h:siemens:simatic_hmi_mtp1000:*:*:*:*:*:*:*:*
+cpe:2.3:h:siemens:simatic_hmi_mtp1200:*:*:*:*:*:*:*:*
+cpe:2.3:h:siemens:simatic_hmi_mtp1500:*:*:*:*:*:*:*:*
+cpe:2.3:h:siemens:simatic_hmi_mtp1900:*:*:*:*:*:*:*:*
+cpe:2.3:h:siemens:simatic_hmi_mtp2200:*:*:*:*:*:*:*:*
+cpe:2.3:h:siemens:simatic_hmi_mtp700:*:*:*:*:*:*:*:*
 cpe:2.3:h:siemens:simatic_hmi_multi_panels:*:*:*:*:*:*:*:*
 cpe:2.3:h:siemens:simatic_hmi_op:*:*:*:*:*:*:*:*
 cpe:2.3:h:siemens:simatic_hmi_panel:*:*:*:*:*:*:*:*
@@ -134631,6 +134641,7 @@ cpe:2.3:h:siemens:simatic_hmi_tp:*:*:*:*:*:*:*:*
 cpe:2.3:h:siemens:simatic_hmi_unified_comfort_panels:*:*:*:*:*:*:*:*
 cpe:2.3:h:siemens:simatic_hmi_united_comfort_panels:*:*:*:*:*:*:*:*
 cpe:2.3:h:siemens:simatic_ie\/pb-link_v3:*:*:*:*:*:*:*:*
+cpe:2.3:h:siemens:simatic_iot2050_advanced:*:*:*:*:*:*:*:*
 cpe:2.3:h:siemens:simatic_ipc1047:*:*:*:*:*:*:*:*
 cpe:2.3:h:siemens:simatic_ipc1047e:*:*:*:*:*:*:*:*
 cpe:2.3:h:siemens:simatic_ipc127e:*:*:*:*:*:*:*:*
@@ -185254,6 +185265,7 @@ cpe:2.3:o:siemens:simatic_hmi_tp_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:siemens:simatic_hmi_unified_comfort_panels_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:siemens:simatic_hmi_united_comfort_panels_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:siemens:simatic_ie\/pb-link_v3_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:siemens:simatic_iot2050_advanced_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:siemens:simatic_ipc1047_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:siemens:simatic_ipc127e_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:siemens:simatic_ipc227g_firmware:*:*:*:*:*:*:*:*
@@ -185291,6 +185303,7 @@ cpe:2.3:o:siemens:simatic_ipc847d_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:siemens:simatic_ipc847e_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:siemens:simatic_ipc_diagbase_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:siemens:simatic_ipc_diagmonitor_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:siemens:simatic_ipc_ied-os:*:*:*:*:*:*:*:*
 cpe:2.3:o:siemens:simatic_itc1500_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:siemens:simatic_itc1500_pro_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:siemens:simatic_itc1900_firmware:*:*:*:*:*:*:*:*
