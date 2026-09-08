@@ -5326,8 +5326,11 @@ cpe:2.3:a:ash-hq:ash_framework:*:*:*:*:*:*:*:*
 cpe:2.3:a:ash-project:ash:*:*:*:*:*:*:*:*
 cpe:2.3:a:ash-project:ash_admin:*:*:*:*:*:*:*:*
 cpe:2.3:a:ash-project:ash_ai:*:*:*:*:*:*:*:*
+cpe:2.3:a:ash-project:ash_authentication_oauth2_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:ash-project:ash_cloak:*:*:*:*:*:*:*:*
+cpe:2.3:a:ash-project:ash_double_entry:*:*:*:*:*:*:*:*
 cpe:2.3:a:ash-project:ash_graphql:*:*:*:*:*:*:*:*
+cpe:2.3:a:ash-project:ash_lua:*:*:*:*:*:*:*:*
 cpe:2.3:a:ash-project:ash_oban:*:*:*:*:*:*:*:*
 cpe:2.3:a:ash-project:ash_paper_trail:*:*:*:*:*:*:*:*
 cpe:2.3:a:ash-project:ash_phoenix:*:*:*:*:*:*:*:*
@@ -5335,6 +5338,7 @@ cpe:2.3:a:ash-project:ash_postgres:*:*:*:*:*:*:*:*
 cpe:2.3:a:ash-project:ash_sql:*:*:*:*:*:*:*:*
 cpe:2.3:a:ash-project:ash_sqlite:*:*:*:*:*:*:*:*
 cpe:2.3:a:ash-project:ash_typescript:*:*:*:*:*:*:*:*
+cpe:2.3:a:ash-project:igniter:*:*:*:*:*:*:*:*
 cpe:2.3:a:ash-rs:ash:*:*:*:*:*:*:*:*
 cpe:2.3:a:ash_framework:ashpostgres:*:*:*:*:*:*:*:*
 cpe:2.3:a:ash_project:ash:*:*:*:*:*:*:*:*
