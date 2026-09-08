@@ -5339,6 +5339,7 @@ cpe:2.3:a:ash-project:ash_sql:*:*:*:*:*:*:*:*
 cpe:2.3:a:ash-project:ash_sqlite:*:*:*:*:*:*:*:*
 cpe:2.3:a:ash-project:ash_typescript:*:*:*:*:*:*:*:*
 cpe:2.3:a:ash-project:igniter:*:*:*:*:*:*:*:*
+cpe:2.3:a:ash-project:usage_rules:*:*:*:*:*:*:*:*
 cpe:2.3:a:ash-rs:ash:*:*:*:*:*:*:*:*
 cpe:2.3:a:ash_framework:ashpostgres:*:*:*:*:*:*:*:*
 cpe:2.3:a:ash_project:ash:*:*:*:*:*:*:*:*
@@ -13437,6 +13438,7 @@ cpe:2.3:a:code-projects:simple_ticket_booking:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:smart_parking_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:social_networking_site:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:student_admission_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:code-projects:student_crud_operation:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:student_details_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:student_enrollment:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:student_enrollment_in_php:*:*:*:*:*:*:*:*
@@ -19669,6 +19671,7 @@ cpe:2.3:a:elementor:page_builder:*:*:*:*:*:*:*:*
 cpe:2.3:a:elementor:site_mailer:*:*:*:*:*:*:*:*
 cpe:2.3:a:elementor:website_builder:*:*:*:*:*:*:*:*
 cpe:2.3:a:elementsproject:c-lightning:*:*:*:*:*:*:*:*
+cpe:2.3:a:elenavanengelenmaslova:mocknest-serverless:*:*:*:*:*:*:*:*
 cpe:2.3:a:elenazhyvohliad:ucat:*:*:*:*:*:*:*:*
 cpe:2.3:a:eleopard:animate_it\!:*:*:*:*:*:*:*:*
 cpe:2.3:a:elephantdrive:elephantdrive:*:*:*:*:*:*:*:*
@@ -71883,6 +71886,7 @@ cpe:2.3:a:vfbpro:visual_form_builder:*:*:*:*:*:*:*:*
 cpe:2.3:a:vfront:vfront:*:*:*:*:*:*:*:*
 cpe:2.3:a:vfsjfilechooser2_project:vfsjfilechooser2:*:*:*:*:*:*:*:*
 cpe:2.3:a:vgallite:vgallite:*:*:*:*:*:*:*:*
+cpe:2.3:a:vgmstream:vgmstream:*:*:*:*:*:*:*:*
 cpe:2.3:a:vhs_project:vhs:*:*:*:*:*:*:*:*
 cpe:2.3:a:vi-solutions:visforms:*:*:*:*:*:*:*:*
 cpe:2.3:a:viabtc:viabtc_exchange_server:*:*:*:*:*:*:*:*
