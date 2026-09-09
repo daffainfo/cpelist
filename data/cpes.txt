@@ -9270,6 +9270,7 @@ cpe:2.3:a:broadcom:spring_data_redis:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:spring_data_relational:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:spring_rest_docs:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:spring_retry:*:*:*:*:*:*:*:*
+cpe:2.3:a:broadcom:spring_statemachine:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:spring_tools:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:spring_web_flow:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:spring_web_services:*:*:*:*:*:*:*:*
@@ -29874,6 +29875,7 @@ cpe:2.3:a:ibm:content_manager_ondemand_for_multiplatforms:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:content_navigator:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:content_template_catalog:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:contextforge-mcp-gateway:*:*:*:*:*:*:*:*
+cpe:2.3:a:ibm:contextforge:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:contextforge_mcp_gateway_translate_utility:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:control_center:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:control_desk:*:*:*:*:*:*:*:*
@@ -68782,6 +68784,7 @@ cpe:2.3:a:tilde_cms_project:tilde_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:tildearrow:furnace:*:*:*:*:*:*:*:*
 cpe:2.3:a:tildeslash:m\/monit:*:*:*:*:*:*:*:*
 cpe:2.3:a:tildeslash:monit:*:*:*:*:*:*:*:*
+cpe:2.3:a:tile-ai:tilelang:*:*:*:*:*:*:*:*
 cpe:2.3:a:tileserver:tileservergl:*:*:*:*:*:*:*:*
 cpe:2.3:a:till_gerken:phppolls:*:*:*:*:*:*:*:*
 cpe:2.3:a:tillitis:tkey_client:*:*:*:*:*:*:*:*
@@ -120402,6 +120405,7 @@ cpe:2.3:h:mediatek:mt2621:*:*:*:*:*:*:*:*
 cpe:2.3:h:mediatek:mt2625:*:*:*:*:*:*:*:*
 cpe:2.3:h:mediatek:mt2713:*:*:*:*:*:*:*:*
 cpe:2.3:h:mediatek:mt2715:*:*:*:*:*:*:*:*
+cpe:2.3:h:mediatek:mt2716:*:*:*:*:*:*:*:*
 cpe:2.3:h:mediatek:mt2718:*:*:*:*:*:*:*:*
 cpe:2.3:h:mediatek:mt2731:*:*:*:*:*:*:*:*
 cpe:2.3:h:mediatek:mt2735:*:*:*:*:*:*:*:*
@@ -123626,6 +123630,7 @@ cpe:2.3:h:netgear:ac2100:*:*:*:*:*:*:*:*
 cpe:2.3:h:netgear:ac2400:*:*:*:*:*:*:*:*
 cpe:2.3:h:netgear:ac2600:*:*:*:*:*:*:*:*
 cpe:2.3:h:netgear:ax2400:*:*:*:*:*:*:*:*
+cpe:2.3:h:netgear:be9300:*:*:*:*:*:*:*:*
 cpe:2.3:h:netgear:br200:*:*:*:*:*:*:*:*
 cpe:2.3:h:netgear:br500:*:*:*:*:*:*:*:*
 cpe:2.3:h:netgear:c6220:*:*:*:*:*:*:*:*
@@ -123938,6 +123943,8 @@ cpe:2.3:h:netgear:rax120v2:*:*:*:*:*:*:*:*
 cpe:2.3:h:netgear:rax15:*:*:*:*:*:*:*:*
 cpe:2.3:h:netgear:rax200:*:*:*:*:*:*:*:*
 cpe:2.3:h:netgear:rax20:*:*:*:*:*:*:*:*
+cpe:2.3:h:netgear:rax28:*:*:*:*:*:*:*:*
+cpe:2.3:h:netgear:rax29:*:*:*:*:*:*:*:*
 cpe:2.3:h:netgear:rax30:*:*:*:*:*:*:*:*
 cpe:2.3:h:netgear:rax30_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:h:netgear:rax35:*:*:*:*:*:*:*:*
@@ -123963,7 +123970,9 @@ cpe:2.3:h:netgear:rax49s:*:*:*:*:*:*:*:*
 cpe:2.3:h:netgear:rax50:*:*:*:*:*:*:*:*
 cpe:2.3:h:netgear:rax50s:*:*:*:*:*:*:*:*
 cpe:2.3:h:netgear:rax50v2:*:*:*:*:*:*:*:*
+cpe:2.3:h:netgear:rax54s:*:*:*:*:*:*:*:*
 cpe:2.3:h:netgear:rax54sv2:*:*:*:*:*:*:*:*
+cpe:2.3:h:netgear:rax54v2:*:*:*:*:*:*:*:*
 cpe:2.3:h:netgear:rax5:*:*:*:*:*:*:*:*
 cpe:2.3:h:netgear:rax70:*:*:*:*:*:*:*:*
 cpe:2.3:h:netgear:rax75:*:*:*:*:*:*:*:*
@@ -124054,8 +124063,16 @@ cpe:2.3:h:netgear:readynas_surveillance:*:*:*:*:*:*:*:*
 cpe:2.3:h:netgear:rm356:*:*:*:*:*:*:*:*
 cpe:2.3:h:netgear:rn42400:*:*:*:*:*:*:*:*
 cpe:2.3:h:netgear:rp114:*:*:*:*:*:*:*:*
+cpe:2.3:h:netgear:rs100:*:*:*:*:*:*:*:*
+cpe:2.3:h:netgear:rs200:*:*:*:*:*:*:*:*
+cpe:2.3:h:netgear:rs280:*:*:*:*:*:*:*:*
+cpe:2.3:h:netgear:rs300:*:*:*:*:*:*:*:*
 cpe:2.3:h:netgear:rs400:*:*:*:*:*:*:*:*
+cpe:2.3:h:netgear:rs500:*:*:*:*:*:*:*:*
+cpe:2.3:h:netgear:rs600:*:*:*:*:*:*:*:*
 cpe:2.3:h:netgear:rs700:*:*:*:*:*:*:*:*
+cpe:2.3:h:netgear:rs70:*:*:*:*:*:*:*:*
+cpe:2.3:h:netgear:rs90:*:*:*:*:*:*:*:*
 cpe:2.3:h:netgear:rt311:*:*:*:*:*:*:*:*
 cpe:2.3:h:netgear:rt314:*:*:*:*:*:*:*:*
 cpe:2.3:h:netgear:rt338:*:*:*:*:*:*:*:*
@@ -172943,11 +172960,13 @@ cpe:2.3:o:mediatek:lr12a:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:lr13:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:lr9:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:modem:*:*:*:*:*:*:*:*
+cpe:2.3:o:mediatek:mt2716_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt2718_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt2735_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt2737_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt5221_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt6577_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:mediatek:mt6580_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt6625_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt6739_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt6761_firmware:*:*:*:*:*:*:*:*
@@ -172993,6 +173012,7 @@ cpe:2.3:o:mediatek:mt6878_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt6878m_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt6879_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt6880_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:mediatek:mt6881_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt6883_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt6885_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt6886_firmware:*:*:*:*:*:*:*:*
@@ -173060,6 +173080,7 @@ cpe:2.3:o:mediatek:mt8175_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt8186_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt8188_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt8189_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:mediatek:mt8195_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt8196_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt8362a_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt8365_firmware:*:*:*:*:*:*:*:*
@@ -175843,6 +175864,7 @@ cpe:2.3:o:netgear:arlo_base_station_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:netgear:arlo_q_camera_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:netgear:arlo_q_plus_camera_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:netgear:ax2400_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:netgear:be9300_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:netgear:br200_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:netgear:br500_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:netgear:c6220_firmware:*:*:*:*:*:*:*:*
@@ -176138,6 +176160,8 @@ cpe:2.3:o:netgear:rax120v2_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:netgear:rax15_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:netgear:rax200_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:netgear:rax20_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:netgear:rax28_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:netgear:rax29_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:netgear:rax30_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:netgear:rax35_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:netgear:rax35v2_firmware:*:*:*:*:*:*:*:*
@@ -176159,7 +176183,9 @@ cpe:2.3:o:netgear:rax49s_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:netgear:rax50_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:netgear:rax50s_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:netgear:rax50v2_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:netgear:rax54s_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:netgear:rax54sv2_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:netgear:rax54v2_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:netgear:rax5_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:netgear:rax70_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:netgear:rax75_firmware:*:*:*:*:*:*:*:*
@@ -176261,8 +176287,16 @@ cpe:2.3:o:netgear:readynas_os:*:*:*:*:*:*:*:*
 cpe:2.3:o:netgear:readynas_os_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:netgear:readynas_surveillance_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:netgear:rn42400_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:netgear:rs100_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:netgear:rs200_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:netgear:rs280_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:netgear:rs300_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:netgear:rs400_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:netgear:rs500_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:netgear:rs600_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:netgear:rs700_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:netgear:rs70_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:netgear:rs90_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:netgear:rx45_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:netgear:s3300_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:netgear:src60_firmware:*:*:*:*:*:*:*:*
