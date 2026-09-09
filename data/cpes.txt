@@ -9270,6 +9270,7 @@ cpe:2.3:a:broadcom:spring_data_redis:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:spring_data_relational:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:spring_rest_docs:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:spring_retry:*:*:*:*:*:*:*:*
+cpe:2.3:a:broadcom:spring_tools:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:spring_web_flow:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:spring_web_services:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:ssl_visibility_aapliance:*:*:*:*:*:*:*:*
@@ -44050,6 +44051,7 @@ cpe:2.3:a:mollensoft_software:lightweight_ftp_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:mollie:mollie_payments_for_woocommerce:*:*:*:*:*:*:*:*
 cpe:2.3:a:mollify:mollify:*:*:*:*:*:*:*:*
 cpe:2.3:a:molotovcherry:android-imagemagick7:*:*:*:*:*:*:*:*
+cpe:2.3:a:moltis-org:moltis:*:*:*:*:*:*:*:*
 cpe:2.3:a:molyx:molyx_board:*:*:*:*:*:*:*:*
 cpe:2.3:a:momentjs:luxon:*:*:*:*:*:*:*:*
 cpe:2.3:a:momentjs:moment:*:*:*:*:*:*:*:*
@@ -48687,6 +48689,7 @@ cpe:2.3:a:open-realty:open-realty:*:*:*:*:*:*:*:*
 cpe:2.3:a:open-school:open-school:*:*:*:*:*:*:*:*
 cpe:2.3:a:open-systems:log-user-session:*:*:*:*:*:*:*:*
 cpe:2.3:a:open-uri-cached_project:open-uri-cached:*:*:*:*:*:*:*:*
+cpe:2.3:a:open-web-analytics:open-web-analytics:*:*:*:*:*:*:*:*
 cpe:2.3:a:open-webui:open-webui:*:*:*:*:*:*:*:*
 cpe:2.3:a:open-xchange:app_suite:*:*:*:*:*:*:*:*
 cpe:2.3:a:open-xchange:connector:*:*:*:*:*:*:*:*
@@ -48952,6 +48955,7 @@ cpe:2.3:a:openftpd:openftpd_ftp_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:opengamepanel:opengamepanel:*:*:*:*:*:*:*:*
 cpe:2.3:a:opengear:opengear:*:*:*:*:*:*:*:*
 cpe:2.3:a:opengear:opengear_console_server_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:a:opengeos:geolibre:*:*:*:*:*:*:*:*
 cpe:2.3:a:opengeos:streamlit-geospatial:*:*:*:*:*:*:*:*
 cpe:2.3:a:opengl:libglvnd-bb06db5a:*:*:*:*:*:*:*:*
 cpe:2.3:a:opengnsys:opengnsys:*:*:*:*:*:*:*:*
@@ -59932,6 +59936,7 @@ cpe:2.3:a:sap:application_interface:*:*:*:*:*:*:*:*
 cpe:2.3:a:sap:application_interface_framework:*:*:*:*:*:*:*:*
 cpe:2.3:a:sap:application_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:sap:application_server_java:*:*:*:*:*:*:*:*
+cpe:2.3:a:sap:approuter:*:*:*:*:*:*:*:*
 cpe:2.3:a:sap:as_abap:*:*:*:*:*:*:*:*
 cpe:2.3:a:sap:ase_database_platform:*:*:*:*:*:*:*:*
 cpe:2.3:a:sap:asset_accounting:*:*:*:*:*:*:*:*
