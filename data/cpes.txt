@@ -1322,6 +1322,7 @@ cpe:2.3:a:addonmaster:load_more_anything:*:*:*:*:*:*:*:*
 cpe:2.3:a:addonmaster:post_grid_master:*:*:*:*:*:*:*:*
 cpe:2.3:a:addonspress:advanced_import:*:*:*:*:*:*:*:*
 cpe:2.3:a:address_book_project:address_book:*:*:*:*:*:*:*:*
+cpe:2.3:a:address_suggestion_project:address_suggestion:*:*:*:*:*:*:*:*
 cpe:2.3:a:address_visualization_with_google_maps_project:address_visualization_with_google_maps:*:*:*:*:*:*:*:*
 cpe:2.3:a:addressable_project:addressable:*:*:*:*:*:*:*:*
 cpe:2.3:a:addsoft:storebot:*:*:*:*:*:*:*:*
@@ -20341,6 +20342,7 @@ cpe:2.3:a:entity_browser_project:entity_browser:*:*:*:*:*:*:*:*
 cpe:2.3:a:entity_delete_log_project:entity_delete_log:*:*:*:*:*:*:*:*
 cpe:2.3:a:entity_reference_project:entityreference:*:*:*:*:*:*:*:*
 cpe:2.3:a:entity_registration_project:entity_registration:*:*:*:*:*:*:*:*
+cpe:2.3:a:entity_share_websub_project:entity_share_websub:*:*:*:*:*:*:*:*
 cpe:2.3:a:entitybulkdelete_project:entitybulkdelete:*:*:*:*:*:*:*:*
 cpe:2.3:a:entityform_block_project:entityform_block:*:*:*:*:*:*:*:*
 cpe:2.3:a:entrepreneur_bus_booking_script_project:entrepreneur_bus_booking_script:*:*:*:*:*:*:*:*
