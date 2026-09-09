@@ -1714,6 +1714,7 @@ cpe:2.3:a:adobe:photoshop_cs5:*:*:*:*:*:*:*:*
 cpe:2.3:a:adobe:photoshop_cs6:*:*:*:*:*:*:*:*
 cpe:2.3:a:adobe:photoshop_elements:*:*:*:*:*:*:*:*
 cpe:2.3:a:adobe:photoshop_installer:*:*:*:*:*:*:*:*
+cpe:2.3:a:adobe:photoshop_mobile:*:*:*:*:*:*:*:*
 cpe:2.3:a:adobe:pixel_bender_toolkit:*:*:*:*:*:*:*:*
 cpe:2.3:a:adobe:prelude:*:*:*:*:*:*:*:*
 cpe:2.3:a:adobe:prelude_cc:*:*:*:*:*:*:*:*
@@ -176719,6 +176720,7 @@ cpe:2.3:o:nvidia:dgx_a100_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:nvidia:dgx_a800_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:nvidia:dgx_h100_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:nvidia:dgx_os:*:*:*:*:*:*:*:*
+cpe:2.3:o:nvidia:dgx_spark_uefi:*:*:*:*:*:*:*:*
 cpe:2.3:o:nvidia:dgx_station_a100_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:nvidia:driveos:*:*:*:*:*:*:*:*
 cpe:2.3:o:nvidia:geforce_firmware:*:*:*:*:*:*:*:*
