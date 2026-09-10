@@ -7528,6 +7528,7 @@ cpe:2.3:a:beetel:450tc3:*:*:*:*:*:*:*:*
 cpe:2.3:a:beetl-bbs_project:beetl-bbs:*:*:*:*:*:*:*:*
 cpe:2.3:a:beetl_project:beetl:*:*:*:*:*:*:*:*
 cpe:2.3:a:beeware:briefcase:*:*:*:*:*:*:*:*
+cpe:2.3:a:behavioral_technology_group:pavlok_behavioral_conditioning_wearable:*:*:*:*:*:*:*:*
 cpe:2.3:a:behaviortree:behaviortree:*:*:*:*:*:*:*:*
 cpe:2.3:a:behold_software:web_page_counter:*:*:*:*:*:*:*:*
 cpe:2.3:a:beian.miit:cool-admin-java:*:*:*:*:*:*:*:*
@@ -45556,6 +45557,7 @@ cpe:2.3:a:nearai:ironclaw:*:*:*:*:*:*:*:*
 cpe:2.3:a:nearbuy_clone_script_project:nearbuy_clone_script:*:*:*:*:*:*:*:*
 cpe:2.3:a:nearform:fast-jwt:*:*:*:*:*:*:*:*
 cpe:2.3:a:nearform:urql:*:*:*:*:*:*:*:*
+cpe:2.3:a:nearform:victory:*:*:*:*:*:*:*:*
 cpe:2.3:a:neat_web:neat-web:*:*:*:*:*:*:*:*
 cpe:2.3:a:nebari:nebari:*:*:*:*:*:*:*:*
 cpe:2.3:a:nebl:neblio:*:*:*:*:*:*:*:*
@@ -53923,6 +53925,7 @@ cpe:2.3:a:planka:planka:*:*:*:*:*:*:*:*
 cpe:2.3:a:planned_popup_project:planned_popup:*:*:*:*:*:*:*:*
 cpe:2.3:a:plannigan:hyper_bump_it:*:*:*:*:*:*:*:*
 cpe:2.3:a:planno:planning_biblio:*:*:*:*:*:*:*:*
+cpe:2.3:a:plannotator:plannotator:*:*:*:*:*:*:*:*
 cpe:2.3:a:planonsoftware:planon:*:*:*:*:*:*:*:*
 cpe:2.3:a:planso:planso_forms:*:*:*:*:*:*:*:*
 cpe:2.3:a:plantronic:headset:*:*:*:*:*:*:*:*
