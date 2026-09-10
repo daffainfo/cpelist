@@ -58549,6 +58549,7 @@ cpe:2.3:a:rixstep:undercover:*:*:*:*:*:*:*:*
 cpe:2.3:a:riyaz:social_metrics:*:*:*:*:*:*:*:*
 cpe:2.3:a:rizin:rizin:*:*:*:*:*:*:*:*
 cpe:2.3:a:rizonesoft:notepad3:*:*:*:*:*:*:*:*
+cpe:2.3:a:rizwan17:inventory-management-system:*:*:*:*:*:*:*:*
 cpe:2.3:a:rjbs:email-mime:*:*:*:*:*:*:*:*
 cpe:2.3:a:rjbs:email_mime:*:*:*:*:*:*:*:*
 cpe:2.3:a:rjrodger:jsonic-next:*:*:*:*:*:*:*:*
