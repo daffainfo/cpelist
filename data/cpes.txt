@@ -39957,6 +39957,9 @@ cpe:2.3:a:magentocommerc:magento:*:*:*:*:*:*:*:*
 cpe:2.3:a:magentocommerce:magento:*:*:*:*:*:*:*:*
 cpe:2.3:a:magepeople:booking_\&_rental_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:magepeople:wptravelly:*:*:*:*:*:*:*:*
+cpe:2.3:a:mageplaza:gdpr:*:*:*:*:*:*:*:*
+cpe:2.3:a:mageplaza:magefan_blog:*:*:*:*:*:*:*:*
+cpe:2.3:a:mageplaza:mageplaza_blog:*:*:*:*:*:*:*:*
 cpe:2.3:a:magesh-k21:online-college-event-hall-reservation-system:*:*:*:*:*:*:*:*
 cpe:2.3:a:maggioli:appalti_\&_contratti:*:*:*:*:*:*:*:*
 cpe:2.3:a:magic-post-thumbnail:generate_images:*:*:*:*:*:*:*:*
@@ -44102,6 +44105,7 @@ cpe:2.3:a:mongodb:atlas_kubernetes_operator:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:bson:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:c\#_driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:c\+\+:*:*:*:*:*:*:*:*
+cpe:2.3:a:mongodb:c\+\+_driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:c_driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:compass:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:database_tools:*:*:*:*:*:*:*:*
@@ -50368,6 +50372,7 @@ cpe:2.3:a:oracle:peoplesoft_enterprise_tools:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_hcm_eperformance:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_human_resource_management_systems:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_in-memory_project_discovery:*:*:*:*:*:*:*:*
+cpe:2.3:a:oracle:peoplesoft_lease_administration:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_peopletools:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_peopletools_component:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:peoplesoft_products:*:*:*:*:*:*:*:*
@@ -77228,6 +77233,7 @@ cpe:2.3:a:zendocs:zentrack:*:*:*:*:*:*:*:*
 cpe:2.3:a:zendrop:zendrop:*:*:*:*:*:*:*:*
 cpe:2.3:a:zengenti:contensis:*:*:*:*:*:*:*:*
 cpe:2.3:a:zenhelpdesk:zen_help_desk:*:*:*:*:*:*:*:*
+cpe:2.3:a:zenhive:machine_payments_protocol:*:*:*:*:*:*:*:*
 cpe:2.3:a:zenitel:alphacom_xe_audio_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:zenmate:zenmate:*:*:*:*:*:*:*:*
 cpe:2.3:a:zenml-io:zenml:*:*:*:*:*:*:*:*
