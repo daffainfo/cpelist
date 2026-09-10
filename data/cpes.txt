@@ -38096,6 +38096,7 @@ cpe:2.3:a:lenovo:customer_engagement_service:*:*:*:*:*:*:*:*
 cpe:2.3:a:lenovo:desktop_bios:*:*:*:*:*:*:*:*
 cpe:2.3:a:lenovo:diagnostics:*:*:*:*:*:*:*:*
 cpe:2.3:a:lenovo:display_control_center:*:*:*:*:*:*:*:*
+cpe:2.3:a:lenovo:dock_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:lenovo:dolby_vision_provisioning:*:*:*:*:*:*:*:*
 cpe:2.3:a:lenovo:dolby_vision_provisioning_software:*:*:*:*:*:*:*:*
 cpe:2.3:a:lenovo:drivers_management:*:*:*:*:*:*:*:*
@@ -55157,6 +55158,7 @@ cpe:2.3:a:proland:protector_plus:*:*:*:*:*:*:*:*
 cpe:2.3:a:prolific:ez-dub_finder:*:*:*:*:*:*:*:*
 cpe:2.3:a:prolion:cryptospike:*:*:*:*:*:*:*:*
 cpe:2.3:a:prolizyazilim:student_affairs_information_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:proma-ai:proma:*:*:*:*:*:*:*:*
 cpe:2.3:a:promanager:promanager:*:*:*:*:*:*:*:*
 cpe:2.3:a:prometheus:alertmanager:*:*:*:*:*:*:*:*
 cpe:2.3:a:prometheus:blackbox_exporter:*:*:*:*:*:*:*:*
