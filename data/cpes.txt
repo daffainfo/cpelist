@@ -39957,9 +39957,6 @@ cpe:2.3:a:magentocommerc:magento:*:*:*:*:*:*:*:*
 cpe:2.3:a:magentocommerce:magento:*:*:*:*:*:*:*:*
 cpe:2.3:a:magepeople:booking_\&_rental_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:magepeople:wptravelly:*:*:*:*:*:*:*:*
-cpe:2.3:a:mageplaza:gdpr:*:*:*:*:*:*:*:*
-cpe:2.3:a:mageplaza:magefan_blog:*:*:*:*:*:*:*:*
-cpe:2.3:a:mageplaza:mageplaza_blog:*:*:*:*:*:*:*:*
 cpe:2.3:a:magesh-k21:online-college-event-hall-reservation-system:*:*:*:*:*:*:*:*
 cpe:2.3:a:maggioli:appalti_\&_contratti:*:*:*:*:*:*:*:*
 cpe:2.3:a:magic-post-thumbnail:generate_images:*:*:*:*:*:*:*:*
@@ -44105,7 +44102,6 @@ cpe:2.3:a:mongodb:atlas_kubernetes_operator:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:bson:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:c\#_driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:c\+\+:*:*:*:*:*:*:*:*
-cpe:2.3:a:mongodb:c\+\+_driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:c_driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:compass:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:database_tools:*:*:*:*:*:*:*:*
