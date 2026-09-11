@@ -23091,6 +23091,7 @@ cpe:2.3:a:fortinet:fortimail:*:*:*:*:*:*:*:*
 cpe:2.3:a:fortinet:fortimanager:*:*:*:*:*:*:*:*
 cpe:2.3:a:fortinet:fortimanager_cloud:*:*:*:*:*:*:*:*
 cpe:2.3:a:fortinet:fortimanagercloud:*:*:*:*:*:*:*:*
+cpe:2.3:a:fortinet:fortimonitoronsight:*:*:*:*:*:*:*:*
 cpe:2.3:a:fortinet:fortinac-f:*:*:*:*:*:*:*:*
 cpe:2.3:a:fortinet:fortinac:*:*:*:*:*:*:*:*
 cpe:2.3:a:fortinet:fortindr:*:*:*:*:*:*:*:*
@@ -30295,6 +30296,7 @@ cpe:2.3:a:ibm:net.commerce_pro:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:net.commerce_start:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:net.data:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:netezza_performance_portal:*:*:*:*:*:*:*:*
+cpe:2.3:a:ibm:netezza_performance_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:netezza_performance_server_replication_services:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:netezza_software:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:netfinity_remote_control:*:*:*:*:*:*:*:*
@@ -39959,6 +39961,9 @@ cpe:2.3:a:magentocommerc:magento:*:*:*:*:*:*:*:*
 cpe:2.3:a:magentocommerce:magento:*:*:*:*:*:*:*:*
 cpe:2.3:a:magepeople:booking_\&_rental_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:magepeople:wptravelly:*:*:*:*:*:*:*:*
+cpe:2.3:a:mageplaza:gdpr:*:*:*:*:*:*:*:*
+cpe:2.3:a:mageplaza:magefan_blog:*:*:*:*:*:*:*:*
+cpe:2.3:a:mageplaza:mageplaza_blog:*:*:*:*:*:*:*:*
 cpe:2.3:a:magesh-k21:online-college-event-hall-reservation-system:*:*:*:*:*:*:*:*
 cpe:2.3:a:maggioli:appalti_\&_contratti:*:*:*:*:*:*:*:*
 cpe:2.3:a:magic-post-thumbnail:generate_images:*:*:*:*:*:*:*:*
@@ -44104,6 +44109,7 @@ cpe:2.3:a:mongodb:atlas_kubernetes_operator:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:bson:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:c\#_driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:c\+\+:*:*:*:*:*:*:*:*
+cpe:2.3:a:mongodb:c\+\+_driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:c_driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:compass:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:database_tools:*:*:*:*:*:*:*:*
