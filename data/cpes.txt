@@ -10868,7 +10868,6 @@ cpe:2.3:a:ceneo-web-scrapper_project:ceneo-web-scrapper:*:*:*:*:*:*:*:*
 cpe:2.3:a:censorify.tanisjr_project:censorify.tanisjr:*:*:*:*:*:*:*:*
 cpe:2.3:a:censura:censura:*:*:*:*:*:*:*:*
 cpe:2.3:a:centarro:commerce_core:*:*:*:*:*:*:*:*
-cpe:2.3:a:centarro:commerce_cybersource:*:*:*:*:*:*:*:*
 cpe:2.3:a:centarro:commerce_paypal:*:*:*:*:*:*:*:*
 cpe:2.3:a:cente:ipv4:*:*:*:*:*:*:*:*
 cpe:2.3:a:cente:ipv4snmpv2:*:*:*:*:*:*:*:*
@@ -21223,7 +21222,6 @@ cpe:2.3:a:extent_technologies:rbs_isp:*:*:*:*:*:*:*:*
 cpe:2.3:a:extenua:silvershield:*:*:*:*:*:*:*:*
 cpe:2.3:a:external-secrets:external-secrets:*:*:*:*:*:*:*:*
 cpe:2.3:a:external-secrets:external_secrets_operator:*:*:*:*:*:*:*:*
-cpe:2.3:a:external_authentication_project:external_authentication:*:*:*:*:*:*:*:*
 cpe:2.3:a:external_links_click_statistics_project:external_links_click_statistics:*:*:*:*:*:*:*:*
 cpe:2.3:a:external_media_project:external_media:*:*:*:*:*:*:*:*
 cpe:2.3:a:external_media_without_import_project:external_media_without_import:*:*:*:*:*:*:*:*
@@ -44106,7 +44104,6 @@ cpe:2.3:a:mongodb:atlas_kubernetes_operator:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:bson:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:c\#_driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:c\+\+:*:*:*:*:*:*:*:*
-cpe:2.3:a:mongodb:c\+\+_driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:c_driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:compass:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:database_tools:*:*:*:*:*:*:*:*
@@ -63282,7 +63279,6 @@ cpe:2.3:a:slice-deque_project:slice-deque:*:*:*:*:*:*:*:*
 cpe:2.3:a:slicedinvoices:sliced_invoices:*:*:*:*:*:*:*:*
 cpe:2.3:a:slicewp:affiliate_program_suite:*:*:*:*:*:*:*:*
 cpe:2.3:a:slicewp:wp-affiliate-platform:*:*:*:*:*:*:*:*
-cpe:2.3:a:slick_carousel_project:slick_carousel:*:*:*:*:*:*:*:*
 cpe:2.3:a:slickedit:slickedit:*:*:*:*:*:*:*:*
 cpe:2.3:a:slickquiz_project:slickquiz:*:*:*:*:*:*:*:*
 cpe:2.3:a:slickremix:design_approval_system_plugin:*:*:*:*:*:*:*:*
