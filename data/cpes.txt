@@ -29751,6 +29751,7 @@ cpe:2.3:a:ibm:aspera_cargo:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:aspera_connect:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:aspera_console:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:aspera_desktop_app:*:*:*:*:*:*:*:*
+cpe:2.3:a:ibm:aspera_enterprise_webapps:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:aspera_faspex:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:aspera_faspex_5:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:aspera_faspex_on_demand:*:*:*:*:*:*:*:*
@@ -29880,6 +29881,7 @@ cpe:2.3:a:ibm:content_navigator:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:content_template_catalog:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:contextforge-mcp-gateway:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:contextforge:*:*:*:*:*:*:*:*
+cpe:2.3:a:ibm:contextforge_mcp_gateway:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:contextforge_mcp_gateway_translate_utility:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:control_center:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:control_desk:*:*:*:*:*:*:*:*
@@ -30293,6 +30295,7 @@ cpe:2.3:a:ibm:net.commerce_pro:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:net.commerce_start:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:net.data:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:netezza_performance_portal:*:*:*:*:*:*:*:*
+cpe:2.3:a:ibm:netezza_performance_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:netezza_performance_server_replication_services:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:netezza_software:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:netfinity_remote_control:*:*:*:*:*:*:*:*
@@ -39957,6 +39960,9 @@ cpe:2.3:a:magentocommerc:magento:*:*:*:*:*:*:*:*
 cpe:2.3:a:magentocommerce:magento:*:*:*:*:*:*:*:*
 cpe:2.3:a:magepeople:booking_\&_rental_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:magepeople:wptravelly:*:*:*:*:*:*:*:*
+cpe:2.3:a:mageplaza:gdpr:*:*:*:*:*:*:*:*
+cpe:2.3:a:mageplaza:magefan_blog:*:*:*:*:*:*:*:*
+cpe:2.3:a:mageplaza:mageplaza_blog:*:*:*:*:*:*:*:*
 cpe:2.3:a:magesh-k21:online-college-event-hall-reservation-system:*:*:*:*:*:*:*:*
 cpe:2.3:a:maggioli:appalti_\&_contratti:*:*:*:*:*:*:*:*
 cpe:2.3:a:magic-post-thumbnail:generate_images:*:*:*:*:*:*:*:*
@@ -44102,6 +44108,7 @@ cpe:2.3:a:mongodb:atlas_kubernetes_operator:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:bson:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:c\#_driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:c\+\+:*:*:*:*:*:*:*:*
+cpe:2.3:a:mongodb:c\+\+_driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:c_driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:compass:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:database_tools:*:*:*:*:*:*:*:*
