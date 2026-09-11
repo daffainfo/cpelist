@@ -44108,6 +44108,7 @@ cpe:2.3:a:moneytree_project:moneytree:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongo-express_project:mongo-express:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb-instance_project:mongodb-instance:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:atlas_kubernetes_operator:*:*:*:*:*:*:*:*
+cpe:2.3:a:mongodb:bi_connector_odbc_driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:bson:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:c\#_driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:c\+\+:*:*:*:*:*:*:*:*
