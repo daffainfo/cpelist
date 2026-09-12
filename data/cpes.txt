@@ -42181,6 +42181,7 @@ cpe:2.3:a:microsoft:autoupdate:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:av1_video_extension:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure-iot-sdk-c:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure-umqtt-c:*:*:*:*:*:*:*:*
+cpe:2.3:a:microsoft:azure\/msal-node:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_active_directory:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_active_directory_connect:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_active_directory_connect_provisioning_agent:*:*:*:*:*:*:*:*
@@ -44130,9 +44131,11 @@ cpe:2.3:a:mongodb:mongodb_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:mongomirror:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:mongosh:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:node.js:*:*:*:*:*:*:*:*
+cpe:2.3:a:mongodb:odbc_driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:ops_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:ops_manager_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:php_driver:*:*:*:*:*:*:*:*
+cpe:2.3:a:mongodb:php_library:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:pymongo:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:python_driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:ruby_driver:*:*:*:*:*:*:*:*
