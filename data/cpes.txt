@@ -11321,6 +11321,7 @@ cpe:2.3:a:cherryhq:cherry-studio:*:*:*:*:*:*:*:*
 cpe:2.3:a:cherrypy:cherrypy:*:*:*:*:*:*:*:*
 cpe:2.3:a:cherrytree_project:cherrytree:*:*:*:*:*:*:*:*
 cpe:2.3:a:cherwell:cherwell_service_management:*:*:*:*:*:*:*:*
+cpe:2.3:a:cheshire-cat-ai:cheshire_cat_ai:*:*:*:*:*:*:*:*
 cpe:2.3:a:chess:play_and_learn_app:*:*:*:*:*:*:*:*
 cpe:2.3:a:chetan_khandla:woocommerce_product_design:*:*:*:*:*:*:*:*
 cpe:2.3:a:chetangole:smooth_scroll_links:*:*:*:*:*:*:*:*
