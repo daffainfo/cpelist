@@ -38212,6 +38212,7 @@ cpe:2.3:a:lenovo:xclarity_orchestrator:*:*:*:*:*:*:*:*
 cpe:2.3:a:lenovo:xp_themes:*:*:*:*:*:*:*:*
 cpe:2.3:a:lensvisual:lensvisual:*:*:*:*:*:*:*:*
 cpe:2.3:a:lenve:vblog:*:*:*:*:*:*:*:*
+cpe:2.3:a:lenve:vhr:*:*:*:*:*:*:*:*
 cpe:2.3:a:lenzo:infobot:*:*:*:*:*:*:*:*
 cpe:2.3:a:leoboard:lb5000:*:*:*:*:*:*:*:*
 cpe:2.3:a:leocad:leocad:*:*:*:*:*:*:*:*
@@ -57984,6 +57985,7 @@ cpe:2.3:a:restful_project:restful:*:*:*:*:*:*:*:*
 cpe:2.3:a:restful_web_services_project:restful_web_services:*:*:*:*:*:*:*:*
 cpe:2.3:a:restful_web_services_project:restws:*:*:*:*:*:*:*:*
 cpe:2.3:a:restify-paginate_project:restify-paginate:*:*:*:*:*:*:*:*
+cpe:2.3:a:restify:node-restify:*:*:*:*:*:*:*:*
 cpe:2.3:a:restify:restify:*:*:*:*:*:*:*:*
 cpe:2.3:a:restkit:restkit:*:*:*:*:*:*:*:*
 cpe:2.3:a:restlet:restlet:*:*:*:*:*:*:*:*
@@ -59913,6 +59915,7 @@ cpe:2.3:a:sanitization_management_system_project:sanitization_management_system:
 cpe:2.3:a:sanitize-svg_project:sanitize-svg:*:*:*:*:*:*:*:*
 cpe:2.3:a:sanitize_project:sanitize:*:*:*:*:*:*:*:*
 cpe:2.3:a:sanjay1313:visitor_management_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:sanjevirau:gsubs:*:*:*:*:*:*:*:*
 cpe:2.3:a:sankhya:sankhya_om:*:*:*:*:*:*:*:*
 cpe:2.3:a:sanluan:flipped_aurora_gin_vue:*:*:*:*:*:*:*:*
 cpe:2.3:a:sanluan:publiccms:*:*:*:*:*:*:*:*
@@ -73462,6 +73465,7 @@ cpe:2.3:a:webgeneius:goop_gallery:*:*:*:*:*:*:*:*
 cpe:2.3:a:webgensis:simple_load_more:*:*:*:*:*:*:*:*
 cpe:2.3:a:webges:imig_2012:*:*:*:*:*:*:*:*
 cpe:2.3:a:webgilde:advanced_comment_form:*:*:*:*:*:*:*:*
+cpe:2.3:a:webgjc:web_robot:*:*:*:*:*:*:*:*
 cpe:2.3:a:webglimpse:webglimpse:*:*:*:*:*:*:*:*
 cpe:2.3:a:webgrind_project:webgrind:*:*:*:*:*:*:*:*
 cpe:2.3:a:webgroupmedia:cerb:*:*:*:*:*:*:*:*
