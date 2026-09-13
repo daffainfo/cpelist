@@ -40245,6 +40245,7 @@ cpe:2.3:a:malbum:malbum:*:*:*:*:*:*:*:*
 cpe:2.3:a:malcolm_nooning:pirpc:*:*:*:*:*:*:*:*
 cpe:2.3:a:malcom_box:lxr_cross_referencer:*:*:*:*:*:*:*:*
 cpe:2.3:a:maleck:image_uploader_and_browser_for_ckeditor:*:*:*:*:*:*:*:*
+cpe:2.3:a:maliangnansheng:bbs-springboot:*:*:*:*:*:*:*:*
 cpe:2.3:a:malihu:page_scroll_to_id:*:*:*:*:*:*:*:*
 cpe:2.3:a:malinky:malinky-ajax-pagination:*:*:*:*:*:*:*:*
 cpe:2.3:a:mall23:mall23:*:*:*:*:*:*:*:*
@@ -44447,6 +44448,7 @@ cpe:2.3:a:moxa:thingspro:*:*:*:*:*:*:*:*
 cpe:2.3:a:moxa:tn-4900:*:*:*:*:*:*:*:*
 cpe:2.3:a:moxa:vport_activex_sdk_plus:*:*:*:*:*:*:*:*
 cpe:2.3:a:moxftp:moxftp:*:*:*:*:*:*:*:*
+cpe:2.3:a:moxi624:mogu_blog_v2:*:*:*:*:*:*:*:*
 cpe:2.3:a:moxi9:phpfox:*:*:*:*:*:*:*:*
 cpe:2.3:a:moxiecode:plupload:*:*:*:*:*:*:*:*
 cpe:2.3:a:moxiecode:tinymce_compressor_php:*:*:*:*:*:*:*:*
@@ -67272,6 +67274,7 @@ cpe:2.3:a:tdiary:tdiary:*:*:*:*:*:*:*:*
 cpe:2.3:a:tdizin:tdizin:*:*:*:*:*:*:*:*
 cpe:2.3:a:tdm_project:tdm:*:*:*:*:*:*:*:*
 cpe:2.3:a:tdsql_chitu_project:tdsql_chitu:*:*:*:*:*:*:*:*
+cpe:2.3:a:tduckapp:tduck-platform:*:*:*:*:*:*:*:*
 cpe:2.3:a:tduckcloud:tduck-platform:*:*:*:*:*:*:*:*
 cpe:2.3:a:tduckcloud:tduck:*:*:*:*:*:*:*:*
 cpe:2.3:a:tduckcloud:tduckpro:*:*:*:*:*:*:*:*
