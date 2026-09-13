@@ -49284,6 +49284,7 @@ cpe:2.3:a:openstack:tripleo_heat_templates:*:*:*:*:*:*:*:*
 cpe:2.3:a:openstack:trove:*:*:*:*:*:*:*:*
 cpe:2.3:a:openstack:vitrage:*:*:*:*:*:*:*:*
 cpe:2.3:a:openstack:yaql:*:*:*:*:*:*:*:*
+cpe:2.3:a:openstatushq:openstatus:*:*:*:*:*:*:*:*
 cpe:2.3:a:openstreetmap:openstreetmap:*:*:*:*:*:*:*:*
 cpe:2.3:a:opensupports:opensupports:*:*:*:*:*:*:*:*
 cpe:2.3:a:opensurveypilot:opensurveypilot:*:*:*:*:*:*:*:*
