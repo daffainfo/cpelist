@@ -11304,6 +11304,7 @@ cpe:2.3:a:chemssou_blink_project:chemssou_blink:*:*:*:*:*:*:*:*
 cpe:2.3:a:chendotjs:lotos_webserver:*:*:*:*:*:*:*:*
 cpe:2.3:a:chengdu_everbrite_network_technology:beike_shop:*:*:*:*:*:*:*:*
 cpe:2.3:a:chengdu_everbrite_network_technology:beikeshop:*:*:*:*:*:*:*:*
+cpe:2.3:a:chengdu_qilu_technology:ludashi:*:*:*:*:*:*:*:*
 cpe:2.3:a:chenhg5:cc-connect:*:*:*:*:*:*:*:*
 cpe:2.3:a:chernobile:chernobile:*:*:*:*:*:*:*:*
 cpe:2.3:a:cherokee-project:cherokee:*:*:*:*:*:*:*:*
@@ -18290,6 +18291,7 @@ cpe:2.3:a:dromara:hutool:*:*:*:*:*:*:*:*
 cpe:2.3:a:dromara:j2eefast:*:*:*:*:*:*:*:*
 cpe:2.3:a:dromara:lamp-cloud:*:*:*:*:*:*:*:*
 cpe:2.3:a:dromara:open-capacity-platform:*:*:*:*:*:*:*:*
+cpe:2.3:a:dromara:orion-visor:*:*:*:*:*:*:*:*
 cpe:2.3:a:dromara:ruoyi-vue-plus:*:*:*:*:*:*:*:*
 cpe:2.3:a:dromara:sa-token:*:*:*:*:*:*:*:*
 cpe:2.3:a:dromara:sureness:*:*:*:*:*:*:*:*
@@ -25620,6 +25622,7 @@ cpe:2.3:a:gonafish:webstatcaffe:*:*:*:*:*:*:*:*
 cpe:2.3:a:gonahkar:custom_fields_shortcode:*:*:*:*:*:*:*:*
 cpe:2.3:a:gongfuxiang:shopxo:*:*:*:*:*:*:*:*
 cpe:2.3:a:gongrzhe:terminal-controller-mcp:*:*:*:*:*:*:*:*
+cpe:2.3:a:gongshengyue:onlinebooks:*:*:*:*:*:*:*:*
 cpe:2.3:a:gonicus:gonicus_system_administration:*:*:*:*:*:*:*:*
 cpe:2.3:a:gonicus:gosa:*:*:*:*:*:*:*:*
 cpe:2.3:a:gonitro:nitro_free_pdf_reader:*:*:*:*:*:*:*:*
@@ -62643,6 +62646,7 @@ cpe:2.3:a:silverstripe:silverstripe:*:*:*:*:*:*:*:*
 cpe:2.3:a:silverstripe:subsites:*:*:*:*:*:*:*:*
 cpe:2.3:a:silverwaregames:silverwaregames:*:*:*:*:*:*:*:*
 cpe:2.3:a:sim:sim:*:*:*:*:*:*:*:*
+cpe:2.3:a:simalexan:api-lambda-send-email-ses:*:*:*:*:*:*:*:*
 cpe:2.3:a:simasy:simasy_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:simba_technologies:mdrmsap_activex_control:*:*:*:*:*:*:*:*
 cpe:2.3:a:simbahosting:two-factor-authentication:*:*:*:*:*:*:*:*
@@ -64426,6 +64430,7 @@ cpe:2.3:a:sourcecodester:school_fees_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:school_fees_payment_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:school_instramurals:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:school_log_management_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:sourcecodester:school_registration_and_fee_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:sentiment_based_movie_rating_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:seo_meta_tag_extractor:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:service_provider_management_system:*:*:*:*:*:*:*:*
@@ -65334,6 +65339,7 @@ cpe:2.3:a:stickynote_project:stickynote:*:*:*:*:*:*:*:*
 cpe:2.3:a:stigtsp:net\:\:cidr\:\:lite:*:*:*:*:*:*:*:*
 cpe:2.3:a:stilesoft:netcaptor:*:*:*:*:*:*:*:*
 cpe:2.3:a:stillbreathing:bannerman:*:*:*:*:*:*:*:*
+cpe:2.3:a:stilleshan:serverstatus:*:*:*:*:*:*:*:*
 cpe:2.3:a:stilog:visual__planning_8:*:*:*:*:*:*:*:*
 cpe:2.3:a:stiltsoft:handy_macros_for_confluence:*:*:*:*:*:*:*:*
 cpe:2.3:a:stiltsoft:table_filter_and_charts_for_confluence_server:*:*:*:*:*:*:*:*
@@ -72746,6 +72752,7 @@ cpe:2.3:a:vuplayer:vuplayer:*:*:*:*:*:*:*:*
 cpe:2.3:a:vuukle:vuukle_comments\,_reactions\,_share_bar\,_revenue:*:*:*:*:*:*:*:*
 cpe:2.3:a:vuze:bittorrent_client:*:*:*:*:*:*:*:*
 cpe:2.3:a:vuze:vuze:*:*:*:*:*:*:*:*
+cpe:2.3:a:vvbbnn00:warp-clash-api:*:*:*:*:*:*:*:*
 cpe:2.3:a:vvertex:muster:*:*:*:*:*:*:*:*
 cpe:2.3:a:vvveb:vvveb:*:*:*:*:*:*:*:*
 cpe:2.3:a:vvveb:vvvebjs:*:*:*:*:*:*:*:*
