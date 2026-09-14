@@ -3657,6 +3657,7 @@ cpe:2.3:a:anhui_deshun_intelligent_technology:jieshun_jielink_plus_jsotc2016:*:*
 cpe:2.3:a:anhvnit:woocommerce_openpos:*:*:*:*:*:*:*:*
 cpe:2.3:a:ani2life:wp-reply_notify:*:*:*:*:*:*:*:*
 cpe:2.3:a:anibal_monsalve_salaz:ssmtp:*:*:*:*:*:*:*:*
+cpe:2.3:a:anil-matcha:open-generative-ai:*:*:*:*:*:*:*:*
 cpe:2.3:a:anilankola:add_custom_body_class:*:*:*:*:*:*:*:*
 cpe:2.3:a:animalcenter:light_for_pets:*:*:*:*:*:*:*:*
 cpe:2.3:a:animegenesis:gallery:*:*:*:*:*:*:*:*
@@ -19848,6 +19849,7 @@ cpe:2.3:a:embedchain:embedchain:*:*:*:*:*:*:*:*
 cpe:2.3:a:embedded-experts:freemodbus:*:*:*:*:*:*:*:*
 cpe:2.3:a:embedded-experts:modbus_master:*:*:*:*:*:*:*:*
 cpe:2.3:a:embedded-experts:modbus_slave:*:*:*:*:*:*:*:*
+cpe:2.3:a:embedded-graphics:embedded-graphics:*:*:*:*:*:*:*:*
 cpe:2.3:a:embedded-solutions:freemodbus:*:*:*:*:*:*:*:*
 cpe:2.3:a:embedplus:youtube:*:*:*:*:*:*:*:*
 cpe:2.3:a:embedsocial:embedsocial:*:*:*:*:*:*:*:*
@@ -20935,6 +20937,7 @@ cpe:2.3:a:evaluate_project:evaluate:*:*:*:*:*:*:*:*
 cpe:2.3:a:evan_dandrea:usb-creator:*:*:*:*:*:*:*:*
 cpe:2.3:a:evan_sims:effingerd:*:*:*:*:*:*:*:*
 cpe:2.3:a:evan_wagner:dzip:*:*:*:*:*:*:*:*
+cpe:2.3:a:evanchiu:serverless-todo:*:*:*:*:*:*:*:*
 cpe:2.3:a:evandor:easy_notesmanager:*:*:*:*:*:*:*:*
 cpe:2.3:a:evanhoe:aimtsm:*:*:*:*:*:*:*:*
 cpe:2.3:a:evanliewer:illi_link_party\!:*:*:*:*:*:*:*:*
@@ -34065,6 +34068,7 @@ cpe:2.3:a:jayde_online:spnbabble:*:*:*:*:*:*:*:*
 cpe:2.3:a:jayesh:hotel_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:jayesh:online_exam_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:jayeshp:pixel8_web_photo_album:*:*:*:*:*:*:*:*
+cpe:2.3:a:jaygajera17:e-commerce-project-springboot:*:*:*:*:*:*:*:*
 cpe:2.3:a:jayj:cakifo:*:*:*:*:*:*:*:*
 cpe:2.3:a:jayj_quicktag_project:jayj_quicktag:*:*:*:*:*:*:*:*
 cpe:2.3:a:jazan_24_project:jazan_24:*:*:*:*:*:*:*:*
@@ -36393,6 +36397,7 @@ cpe:2.3:a:kafkaui-lite_project:kafkaui-lite:*:*:*:*:*:*:*:*
 cpe:2.3:a:kafooeyblog:kafooeyblog:*:*:*:*:*:*:*:*
 cpe:2.3:a:kagi:fastfeedparser:*:*:*:*:*:*:*:*
 cpe:2.3:a:kagilum:icescrum:*:*:*:*:*:*:*:*
+cpe:2.3:a:kagisearch:smallweb:*:*:*:*:*:*:*:*
 cpe:2.3:a:kahua:kahua:*:*:*:*:*:*:*:*
 cpe:2.3:a:kai_blankenhorn_bitfolge:simple_and_nice_index_file:*:*:*:*:*:*:*:*
 cpe:2.3:a:kai_content_management_system:kai_content_management_system:*:*:*:*:*:*:*:*
@@ -69237,6 +69242,7 @@ cpe:2.3:a:tooltips:wordpress_tooltips:*:*:*:*:*:*:*:*
 cpe:2.3:a:tooltipy:tooltipy:*:*:*:*:*:*:*:*
 cpe:2.3:a:tooltipy_project:tooltipy:*:*:*:*:*:*:*:*
 cpe:2.3:a:tooltulips:404s:*:*:*:*:*:*:*:*
+cpe:2.3:a:tootallnate:java-websocket:*:*:*:*:*:*:*:*
 cpe:2.3:a:tootallnate:node-speaker:*:*:*:*:*:*:*:*
 cpe:2.3:a:top_10_-_popular_posts_project:top_10_-_popular_posts:*:*:*:*:*:*:*:*
 cpe:2.3:a:top_10_project:top_10:*:*:*:*:*:*:*:*
@@ -75789,6 +75795,7 @@ cpe:2.3:a:wwwoffle:wwwoffle:*:*:*:*:*:*:*:*
 cpe:2.3:a:wwwsearchsolutions:revenuepilot_search_engine_script:*:*:*:*:*:*:*:*
 cpe:2.3:a:wwwsearchsolutions:searchfeed_search_engine:*:*:*:*:*:*:*:*
 cpe:2.3:a:wxgtk2:wxgtk2:*:*:*:*:*:*:*:*
+cpe:2.3:a:wxiaoqi:spring-cloud-platform:*:*:*:*:*:*:*:*
 cpe:2.3:a:wxjava_project:wxjava:*:*:*:*:*:*:*:*
 cpe:2.3:a:wxsltoken_project:wxsltoken:*:*:*:*:*:*:*:*
 cpe:2.3:a:wxwidgets:wxwidgets:*:*:*:*:*:*:*:*
