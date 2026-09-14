@@ -40915,6 +40915,7 @@ cpe:2.3:a:matthewmueller:dom-iterator:*:*:*:*:*:*:*:*
 cpe:2.3:a:matthewschwartz:google_maps_made_simple:*:*:*:*:*:*:*:*
 cpe:2.3:a:matthewwild:luaexpat:*:*:*:*:*:*:*:*
 cpe:2.3:a:matthewwithanm:markdownify:*:*:*:*:*:*:*:*
+cpe:2.3:a:matthias-wandel:jhead:*:*:*:*:*:*:*:*
 cpe:2.3:a:matthias_dietrich:phpburningportal_quiz-modul:*:*:*:*:*:*:*:*
 cpe:2.3:a:matthias_graubner:mg_help:*:*:*:*:*:*:*:*
 cpe:2.3:a:matthias_hopf:xrdb:*:*:*:*:*:*:*:*
