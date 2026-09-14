@@ -470,6 +470,7 @@ cpe:2.3:a:a10networks:thunder_adc:*:*:*:*:*:*:*:*
 cpe:2.3:a:a17lab:wpstickybar:*:*:*:*:*:*:*:*
 cpe:2.3:a:a1apps:office_app-edit_word\,_pdf_file:*:*:*:*:*:*:*:*
 cpe:2.3:a:a1webserver:http_server:*:*:*:*:*:*:*:*
+cpe:2.3:a:a2aproject:a2a-python:*:*:*:*:*:*:*:*
 cpe:2.3:a:a2hosting:a2_optimized:*:*:*:*:*:*:*:*
 cpe:2.3:a:a2technology:camera_trap_tracking_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:a2technology:license_portal_system:*:*:*:*:*:*:*:*
@@ -39996,6 +39997,7 @@ cpe:2.3:a:magic_home_pro_project:magic_home_pro:*:*:*:*:*:*:*:*
 cpe:2.3:a:magic_iso_maker:magic_iso_maker:*:*:*:*:*:*:*:*
 cpe:2.3:a:magic_wormhole_project:magic_wormhole:*:*:*:*:*:*:*:*
 cpe:2.3:a:magicam_photo_magic_editor_project:magicam_photo_magic_editor:*:*:*:*:*:*:*:*
+cpe:2.3:a:magicblack:maccms10:*:*:*:*:*:*:*:*
 cpe:2.3:a:magicbug:cloudlog:*:*:*:*:*:*:*:*
 cpe:2.3:a:magicfields:magic_fields:*:*:*:*:*:*:*:*
 cpe:2.3:a:magicflu:magicflu:*:*:*:*:*:*:*:*
@@ -67844,6 +67846,7 @@ cpe:2.3:a:tesla:solarcity_solar_monitoring_gateway:*:*:*:*:*:*:*:*
 cpe:2.3:a:tesla:tesla:*:*:*:*:*:*:*:*
 cpe:2.3:a:teslamate:teslamate:*:*:*:*:*:*:*:*
 cpe:2.3:a:teslamate_project:teslamate:*:*:*:*:*:*:*:*
+cpe:2.3:a:tesseract-ocr:tesseract_ocr:*:*:*:*:*:*:*:*
 cpe:2.3:a:tesseract_ocr_project:tesseract_ocr:*:*:*:*:*:*:*:*
 cpe:2.3:a:tesseract_project:tesseract:*:*:*:*:*:*:*:*
 cpe:2.3:a:tessi:docubase:*:*:*:*:*:*:*:*
