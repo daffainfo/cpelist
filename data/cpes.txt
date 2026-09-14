@@ -17695,6 +17695,7 @@ cpe:2.3:a:django_project:django:*:*:*:*:*:*:*:*
 cpe:2.3:a:django_terms_and_conditions_project:django_terms_and_conditions:*:*:*:*:*:*:*:*
 cpe:2.3:a:django_two-factor_authentication_project:django_two-factor_authentication:*:*:*:*:*:*:*:*
 cpe:2.3:a:djangoblog_project:djangoblog:*:*:*:*:*:*:*:*
+cpe:2.3:a:djangocrm:django-crm:*:*:*:*:*:*:*:*
 cpe:2.3:a:djangoproject:channels:*:*:*:*:*:*:*:*
 cpe:2.3:a:djangoproject:daphne:*:*:*:*:*:*:*:*
 cpe:2.3:a:djangoproject:django:*:*:*:*:*:*:*:*
