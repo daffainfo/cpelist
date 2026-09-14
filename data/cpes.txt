@@ -18625,6 +18625,7 @@ cpe:2.3:a:dvdfab:playerfab:*:*:*:*:*:*:*:*
 cpe:2.3:a:dvdfab:virtual_drive:*:*:*:*:*:*:*:*
 cpe:2.3:a:dvdshrink:dvdshrink:*:*:*:*:*:*:*:*
 cpe:2.3:a:dvguestbook:dvguestbook:*:*:*:*:*:*:*:*
+cpe:2.3:a:dvidelabs:flatcc:*:*:*:*:*:*:*:*
 cpe:2.3:a:dvrstation:dvrstation_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:dvs_custom_notification_project:dvs_custom_notification:*:*:*:*:*:*:*:*
 cpe:2.3:a:dvsekhvalnov:jose2go:*:*:*:*:*:*:*:*
@@ -40545,6 +40546,7 @@ cpe:2.3:a:marco_d\'itri:ppp-udeb:*:*:*:*:*:*:*:*
 cpe:2.3:a:marco_d\'itri:ppp:*:*:*:*:*:*:*:*
 cpe:2.3:a:marco_heine:pdf-rechnungsverwaltung:*:*:*:*:*:*:*:*
 cpe:2.3:a:marco_hezel:hm_tinymarket:*:*:*:*:*:*:*:*
+cpe:2.3:a:marcobambini:gravity:*:*:*:*:*:*:*:*
 cpe:2.3:a:marcoingraiti:actionwear_products_sync:*:*:*:*:*:*:*:*
 cpe:2.3:a:marcomilesi:anac_xml_bandi_di_gara:*:*:*:*:*:*:*:*
 cpe:2.3:a:marcomilesi:anac_xml_viewer:*:*:*:*:*:*:*:*
@@ -42392,7 +42394,6 @@ cpe:2.3:a:microsoft:common_data_model_sdk:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:compatibility_pack_word_excel_powerpoint:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:compatibility_pack_word_excel_powerpoint_2007:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:confcom:*:*:*:*:*:*:*:*
-cpe:2.3:a:microsoft:confidental_containers:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:confidential_sidecar_containers:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:configuration_manager_2403:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:configuration_manager_2409:*:*:*:*:*:*:*:*
@@ -42986,6 +42987,7 @@ cpe:2.3:a:microsoft:visual_studio_tools_for_applications_2019:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:visual_studio_tools_for_applications_2019_sdk:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:visual_studio_tools_for_applications_2022:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:visual_studio_tools_for_applications_2022_sdk:*:*:*:*:*:*:*:*
+cpe:2.3:a:microsoft:vm_repair:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:vp9_video_extensions:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:vscode-kubernetes-tools:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:vscode-maven:*:*:*:*:*:*:*:*
@@ -65597,6 +65599,7 @@ cpe:2.3:a:subdreamer:subdreamer_light:*:*:*:*:*:*:*:*
 cpe:2.3:a:subex:roc_fraud_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:subex:roc_partner_settlement:*:*:*:*:*:*:*:*
 cpe:2.3:a:subexworld:nikira_fraud_management_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:subhajitkhan:online-clinic-management-system:*:*:*:*:*:*:*:*
 cpe:2.3:a:subhasis_laha:gallerio:*:*:*:*:*:*:*:*
 cpe:2.3:a:subhub:subhub:*:*:*:*:*:*:*:*
 cpe:2.3:a:subina:wp_best_quiz:*:*:*:*:*:*:*:*
@@ -76916,6 +76919,7 @@ cpe:2.3:a:yordam:library_automation_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:yordam:medaspro:*:*:*:*:*:*:*:*
 cpe:2.3:a:yoshinori_tahara:mycaljp:*:*:*:*:*:*:*:*
 cpe:2.3:a:yosoro_project:yosoro:*:*:*:*:*:*:*:*
+cpe:2.3:a:yot:cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:yotpo:yotpo:*:*:*:*:*:*:*:*
 cpe:2.3:a:yotpo_reviews_for_woocommerce_project:yotpo_reviews_for_woocommerce:*:*:*:*:*:*:*:*
 cpe:2.3:a:yottadb:gt.m:*:*:*:*:*:*:*:*
@@ -89046,6 +89050,7 @@ cpe:2.3:h:d-link:dwr-921:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dwr-932b:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dwr-933:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dwr-m920:*:*:*:*:*:*:*:*
+cpe:2.3:h:d-link:dwr-m921:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:ebr-2310_ethernet_broadband_router:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:tm-g5240:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:wbr-1310_wireless_g_router:*:*:*:*:*:*:*:*
