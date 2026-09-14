@@ -13,6 +13,7 @@ cpe:2.3:a:0branch:boron:*:*:*:*:*:*:*:*
 cpe:2.3:a:0kims:snarkjs:*:*:*:*:*:*:*:*
 cpe:2.3:a:0mk_shortener_project:0mk_shortener:*:*:*:*:*:*:*:*
 cpe:2.3:a:0verkill:0verkill:*:*:*:*:*:*:*:*
+cpe:2.3:a:0x4m4:hexstrike_ai:*:*:*:*:*:*:*:*
 cpe:2.3:a:0xacab:mat2:*:*:*:*:*:*:*:*
 cpe:2.3:a:1-script:1-book:*:*:*:*:*:*:*:*
 cpe:2.3:a:1-script:1-search:*:*:*:*:*:*:*:*
@@ -3517,6 +3518,7 @@ cpe:2.3:a:andreas_krennmair:tpp:*:*:*:*:*:*:*:*
 cpe:2.3:a:andreas_mueller:cdrdao:*:*:*:*:*:*:*:*
 cpe:2.3:a:andreas_robertz:phpnews:*:*:*:*:*:*:*:*
 cpe:2.3:a:andreas_schwarzkopf:accessibility_glossary:*:*:*:*:*:*:*:*
+cpe:2.3:a:andreashappe:cochise:*:*:*:*:*:*:*:*
 cpe:2.3:a:andreasmuench:multiple_post_passwords:*:*:*:*:*:*:*:*
 cpe:2.3:a:andrei-tatar:nora-firebase-common:*:*:*:*:*:*:*:*
 cpe:2.3:a:andrei_ivasiuc:fontific:*:*:*:*:*:*:*:*
@@ -22143,6 +22145,7 @@ cpe:2.3:a:fedify:hollo:*:*:*:*:*:*:*:*
 cpe:2.3:a:fedirtsapana:simple_http_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:fedirtsapana:simple_http_server_plus:*:*:*:*:*:*:*:*
 cpe:2.3:a:fedirtsapana:tv_bro:*:*:*:*:*:*:*:*
+cpe:2.3:a:fedml-ai:fedml:*:*:*:*:*:*:*:*
 cpe:2.3:a:fedora:directory_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:fedora:dnf5daemon-server:*:*:*:*:*:*:*:*
 cpe:2.3:a:fedora:newsx:*:*:*:*:*:*:*:*
@@ -24772,6 +24775,7 @@ cpe:2.3:a:ggnome:garden_gnome_package:*:*:*:*:*:*:*:*
 cpe:2.3:a:ggv:ggv:*:*:*:*:*:*:*:*
 cpe:2.3:a:ggz_gaming_zone:ggz_gaming_zone:*:*:*:*:*:*:*:*
 cpe:2.3:a:gh-pages_project:gh-pages:*:*:*:*:*:*:*:*
+cpe:2.3:a:gh05tcrew:pentestagent:*:*:*:*:*:*:*:*
 cpe:2.3:a:ghas-to-csv_project:ghas-to-csv:*:*:*:*:*:*:*:*
 cpe:2.3:a:ghh:google_hack_honeypot_file_upload_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:ghinstallation_project:ghinstallation:*:*:*:*:*:*:*:*
@@ -33148,6 +33152,7 @@ cpe:2.3:a:ip_history_logs_project:ip_history_logs:*:*:*:*:*:*:*:*
 cpe:2.3:a:ip_metaboxes_project:ip_metaboxes:*:*:*:*:*:*:*:*
 cpe:2.3:a:ip_reg:ip_reg:*:*:*:*:*:*:*:*
 cpe:2.3:a:ip_vault_-_wp_firewall_project:ip_vault_-_wp_firewall:*:*:*:*:*:*:*:*
+cpe:2.3:a:ipa-lab:hackingbuddygpt:*:*:*:*:*:*:*:*
 cpe:2.3:a:ipa:appgoat:*:*:*:*:*:*:*:*
 cpe:2.3:a:ipa:casl_ii_simulator:*:*:*:*:*:*:*:*
 cpe:2.3:a:ipa:empirical_project_monitor_-_extended:*:*:*:*:*:*:*:*
@@ -69424,6 +69429,7 @@ cpe:2.3:a:totemo:totemomail:*:*:*:*:*:*:*:*
 cpe:2.3:a:totemo:totemomail_encryption_gateway:*:*:*:*:*:*:*:*
 cpe:2.3:a:toto_project:toto:*:*:*:*:*:*:*:*
 cpe:2.3:a:totolink:a3000ru:*:*:*:*:*:*:*:*
+cpe:2.3:a:totolink:a3002mu:*:*:*:*:*:*:*:*
 cpe:2.3:a:totolink:a3100r:*:*:*:*:*:*:*:*
 cpe:2.3:a:totolink:a950rg:*:*:*:*:*:*:*:*
 cpe:2.3:a:totolink:ac1200_t8:*:*:*:*:*:*:*:*
