@@ -19397,6 +19397,7 @@ cpe:2.3:a:efingerd:efingerd:*:*:*:*:*:*:*:*
 cpe:2.3:a:efkan_forum:efkan_forum:*:*:*:*:*:*:*:*
 cpe:2.3:a:efm:iptime_a3004t:*:*:*:*:*:*:*:*
 cpe:2.3:a:efm:iptime_ax8004m:*:*:*:*:*:*:*:*
+cpe:2.3:a:efm:iptime_c200e:*:*:*:*:*:*:*:*
 cpe:2.3:a:efm:iptime_t16000m:*:*:*:*:*:*:*:*
 cpe:2.3:a:efm:iptime_t24000m:*:*:*:*:*:*:*:*
 cpe:2.3:a:efone:efone:*:*:*:*:*:*:*:*
@@ -25987,6 +25988,7 @@ cpe:2.3:a:govee:home:*:*:*:*:*:*:*:*
 cpe:2.3:a:goverlan:client_agent:*:*:*:*:*:*:*:*
 cpe:2.3:a:goverlan:reach_console:*:*:*:*:*:*:*:*
 cpe:2.3:a:goverlan:reach_server:*:*:*:*:*:*:*:*
+cpe:2.3:a:governikus:ausweisapp:*:*:*:*:*:*:*:*
 cpe:2.3:a:govhk:government_bookstore:*:*:*:*:*:*:*:*
 cpe:2.3:a:gowebsmarty:wp-encryption:*:*:*:*:*:*:*:*
 cpe:2.3:a:gowebsolutions:wp_customer_reviews:*:*:*:*:*:*:*:*
@@ -36633,6 +36635,7 @@ cpe:2.3:a:katello_project:katello:*:*:*:*:*:*:*:*
 cpe:2.3:a:kates:html2markdown:*:*:*:*:*:*:*:*
 cpe:2.3:a:katex:katex:*:*:*:*:*:*:*:*
 cpe:2.3:a:katieseaborn:zotpress:*:*:*:*:*:*:*:*
+cpe:2.3:a:katojkalemba:online_food_ordering_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:katy_whitton:newscmslite:*:*:*:*:*:*:*:*
 cpe:2.3:a:katy_whitton_web_development:newscmslite:*:*:*:*:*:*:*:*
 cpe:2.3:a:katyshop2_project:katyshop2:*:*:*:*:*:*:*:*
@@ -39624,6 +39627,7 @@ cpe:2.3:a:luadec_project:luadec:*:*:*:*:*:*:*:*
 cpe:2.3:a:luajit:luajit:*:*:*:*:*:*:*:*
 cpe:2.3:a:luarocks:lua-shmem:*:*:*:*:*:*:*:*
 cpe:2.3:a:luatex_project:luatex:*:*:*:*:*:*:*:*
+cpe:2.3:a:luben:zstd-jni:*:*:*:*:*:*:*:*
 cpe:2.3:a:lubus:wp_querey_table:*:*:*:*:*:*:*:*
 cpe:2.3:a:lubus:wp_query_console:*:*:*:*:*:*:*:*
 cpe:2.3:a:luca-app:luca:*:*:*:*:*:*:*:*
@@ -44146,6 +44150,7 @@ cpe:2.3:a:mongodb:go_driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:java_driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:js-bson:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:kubernetes_operator:*:*:*:*:*:*:*:*
+cpe:2.3:a:mongodb:laravel_mongodb:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:libbson:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:libmongocrypt:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:mongo_crypt_v1.so:*:*:*:*:*:*:*:*
@@ -54408,6 +54413,7 @@ cpe:2.3:a:porn-coin:porncoin:*:*:*:*:*:*:*:*
 cpe:2.3:a:port-killer_project:port-killer:*:*:*:*:*:*:*:*
 cpe:2.3:a:port389:389-ds-base:*:*:*:*:*:*:*:*
 cpe:2.3:a:port80_software:servermask:*:*:*:*:*:*:*:*
+cpe:2.3:a:port_bilis:i-educar:*:*:*:*:*:*:*:*
 cpe:2.3:a:portabilis:i-diario:*:*:*:*:*:*:*:*
 cpe:2.3:a:portabilis:i-educar:*:*:*:*:*:*:*:*
 cpe:2.3:a:portable:playable:*:*:*:*:*:*:*:*
@@ -59491,6 +59497,7 @@ cpe:2.3:a:sabreairlinesolutions:crew_planning:*:*:*:*:*:*:*:*
 cpe:2.3:a:sabreairlinesolutions:crew_services:*:*:*:*:*:*:*:*
 cpe:2.3:a:sabreairlinesolutions:crew_training:*:*:*:*:*:*:*:*
 cpe:2.3:a:sabros.us:sabros.us:*:*:*:*:*:*:*:*
+cpe:2.3:a:sabyasachirana:webmap:*:*:*:*:*:*:*:*
 cpe:2.3:a:sacred:sacred:*:*:*:*:*:*:*:*
 cpe:2.3:a:sadat:garbage_collection_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sadi_samami:multi_languages_webshop_online:*:*:*:*:*:*:*:*
@@ -64336,6 +64343,7 @@ cpe:2.3:a:sourcecodester:cet_automated_grading_system_with_ai_predictive_analyti
 cpe:2.3:a:sourcecodester:class_and_exam_timetabling_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:clinic_queuing_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:clinics_patient_management_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:sourcecodester:college_notes_gallery_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:complaint_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:complaints_report_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:complete_ecommerce_site:*:*:*:*:*:*:*:*
@@ -64404,6 +64412,7 @@ cpe:2.3:a:sourcecodester:online_courseware:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:online_diagnostic_lab_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:online_examination_learning_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:online_eyewear_shop:*:*:*:*:*:*:*:*
+cpe:2.3:a:sourcecodester:online_faculty_clearance_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:online_flight_booking_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:online_food_ordering_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:online_grading_system:*:*:*:*:*:*:*:*
@@ -73240,6 +73249,7 @@ cpe:2.3:a:web-settler:layer_slider:*:*:*:*:*:*:*:*
 cpe:2.3:a:web-settler:social_feed:*:*:*:*:*:*:*:*
 cpe:2.3:a:web-settler:social_feed_\|_all_social_media_in_one_place:*:*:*:*:*:*:*:*
 cpe:2.3:a:web-settler:testimonial_slider:*:*:*:*:*:*:*:*
+cpe:2.3:a:web-shop-host:startklar-elmentor-forms-extwidgets:*:*:*:*:*:*:*:*
 cpe:2.3:a:web-shop-host:startklar_elmentor_addons:*:*:*:*:*:*:*:*
 cpe:2.3:a:web-site-development:etek_systems_hit_counter:*:*:*:*:*:*:*:*
 cpe:2.3:a:web-soudan:mw_wp_form:*:*:*:*:*:*:*:*
