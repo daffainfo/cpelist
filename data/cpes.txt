@@ -470,6 +470,7 @@ cpe:2.3:a:a10networks:thunder_adc:*:*:*:*:*:*:*:*
 cpe:2.3:a:a17lab:wpstickybar:*:*:*:*:*:*:*:*
 cpe:2.3:a:a1apps:office_app-edit_word\,_pdf_file:*:*:*:*:*:*:*:*
 cpe:2.3:a:a1webserver:http_server:*:*:*:*:*:*:*:*
+cpe:2.3:a:a2aproject:a2a-java:*:*:*:*:*:*:*:*
 cpe:2.3:a:a2aproject:a2a-python:*:*:*:*:*:*:*:*
 cpe:2.3:a:a2hosting:a2_optimized:*:*:*:*:*:*:*:*
 cpe:2.3:a:a2technology:camera_trap_tracking_system:*:*:*:*:*:*:*:*
@@ -29853,6 +29854,7 @@ cpe:2.3:a:ibm:cloud_pak_for_data:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:cloud_pak_for_data_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:cloud_pak_for_data_system_-_cyclops:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:cloud_pak_for_data_system___cyclops:*:*:*:*:*:*:*:*
+cpe:2.3:a:ibm:cloud_pak_for_data_system_yosemite_10:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:cloud_pak_for_multicloud_management:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:cloud_pak_for_multicloud_management_monitoring:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:cloud_pak_for_security:*:*:*:*:*:*:*:*
@@ -41935,6 +41937,7 @@ cpe:2.3:a:michael_vogt:ubuntu-system-service:*:*:*:*:*:*:*:*
 cpe:2.3:a:michaelis_freunde:contentnow:*:*:*:*:*:*:*:*
 cpe:2.3:a:michaelkazakov:nimble_commander:*:*:*:*:*:*:*:*
 cpe:2.3:a:michaelkelly:duouniversalkeycloakauthenticator:*:*:*:*:*:*:*:*
+cpe:2.3:a:michaelliao:itranswarp:*:*:*:*:*:*:*:*
 cpe:2.3:a:michaelschwarz:ajax.net_professional:*:*:*:*:*:*:*:*
 cpe:2.3:a:michaeluno:auto_amazon_links:*:*:*:*:*:*:*:*
 cpe:2.3:a:michaeluno:responsive_column_widgets:*:*:*:*:*:*:*:*
