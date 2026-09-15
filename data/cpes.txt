@@ -65130,6 +65130,7 @@ cpe:2.3:a:stalker:stalker_internet_mail_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:stalkerlab:mailers:*:*:*:*:*:*:*:*
 cpe:2.3:a:stalw:stalwart:*:*:*:*:*:*:*:*
 cpe:2.3:a:stalwartlabs:mail-server:*:*:*:*:*:*:*:*
+cpe:2.3:a:stamparm:maltrail:*:*:*:*:*:*:*:*
 cpe:2.3:a:stamped:stamped:*:*:*:*:*:*:*:*
 cpe:2.3:a:stampit:stampit:*:*:*:*:*:*:*:*
 cpe:2.3:a:stampit:supermixer:*:*:*:*:*:*:*:*
@@ -77823,6 +77824,7 @@ cpe:2.3:a:zynit:seo_tools:*:*:*:*:*:*:*:*
 cpe:2.3:a:zynith:zynith:*:*:*:*:*:*:*:*
 cpe:2.3:a:zyrex:popup:*:*:*:*:*:*:*:*
 cpe:2.3:a:zyte:scrapy-splash:*:*:*:*:*:*:*:*
+cpe:2.3:a:zyx0814:filepress:*:*:*:*:*:*:*:*
 cpe:2.3:a:zyxel:cloud_cnm_secumanager:*:*:*:*:*:*:*:*
 cpe:2.3:a:zyxel:cloudcnm_secumanager:*:*:*:*:*:*:*:*
 cpe:2.3:a:zyxel:secuextender_ssl_vpn:*:*:*:*:*:*:*:*
@@ -88872,6 +88874,7 @@ cpe:2.3:h:d-link:di-784:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:di-804:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:di-8100:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:di-8100g:*:*:*:*:*:*:*:*
+cpe:2.3:h:d-link:di-8300:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:di-8400:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dir-100:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dir-120:*:*:*:*:*:*:*:*
