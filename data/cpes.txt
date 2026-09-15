@@ -48859,6 +48859,7 @@ cpe:2.3:a:openautoclassifieds:openautoclassifieds:*:*:*:*:*:*:*:*
 cpe:2.3:a:openautomationsoftware:oas_platform:*:*:*:*:*:*:*:*
 cpe:2.3:a:openautomationsoftware:open_automation_software:*:*:*:*:*:*:*:*
 cpe:2.3:a:openbabel:open_babel:*:*:*:*:*:*:*:*
+cpe:2.3:a:openbankproject:obp-api:*:*:*:*:*:*:*:*
 cpe:2.3:a:openbao:aws_plugin:*:*:*:*:*:*:*:*
 cpe:2.3:a:openbao:openbao:*:*:*:*:*:*:*:*
 cpe:2.3:a:openbaraza:openbaraza_human_capital_management:*:*:*:*:*:*:*:*
@@ -48898,6 +48899,7 @@ cpe:2.3:a:openchrome:openchrome:*:*:*:*:*:*:*:*
 cpe:2.3:a:openci:openci:*:*:*:*:*:*:*:*
 cpe:2.3:a:openclarity:kubeclarity:*:*:*:*:*:*:*:*
 cpe:2.3:a:openclassifieds:open_classifieds_2:*:*:*:*:*:*:*:*
+cpe:2.3:a:openclaw:clawscan:*:*:*:*:*:*:*:*
 cpe:2.3:a:openclaw:openclaw:*:*:*:*:*:*:*:*
 cpe:2.3:a:openclaw:openclaw\/feishu:*:*:*:*:*:*:*:*
 cpe:2.3:a:openclaw:openclaw\/voice-call:*:*:*:*:*:*:*:*
@@ -63283,6 +63285,7 @@ cpe:2.3:a:skysystem:arfa_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:skytable:skytable:*:*:*:*:*:*:*:*
 cpe:2.3:a:skywavesolutions:wp_firebase_push_notification:*:*:*:*:*:*:*:*
 cpe:2.3:a:slab:quill:*:*:*:*:*:*:*:*
+cpe:2.3:a:slab:safeurl:*:*:*:*:*:*:*:*
 cpe:2.3:a:slack-chat_project:slack-chat:*:*:*:*:*:*:*:*
 cpe:2.3:a:slack:nebula:*:*:*:*:*:*:*:*
 cpe:2.3:a:slack:wp_slacksync:*:*:*:*:*:*:*:*
