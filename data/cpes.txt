@@ -13395,6 +13395,7 @@ cpe:2.3:a:code-projects:library_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:library_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:local_storage_todo_app:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:login_registration_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:code-projects:matrimonial_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:mobile_shop:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:modern_bag:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:news-buzz:*:*:*:*:*:*:*:*
@@ -43406,6 +43407,7 @@ cpe:2.3:a:minioragne:page_restriction:*:*:*:*:*:*:*:*
 cpe:2.3:a:miniorange:active_directory_integration_\/_ldap_integration:*:*:*:*:*:*:*:*
 cpe:2.3:a:miniorange:discord_integration:*:*:*:*:*:*:*:*
 cpe:2.3:a:miniorange:google_authenticator:*:*:*:*:*:*:*:*
+cpe:2.3:a:miniorange:ldap_\/_active_directory_integration:*:*:*:*:*:*:*:*
 cpe:2.3:a:miniorange:ldap_integration_with_active_directory_and_openldap:*:*:*:*:*:*:*:*
 cpe:2.3:a:miniorange:limit_login_attempts:*:*:*:*:*:*:*:*
 cpe:2.3:a:miniorange:login_using_wordpress_users:*:*:*:*:*:*:*:*
@@ -56324,6 +56326,7 @@ cpe:2.3:a:quick_node_block_project:quick_node_block:*:*:*:*:*:*:*:*
 cpe:2.3:a:quick_page\/post_redirect_project:quick_page\/post_redirect:*:*:*:*:*:*:*:*
 cpe:2.3:a:quick_subscribe_project:quick_subscribe:*:*:*:*:*:*:*:*
 cpe:2.3:a:quick_tabs_module_project:quicktabs:*:*:*:*:*:*:*:*
+cpe:2.3:a:quick_tabs_project:quick_tabs:*:*:*:*:*:*:*:*
 cpe:2.3:a:quickad_project:quickad:*:*:*:*:*:*:*:*
 cpe:2.3:a:quickappscms:quickapps_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:quickbox:quickbox:*:*:*:*:*:*:*:*
