@@ -2060,6 +2060,7 @@ cpe:2.3:a:ag-grid:ag-grid:*:*:*:*:*:*:*:*
 cpe:2.3:a:ag-grid:ag_charts:*:*:*:*:*:*:*:*
 cpe:2.3:a:ag-klettern-odenwald:ag_klettern_odenwald:*:*:*:*:*:*:*:*
 cpe:2.3:a:ag-solutions:mosmedia_lite:*:*:*:*:*:*:*:*
+cpe:2.3:a:ag-ui-protocol:ag-ui:*:*:*:*:*:*:*:*
 cpe:2.3:a:agares_media:arcadem:*:*:*:*:*:*:*:*
 cpe:2.3:a:agares_media:arcadem_pro:*:*:*:*:*:*:*:*
 cpe:2.3:a:agares_media:phpautovideo:*:*:*:*:*:*:*:*
@@ -24329,6 +24330,7 @@ cpe:2.3:a:gecu:gulf_credit_union:*:*:*:*:*:*:*:*
 cpe:2.3:a:geda-project:gerbv:*:*:*:*:*:*:*:*
 cpe:2.3:a:geda:gnetlist:*:*:*:*:*:*:*:*
 cpe:2.3:a:geddyjs:geddy:*:*:*:*:*:*:*:*
+cpe:2.3:a:gedelumbung:hospitalmanagement:*:*:*:*:*:*:*:*
 cpe:2.3:a:gedi_project:gedi:*:*:*:*:*:*:*:*
 cpe:2.3:a:geeeeeeeek:dingfanzu:*:*:*:*:*:*:*:*
 cpe:2.3:a:geeeeeeeek:java_shop:*:*:*:*:*:*:*:*
@@ -66679,6 +66681,7 @@ cpe:2.3:a:synaptics:displaylink_usb_graphics:*:*:*:*:*:*:*:*
 cpe:2.3:a:synaptics:fingerprint_driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:synaptics:smart_audio_uwp:*:*:*:*:*:*:*:*
 cpe:2.3:a:synaptics:sound_device:*:*:*:*:*:*:*:*
+cpe:2.3:a:synaptikcms:synaptik-cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:synaptivemedical:clearcanvas:*:*:*:*:*:*:*:*
 cpe:2.3:a:sync-exec_project:sync-exec:*:*:*:*:*:*:*:*
 cpe:2.3:a:sync-in:server:*:*:*:*:*:*:*:*
