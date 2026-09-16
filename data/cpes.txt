@@ -475,6 +475,7 @@ cpe:2.3:a:a2aproject:a2a-python:*:*:*:*:*:*:*:*
 cpe:2.3:a:a2hosting:a2_optimized:*:*:*:*:*:*:*:*
 cpe:2.3:a:a2technology:camera_trap_tracking_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:a2technology:license_portal_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:a2ui-project:a2ui:*:*:*:*:*:*:*:*
 cpe:2.3:a:a3malnet:magic-portal:*:*:*:*:*:*:*:*
 cpe:2.3:a:a3rev:a3_portfolio:*:*:*:*:*:*:*:*
 cpe:2.3:a:a3rev:contact_us_page_-_contact_people:*:*:*:*:*:*:*:*
@@ -19266,7 +19267,7 @@ cpe:2.3:a:edac-utils_project:edac-utils:*:*:*:*:*:*:*:*
 cpe:2.3:a:edatcat:edatcat_shopping_cart_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:edb-debugger_project:edb-debugger:*:*:*:*:*:*:*:*
 cpe:2.3:a:eddtoken_project:eddtoken:*:*:*:*:*:*:*:*
-cpe:2.3:a:eddyverbruggen:cordova_social_sharing:*:*:*:*:*:*:*:*
+cpe:2.3:a:eddyverbruggen:cordova-plugin-x-socialsharing:*:*:*:*:*:*:*:*
 cpe:2.3:a:edetw:u-office_force:*:*:*:*:*:*:*:*
 cpe:2.3:a:edex-ui_project:edex-ui:*:*:*:*:*:*:*:*
 cpe:2.3:a:edge22:wp_show_posts:*:*:*:*:*:*:*:*
