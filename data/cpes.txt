@@ -11103,6 +11103,7 @@ cpe:2.3:a:changepassword:changepassword:*:*:*:*:*:*:*:*
 cpe:2.3:a:changepop-back_project:changepop-back:*:*:*:*:*:*:*:*
 cpe:2.3:a:changeset_project:changeset:*:*:*:*:*:*:*:*
 cpe:2.3:a:changeweb:unifiedtransform:*:*:*:*:*:*:*:*
+cpe:2.3:a:changeweder:crm:*:*:*:*:*:*:*:*
 cpe:2.3:a:changinginformationtechnology:tcbservisign:*:*:*:*:*:*:*:*
 cpe:2.3:a:changingtec:hwatai_servisign:*:*:*:*:*:*:*:*
 cpe:2.3:a:changingtec:idexpert:*:*:*:*:*:*:*:*
@@ -37731,6 +37732,7 @@ cpe:2.3:a:lagarde:storefront:*:*:*:*:*:*:*:*
 cpe:2.3:a:lagunaisw:wp_users_masquerade:*:*:*:*:*:*:*:*
 cpe:2.3:a:lahirudanushka:school_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:laiketui:laiketui:*:*:*:*:*:*:*:*
+cpe:2.3:a:lakedrops:digital_signage_framework:*:*:*:*:*:*:*:*
 cpe:2.3:a:lakefs:lakefs:*:*:*:*:*:*:*:*
 cpe:2.3:a:lakernote:easyadmin:*:*:*:*:*:*:*:*
 cpe:2.3:a:lakesidesoftware:systrack_lsiagent:*:*:*:*:*:*:*:*
@@ -42875,6 +42877,7 @@ cpe:2.3:a:microsoft:skype_extension:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:skype_for_business:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:skype_for_business_basic:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:skype_for_business_server:*:*:*:*:*:*:*:*
+cpe:2.3:a:microsoft:skype_for_business_server_subscription_edition:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:small_business_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:small_business_srv:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:sna_server:*:*:*:*:*:*:*:*
@@ -59313,6 +59316,7 @@ cpe:2.3:a:rudrasoftech:edusec:*:*:*:*:*:*:*:*
 cpe:2.3:a:rufus_project:rufus:*:*:*:*:*:*:*:*
 cpe:2.3:a:ruifang-tech:rebuild:*:*:*:*:*:*:*:*
 cpe:2.3:a:ruijie:eg105g-p:*:*:*:*:*:*:*:*
+cpe:2.3:a:ruijie:rg-ew3000gx:*:*:*:*:*:*:*:*
 cpe:2.3:a:ruijie:rg-uac:*:*:*:*:*:*:*:*
 cpe:2.3:a:ruijie:rg_uac:*:*:*:*:*:*:*:*
 cpe:2.3:a:ruijienetworks:eap:*:*:*:*:*:*:*:*
@@ -64394,6 +64398,7 @@ cpe:2.3:a:sourcecodester:indian_invoicing_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:insurance_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:interactive_map_with_marker:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:internship_portal_management_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:sourcecodester:inventory_and_monitoring_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:inventory_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:inventory_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:kortex_lite_advocate_office_management_system:*:*:*:*:*:*:*:*
@@ -66319,7 +66324,7 @@ cpe:2.3:a:sylpheed:sylpheed:*:*:*:*:*:*:*:*
 cpe:2.3:a:sylpheed:sylpheed_email_client:*:*:*:*:*:*:*:*
 cpe:2.3:a:sylpheed_project:sylpheed:*:*:*:*:*:*:*:*
 cpe:2.3:a:sylpheo:sylphone:*:*:*:*:*:*:*:*
-cpe:2.3:a:sylphx:filesystem-mcp:*:*:*:*:*:*:*:*
+cpe:2.3:a:sylphx:filesystem_mcp:*:*:*:*:*:*:*:*
 cpe:2.3:a:syltek:syltek:*:*:*:*:*:*:*:*
 cpe:2.3:a:sylvain_pasquet:bbzl.php:*:*:*:*:*:*:*:*
 cpe:2.3:a:sylvain_pasquet:bbzl_php:*:*:*:*:*:*:*:*
