@@ -2617,6 +2617,7 @@ cpe:2.3:a:alibaba:druid:*:*:*:*:*:*:*:*
 cpe:2.3:a:alibaba:fastjson:*:*:*:*:*:*:*:*
 cpe:2.3:a:alibaba:nacos:*:*:*:*:*:*:*:*
 cpe:2.3:a:alibaba:nacos_spring_project:*:*:*:*:*:*:*:*
+cpe:2.3:a:alibaba:open_code_review:*:*:*:*:*:*:*:*
 cpe:2.3:a:alibaba:tengine:*:*:*:*:*:*:*:*
 cpe:2.3:a:alibaba_clone_script_project:alibaba_clone_script:*:*:*:*:*:*:*:*
 cpe:2.3:a:alibabaclone:alibaba_clone:*:*:*:*:*:*:*:*
@@ -5940,6 +5941,7 @@ cpe:2.3:a:audiofile:audiofile:*:*:*:*:*:*:*:*
 cpe:2.3:a:audiogalaxy:audiogalaxy:*:*:*:*:*:*:*:*
 cpe:2.3:a:audiograbber:audiograbber:*:*:*:*:*:*:*:*
 cpe:2.3:a:audiograbber:audiograbber_mp3_plugin:*:*:*:*:*:*:*:*
+cpe:2.3:a:audiokit:audiokit:*:*:*:*:*:*:*:*
 cpe:2.3:a:audiolink:audiolink:*:*:*:*:*:*:*:*
 cpe:2.3:a:audiosharescript:audioshare:*:*:*:*:*:*:*:*
 cpe:2.3:a:audiotool:ease_jukebox:*:*:*:*:*:*:*:*
@@ -44297,6 +44299,7 @@ cpe:2.3:a:moovit:bus_public_transit_app:*:*:*:*:*:*:*:*
 cpe:2.3:a:mopa_project:mopa:*:*:*:*:*:*:*:*
 cpe:2.3:a:mopcms:mopcms:*:*:*:*:*:*:*:*
 cpe:2.3:a:moped_project:moped:*:*:*:*:*:*:*:*
+cpe:2.3:a:mopidy:mopidy:*:*:*:*:*:*:*:*
 cpe:2.3:a:mopl:phone_for_google_voice_\&_gtalk:*:*:*:*:*:*:*:*
 cpe:2.3:a:mor-pah.net:dmitry_deepmagic_information_gathering_tool:*:*:*:*:*:*:*:*
 cpe:2.3:a:morbtay:jetty:*:*:*:*:*:*:*:*
@@ -51244,6 +51247,7 @@ cpe:2.3:a:oxfam_australia:emergencies_personnel_information_system:*:*:*:*:*:*:*
 cpe:2.3:a:oxid-esales:eshop:*:*:*:*:*:*:*:*
 cpe:2.3:a:oxid:cain_and_abel:*:*:*:*:*:*:*:*
 cpe:2.3:a:oxid:eshop:*:*:*:*:*:*:*:*
+cpe:2.3:a:oxide:pdf_oxide:*:*:*:*:*:*:*:*
 cpe:2.3:a:oxide_project:oxide:*:*:*:*:*:*:*:*
 cpe:2.3:a:oxidforge:eshop:*:*:*:*:*:*:*:*
 cpe:2.3:a:oxidforge:oxid_eshop4.0.0.2_14967:*:*:*:*:*:*:*:*
