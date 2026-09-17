@@ -44166,10 +44166,12 @@ cpe:2.3:a:mongodb:libmongocrypt:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:mongo_crypt_v1.so:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:mongocryptd:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:mongodb:*:*:*:*:*:*:*:*
+cpe:2.3:a:mongodb:mongodb_client_encryption:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:mongodb_enterprise_kubernetes_operator:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:mongodb_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:mongomirror:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:mongosh:*:*:*:*:*:*:*:*
+cpe:2.3:a:mongodb:mongosql_transition_readiness_tool:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:node.js:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:odbc_driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:ops_manager:*:*:*:*:*:*:*:*
@@ -56885,6 +56887,7 @@ cpe:2.3:a:rcms_pro:rgamescript_pro:*:*:*:*:*:*:*:*
 cpe:2.3:a:rcokwellautomation:arena_input_analyzer:*:*:*:*:*:*:*:*
 cpe:2.3:a:rconfig:rconfig:*:*:*:*:*:*:*:*
 cpe:2.3:a:rcos:submitty:*:*:*:*:*:*:*:*
+cpe:2.3:a:rcourtman:pulse:*:*:*:*:*:*:*:*
 cpe:2.3:a:rcpro_project:rcpro:*:*:*:*:*:*:*:*
 cpe:2.3:a:rcu_cell_project:rcu_cell:*:*:*:*:*:*:*:*
 cpe:2.3:a:rd-media:com_rdautos:*:*:*:*:*:*:*:*
