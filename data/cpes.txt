@@ -3990,6 +3990,7 @@ cpe:2.3:a:apache:amqp_jms_client:*:*:*:*:*:*:*:*
 cpe:2.3:a:apache:answer:*:*:*:*:*:*:*:*
 cpe:2.3:a:apache:ant:*:*:*:*:*:*:*:*
 cpe:2.3:a:apache:any23:*:*:*:*:*:*:*:*
+cpe:2.3:a:apache:apache-airflow-providers-akeyless:*:*:*:*:*:*:*:*
 cpe:2.3:a:apache:apache-airflow-providers-amazon:*:*:*:*:*:*:*:*
 cpe:2.3:a:apache:apache-airflow-providers-apache-drill:*:*:*:*:*:*:*:*
 cpe:2.3:a:apache:apache-airflow-providers-apache-hive:*:*:*:*:*:*:*:*
@@ -4254,6 +4255,7 @@ cpe:2.3:a:apache:ozone:*:*:*:*:*:*:*:*
 cpe:2.3:a:apache:parquet-mr:*:*:*:*:*:*:*:*
 cpe:2.3:a:apache:parquet:*:*:*:*:*:*:*:*
 cpe:2.3:a:apache:parquet_java:*:*:*:*:*:*:*:*
+cpe:2.3:a:apache:pdfbox-examples:*:*:*:*:*:*:*:*
 cpe:2.3:a:apache:pdfbox:*:*:*:*:*:*:*:*
 cpe:2.3:a:apache:pekko_management:*:*:*:*:*:*:*:*
 cpe:2.3:a:apache:pinot:*:*:*:*:*:*:*:*
@@ -11705,6 +11707,7 @@ cpe:2.3:a:cisco:catalyst_6000_intrusion_detection_system_module:*:*:*:*:*:*:*:*
 cpe:2.3:a:cisco:catalyst_8000v_edge:*:*:*:*:*:*:*:*
 cpe:2.3:a:cisco:catalyst_9800-cl_wireless_controllers_for_cloud:*:*:*:*:*:*:*:*
 cpe:2.3:a:cisco:catalyst_center:*:*:*:*:*:*:*:*
+cpe:2.3:a:cisco:catalyst_center_global_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:cisco:catalyst_cg418-e:*:*:*:*:*:*:*:*
 cpe:2.3:a:cisco:catalyst_cg522-e:*:*:*:*:*:*:*:*
 cpe:2.3:a:cisco:catalyst_sd-wan_manager:*:*:*:*:*:*:*:*
@@ -18303,6 +18306,7 @@ cpe:2.3:a:dromara:hertzbeat:*:*:*:*:*:*:*:*
 cpe:2.3:a:dromara:hutool:*:*:*:*:*:*:*:*
 cpe:2.3:a:dromara:j2eefast:*:*:*:*:*:*:*:*
 cpe:2.3:a:dromara:lamp-cloud:*:*:*:*:*:*:*:*
+cpe:2.3:a:dromara:mayfly-go:*:*:*:*:*:*:*:*
 cpe:2.3:a:dromara:open-capacity-platform:*:*:*:*:*:*:*:*
 cpe:2.3:a:dromara:orion-visor:*:*:*:*:*:*:*:*
 cpe:2.3:a:dromara:ruoyi-vue-plus:*:*:*:*:*:*:*:*
@@ -20201,6 +20205,7 @@ cpe:2.3:a:emurasoft:emftp:*:*:*:*:*:*:*:*
 cpe:2.3:a:emuse_-_eservices_\/_envoice_project:emuse_-_eservices_\/_envoice:*:*:*:*:*:*:*:*
 cpe:2.3:a:emusoft:emucms:*:*:*:*:*:*:*:*
 cpe:2.3:a:emweb:wt:*:*:*:*:*:*:*:*
+cpe:2.3:a:emxtecnologia:gestao_x_business_suite:*:*:*:*:*:*:*:*
 cpe:2.3:a:en2grate:eta_mobile:*:*:*:*:*:*:*:*
 cpe:2.3:a:enable\/disable_auto_login_when_register_project:enable\/disable_auto_login_when_register:*:*:*:*:*:*:*:*
 cpe:2.3:a:enable_svg_uploads_project:enable_svg_uploads:*:*:*:*:*:*:*:*
@@ -64380,6 +64385,7 @@ cpe:2.3:a:sourcecodester:daily_calories_monitoring_tool:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:daily_expenses_monitoring_app:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:downloading_client_database_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:drag_and_drop_image_upload:*:*:*:*:*:*:*:*
+cpe:2.3:a:sourcecodester:drug_recommendation_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:dynamic_input_field_generator_using_html_css_and_php:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:ecommerce_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:edoc_doctor_appointment_system:*:*:*:*:*:*:*:*
