@@ -22999,6 +22999,7 @@ cpe:2.3:a:forgerock:openam:*:*:*:*:*:*:*:*
 cpe:2.3:a:forgerock:racf_connector:*:*:*:*:*:*:*:*
 cpe:2.3:a:forgerock:service_broker:*:*:*:*:*:*:*:*
 cpe:2.3:a:forgerock:web_policy_agents:*:*:*:*:*:*:*:*
+cpe:2.3:a:forget-c:jellyfish_ai_short_drama_studio:*:*:*:*:*:*:*:*
 cpe:2.3:a:forget_heart_message_box_project:forget_heart_message_box:*:*:*:*:*:*:*:*
 cpe:2.3:a:forget_it_project:forget_it:*:*:*:*:*:*:*:*
 cpe:2.3:a:forip:administracao_pabx:*:*:*:*:*:*:*:*
@@ -29849,6 +29850,7 @@ cpe:2.3:a:ibm:chatbot_with_ibm_watson:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:cics_transaction_gateway:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:cics_transaction_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:cics_tx:*:*:*:*:*:*:*:*
+cpe:2.3:a:ibm:cics_tx_advanced:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:classic_meeting_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:client_access:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:client_application_access:*:*:*:*:*:*:*:*
@@ -30797,6 +30799,7 @@ cpe:2.3:a:ibm:ts3100_tape_library_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:ts3200_tape_library_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:ts3310_tape_library_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:ts3500_tape_library_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:a:ibm:ts4300:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:ts4500_cli_tool:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:ts4500_imc:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:turbonomic_prometurbo_agent:*:*:*:*:*:*:*:*
@@ -64675,6 +64678,7 @@ cpe:2.3:a:spassarop:owasp_antisamy_.net:*:*:*:*:*:*:*:*
 cpe:2.3:a:spatie:browsershot:*:*:*:*:*:*:*:*
 cpe:2.3:a:spatie:image_optimizer:*:*:*:*:*:*:*:*
 cpe:2.3:a:spatie:laravel_media_library:*:*:*:*:*:*:*:*
+cpe:2.3:a:spatie:scotty:*:*:*:*:*:*:*:*
 cpe:2.3:a:spaw_editor:spaw_php:*:*:*:*:*:*:*:*
 cpe:2.3:a:spawar.navy.mil:wwwwais.25.c:*:*:*:*:*:*:*:*
 cpe:2.3:a:spb:kiosk_engine:*:*:*:*:*:*:*:*
@@ -87871,6 +87875,7 @@ cpe:2.3:h:cisco:ucs_64108:*:*:*:*:*:*:*:*
 cpe:2.3:h:cisco:ucs_6454:*:*:*:*:*:*:*:*
 cpe:2.3:h:cisco:ucs_6454_fabric_interconnect:*:*:*:*:*:*:*:*
 cpe:2.3:h:cisco:ucs_6536:*:*:*:*:*:*:*:*
+cpe:2.3:h:cisco:ucs_9108:*:*:*:*:*:*:*:*
 cpe:2.3:h:cisco:ucs_b200:*:*:*:*:*:*:*:*
 cpe:2.3:h:cisco:ucs_b200_m5:*:*:*:*:*:*:*:*
 cpe:2.3:h:cisco:ucs_b260:*:*:*:*:*:*:*:*
