@@ -30649,7 +30649,9 @@ cpe:2.3:a:ibm:sterling_integrator:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:sterling_multi-channel_fulfillment_solution:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:sterling_order_management:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:sterling_partner_engagement_manager:*:*:*:*:*:*:*:*
+cpe:2.3:a:ibm:sterling_partner_engagement_manager_essentials_edition:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:sterling_partner_engagement_manager_on_cloud:*:*:*:*:*:*:*:*
+cpe:2.3:a:ibm:sterling_partner_engagement_manager_standard_edition:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:sterling_secure_proxy:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:sterling_selling_and_fulfillment_foundation:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:storage_ceph:*:*:*:*:*:*:*:*
@@ -66175,6 +66177,7 @@ cpe:2.3:a:svelte:devalue:*:*:*:*:*:*:*:*
 cpe:2.3:a:svelte:kit:*:*:*:*:*:*:*:*
 cpe:2.3:a:svelte:svelte:*:*:*:*:*:*:*:*
 cpe:2.3:a:svelte:sveltekit:*:*:*:*:*:*:*:*
+cpe:2.3:a:sveltycms:sveltycms:*:*:*:*:*:*:*:*
 cpe:2.3:a:sven-ove_bjerkan:downloadprotect:*:*:*:*:*:*:*:*
 cpe:2.3:a:sven_decabooter:uc_paydutchgroup_\/_wedeal_payment:*:*:*:*:*:*:*:*
 cpe:2.3:a:sven_moderow:sven_moderow_guestbook:*:*:*:*:*:*:*:*
