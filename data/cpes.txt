@@ -1005,6 +1005,7 @@ cpe:2.3:a:acresso:flexnet_connect:*:*:*:*:*:*:*:*
 cpe:2.3:a:acresso:intallshield_update_agent:*:*:*:*:*:*:*:*
 cpe:2.3:a:acritum:femitter_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:acrolinx:acrolinx_server:*:*:*:*:*:*:*:*
+cpe:2.3:a:acronis:acronis_backup:*:*:*:*:*:*:*:*
 cpe:2.3:a:acronis:agent:*:*:*:*:*:*:*:*
 cpe:2.3:a:acronis:backup_\&_recovery_agent:*:*:*:*:*:*:*:*
 cpe:2.3:a:acronis:backup_\&_recovery_agent_core:*:*:*:*:*:*:*:*
@@ -3994,6 +3995,7 @@ cpe:2.3:a:apache:apache-airflow-providers-akeyless:*:*:*:*:*:*:*:*
 cpe:2.3:a:apache:apache-airflow-providers-amazon:*:*:*:*:*:*:*:*
 cpe:2.3:a:apache:apache-airflow-providers-apache-drill:*:*:*:*:*:*:*:*
 cpe:2.3:a:apache:apache-airflow-providers-apache-hive:*:*:*:*:*:*:*:*
+cpe:2.3:a:apache:apache-airflow-providers-apache-kafka:*:*:*:*:*:*:*:*
 cpe:2.3:a:apache:apache-airflow-providers-apache-pig:*:*:*:*:*:*:*:*
 cpe:2.3:a:apache:apache-airflow-providers-apache-pinot:*:*:*:*:*:*:*:*
 cpe:2.3:a:apache:apache-airflow-providers-apache-spark:*:*:*:*:*:*:*:*
@@ -25589,6 +25591,7 @@ cpe:2.3:a:gohugo:hugo:*:*:*:*:*:*:*:*
 cpe:2.3:a:gojbm:coe_message_processor:*:*:*:*:*:*:*:*
 cpe:2.3:a:golang:crypto:*:*:*:*:*:*:*:*
 cpe:2.3:a:golang:go:*:*:*:*:*:*:*:*
+cpe:2.3:a:golang:gopls:*:*:*:*:*:*:*:*
 cpe:2.3:a:golang:h2c:*:*:*:*:*:*:*:*
 cpe:2.3:a:golang:hpack:*:*:*:*:*:*:*:*
 cpe:2.3:a:golang:http2:*:*:*:*:*:*:*:*
@@ -40575,6 +40578,7 @@ cpe:2.3:a:marcomilesi:anac_xml_viewer:*:*:*:*:*:*:*:*
 cpe:2.3:a:marcomilesi:browser_theme_color:*:*:*:*:*:*:*:*
 cpe:2.3:a:marcomilesi:wp_attachments:*:*:*:*:*:*:*:*
 cpe:2.3:a:marconi:forethought:*:*:*:*:*:*:*:*
+cpe:2.3:a:marcopiovanello:yt-dlp-web-ui:*:*:*:*:*:*:*:*
 cpe:2.3:a:marcorulicke:coru_lfmember:*:*:*:*:*:*:*:*
 cpe:2.3:a:marcos_luiz_onisto:lib_cgi:*:*:*:*:*:*:*:*
 cpe:2.3:a:marcosteinbrecher:wp_browserupdate:*:*:*:*:*:*:*:*
@@ -41095,6 +41099,7 @@ cpe:2.3:a:mbedthis_software:mbedthis_appweb_http_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:mbilalm:urdu_formatter:*:*:*:*:*:*:*:*
 cpe:2.3:a:mblog_project:mblog:*:*:*:*:*:*:*:*
 cpe:2.3:a:mblogger_project:mblogger:*:*:*:*:*:*:*:*
+cpe:2.3:a:mbovel:ts-tree:*:*:*:*:*:*:*:*
 cpe:2.3:a:mbsync_project:mbsync:*:*:*:*:*:*:*:*
 cpe:2.3:a:mbtcreations:100_beauty_tips:*:*:*:*:*:*:*:*
 cpe:2.3:a:mbtcreations:atkins_diet_free_shopping_list:*:*:*:*:*:*:*:*
@@ -44153,6 +44158,7 @@ cpe:2.3:a:moneytree_project:moneytree:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongo-express_project:mongo-express:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb-instance_project:mongodb-instance:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:atlas_kubernetes_operator:*:*:*:*:*:*:*:*
+cpe:2.3:a:mongodb:bi_connector:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:bi_connector_odbc_driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:bson:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:c\#_driver:*:*:*:*:*:*:*:*
@@ -44188,6 +44194,7 @@ cpe:2.3:a:mongodb:python_driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:ruby_driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:rust-driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:rust_driver:*:*:*:*:*:*:*:*
+cpe:2.3:a:mongodb:sql_schema_builder_cli:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:swift_driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongoosejs:mongoose:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongoosemarketplace:mongoose_page_plugin:*:*:*:*:*:*:*:*
@@ -74497,7 +74504,9 @@ cpe:2.3:a:wolfsight:wolfsight_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:wolfssh:wolfssh:*:*:*:*:*:*:*:*
 cpe:2.3:a:wolfssl:wolfboot:*:*:*:*:*:*:*:*
 cpe:2.3:a:wolfssl:wolfcrypt:*:*:*:*:*:*:*:*
+cpe:2.3:a:wolfssl:wolfengine:*:*:*:*:*:*:*:*
 cpe:2.3:a:wolfssl:wolfmqtt:*:*:*:*:*:*:*:*
+cpe:2.3:a:wolfssl:wolfprovider:*:*:*:*:*:*:*:*
 cpe:2.3:a:wolfssl:wolfssl:*:*:*:*:*:*:*:*
 cpe:2.3:a:wolfssl:yassl:*:*:*:*:*:*:*:*
 cpe:2.3:a:wolfvision:cynap:*:*:*:*:*:*:*:*
