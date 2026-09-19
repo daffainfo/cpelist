@@ -30598,6 +30598,7 @@ cpe:2.3:a:ibm:spectrum_control:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:spectrum_copy_data_management:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:spectrum_fusion_hci:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:spectrum_lsf:*:*:*:*:*:*:*:*
+cpe:2.3:a:ibm:spectrum_lsf_ibm_platform_rtm:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:spectrum_lsf_suite:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:spectrum_protect:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:spectrum_protect_backup-archive_client:*:*:*:*:*:*:*:*
