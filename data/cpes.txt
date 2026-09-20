@@ -8,6 +8,8 @@ cpe:2.3:a:01-scripts:01_artikelsystem:*:*:*:*:*:*:*:*
 cpe:2.3:a:01-scripts:01acp:*:*:*:*:*:*:*:*
 cpe:2.3:a:01generator:pireospay:*:*:*:*:*:*:*:*
 cpe:2.3:a:01org:tpm2.0-tools:*:*:*:*:*:*:*:*
+cpe:2.3:a:0215andrewfeng:ace-mcp:*:*:*:*:*:*:*:*
+cpe:2.3:a:03-lovepreetsingh:mcp:*:*:*:*:*:*:*:*
 cpe:2.3:a:07fly:07fly-cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:07fly:07flycms:*:*:*:*:*:*:*:*
 cpe:2.3:a:07fly:customer_relationship_management:*:*:*:*:*:*:*:*
@@ -1373,6 +1375,7 @@ cpe:2.3:a:adiscon:loganalyzer:*:*:*:*:*:*:*:*
 cpe:2.3:a:adiscon:password_manager_for_iis:*:*:*:*:*:*:*:*
 cpe:2.3:a:adiscon:winsyslog:*:*:*:*:*:*:*:*
 cpe:2.3:a:aditaas:allied_digital_integrated_tool-as-a-service:*:*:*:*:*:*:*:*
+cpe:2.3:a:adithyayelloju:restaurant-management-system:*:*:*:*:*:*:*:*
 cpe:2.3:a:aditus:jpgraph:*:*:*:*:*:*:*:*
 cpe:2.3:a:aditustoken_project:aditustoken:*:*:*:*:*:*:*:*
 cpe:2.3:a:aditya88:online_furniture_shopping_ecommerce_website:*:*:*:*:*:*:*:*
@@ -46540,6 +46543,7 @@ cpe:2.3:a:newanz:newsoffice:*:*:*:*:*:*:*:*
 cpe:2.3:a:newapi:new_api:*:*:*:*:*:*:*:*
 cpe:2.3:a:newatlanta:servletexec:*:*:*:*:*:*:*:*
 cpe:2.3:a:newbee-ltd:newbee-mall-plus:*:*:*:*:*:*:*:*
+cpe:2.3:a:newbee-ltd:newbee-mall:*:*:*:*:*:*:*:*
 cpe:2.3:a:newbee-mall_project:newbee-mall:*:*:*:*:*:*:*:*
 cpe:2.3:a:newbinggogo_project:newbinggogo:*:*:*:*:*:*:*:*
 cpe:2.3:a:newearthpt:imgupload:*:*:*:*:*:*:*:*
