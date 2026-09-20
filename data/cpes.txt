@@ -1,6 +1,8 @@
 cpe:2.3:a:.bbsoftware:bb_flashback:*:*:*:*:*:*:*:*
 cpe:2.3:a:.joomclan:com_joomclip:*:*:*:*:*:*:*:*
 cpe:2.3:a:.matteoiammarrone:iamma_simple_gallery:*:*:*:*:*:*:*:*
+cpe:2.3:a:0-gaurav-0:nexus-mcp:*:*:*:*:*:*:*:*
+cpe:2.3:a:00kisumi00:mcp-file-analyzer:*:*:*:*:*:*:*:*
 cpe:2.3:a:01-scripts:01-artikelsystem:*:*:*:*:*:*:*:*
 cpe:2.3:a:01-scripts:01_artikelsystem:*:*:*:*:*:*:*:*
 cpe:2.3:a:01-scripts:01acp:*:*:*:*:*:*:*:*
@@ -47292,6 +47294,7 @@ cpe:2.3:a:nombas:scriptease_webserver:*:*:*:*:*:*:*:*
 cpe:2.3:a:nomoketos_rules:nomoketos_rules:*:*:*:*:*:*:*:*
 cpe:2.3:a:noname-cms:noname_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:noname_media:photo_galerie_standard:*:*:*:*:*:*:*:*
+cpe:2.3:a:noncegeek:dim-sum-app:*:*:*:*:*:*:*:*
 cpe:2.3:a:nonebot:nonebot:*:*:*:*:*:*:*:*
 cpe:2.3:a:nonfiction:nterchange:*:*:*:*:*:*:*:*
 cpe:2.3:a:nonghyup:smart:*:*:*:*:*:*:*:*
@@ -89024,6 +89027,8 @@ cpe:2.3:h:d-link:dir-895:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dir-895\/r:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dir-895l:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dir-905l:*:*:*:*:*:*:*:*
+cpe:2.3:h:d-link:dir-x1860:*:*:*:*:*:*:*:*
+cpe:2.3:h:d-link:dir-x1860z:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dir-x3260:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dir505_shareport_mobile_companion:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dir806a1_fw100cnb11:*:*:*:*:*:*:*:*
