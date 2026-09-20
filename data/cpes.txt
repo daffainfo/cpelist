@@ -2296,6 +2296,7 @@ cpe:2.3:a:aiven:karapace:*:*:*:*:*:*:*:*
 cpe:2.3:a:aiven:klaw:*:*:*:*:*:*:*:*
 cpe:2.3:a:aiven:myhoard:*:*:*:*:*:*:*:*
 cpe:2.3:a:aivhub:active_intelligence_visualization:*:*:*:*:*:*:*:*
+cpe:2.3:a:aiyiyi121:sxdevops:*:*:*:*:*:*:*:*
 cpe:2.3:a:aizuda:snail-job:*:*:*:*:*:*:*:*
 cpe:2.3:a:aj-fork:aj-fork:*:*:*:*:*:*:*:*
 cpe:2.3:a:aj_forum:aj_forum:*:*:*:*:*:*:*:*
@@ -46738,6 +46739,7 @@ cpe:2.3:a:ngiflib_project:ngiflib:*:*:*:*:*:*:*:*
 cpe:2.3:a:nginx:nginx:*:*:*:*:*:*:*:*
 cpe:2.3:a:nginx:njs:*:*:*:*:*:*:*:*
 cpe:2.3:a:nginx:unit:*:*:*:*:*:*:*:*
+cpe:2.3:a:nginxproxymanager:nginx-proxy-manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:nginxproxymanager:nginx_proxy_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:nginxui:nginx_ui:*:*:*:*:*:*:*:*
 cpe:2.3:a:ngircd:ngircd:*:*:*:*:*:*:*:*
