@@ -60993,7 +60993,6 @@ cpe:2.3:a:scott_wheeler:taglib:*:*:*:*:*:*:*:*
 cpe:2.3:a:scottmac:libmbfl:*:*:*:*:*:*:*:*
 cpe:2.3:a:scottmanktelow:stride:*:*:*:*:*:*:*:*
 cpe:2.3:a:scottmanktelow:stride_cms:*:*:*:*:*:*:*:*
-cpe:2.3:a:scottpaterson:scottcart:*:*:*:*:*:*:*:*
 cpe:2.3:a:scottqueue_project:scottqueue:*:*:*:*:*:*:*:*
 cpe:2.3:a:scoutmob:scoutmob_local_deals_\&_event:*:*:*:*:*:*:*:*
 cpe:2.3:a:scoutnet:kalender:*:*:*:*:*:*:*:*
@@ -65157,6 +65156,8 @@ cpe:2.3:a:st:x-cube-azrtos-l5:*:*:*:*:*:*:*:*
 cpe:2.3:a:st:x-cube-azrtos-wb:*:*:*:*:*:*:*:*
 cpe:2.3:a:st:x-cube-azrtos-wl:*:*:*:*:*:*:*:*
 cpe:2.3:a:st:x-cube-safea1:*:*:*:*:*:*:*:*
+cpe:2.3:a:st_engineering_idirect:evolution:*:*:*:*:*:*:*:*
+cpe:2.3:a:st_engineering_idirect:velocity_webserver_evolution:*:*:*:*:*:*:*:*
 cpe:2.3:a:st_project:st:*:*:*:*:*:*:*:*
 cpe:2.3:a:stablebit:drivepool:*:*:*:*:*:*:*:*
 cpe:2.3:a:stablebit:scanner:*:*:*:*:*:*:*:*
@@ -75607,6 +75608,7 @@ cpe:2.3:a:wpplugin:easy_paypal_buy_now_button:*:*:*:*:*:*:*:*
 cpe:2.3:a:wpplugin:easy_paypal_events:*:*:*:*:*:*:*:*
 cpe:2.3:a:wpplugin:easy_paypal_shopping_cart:*:*:*:*:*:*:*:*
 cpe:2.3:a:wpplugin:paypal_\&_stripe_add-on:*:*:*:*:*:*:*:*
+cpe:2.3:a:wpplugin:scottcart:*:*:*:*:*:*:*:*
 cpe:2.3:a:wpplugin:time_clock:*:*:*:*:*:*:*:*
 cpe:2.3:a:wpplugin:time_clock_pro:*:*:*:*:*:*:*:*
 cpe:2.3:a:wppluginbox:stylish_google_sheet_reader:*:*:*:*:*:*:*:*
