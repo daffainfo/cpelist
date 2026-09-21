@@ -10,6 +10,8 @@ cpe:2.3:a:01generator:pireospay:*:*:*:*:*:*:*:*
 cpe:2.3:a:01org:tpm2.0-tools:*:*:*:*:*:*:*:*
 cpe:2.3:a:0215andrewfeng:ace-mcp:*:*:*:*:*:*:*:*
 cpe:2.3:a:03-lovepreetsingh:mcp:*:*:*:*:*:*:*:*
+cpe:2.3:a:06ketan:slideshot:*:*:*:*:*:*:*:*
+cpe:2.3:a:0717376:cowork_bench:*:*:*:*:*:*:*:*
 cpe:2.3:a:07fly:07fly-cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:07fly:07flycms:*:*:*:*:*:*:*:*
 cpe:2.3:a:07fly:customer_relationship_management:*:*:*:*:*:*:*:*
@@ -13538,6 +13540,7 @@ cpe:2.3:a:codeastro:patient_record_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:codeastro:payroll_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:codeastro:pharmacy_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:codeastro:pos_and_inventory_management_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:codeastro:qr_code_attendance_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:codeastro:real_estate_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:codeastro:restaurant_pos_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:codeastro:simple_banking_system:*:*:*:*:*:*:*:*
@@ -17775,6 +17778,7 @@ cpe:2.3:a:dlink:nuclias_connect:*:*:*:*:*:*:*:*
 cpe:2.3:a:dlitz:pycrypto:*:*:*:*:*:*:*:*
 cpe:2.3:a:dlman_pro:dlman_pro:*:*:*:*:*:*:*:*
 cpe:2.3:a:dlo:simple_anti_bot_registration_engine_plugin:*:*:*:*:*:*:*:*
+cpe:2.3:a:dlr-rm:stable-baselines3:*:*:*:*:*:*:*:*
 cpe:2.3:a:dlt-daemon_project:dlt-daemon:*:*:*:*:*:*:*:*
 cpe:2.3:a:dm_computer_solutions:ultracompare:*:*:*:*:*:*:*:*
 cpe:2.3:a:dm_computer_solutions:ultraedit-32:*:*:*:*:*:*:*:*
@@ -17800,6 +17804,7 @@ cpe:2.3:a:dmitry_project:dmitry:*:*:*:*:*:*:*:*
 cpe:2.3:a:dmitry_sheiko:business_card_web_builder:*:*:*:*:*:*:*:*
 cpe:2.3:a:dmitry_sheiko:sapid_gallery:*:*:*:*:*:*:*:*
 cpe:2.3:a:dmitry_sheiko:sapid_shop:*:*:*:*:*:*:*:*
+cpe:2.3:a:dmlc:dgl:*:*:*:*:*:*:*:*
 cpe:2.3:a:dmm:dmmfx_demo_trade:*:*:*:*:*:*:*:*
 cpe:2.3:a:dmm:dmmfx_trade:*:*:*:*:*:*:*:*
 cpe:2.3:a:dmm:gaitamejapan_fx_trade:*:*:*:*:*:*:*:*
@@ -36214,6 +36219,7 @@ cpe:2.3:a:justdan96:tsmuxer:*:*:*:*:*:*:*:*
 cpe:2.3:a:justdcoin_project:justdcoin:*:*:*:*:*:*:*:*
 cpe:2.3:a:justdoit0910:tinymqtt:*:*:*:*:*:*:*:*
 cpe:2.3:a:justice_media:guestbook:*:*:*:*:*:*:*:*
+cpe:2.3:a:justicerage:manalyze:*:*:*:*:*:*:*:*
 cpe:2.3:a:justified_gallery_project:justified_gallery:*:*:*:*:*:*:*:*
 cpe:2.3:a:justin_dodge:hotblocks:*:*:*:*:*:*:*:*
 cpe:2.3:a:justin_ellison:node_gallery:*:*:*:*:*:*:*:*
@@ -53758,6 +53764,7 @@ cpe:2.3:a:piriform:defraggler:*:*:*:*:*:*:*:*
 cpe:2.3:a:piriform:recuva:*:*:*:*:*:*:*:*
 cpe:2.3:a:pisay_online_e-learning_system_project:pisay_online_e-learning_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:pisignage:pisignage:*:*:*:*:*:*:*:*
+cpe:2.3:a:piskvorky:gensim:*:*:*:*:*:*:*:*
 cpe:2.3:a:pistache_project:pistache:*:*:*:*:*:*:*:*
 cpe:2.3:a:pistar:pi-star_digital_voice_dashboard:*:*:*:*:*:*:*:*
 cpe:2.3:a:pithikos:websocket_server:*:*:*:*:*:*:*:*
@@ -59721,6 +59728,7 @@ cpe:2.3:a:sam2p_project:sam2p:*:*:*:*:*:*:*:*
 cpe:2.3:a:sam_crew:myblog:*:*:*:*:*:*:*:*
 cpe:2.3:a:sam_hawker:wmcdplay:*:*:*:*:*:*:*:*
 cpe:2.3:a:sam_lantinga:splitvt:*:*:*:*:*:*:*:*
+cpe:2.3:a:samanhappy:mcphub:*:*:*:*:*:*:*:*
 cpe:2.3:a:samasung:account:*:*:*:*:*:*:*:*
 cpe:2.3:a:samba-client_project:samba-client:*:*:*:*:*:*:*:*
 cpe:2.3:a:samba-tng:samba-tng:*:*:*:*:*:*:*:*
