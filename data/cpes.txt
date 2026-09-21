@@ -7969,6 +7969,7 @@ cpe:2.3:a:bionode:bionode-sra:*:*:*:*:*:*:*:*
 cpe:2.3:a:biopdf:pdf_writer:*:*:*:*:*:*:*:*
 cpe:2.3:a:bioscripts:minitwitter:*:*:*:*:*:*:*:*
 cpe:2.3:a:biostar:racing_gt_evo:*:*:*:*:*:*:*:*
+cpe:2.3:a:biostar:temperature_monitor_utility:*:*:*:*:*:*:*:*
 cpe:2.3:a:biostar:valkyrie_aurora:*:*:*:*:*:*:*:*
 cpe:2.3:a:biostar:vivid_led_dj:*:*:*:*:*:*:*:*
 cpe:2.3:a:biqs:biqsdrive:*:*:*:*:*:*:*:*
@@ -48406,6 +48407,8 @@ cpe:2.3:a:ombu:bulk_me_now\!:*:*:*:*:*:*:*:*
 cpe:2.3:a:ombu:the_sorter:*:*:*:*:*:*:*:*
 cpe:2.3:a:omec-project:amf:*:*:*:*:*:*:*:*
 cpe:2.3:a:omega-rpg:omega-rpg:*:*:*:*:*:*:*:*
+cpe:2.3:a:omega_solution:fbp_fulfillment_by_people:*:*:*:*:*:*:*:*
+cpe:2.3:a:omega_solution:hrm_os:*:*:*:*:*:*:*:*
 cpe:2.3:a:omegaboard_project:omegaboard:*:*:*:*:*:*:*:*
 cpe:2.3:a:omegasoft:interneserviceslosungen:*:*:*:*:*:*:*:*
 cpe:2.3:a:omegat:omegat:*:*:*:*:*:*:*:*
@@ -145459,6 +145462,7 @@ cpe:2.3:o:binatoneglobal:mbp4855_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:binatoneglobal:mbp669_connect_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:binatoneglobal:mbp6855_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:binom3:universal_multifunctional_electric_power_quality_meter_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:biostar:bios_update_utility:*:*:*:*:*:*:*:*
 cpe:2.3:o:biotronik:cardiomessenger_ii-s_gsm_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:biotronik:cardiomessenger_ii-s_t-line_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:birddog:4k_quad_firmware:*:*:*:*:*:*:*:*
