@@ -7969,6 +7969,8 @@ cpe:2.3:a:bionode:bionode-sra:*:*:*:*:*:*:*:*
 cpe:2.3:a:biopdf:pdf_writer:*:*:*:*:*:*:*:*
 cpe:2.3:a:bioscripts:minitwitter:*:*:*:*:*:*:*:*
 cpe:2.3:a:biostar:racing_gt_evo:*:*:*:*:*:*:*:*
+cpe:2.3:a:biostar:valkyrie_aurora:*:*:*:*:*:*:*:*
+cpe:2.3:a:biostar:vivid_led_dj:*:*:*:*:*:*:*:*
 cpe:2.3:a:biqs:biqsdrive:*:*:*:*:*:*:*:*
 cpe:2.3:a:biqutoken_project:biqutoken:*:*:*:*:*:*:*:*
 cpe:2.3:a:bir.gov.ph:alphalist_data_entry_and_validation:*:*:*:*:*:*:*:*
@@ -26740,6 +26742,7 @@ cpe:2.3:a:hanghai:hot_step:*:*:*:*:*:*:*:*
 cpe:2.3:a:hangzhou_meisoft_information_technology:finesoft:*:*:*:*:*:*:*:*
 cpe:2.3:a:hangzhou_network_technology_development:ediorcms:*:*:*:*:*:*:*:*
 cpe:2.3:a:hangzhou_rui-qiang:richstrong_cms:*:*:*:*:*:*:*:*
+cpe:2.3:a:hangzhou_shunwang_technology:shzh:*:*:*:*:*:*:*:*
 cpe:2.3:a:hannonhill:cascade:*:*:*:*:*:*:*:*
 cpe:2.3:a:hans_alshoff:minalic:*:*:*:*:*:*:*:*
 cpe:2.3:a:hans_nilsson:video_filter:*:*:*:*:*:*:*:*
@@ -46159,6 +46162,7 @@ cpe:2.3:a:netcomm:4gt101w_software:*:*:*:*:*:*:*:*
 cpe:2.3:a:netcommons:netcommons:*:*:*:*:*:*:*:*
 cpe:2.3:a:netcomposite:shellguard_ssh:*:*:*:*:*:*:*:*
 cpe:2.3:a:netcordia:netmri:*:*:*:*:*:*:*:*
+cpe:2.3:a:netcore:nbr200v2:*:*:*:*:*:*:*:*
 cpe:2.3:a:netcplus:browsegate:*:*:*:*:*:*:*:*
 cpe:2.3:a:netcplus:businessmail:*:*:*:*:*:*:*:*
 cpe:2.3:a:netcracker:resource_management_system:*:*:*:*:*:*:*:*
@@ -58982,6 +58986,7 @@ cpe:2.3:a:roninwp:fat_services_booking:*:*:*:*:*:*:*:*
 cpe:2.3:a:roninwp:revy:*:*:*:*:*:*:*:*
 cpe:2.3:a:ronomon:opened:*:*:*:*:*:*:*:*
 cpe:2.3:a:ronvalstar:pocket_widget:*:*:*:*:*:*:*:*
+cpe:2.3:a:roocms:roocms:*:*:*:*:*:*:*:*
 cpe:2.3:a:roocode:roo_code:*:*:*:*:*:*:*:*
 cpe:2.3:a:roocodeinc:roo-code:*:*:*:*:*:*:*:*
 cpe:2.3:a:room_34_creative_services:enable_svg:*:*:*:*:*:*:*:*
@@ -84124,6 +84129,7 @@ cpe:2.3:h:checkpoint:quantum_spark_2570:*:*:*:*:*:*:*:*
 cpe:2.3:h:checkpoint:quantum_spark_2580:*:*:*:*:*:*:*:*
 cpe:2.3:h:checkpoint:quantum_spark_2590:*:*:*:*:*:*:*:*
 cpe:2.3:h:checkpoint:vpn-1_utm_edge:*:*:*:*:*:*:*:*
+cpe:2.3:h:chengdu_feiyuxing_technology:feiyu_star_router:*:*:*:*:*:*:*:*
 cpe:2.3:h:cherrymobile:flare_s7:*:*:*:*:*:*:*:*
 cpe:2.3:h:chinamobile:an_lianbao_wf-1:*:*:*:*:*:*:*:*
 cpe:2.3:h:chinamobile:gpn2.4p21-c-cn:*:*:*:*:*:*:*:*
