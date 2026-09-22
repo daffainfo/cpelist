@@ -23144,6 +23144,7 @@ cpe:2.3:a:fortinet:fortinet_single_sign-on:*:*:*:*:*:*:*:*
 cpe:2.3:a:fortinet:fortios-6k7k:*:*:*:*:*:*:*:*
 cpe:2.3:a:fortinet:fortios:*:*:*:*:*:*:*:*
 cpe:2.3:a:fortinet:fortios_ips_engine:*:*:*:*:*:*:*:*
+cpe:2.3:a:fortinet:fortipam_chrome_extension:*:*:*:*:*:*:*:*
 cpe:2.3:a:fortinet:fortiportal:*:*:*:*:*:*:*:*
 cpe:2.3:a:fortinet:fortipresence:*:*:*:*:*:*:*:*
 cpe:2.3:a:fortinet:fortiproxy:*:*:*:*:*:*:*:*
@@ -35822,6 +35823,7 @@ cpe:2.3:a:jose_project:jose:*:*:*:*:*:*:*:*
 cpe:2.3:a:joselazo:delete_usermeta:*:*:*:*:*:*:*:*
 cpe:2.3:a:josema_enzo:isiajax:*:*:*:*:*:*:*:*
 cpe:2.3:a:joseph_allen:joe:*:*:*:*:*:*:*:*
+cpe:2.3:a:josephchuks:php-file-manager-with-code-editor:*:*:*:*:*:*:*:*
 cpe:2.3:a:josephlopreste:restaurant_solutions_-_checklist:*:*:*:*:*:*:*:*
 cpe:2.3:a:josevega:display_custom_fields_in_the_frontend_-_post_and_user_profile_fields:*:*:*:*:*:*:*:*
 cpe:2.3:a:josh_fradley:burden:*:*:*:*:*:*:*:*
@@ -44745,6 +44747,7 @@ cpe:2.3:a:mtouch_quiz_project:mtouch_quiz:*:*:*:*:*:*:*:*
 cpe:2.3:a:mtp-target:mtp-target:*:*:*:*:*:*:*:*
 cpe:2.3:a:mtproto:mt_proto_proxy:*:*:*:*:*:*:*:*
 cpe:2.3:a:mtr:mtr:*:*:*:*:*:*:*:*
+cpe:2.3:a:mtrano:apencms:*:*:*:*:*:*:*:*
 cpe:2.3:a:mtrudel:bandit:*:*:*:*:*:*:*:*
 cpe:2.3:a:mtrv:teachpress:*:*:*:*:*:*:*:*
 cpe:2.3:a:mtssb.mt-systems:simple_booking:*:*:*:*:*:*:*:*
