@@ -44313,6 +44313,7 @@ cpe:2.3:a:moonlightl:hexo-boot:*:*:*:*:*:*:*:*
 cpe:2.3:a:moonshine:moonshine:*:*:*:*:*:*:*:*
 cpe:2.3:a:moonsoftware:password_agent:*:*:*:*:*:*:*:*
 cpe:2.3:a:moontoken_project:moontoken:*:*:*:*:*:*:*:*
+cpe:2.3:a:moore_threads:mtt_s80_driver_package:*:*:*:*:*:*:*:*
 cpe:2.3:a:moosegallery:moosegallery:*:*:*:*:*:*:*:*
 cpe:2.3:a:mooseguy_blog_system:mgbs:*:*:*:*:*:*:*:*
 cpe:2.3:a:moosikay_e-commerce_system_project:moosikay_e-commerce_system:*:*:*:*:*:*:*:*
