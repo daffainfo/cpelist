@@ -44316,6 +44316,7 @@ cpe:2.3:a:moonlight-stream:moonlight_vita:*:*:*:*:*:*:*:*
 cpe:2.3:a:moonlight-stream:moonlight_xbox:*:*:*:*:*:*:*:*
 cpe:2.3:a:moonlightl:hexo-boot:*:*:*:*:*:*:*:*
 cpe:2.3:a:moonshine:moonshine:*:*:*:*:*:*:*:*
+cpe:2.3:a:moonshot_ai:kimi_code:*:*:*:*:*:*:*:*
 cpe:2.3:a:moonsoftware:password_agent:*:*:*:*:*:*:*:*
 cpe:2.3:a:moontoken_project:moontoken:*:*:*:*:*:*:*:*
 cpe:2.3:a:moore_threads:mtt_s80_driver_package:*:*:*:*:*:*:*:*
@@ -127132,10 +127133,16 @@ cpe:2.3:h:qualcomm:auto_5g_modem-rf:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:bitra:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:c-v2x9150:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:c-v2x_9150:*:*:*:*:*:*:*:*
+cpe:2.3:h:qualcomm:c110100:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:cologne:*:*:*:*:*:*:*:*
+cpe:2.3:h:qualcomm:congo:*:*:*:*:*:*:*:*
+cpe:2.3:h:qualcomm:cq2390m:*:*:*:*:*:*:*:*
+cpe:2.3:h:qualcomm:cq2390s:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:cq7790:*:*:*:*:*:*:*:*
+cpe:2.3:h:qualcomm:cq7790m:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:cq8725s:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:cq8750m:*:*:*:*:*:*:*:*
+cpe:2.3:h:qualcomm:cq8845s:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:csr6030:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:csr8510_a10:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:csr8811:*:*:*:*:*:*:*:*
@@ -127150,6 +127157,7 @@ cpe:2.3:h:qualcomm:fastconnect_6700:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:fastconnect_6800:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:fastconnect_6900:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:fastconnect_7800:*:*:*:*:*:*:*:*
+cpe:2.3:h:qualcomm:fastconnect_8800_mobile_connectivity_system:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:flight_rb5_5g:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:flight_rb5_5g_platform:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:fsm10055:*:*:*:*:*:*:*:*
@@ -127234,6 +127242,7 @@ cpe:2.3:h:qualcomm:iq-8275:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:iq-8300:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:iq-9075:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:iq-9100:*:*:*:*:*:*:*:*
+cpe:2.3:h:qualcomm:iq10_series:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:iqx5121:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:iqx7181:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:kailua:*:*:*:*:*:*:*:*
@@ -127243,6 +127252,8 @@ cpe:2.3:h:qualcomm:kobuk:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:lemans_au_lgit:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:lemansau:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:marina:*:*:*:*:*:*:*:*
+cpe:2.3:h:qualcomm:mbm415:*:*:*:*:*:*:*:*
+cpe:2.3:h:qualcomm:mbm715:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:md9607:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:mdm8207:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:mdm8215:*:*:*:*:*:*:*:*
@@ -127458,6 +127469,8 @@ cpe:2.3:h:qualcomm:pmx60:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:pq4019:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:pq8009:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:pq8052:*:*:*:*:*:*:*:*
+cpe:2.3:h:qualcomm:q-4390:*:*:*:*:*:*:*:*
+cpe:2.3:h:qualcomm:q-7790:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:qam8255p:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:qam8295p:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:qam8397p:*:*:*:*:*:*:*:*
@@ -127597,11 +127610,13 @@ cpe:2.3:h:qualcomm:qca9992:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:qca9994:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:qcc1110:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:qcc112:*:*:*:*:*:*:*:*
+cpe:2.3:h:qualcomm:qcc2070:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:qcc2072:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:qcc2073:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:qcc2076:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:qcc5100:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:qcc5161:*:*:*:*:*:*:*:*
+cpe:2.3:h:qualcomm:qcc6705:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:qcc710:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:qcc711:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:qcc7225:*:*:*:*:*:*:*:*
@@ -128176,6 +128191,7 @@ cpe:2.3:h:qualcomm:sm4450:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:sm4635:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:sm4850:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:sm4850p:*:*:*:*:*:*:*:*
+cpe:2.3:h:qualcomm:sm4875:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:sm6115:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:sm6115p:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:sm6125:*:*:*:*:*:*:*:*
@@ -128227,6 +128243,7 @@ cpe:2.3:h:qualcomm:sm7635:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:sm7635p:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:sm7675:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:sm7675p:*:*:*:*:*:*:*:*
+cpe:2.3:h:qualcomm:sm7750p:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:sm8150-ac:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:sm8150:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:sm8150_fusion:*:*:*:*:*:*:*:*
@@ -128256,6 +128273,10 @@ cpe:2.3:h:qualcomm:sm8750p:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:sm8845p:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:sm8850:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:sm8850p:*:*:*:*:*:*:*:*
+cpe:2.3:h:qualcomm:sm8950:*:*:*:*:*:*:*:*
+cpe:2.3:h:qualcomm:sm8950p:*:*:*:*:*:*:*:*
+cpe:2.3:h:qualcomm:sm8975:*:*:*:*:*:*:*:*
+cpe:2.3:h:qualcomm:sm8975p:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:smart_audio_100_platform:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:smart_audio_200:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:smart_audio_200_platform:*:*:*:*:*:*:*:*
@@ -128585,6 +128606,7 @@ cpe:2.3:h:qualcomm:snapdragon_8_gen_2_mobile_platform:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:snapdragon_8_gen_3:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:snapdragon_8_gen_3_mobile:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:snapdragon_8_gen_3_mobile_platform:*:*:*:*:*:*:*:*
+cpe:2.3:h:qualcomm:snapdragon_8_gen_5:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:snapdragon_8_gen_mobile_platform:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:snapdragon_8c_compute:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:snapdragon_8c_compute_platform:*:*:*:*:*:*:*:*
@@ -128645,6 +128667,7 @@ cpe:2.3:h:qualcomm:snapdragon_auto_5g:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:snapdragon_auto_5g__modem-rf:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:snapdragon_auto_5g_modem-rf:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:snapdragon_auto_5g_modem-rf_gen_2:*:*:*:*:*:*:*:*
+cpe:2.3:h:qualcomm:snapdragon_cockpit_elite:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:snapdragon_compute:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:snapdragon_connectivity:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:snapdragon_consumer_internet_of_things:*:*:*:*:*:*:*:*
@@ -128653,6 +128676,9 @@ cpe:2.3:h:qualcomm:snapdragon_high_med_2016:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:snapdragon_industrial_internet_of_things:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:snapdragon_internet_of_things:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:snapdragon_mobile:*:*:*:*:*:*:*:*
+cpe:2.3:h:qualcomm:snapdragon_reality_elite_platform:*:*:*:*:*:*:*:*
+cpe:2.3:h:qualcomm:snapdragon_ride_elite:*:*:*:*:*:*:*:*
+cpe:2.3:h:qualcomm:snapdragon_s7_sound_gen_1_platforms:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:snapdragon_sc8180x-aa:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:snapdragon_sc8180x-ac:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:snapdragon_sc8180x-ad:*:*:*:*:*:*:*:*
@@ -128691,6 +128717,7 @@ cpe:2.3:h:qualcomm:snapdragon_x20_lte_modem:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:snapdragon_x24:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:snapdragon_x24_lte:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:snapdragon_x24_lte_modem:*:*:*:*:*:*:*:*
+cpe:2.3:h:qualcomm:snapdragon_x2_elite:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:snapdragon_x32_5g-rf:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:snapdragon_x32_5g_modem-rf:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:snapdragon_x32_5g_modem-rf_system:*:*:*:*:*:*:*:*
@@ -128860,6 +128887,7 @@ cpe:2.3:h:qualcomm:wcn7860:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:wcn7861:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:wcn7880:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:wcn7881:*:*:*:*:*:*:*:*
+cpe:2.3:h:qualcomm:wcn8841:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:wfr1620:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:wfr2600:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:wgr7640:*:*:*:*:*:*:*:*
@@ -178754,10 +178782,16 @@ cpe:2.3:o:qualcomm:auto_5g_modem-rf_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:bitra_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:c-v2x9150_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:c-v2x_9150_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:qualcomm:c110100_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:cologne_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:qualcomm:congo_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:qualcomm:cq2390m_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:qualcomm:cq2390s_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:cq7790_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:qualcomm:cq7790m_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:cq8725s_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:cq8750m_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:qualcomm:cq8845s_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:csr6030_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:csr8510_a10_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:csr8811_a12_firmware:*:*:*:*:*:*:*:*
@@ -178773,6 +178807,7 @@ cpe:2.3:o:qualcomm:fastconnect_6700_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:fastconnect_6800_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:fastconnect_6900_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:fastconnect_7800_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:qualcomm:fastconnect_8800_mobile_connectivity_system_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:flight_rb5_5g_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:flight_rb5_5g_platform_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:fsm10055_firmware:*:*:*:*:*:*:*:*
@@ -178856,6 +178891,7 @@ cpe:2.3:o:qualcomm:iq-8275_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:iq-8300_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:iq-9075_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:iq-9100_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:qualcomm:iq10_series_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:iqx5121_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:iqx7181_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:kailua_firmware:*:*:*:*:*:*:*:*
@@ -178865,6 +178901,8 @@ cpe:2.3:o:qualcomm:kobuk_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:lemans_au_lgit_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:lemansau_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:marina_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:qualcomm:mbm415_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:qualcomm:mbm715_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:md9607_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:mdm8207_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:mdm8215_firmware:*:*:*:*:*:*:*:*
@@ -179072,6 +179110,8 @@ cpe:2.3:o:qualcomm:pmx60_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:pq4019_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:pq8009_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:pq8052_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:qualcomm:q-4390_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:qualcomm:q-7790_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:qam8255p_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:qam8295p_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:qam8397p_firmware:*:*:*:*:*:*:*:*
@@ -179210,11 +179250,13 @@ cpe:2.3:o:qualcomm:qca9992_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:qca9994_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:qcc1110_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:qcc112_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:qualcomm:qcc2070_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:qcc2072_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:qcc2073_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:qcc2076_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:qcc5100_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:qcc5161_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:qualcomm:qcc6705_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:qcc710_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:qcc711_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:qcc7225_firmware:*:*:*:*:*:*:*:*
@@ -179783,6 +179825,7 @@ cpe:2.3:o:qualcomm:sm4450_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:sm4635_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:sm4850_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:sm4850p_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:qualcomm:sm4875_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:sm6115_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:sm6115p_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:sm6125_firmware:*:*:*:*:*:*:*:*
@@ -179834,6 +179877,7 @@ cpe:2.3:o:qualcomm:sm7635_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:sm7635p_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:sm7675_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:sm7675p_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:qualcomm:sm7750p_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:sm8150-ac_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:sm8150_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:sm8150p_firmware:*:*:*:*:*:*:*:*
@@ -179862,6 +179906,10 @@ cpe:2.3:o:qualcomm:sm8750p_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:sm8845p_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:sm8850_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:sm8850p_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:qualcomm:sm8950_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:qualcomm:sm8950p_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:qualcomm:sm8975_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:qualcomm:sm8975p_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:smart_audio_100_platform_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:smart_audio_200_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:smart_audio_200_platform_firmware:*:*:*:*:*:*:*:*
@@ -180173,6 +180221,7 @@ cpe:2.3:o:qualcomm:snapdragon_8_gen_2_mobile_platform_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:snapdragon_8_gen_3_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:snapdragon_8_gen_3_mobile_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:snapdragon_8_gen_3_mobile_platform_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:qualcomm:snapdragon_8_gen_5_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:snapdragon_8_gen_mobile_platform_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:snapdragon_8c_compute_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:snapdragon_8c_compute_platform_\(sc8180x-ad\)_\"poipu_lite\"_firmware:*:*:*:*:*:*:*:*
@@ -180226,6 +180275,7 @@ cpe:2.3:o:qualcomm:snapdragon_auto_5g_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:snapdragon_auto_5g_modem-rf_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:snapdragon_auto_5g_modem-rf_gen_2_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:snapdragon_auto_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:qualcomm:snapdragon_cockpit_elite_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:snapdragon_compute_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:snapdragon_connectivity_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:snapdragon_consumer_internet_of_things_firmware:*:*:*:*:*:*:*:*
@@ -180234,6 +180284,9 @@ cpe:2.3:o:qualcomm:snapdragon_high_med_2016_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:snapdragon_industrial_internet_of_things_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:snapdragon_internet_of_things_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:snapdragon_mobile_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:qualcomm:snapdragon_reality_elite_platform_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:qualcomm:snapdragon_ride_elite_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:qualcomm:snapdragon_s7_sound_gen_1_platforms_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:snapdragon_sc8180x-aa_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:snapdragon_sc8180x-ac_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:snapdragon_sc8180x-ad_firmware:*:*:*:*:*:*:*:*
@@ -180270,6 +180323,7 @@ cpe:2.3:o:qualcomm:snapdragon_x20_lte_modem_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:snapdragon_x24_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:snapdragon_x24_lte_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:snapdragon_x24_lte_modem_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:qualcomm:snapdragon_x2_elite_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:snapdragon_x32_5g-rf_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:snapdragon_x32_5g_modem-rf_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:snapdragon_x32_5g_modem-rf_system_firmware:*:*:*:*:*:*:*:*
@@ -180440,6 +180494,7 @@ cpe:2.3:o:qualcomm:wcn7860_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:wcn7861_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:wcn7880_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:wcn7881_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:qualcomm:wcn8841_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:wfr1620_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:wfr2600_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:wgr7640_firmware:*:*:*:*:*:*:*:*
