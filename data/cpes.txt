@@ -24865,6 +24865,7 @@ cpe:2.3:a:gigabyte:xtreme_gaming_engine:*:*:*:*:*:*:*:*
 cpe:2.3:a:gigaccsecure:gigacc_office:*:*:*:*:*:*:*:*
 cpe:2.3:a:gigamon:gigavue:*:*:*:*:*:*:*:*
 cpe:2.3:a:gigasoft:proessentials:*:*:*:*:*:*:*:*
+cpe:2.3:a:gigatech:pdv5701:*:*:*:*:*:*:*:*
 cpe:2.3:a:gigcalendar:com_gigcalendar:*:*:*:*:*:*:*:*
 cpe:2.3:a:gigpress:gigpress:*:*:*:*:*:*:*:*
 cpe:2.3:a:gigs_script_project:gigs_script:*:*:*:*:*:*:*:*
@@ -25756,6 +25757,7 @@ cpe:2.3:a:google:cloud_iot_device_sdk_for_embedded_c:*:*:*:*:*:*:*:*
 cpe:2.3:a:google:cloud_looker:*:*:*:*:*:*:*:*
 cpe:2.3:a:google:cloud_messaging_notification:*:*:*:*:*:*:*:*
 cpe:2.3:a:google:cloud_platform:*:*:*:*:*:*:*:*
+cpe:2.3:a:google:common_expression_language:*:*:*:*:*:*:*:*
 cpe:2.3:a:google:critters:*:*:*:*:*:*:*:*
 cpe:2.3:a:google:custom_search_engine:*:*:*:*:*:*:*:*
 cpe:2.3:a:google:data_transfer_project:*:*:*:*:*:*:*:*
@@ -39017,6 +39019,7 @@ cpe:2.3:a:linuxfoundation:kubewarden-controller:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:kubewarden:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:libocpp:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:lima:*:*:*:*:*:*:*:*
+cpe:2.3:a:linuxfoundation:litmus:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:longhorn:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:loopback-connector-postgresql:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:loxilb:*:*:*:*:*:*:*:*
@@ -73969,6 +73972,7 @@ cpe:2.3:a:wehelpbus:wehelpbus:*:*:*:*:*:*:*:*
 cpe:2.3:a:wehnus:wehntrust:*:*:*:*:*:*:*:*
 cpe:2.3:a:weibo:android_software_development_kit:*:*:*:*:*:*:*:*
 cpe:2.3:a:weibo:rill-flow:*:*:*:*:*:*:*:*
+cpe:2.3:a:weibo:rill_flow:*:*:*:*:*:*:*:*
 cpe:2.3:a:weibo_project:weibo:*:*:*:*:*:*:*:*
 cpe:2.3:a:weidmueller:wi_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:weightbasedshipping:woocommerce_weight_based_shipping:*:*:*:*:*:*:*:*
@@ -76990,6 +76994,7 @@ cpe:2.3:a:yontemizleme:vehicle_tracking_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:yonyou:ksoa:*:*:*:*:*:*:*:*
 cpe:2.3:a:yonyou:turbocrm:*:*:*:*:*:*:*:*
 cpe:2.3:a:yonyou:u8\+:*:*:*:*:*:*:*:*
+cpe:2.3:a:yonyou:u8cloud:*:*:*:*:*:*:*:*
 cpe:2.3:a:yonyou:ufida-nc:*:*:*:*:*:*:*:*
 cpe:2.3:a:yonyou:ufida_erp-nc:*:*:*:*:*:*:*:*
 cpe:2.3:a:yonyou:ufida_product_lifecycle_management:*:*:*:*:*:*:*:*
@@ -163077,6 +163082,7 @@ cpe:2.3:o:hpe:cray_parallel_application_launch_service:*:*:*:*:*:*:*:*
 cpe:2.3:o:hpe:cray_sh_supercomputer_air_cooled_base_system_code_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:hpe:cray_sh_supercomputer_liquid_cooled_base_system_code_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:hpe:cray_sh_supercomputer_liquid_cooled_tds_base_system_code_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:hpe:edgeconnect_operating_system:*:*:*:*:*:*:*:*
 cpe:2.3:o:hpe:flexfabric_5700_40xg_2qsfp\+_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:hpe:flexfabric_5700_48g_4xg_2qsfp\+_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:hpe:flexfabric_5945_firmware:*:*:*:*:*:*:*:*
