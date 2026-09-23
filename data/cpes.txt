@@ -3681,6 +3681,7 @@ cpe:2.3:a:animoca:bunny_run:*:*:*:*:*:*:*:*
 cpe:2.3:a:animoca:fashion_style:*:*:*:*:*:*:*:*
 cpe:2.3:a:animoca:star_girl:*:*:*:*:*:*:*:*
 cpe:2.3:a:animoca:star_girl\:_colors_of_spring:*:*:*:*:*:*:*:*
+cpe:2.3:a:anirbandutta9:college-notes-gallery:*:*:*:*:*:*:*:*
 cpe:2.3:a:anirbandutta9:news-buzz:*:*:*:*:*:*:*:*
 cpe:2.3:a:anirbandutta:news-buzz:*:*:*:*:*:*:*:*
 cpe:2.3:a:anisha:admission_management_system:*:*:*:*:*:*:*:*
@@ -30088,6 +30089,7 @@ cpe:2.3:a:ibm:financial_transaction_manager_for_check_services:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:financial_transaction_manager_for_corporate_payment_services:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:financial_transaction_manager_for_multiplatform:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:financial_transaction_manager_for_swift_services_for_multiplatforms:*:*:*:*:*:*:*:*
+cpe:2.3:a:ibm:financial_transaction_manager_ftmfor_redhat_openshift:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:flashcopy_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:flex_system_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:flex_system_v7000_software:*:*:*:*:*:*:*:*
@@ -48331,6 +48333,7 @@ cpe:2.3:a:okta:access_gateway:*:*:*:*:*:*:*:*
 cpe:2.3:a:okta:active_directory_agent:*:*:*:*:*:*:*:*
 cpe:2.3:a:okta:advanced_server_access:*:*:*:*:*:*:*:*
 cpe:2.3:a:okta:advanced_server_access_client_for_windows:*:*:*:*:*:*:*:*
+cpe:2.3:a:okta:hyperdrive:*:*:*:*:*:*:*:*
 cpe:2.3:a:okta:imprivata_privileged_access_management:*:*:*:*:*:*:*:*
 cpe:2.3:a:okta:java_management_sdk:*:*:*:*:*:*:*:*
 cpe:2.3:a:okta:ldap_agent:*:*:*:*:*:*:*:*
