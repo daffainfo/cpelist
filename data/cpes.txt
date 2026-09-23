@@ -22001,6 +22001,7 @@ cpe:2.3:a:fast-report:fastreport:*:*:*:*:*:*:*:*
 cpe:2.3:a:fast-search-powered-by-solr_project:fast-search-powered-by-solr:*:*:*:*:*:*:*:*
 cpe:2.3:a:fast-xml-parser_project:fast-xml-parser:*:*:*:*:*:*:*:*
 cpe:2.3:a:fast5:prison_management_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:fast:fac1203r_gigabit_edition:*:*:*:*:*:*:*:*
 cpe:2.3:a:fast_ber_project:fast_ber:*:*:*:*:*:*:*:*
 cpe:2.3:a:fast_browser:fast_browser:*:*:*:*:*:*:*:*
 cpe:2.3:a:fast_cgi_project:fast_cgi:*:*:*:*:*:*:*:*
@@ -25712,6 +25713,7 @@ cpe:2.3:a:google-closure-tools-latest_project:google-closure-tools-latest:*:*:*:
 cpe:2.3:a:google-cloudstorage-commands_project:google-cloudstorage-commands:*:*:*:*:*:*:*:*
 cpe:2.3:a:google-it_project:google-it:*:*:*:*:*:*:*:*
 cpe:2.3:a:google-news-sitemap_project:google-news-sitemap:*:*:*:*:*:*:*:*
+cpe:2.3:a:google:a2ui\/web_core:*:*:*:*:*:*:*:*
 cpe:2.3:a:google:admin:*:*:*:*:*:*:*:*
 cpe:2.3:a:google:admob:*:*:*:*:*:*:*:*
 cpe:2.3:a:google:android:*:*:*:*:*:*:*:*
@@ -31281,6 +31283,7 @@ cpe:2.3:a:ifeelweb:affiliate_super_assistent:*:*:*:*:*:*:*:*
 cpe:2.3:a:ifeelweb:post_status_notifier_lite:*:*:*:*:*:*:*:*
 cpe:2.3:a:ifenslave:ifenslave:*:*:*:*:*:*:*:*
 cpe:2.3:a:iflychat:iflychat:*:*:*:*:*:*:*:*
+cpe:2.3:a:iflytek:astron-agent:*:*:*:*:*:*:*:*
 cpe:2.3:a:ifm:moneo_for_microsoft_windows:*:*:*:*:*:*:*:*
 cpe:2.3:a:ifm:moneo_qha300:*:*:*:*:*:*:*:*
 cpe:2.3:a:ifm:moneo_qva200:*:*:*:*:*:*:*:*
@@ -44210,6 +44213,7 @@ cpe:2.3:a:mongodb:mongodb:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:mongodb_client_encryption:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:mongodb_enterprise_kubernetes_operator:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:mongodb_server:*:*:*:*:*:*:*:*
+cpe:2.3:a:mongodb:mongoid:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:mongomirror:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:mongosh:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:mongosql_transition_readiness_tool:*:*:*:*:*:*:*:*
@@ -48728,6 +48732,7 @@ cpe:2.3:a:onosproject:sdran-in-a-box:*:*:*:*:*:*:*:*
 cpe:2.3:a:onosproject:traffic_steering_xapplication:*:*:*:*:*:*:*:*
 cpe:2.3:a:ons:ras_collection_instrument:*:*:*:*:*:*:*:*
 cpe:2.3:a:onshift_project:turbogears:*:*:*:*:*:*:*:*
+cpe:2.3:a:onsite_internet_gmbh:auktion_ng_auktionssoftware:*:*:*:*:*:*:*:*
 cpe:2.3:a:onssi:ocularis:*:*:*:*:*:*:*:*
 cpe:2.3:a:onstove:stove:*:*:*:*:*:*:*:*
 cpe:2.3:a:ontall:longxing_industrial_development_zone_project:*:*:*:*:*:*:*:*
@@ -57163,6 +57168,7 @@ cpe:2.3:a:recly:competitions:*:*:*:*:*:*:*:*
 cpe:2.3:a:recly:interactive_feederator:*:*:*:*:*:*:*:*
 cpe:2.3:a:recognizeapp:omniauth\:\:microsoftgraph:*:*:*:*:*:*:*:*
 cpe:2.3:a:recommend_to_a_friend_project:recommend_to_a_friend:*:*:*:*:*:*:*:*
+cpe:2.3:a:recommenders-team:recommenders:*:*:*:*:*:*:*:*
 cpe:2.3:a:recon-ng_project:recon-ng:*:*:*:*:*:*:*:*
 cpe:2.3:a:record-like-deep-assign_project:record-like-deep-assign:*:*:*:*:*:*:*:*
 cpe:2.3:a:record_management_system_project:record_management_system:*:*:*:*:*:*:*:*
@@ -64564,6 +64570,7 @@ cpe:2.3:a:sourcecodester:simple_realtime_quiz_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:simple_student_attendance_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:simple_student_information_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:simple_traffic_offense_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:sourcecodester:smart_attendance_system_with_qr_code_scanner:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:stock_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:student_grades_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:student_record_management_system:*:*:*:*:*:*:*:*
@@ -68502,6 +68509,7 @@ cpe:2.3:a:theportal2.pl:theportal2:*:*:*:*:*:*:*:*
 cpe:2.3:a:theradsystem_project:theradsystem:*:*:*:*:*:*:*:*
 cpe:2.3:a:theratstudios:the_rat_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:therealestatescript:the_real_estate_script:*:*:*:*:*:*:*:*
+cpe:2.3:a:therealsain:pixtream:*:*:*:*:*:*:*:*
 cpe:2.3:a:thereceptionist:the_receptionist_for_ipad:*:*:*:*:*:*:*:*
 cpe:2.3:a:theresehansen:commenttweets:*:*:*:*:*:*:*:*
 cpe:2.3:a:thermalright:tr-vision_home:*:*:*:*:*:*:*:*
