@@ -15820,6 +15820,7 @@ cpe:2.3:a:dandans_digital_media_products:visual_video_converter:*:*:*:*:*:*:*:*
 cpe:2.3:a:dandulaney:dan\'s_embedder_for_google_calendar:*:*:*:*:*:*:*:*
 cpe:2.3:a:dandyid_services_project:dandyid_services:*:*:*:*:*:*:*:*
 cpe:2.3:a:danger:danger-js:*:*:*:*:*:*:*:*
+cpe:2.3:a:dangerblack:n8n-node-sqlite3:*:*:*:*:*:*:*:*
 cpe:2.3:a:dangngocbinh:audio_record:*:*:*:*:*:*:*:*
 cpe:2.3:a:dangngocbinh:easy_call_now_by_thikshare:*:*:*:*:*:*:*:*
 cpe:2.3:a:dango:dango-translator:*:*:*:*:*:*:*:*
@@ -45788,6 +45789,7 @@ cpe:2.3:a:needscripts:homes_4_sale:*:*:*:*:*:*:*:*
 cpe:2.3:a:needyamin:image_gallery_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:needyamin:library_card_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:neetai:neetai_tech:*:*:*:*:*:*:*:*
+cpe:2.3:a:neethuharii:cafemanagement:*:*:*:*:*:*:*:*
 cpe:2.3:a:neevia:docuprinter:*:*:*:*:*:*:*:*
 cpe:2.3:a:nefarious2_project:nefarious2:*:*:*:*:*:*:*:*
 cpe:2.3:a:nefarius:scptoolkit:*:*:*:*:*:*:*:*
