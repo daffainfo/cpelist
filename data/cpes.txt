@@ -19318,6 +19318,7 @@ cpe:2.3:a:edifecs:transaction_management:*:*:*:*:*:*:*:*
 cpe:2.3:a:edikon:phpshop:*:*:*:*:*:*:*:*
 cpe:2.3:a:edimax:br-6214k:*:*:*:*:*:*:*:*
 cpe:2.3:a:edimax:br-6228nc:*:*:*:*:*:*:*:*
+cpe:2.3:a:edimax:br-6428nc:*:*:*:*:*:*:*:*
 cpe:2.3:a:edimax:br-6478ac_v2:*:*:*:*:*:*:*:*
 cpe:2.3:a:edimax:br-6675nd:*:*:*:*:*:*:*:*
 cpe:2.3:a:edimax:ew-7438rpn:*:*:*:*:*:*:*:*
@@ -20284,6 +20285,7 @@ cpe:2.3:a:eng:knowage:*:*:*:*:*:*:*:*
 cpe:2.3:a:eng:spagobi:*:*:*:*:*:*:*:*
 cpe:2.3:a:engardelinux:guardian_digital_webtool:*:*:*:*:*:*:*:*
 cpe:2.3:a:engelsystem:engelsystem:*:*:*:*:*:*:*:*
+cpe:2.3:a:engeman:engeman_web:*:*:*:*:*:*:*:*
 cpe:2.3:a:engeman:web:*:*:*:*:*:*:*:*
 cpe:2.3:a:engenius:enh1350ext:*:*:*:*:*:*:*:*
 cpe:2.3:a:engenius:ens500-ac:*:*:*:*:*:*:*:*
@@ -23037,6 +23039,7 @@ cpe:2.3:a:form_-_contact_form_project:form_-_contact_form:*:*:*:*:*:*:*:*
 cpe:2.3:a:form_builder_for_magento_2_project:form_builder_for_magento_2:*:*:*:*:*:*:*:*
 cpe:2.3:a:form_manager_project:form_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:form_tools:form_tools:*:*:*:*:*:*:*:*
+cpe:2.3:a:forma:lms:*:*:*:*:*:*:*:*
 cpe:2.3:a:formalms:formalms:*:*:*:*:*:*:*:*
 cpe:2.3:a:formassembly:wp-formassembly:*:*:*:*:*:*:*:*
 cpe:2.3:a:formassembly:wpformassembly:*:*:*:*:*:*:*:*
@@ -29320,6 +29323,7 @@ cpe:2.3:a:huang-yk:student-manage:*:*:*:*:*:*:*:*
 cpe:2.3:a:huangdou:utcms:*:*:*:*:*:*:*:*
 cpe:2.3:a:huangjian888:jeeweb-mybatis-springboot:*:*:*:*:*:*:*:*
 cpe:2.3:a:huankemao:scrm:*:*:*:*:*:*:*:*
+cpe:2.3:a:huanzi-qch:base-admin:*:*:*:*:*:*:*:*
 cpe:2.3:a:huashengdun:webssh:*:*:*:*:*:*:*:*
 cpe:2.3:a:huashi:private_cloud_cdn_live_streaming_acceleration_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:huawei:anyoffice:*:*:*:*:*:*:*:*
@@ -34092,6 +34096,7 @@ cpe:2.3:a:java-json-tools:json-patch:*:*:*:*:*:*:*:*
 cpe:2.3:a:java-merge-sort_project:java-merge-sort:*:*:*:*:*:*:*:*
 cpe:2.3:a:java-websocket_project:java-websocket:*:*:*:*:*:*:*:*
 cpe:2.3:a:java-xmlbuilder_project:java-xmlbuilder:*:*:*:*:*:*:*:*
+cpe:2.3:a:java110:microcommunity:*:*:*:*:*:*:*:*
 cpe:2.3:a:java_search_engine:java_search_engine:*:*:*:*:*:*:*:*
 cpe:2.3:a:javaatwork:myftpuploader_module:*:*:*:*:*:*:*:*
 cpe:2.3:a:javadelight:nashorn_sandbox:*:*:*:*:*:*:*:*
@@ -37667,6 +37672,7 @@ cpe:2.3:a:kutethemes:ovic_responsive_wpbakery:*:*:*:*:*:*:*:*
 cpe:2.3:a:kuwaitphp:esmile:*:*:*:*:*:*:*:*
 cpe:2.3:a:kvaliitti:webdoc_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:kvcache-ai:ktransformers:*:*:*:*:*:*:*:*
+cpe:2.3:a:kvcache-ai:mooncake:*:*:*:*:*:*:*:*
 cpe:2.3:a:kvf-admin_project:kvf-admin:*:*:*:*:*:*:*:*
 cpe:2.3:a:kvguestbook:kvguestbook:*:*:*:*:*:*:*:*
 cpe:2.3:a:kvirc:irc_client:*:*:*:*:*:*:*:*
@@ -40509,6 +40515,7 @@ cpe:2.3:a:mantis:mantis:*:*:*:*:*:*:*:*
 cpe:2.3:a:mantisbt:linked_custom_fields:*:*:*:*:*:*:*:*
 cpe:2.3:a:mantisbt:mantisbt:*:*:*:*:*:*:*:*
 cpe:2.3:a:mantisbt:source_integration:*:*:*:*:*:*:*:*
+cpe:2.3:a:mantiszip:mantiszip:*:*:*:*:*:*:*:*
 cpe:2.3:a:mantrabrain:yatra:*:*:*:*:*:*:*:*
 cpe:2.3:a:mantus667:wp-pmanager:*:*:*:*:*:*:*:*
 cpe:2.3:a:manu_oehler:toto:*:*:*:*:*:*:*:*
@@ -41803,6 +41810,7 @@ cpe:2.3:a:meta_platforms_inc:llama_stack:*:*:*:*:*:*:*:*
 cpe:2.3:a:meta_tags_quick_project:meta_tags_quick:*:*:*:*:*:*:*:*
 cpe:2.3:a:metabase:metabase:*:*:*:*:*:*:*:*
 cpe:2.3:a:metabox:meta_box:*:*:*:*:*:*:*:*
+cpe:2.3:a:metabrainz:musicbrainz_picard:*:*:*:*:*:*:*:*
 cpe:2.3:a:metacase:metaedit:*:*:*:*:*:*:*:*
 cpe:2.3:a:metaclassy:byword:*:*:*:*:*:*:*:*
 cpe:2.3:a:metaclinic:nanovault:*:*:*:*:*:*:*:*
@@ -47979,6 +47987,7 @@ cpe:2.3:a:nvidia:megatron-lm:*:*:*:*:*:*:*:*
 cpe:2.3:a:nvidia:nemo:*:*:*:*:*:*:*:*
 cpe:2.3:a:nvidia:nemo_curator:*:*:*:*:*:*:*:*
 cpe:2.3:a:nvidia:nemo_megatron_bridge:*:*:*:*:*:*:*:*
+cpe:2.3:a:nvidia:nemo_speech:*:*:*:*:*:*:*:*
 cpe:2.3:a:nvidia:nemoclaw:*:*:*:*:*:*:*:*
 cpe:2.3:a:nvidia:nsight_graphics:*:*:*:*:*:*:*:*
 cpe:2.3:a:nvidia:nvcaffe:*:*:*:*:*:*:*:*
@@ -54285,6 +54294,7 @@ cpe:2.3:a:pmhtoken_project:pmhtoken:*:*:*:*:*:*:*:*
 cpe:2.3:a:pmos_helpdesk:pmos_helpdesk:*:*:*:*:*:*:*:*
 cpe:2.3:a:pmqs:compress\:\:raw\:\:zlib:*:*:*:*:*:*:*:*
 cpe:2.3:a:pmsoftware:simple_web_server:*:*:*:*:*:*:*:*
+cpe:2.3:a:pmticket:project-management-software:*:*:*:*:*:*:*:*
 cpe:2.3:a:pmtool:pmtool:*:*:*:*:*:*:*:*
 cpe:2.3:a:pmweb:pmweb:*:*:*:*:*:*:*:*
 cpe:2.3:a:pmwiki:pmwiki:*:*:*:*:*:*:*:*
@@ -61499,6 +61509,7 @@ cpe:2.3:a:semanticforms_project:semanticforms:*:*:*:*:*:*:*:*
 cpe:2.3:a:semanticscuttle:semanticscuttle:*:*:*:*:*:*:*:*
 cpe:2.3:a:semantictitle_project:semantictitle:*:*:*:*:*:*:*:*
 cpe:2.3:a:sematell:replyone:*:*:*:*:*:*:*:*
+cpe:2.3:a:semcms:semcms:*:*:*:*:*:*:*:*
 cpe:2.3:a:semcosoft:semcosoft:*:*:*:*:*:*:*:*
 cpe:2.3:a:semgrep:semgrep:*:*:*:*:*:*:*:*
 cpe:2.3:a:semi:semi:*:*:*:*:*:*:*:*
@@ -64896,6 +64907,7 @@ cpe:2.3:a:spnego_http_authentication_module_project:spnego_http_authentication_m
 cpe:2.3:a:spomky-labs:webauthn-lib:*:*:*:*:*:*:*:*
 cpe:2.3:a:spomky-labs:webauthn-symfony-bundle:*:*:*:*:*:*:*:*
 cpe:2.3:a:spomky-labs:webauthn_framwork:*:*:*:*:*:*:*:*
+cpe:2.3:a:spon_communications:ip_network_audio_device_xc-9603:*:*:*:*:*:*:*:*
 cpe:2.3:a:sponge_news:sponge_news:*:*:*:*:*:*:*:*
 cpe:2.3:a:sponsors_carousel_project:sponsors_carousel:*:*:*:*:*:*:*:*
 cpe:2.3:a:spoon-library:spoon_library:*:*:*:*:*:*:*:*
