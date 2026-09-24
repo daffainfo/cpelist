@@ -14496,6 +14496,7 @@ cpe:2.3:a:content_copy_protection_\&_prevent_image_save_project:content_copy_pro
 cpe:2.3:a:content_entity_clone_project:content_entity_clone:*:*:*:*:*:*:*:*
 cpe:2.3:a:content_management_system_project:content_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:content_mask_project:content_mask:*:*:*:*:*:*:*:*
+cpe:2.3:a:content_moderation_notifications_project:content_moderation_notifications:*:*:*:*:*:*:*:*
 cpe:2.3:a:content_now:content_now:*:*:*:*:*:*:*:*
 cpe:2.3:a:content_project:content:*:*:*:*:*:*:*:*
 cpe:2.3:a:content_rating_extbase_project:content_rating_extbase:*:*:*:*:*:*:*:*
