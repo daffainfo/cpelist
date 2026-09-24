@@ -621,6 +621,7 @@ cpe:2.3:a:abdullah1854:mcpgateway:*:*:*:*:*:*:*:*
 cpe:2.3:a:abdullah_irfan:document_press:*:*:*:*:*:*:*:*
 cpe:2.3:a:abdullahirfan:documentpress:*:*:*:*:*:*:*:*
 cpe:2.3:a:abdullahirfan:whitelist:*:*:*:*:*:*:*:*
+cpe:2.3:a:abdurrab5:online-makeup-store:*:*:*:*:*:*:*:*
 cpe:2.3:a:abe_timmerman:zml.cgi:*:*:*:*:*:*:*:*
 cpe:2.3:a:abeel:simple_php_agenda:*:*:*:*:*:*:*:*
 cpe:2.3:a:abelche:cola_dnslog:*:*:*:*:*:*:*:*
@@ -9794,6 +9795,7 @@ cpe:2.3:a:bytecodealliance:rustix:*:*:*:*:*:*:*:*
 cpe:2.3:a:bytecodealliance:wasm_micro_runtime:*:*:*:*:*:*:*:*
 cpe:2.3:a:bytecodealliance:wasmtime:*:*:*:*:*:*:*:*
 cpe:2.3:a:bytecodealliance:webassembly_micro_runtime:*:*:*:*:*:*:*:*
+cpe:2.3:a:bytedance:coze_scraper_extension:*:*:*:*:*:*:*:*
 cpe:2.3:a:bytedance:deerflow:*:*:*:*:*:*:*:*
 cpe:2.3:a:bytedance:infinistore:*:*:*:*:*:*:*:*
 cpe:2.3:a:bytedeco:javacpp_presets:*:*:*:*:*:*:*:*
@@ -22003,6 +22005,7 @@ cpe:2.3:a:fast-search-powered-by-solr_project:fast-search-powered-by-solr:*:*:*:
 cpe:2.3:a:fast-xml-parser_project:fast-xml-parser:*:*:*:*:*:*:*:*
 cpe:2.3:a:fast5:prison_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:fast:fac1203r_gigabit_edition:*:*:*:*:*:*:*:*
+cpe:2.3:a:fast:fac1900r:*:*:*:*:*:*:*:*
 cpe:2.3:a:fast_ber_project:fast_ber:*:*:*:*:*:*:*:*
 cpe:2.3:a:fast_browser:fast_browser:*:*:*:*:*:*:*:*
 cpe:2.3:a:fast_cgi_project:fast_cgi:*:*:*:*:*:*:*:*
@@ -37973,6 +37976,7 @@ cpe:2.3:a:lazy_mouse_project:lazy_mouse:*:*:*:*:*:*:*:*
 cpe:2.3:a:lazy_social_comments_project:lazy_social_comments:*:*:*:*:*:*:*:*
 cpe:2.3:a:lazyer:doodle_drop:*:*:*:*:*:*:*:*
 cpe:2.3:a:lazysizes_project:lazysizes:*:*:*:*:*:*:*:*
+cpe:2.3:a:lb-link:bl-cpe600eu:*:*:*:*:*:*:*:*
 cpe:2.3:a:lb-link:wr1210m:*:*:*:*:*:*:*:*
 cpe:2.3:a:lb-link:x-pro:*:*:*:*:*:*:*:*
 cpe:2.3:a:lb_link:bl_w1210m:*:*:*:*:*:*:*:*
@@ -59816,6 +59820,7 @@ cpe:2.3:a:samsung:capture:*:*:*:*:*:*:*:*
 cpe:2.3:a:samsung:charm:*:*:*:*:*:*:*:*
 cpe:2.3:a:samsung:checkout:*:*:*:*:*:*:*:*
 cpe:2.3:a:samsung:cloud:*:*:*:*:*:*:*:*
+cpe:2.3:a:samsung:collection:*:*:*:*:*:*:*:*
 cpe:2.3:a:samsung:contacts:*:*:*:*:*:*:*:*
 cpe:2.3:a:samsung:contacts_provider:*:*:*:*:*:*:*:*
 cpe:2.3:a:samsung:customization_service:*:*:*:*:*:*:*:*
@@ -59959,6 +59964,7 @@ cpe:2.3:a:samsung:universal_print_driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:samsung:update:*:*:*:*:*:*:*:*
 cpe:2.3:a:samsung:uphelper_library:*:*:*:*:*:*:*:*
 cpe:2.3:a:samsung:video_player:*:*:*:*:*:*:*:*
+cpe:2.3:a:samsung:visual_voicemail:*:*:*:*:*:*:*:*
 cpe:2.3:a:samsung:voice_note:*:*:*:*:*:*:*:*
 cpe:2.3:a:samsung:voice_recorder:*:*:*:*:*:*:*:*
 cpe:2.3:a:samsung:walrus:*:*:*:*:*:*:*:*
@@ -74000,6 +74006,7 @@ cpe:2.3:a:weintek:easyweb:*:*:*:*:*:*:*:*
 cpe:2.3:a:weintek:weincloud:*:*:*:*:*:*:*:*
 cpe:2.3:a:weipdcrm_project:weipdcrm:*:*:*:*:*:*:*:*
 cpe:2.3:a:weiphp:weiphp:*:*:*:*:*:*:*:*
+cpe:2.3:a:weiqingwen:spring-boot-forum:*:*:*:*:*:*:*:*
 cpe:2.3:a:weird_solutions:bootpturbo:*:*:*:*:*:*:*:*
 cpe:2.3:a:weitong:mall:*:*:*:*:*:*:*:*
 cpe:2.3:a:weiye-jing:datax-web:*:*:*:*:*:*:*:*
