@@ -15933,6 +15933,7 @@ cpe:2.3:a:dash7-alliance:dash7_alliance_protcol:*:*:*:*:*:*:*:*
 cpe:2.3:a:dash:dash:*:*:*:*:*:*:*:*
 cpe:2.3:a:dash:dash_core:*:*:*:*:*:*:*:*
 cpe:2.3:a:dash_project:dash:*:*:*:*:*:*:*:*
+cpe:2.3:a:dashbit:nimble_zta:*:*:*:*:*:*:*:*
 cpe:2.3:a:dasherr_project:dasherr:*:*:*:*:*:*:*:*
 cpe:2.3:a:dashlane:dashlane:*:*:*:*:*:*:*:*
 cpe:2.3:a:dashy:dashy:*:*:*:*:*:*:*:*
@@ -16207,6 +16208,7 @@ cpe:2.3:a:dbd\+_project:dbd\+:*:*:*:*:*:*:*:*
 cpe:2.3:a:dbd\:\:pgpp_project:dbd\:\:pgpp:*:*:*:*:*:*:*:*
 cpe:2.3:a:dbdeployer:dbdeployer:*:*:*:*:*:*:*:*
 cpe:2.3:a:dbeaver:dbeaver:*:*:*:*:*:*:*:*
+cpe:2.3:a:dbgate:dbgate:*:*:*:*:*:*:*:*
 cpe:2.3:a:dbgpt:db-gpt:*:*:*:*:*:*:*:*
 cpe:2.3:a:dbhcms_project:dbhcms:*:*:*:*:*:*:*:*
 cpe:2.3:a:dblog:dblog_cms:*:*:*:*:*:*:*:*
@@ -42349,7 +42351,7 @@ cpe:2.3:a:microsoft:azure_hdinsight:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_hdinsights:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_health_bot:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_horizondb:*:*:*:*:*:*:*:*
-cpe:2.3:a:microsoft:azure_identity_library_for_.net:*:*:*:*:*:*:*:*
+cpe:2.3:a:microsoft:azure_identity:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_identity_sdk:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_internet_of_things_edge:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_iot_central:*:*:*:*:*:*:*:*
@@ -44214,6 +44216,7 @@ cpe:2.3:a:mongodb:c\+\+_driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:c_driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:compass:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:database_tools:*:*:*:*:*:*:*:*
+cpe:2.3:a:mongodb:entity_framework_core_provider:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:go_driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:java_driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:mongodb:js-bson:*:*:*:*:*:*:*:*
@@ -72791,6 +72794,7 @@ cpe:2.3:a:vollmar:com_seminar:*:*:*:*:*:*:*:*
 cpe:2.3:a:vollstart:event_tickets_with_ticket_scanner:*:*:*:*:*:*:*:*
 cpe:2.3:a:volmarg:personal_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:volosoft:abp:*:*:*:*:*:*:*:*
+cpe:2.3:a:volotat:anagnorisis:*:*:*:*:*:*:*:*
 cpe:2.3:a:voltagent:voltagent:*:*:*:*:*:*:*:*
 cpe:2.3:a:voltronic_power:viewpower_pro:*:*:*:*:*:*:*:*
 cpe:2.3:a:voltronicpower:snmp_web_pro:*:*:*:*:*:*:*:*
