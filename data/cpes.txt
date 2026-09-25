@@ -11397,6 +11397,7 @@ cpe:2.3:a:chillcreations:com_ccnewsletter:*:*:*:*:*:*:*:*
 cpe:2.3:a:chillcreations:mod_ccnewsletter:*:*:*:*:*:*:*:*
 cpe:2.3:a:chillingo:flying_fox:*:*:*:*:*:*:*:*
 cpe:2.3:a:chillycms:chillycms:*:*:*:*:*:*:*:*
+cpe:2.3:a:chillzhuang:springblade:*:*:*:*:*:*:*:*
 cpe:2.3:a:chimaera:aterr:*:*:*:*:*:*:*:*
 cpe:2.3:a:chimpgroup:bolster:*:*:*:*:*:*:*:*
 cpe:2.3:a:chimpgroup:foodbakery:*:*:*:*:*:*:*:*
@@ -11459,6 +11460,7 @@ cpe:2.3:a:chocolatey:chocolatey_ruby:*:*:*:*:*:*:*:*
 cpe:2.3:a:choiceoflove:free_dating_heart_col:*:*:*:*:*:*:*:*
 cpe:2.3:a:choijun:la_studio_element_kit_for_elementor:*:*:*:*:*:*:*:*
 cpe:2.3:a:cholod:mysql_based_message_board:*:*:*:*:*:*:*:*
+cpe:2.3:a:chonkie-inc:littrs:*:*:*:*:*:*:*:*
 cpe:2.3:a:chop-chop:coming_soon_chop_chop:*:*:*:*:*:*:*:*
 cpe:2.3:a:chop-chop:pop-up_chop_chop:*:*:*:*:*:*:*:*
 cpe:2.3:a:choplugins:order_notification_for_telegram:*:*:*:*:*:*:*:*
@@ -35177,6 +35179,7 @@ cpe:2.3:a:jh_404_logger_project:jh_404_logger:*:*:*:*:*:*:*:*
 cpe:2.3:a:jh_captcha_project:jh_captcha:*:*:*:*:*:*:*:*
 cpe:2.3:a:jhayghost:ideal_interactive_map:*:*:*:*:*:*:*:*
 cpe:2.3:a:jhead_project:jhead:*:*:*:*:*:*:*:*
+cpe:2.3:a:jhen0409:react-native-debugger:*:*:*:*:*:*:*:*
 cpe:2.3:a:jhipster:generator-jhipster-kotlin:*:*:*:*:*:*:*:*
 cpe:2.3:a:jhipster:generator-jhipster:*:*:*:*:*:*:*:*
 cpe:2.3:a:jhipster:jhipster:*:*:*:*:*:*:*:*
@@ -64230,6 +64233,7 @@ cpe:2.3:a:sonexis:conferencemanager:*:*:*:*:*:*:*:*
 cpe:2.3:a:songbird:songbird_media_player:*:*:*:*:*:*:*:*
 cpe:2.3:a:songli:cross_browser_fingerprinting:*:*:*:*:*:*:*:*
 cpe:2.3:a:songquanpeng:one-api:*:*:*:*:*:*:*:*
+cpe:2.3:a:songxinjianqwe:chat:*:*:*:*:*:*:*:*
 cpe:2.3:a:sonic_project:sonic:*:*:*:*:*:*:*:*
 cpe:2.3:a:sonicbb:sonicbb:*:*:*:*:*:*:*:*
 cpe:2.3:a:soniccloudorg:sonic-agent:*:*:*:*:*:*:*:*
