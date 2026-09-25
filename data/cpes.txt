@@ -44374,6 +44374,7 @@ cpe:2.3:a:mopcms:mopcms:*:*:*:*:*:*:*:*
 cpe:2.3:a:moped_project:moped:*:*:*:*:*:*:*:*
 cpe:2.3:a:mopidy:mopidy:*:*:*:*:*:*:*:*
 cpe:2.3:a:mopl:phone_for_google_voice_\&_gtalk:*:*:*:*:*:*:*:*
+cpe:2.3:a:moquette:moquette:*:*:*:*:*:*:*:*
 cpe:2.3:a:mor-pah.net:dmitry_deepmagic_information_gathering_tool:*:*:*:*:*:*:*:*
 cpe:2.3:a:morbtay:jetty:*:*:*:*:*:*:*:*
 cpe:2.3:a:morbus_iff:activism:*:*:*:*:*:*:*:*
