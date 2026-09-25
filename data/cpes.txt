@@ -20392,6 +20392,7 @@ cpe:2.3:a:enthusiast:enthusiast:*:*:*:*:*:*:*:*
 cpe:2.3:a:entity_api_project:entity_api:*:*:*:*:*:*:*:*
 cpe:2.3:a:entity_browser_project:entity_browser:*:*:*:*:*:*:*:*
 cpe:2.3:a:entity_delete_log_project:entity_delete_log:*:*:*:*:*:*:*:*
+cpe:2.3:a:entity_pdf_project:entity_pdf:*:*:*:*:*:*:*:*
 cpe:2.3:a:entity_reference_project:entityreference:*:*:*:*:*:*:*:*
 cpe:2.3:a:entity_registration_project:entity_registration:*:*:*:*:*:*:*:*
 cpe:2.3:a:entity_share_websub_project:entity_share_websub:*:*:*:*:*:*:*:*
@@ -46992,6 +46993,7 @@ cpe:2.3:a:nimish_pachapurkar:spike_phpcoverage:*:*:*:*:*:*:*:*
 cpe:2.3:a:ninenines:cowboy:*:*:*:*:*:*:*:*
 cpe:2.3:a:ninenines:cowlib:*:*:*:*:*:*:*:*
 cpe:2.3:a:ninenines:gun:*:*:*:*:*:*:*:*
+cpe:2.3:a:ningzichun:student-management-system:*:*:*:*:*:*:*:*
 cpe:2.3:a:ningzichun:student_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:ninja_pages_project:ninja_pages:*:*:*:*:*:*:*:*
 cpe:2.3:a:ninjabeaveraddon:ninja_beaver_add-ons_for_beaver_builder:*:*:*:*:*:*:*:*
@@ -56234,6 +56236,7 @@ cpe:2.3:a:qualcomm:sa8620p_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:a:qualcomm:snapdragon:*:*:*:*:*:*:*:*
 cpe:2.3:a:qualcomm:snapdragon_auto_4g_modem:*:*:*:*:*:*:*:*
 cpe:2.3:a:qualcomm:snapdragon_auto_5g_modem-rf:*:*:*:*:*:*:*:*
+cpe:2.3:a:qualcomm:software_center:*:*:*:*:*:*:*:*
 cpe:2.3:a:qualcomm:worldmail:*:*:*:*:*:*:*:*
 cpe:2.3:a:qualcomm:worldmail_imap_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:qualcomm:yagattatalk_messenger:*:*:*:*:*:*:*:*
