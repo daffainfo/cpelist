@@ -37512,6 +37512,7 @@ cpe:2.3:a:kramware:mixsense_dj_studio:*:*:*:*:*:*:*:*
 cpe:2.3:a:krankikom:contentboxx:*:*:*:*:*:*:*:*
 cpe:2.3:a:krasenslavov:featured_image_plus:*:*:*:*:*:*:*:*
 cpe:2.3:a:kratosnetworks:neuralstar:*:*:*:*:*:*:*:*
+cpe:2.3:a:krayin:laravel-crm:*:*:*:*:*:*:*:*
 cpe:2.3:a:kreado:kreasfero:*:*:*:*:*:*:*:*
 cpe:2.3:a:kreativopro:kp_fastest_tawk.to_chat:*:*:*:*:*:*:*:*
 cpe:2.3:a:kreaturamedia:layerslider:*:*:*:*:*:*:*:*
@@ -37843,6 +37844,7 @@ cpe:2.3:a:langchain-ai:langchain-ai\/langchainjs:*:*:*:*:*:*:*:*
 cpe:2.3:a:langchain-ai:langchain:*:*:*:*:*:*:*:*
 cpe:2.3:a:langchain-ai:langchainjs:*:*:*:*:*:*:*:*
 cpe:2.3:a:langchain-ai:langgraph:*:*:*:*:*:*:*:*
+cpe:2.3:a:langchain4j:langchain4j:*:*:*:*:*:*:*:*
 cpe:2.3:a:langchain:langchain-experimental:*:*:*:*:*:*:*:*
 cpe:2.3:a:langchain:langchain-openai:*:*:*:*:*:*:*:*
 cpe:2.3:a:langchain:langchain-text-splitters:*:*:*:*:*:*:*:*
@@ -40881,6 +40883,7 @@ cpe:2.3:a:mathjs_project:mathjs:*:*:*:*:*:*:*:*
 cpe:2.3:a:mathon_nicolas:tmsw_cleandb:*:*:*:*:*:*:*:*
 cpe:2.3:a:mathopd:mathopd:*:*:*:*:*:*:*:*
 cpe:2.3:a:mathsoft:mathcad:*:*:*:*:*:*:*:*
+cpe:2.3:a:mathurvishal:cloudclassroom-php-project:*:*:*:*:*:*:*:*
 cpe:2.3:a:mathworks:matlab:*:*:*:*:*:*:*:*
 cpe:2.3:a:matiasdesuu:thinkdashboard:*:*:*:*:*:*:*:*
 cpe:2.3:a:matiass:shockingly_simple_favicon:*:*:*:*:*:*:*:*
@@ -42591,6 +42594,7 @@ cpe:2.3:a:microsoft:forefront_threat_management_gateway:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:forefront_unified_access_gateway:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:forms_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:foundation_class_library:*:*:*:*:*:*:*:*
+cpe:2.3:a:microsoft:foundry:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:frontpage:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:frontpage_express:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:frontpage_server_extensions:*:*:*:*:*:*:*:*
@@ -61990,6 +61994,7 @@ cpe:2.3:a:sherlockim:sherlockim:*:*:*:*:*:*:*:*
 cpe:2.3:a:sherparpa:sherpa_orchestrator:*:*:*:*:*:*:*:*
 cpe:2.3:a:sherzod_ruzmetov:cgi_session:*:*:*:*:*:*:*:*
 cpe:2.3:a:shescape_project:shescape:*:*:*:*:*:*:*:*
+cpe:2.3:a:sheshbabu:zen:*:*:*:*:*:*:*:*
 cpe:2.3:a:shiba-design:nukecalendar:*:*:*:*:*:*:*:*
 cpe:2.3:a:shiba_project:shiba:*:*:*:*:*:*:*:*
 cpe:2.3:a:shibangcommunications:ip_network_intercom_broadcasting_system:*:*:*:*:*:*:*:*
@@ -77549,6 +77554,7 @@ cpe:2.3:a:zhimengzhel:ibarn:*:*:*:*:*:*:*:*
 cpe:2.3:a:zhinianboke:xianyu-auto-reply:*:*:*:*:*:*:*:*
 cpe:2.3:a:zhinst:labone_q:*:*:*:*:*:*:*:*
 cpe:2.3:a:zhipu_ai:codegeex:*:*:*:*:*:*:*:*
+cpe:2.3:a:zhistaredu:startraining:*:*:*:*:*:*:*:*
 cpe:2.3:a:zhiyou-group:zhiyou_erp:*:*:*:*:*:*:*:*
 cpe:2.3:a:zhiyun-tech:zhihuiyun:*:*:*:*:*:*:*:*
 cpe:2.3:a:zhongcheng:ticketing_management_platform:*:*:*:*:*:*:*:*
