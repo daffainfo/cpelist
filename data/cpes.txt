@@ -30610,6 +30610,7 @@ cpe:2.3:a:ibm:security_verify_privilege_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:security_verify_privilege_on-premises:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:security_verify_privilege_vault_remote_on-premises:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:semeru_runtime:*:*:*:*:*:*:*:*
+cpe:2.3:a:ibm:server_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:serverguide:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:service_delivery_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:sevone_network_performance_management:*:*:*:*:*:*:*:*
@@ -77552,6 +77553,7 @@ cpe:2.3:a:zhiyou-group:zhiyou_erp:*:*:*:*:*:*:*:*
 cpe:2.3:a:zhiyun-tech:zhihuiyun:*:*:*:*:*:*:*:*
 cpe:2.3:a:zhongcheng:ticketing_management_platform:*:*:*:*:*:*:*:*
 cpe:2.3:a:zhongfucheng3y:austin:*:*:*:*:*:*:*:*
+cpe:2.3:a:zhonglun:cloudpos:*:*:*:*:*:*:*:*
 cpe:2.3:a:zhongyu09:openchatbi:*:*:*:*:*:*:*:*
 cpe:2.3:a:zhou_bo:message_forwarder:*:*:*:*:*:*:*:*
 cpe:2.3:a:zhtiantian:challengertx:*:*:*:*:*:*:*:*
