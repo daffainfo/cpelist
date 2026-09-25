@@ -15937,6 +15937,7 @@ cpe:2.3:a:dash:dash:*:*:*:*:*:*:*:*
 cpe:2.3:a:dash:dash_core:*:*:*:*:*:*:*:*
 cpe:2.3:a:dash_project:dash:*:*:*:*:*:*:*:*
 cpe:2.3:a:dashbit:nimble_zta:*:*:*:*:*:*:*:*
+cpe:2.3:a:dashbitco:lazy_html:*:*:*:*:*:*:*:*
 cpe:2.3:a:dasherr_project:dasherr:*:*:*:*:*:*:*:*
 cpe:2.3:a:dashlane:dashlane:*:*:*:*:*:*:*:*
 cpe:2.3:a:dashy:dashy:*:*:*:*:*:*:*:*
