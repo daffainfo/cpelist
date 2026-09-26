@@ -47989,6 +47989,7 @@ cpe:2.3:a:nvidia:gpu_driver_r346:*:*:*:*:*:*:*:*
 cpe:2.3:a:nvidia:gpu_driver_r352:*:*:*:*:*:*:*:*
 cpe:2.3:a:nvidia:gpu_operator:*:*:*:*:*:*:*:*
 cpe:2.3:a:nvidia:gpumodeswitch:*:*:*:*:*:*:*:*
+cpe:2.3:a:nvidia:infra_controller:*:*:*:*:*:*:*:*
 cpe:2.3:a:nvidia:install_application:*:*:*:*:*:*:*:*
 cpe:2.3:a:nvidia:isaac_lab:*:*:*:*:*:*:*:*
 cpe:2.3:a:nvidia:isaac_launchable:*:*:*:*:*:*:*:*
