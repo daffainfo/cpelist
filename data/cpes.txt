@@ -457,6 +457,7 @@ cpe:2.3:a:\@mail:\@mail:*:*:*:*:*:*:*:*
 cpe:2.3:a:\@nubosoftware\/node-static_project:\@nubosoftware\/node-static:*:*:*:*:*:*:*:*
 cpe:2.3:a:\@thi.ng\/egf_project:\@thi.ng\/egf:*:*:*:*:*:*:*:*
 cpe:2.3:a:\[gwa\]_autoresponder_project:\[gwa\]_autoresponder:*:*:*:*:*:*:*:*
+cpe:2.3:a:_:georitm:*:*:*:*:*:*:*:*
 cpe:2.3:a:a-a-s_application_access_server:a-a-s_application_access_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:a-blog:a-blog:*:*:*:*:*:*:*:*
 cpe:2.3:a:a-conman:a-conman:*:*:*:*:*:*:*:*
@@ -2649,6 +2650,7 @@ cpe:2.3:a:alienvault:ossim:*:*:*:*:*:*:*:*
 cpe:2.3:a:alienvault:unified_security_management:*:*:*:*:*:*:*:*
 cpe:2.3:a:alienwp:hatch:*:*:*:*:*:*:*:*
 cpe:2.3:a:align.bmr.kyushu-u.ac:mafft:*:*:*:*:*:*:*:*
+cpe:2.3:a:aligungr:ueransim:*:*:*:*:*:*:*:*
 cpe:2.3:a:alikonweb:com_bookjoomlas:*:*:*:*:*:*:*:*
 cpe:2.3:a:alilg:aliboard:*:*:*:*:*:*:*:*
 cpe:2.3:a:alilg:alitalk:*:*:*:*:*:*:*:*
@@ -5694,6 +5696,7 @@ cpe:2.3:a:athensstatebank:athen_state_bank_mobile_banking:*:*:*:*:*:*:*:*
 cpe:2.3:a:athensstatebank:athens_state_bank_mobile:*:*:*:*:*:*:*:*
 cpe:2.3:a:atheos:atheos:*:*:*:*:*:*:*:*
 cpe:2.3:a:athleticoin_project:athleticoin:*:*:*:*:*:*:*:*
+cpe:2.3:a:athlon1600:youtube-downloader:*:*:*:*:*:*:*:*
 cpe:2.3:a:athoc:athoc_toolbar:*:*:*:*:*:*:*:*
 cpe:2.3:a:athoc:athocgov:*:*:*:*:*:*:*:*
 cpe:2.3:a:athoc:enterprise_notifications_suite:*:*:*:*:*:*:*:*
@@ -7199,6 +7202,7 @@ cpe:2.3:a:barassistant:bar_assistant:*:*:*:*:*:*:*:*
 cpe:2.3:a:baratz_innovacion:absysnet:*:*:*:*:*:*:*:*
 cpe:2.3:a:barchart:maven_cascade_release:*:*:*:*:*:*:*:*
 cpe:2.3:a:barclamp-trove_project:barclamp-trove:*:*:*:*:*:*:*:*
+cpe:2.3:a:barco:clickshare_cx-20_gen2:*:*:*:*:*:*:*:*
 cpe:2.3:a:barco:control_room_management_suite:*:*:*:*:*:*:*:*
 cpe:2.3:a:barco:mirrorop_windows_sender:*:*:*:*:*:*:*:*
 cpe:2.3:a:barco:transform_n:*:*:*:*:*:*:*:*
@@ -21328,6 +21332,7 @@ cpe:2.3:a:eyecix:jobsearch_wp_job_board:*:*:*:*:*:*:*:*
 cpe:2.3:a:eyecomms:eyecms:*:*:*:*:*:*:*:*
 cpe:2.3:a:eyemaxsystems:nvclient:*:*:*:*:*:*:*:*
 cpe:2.3:a:eyeofnetwork:eyes_of_network_web:*:*:*:*:*:*:*:*
+cpe:2.3:a:eyeplus:eyeplus:*:*:*:*:*:*:*:*
 cpe:2.3:a:eyes_only_user_access_shortcode_project:eyes_only_user_access_shortcode:*:*:*:*:*:*:*:*
 cpe:2.3:a:eyesofnetwork:eonweb:*:*:*:*:*:*:*:*
 cpe:2.3:a:eyesofnetwork:eyesofnetwork:*:*:*:*:*:*:*:*
@@ -23985,6 +23990,7 @@ cpe:2.3:a:fuwushe:ifair:*:*:*:*:*:*:*:*
 cpe:2.3:a:fuyang_lipengjun:platform:*:*:*:*:*:*:*:*
 cpe:2.3:a:fuyanglipengjun:wetong_mall:*:*:*:*:*:*:*:*
 cpe:2.3:a:fuzezip_project:fuzezip:*:*:*:*:*:*:*:*
+cpe:2.3:a:fuzui:studentinfo:*:*:*:*:*:*:*:*
 cpe:2.3:a:fuzz:fuzz:*:*:*:*:*:*:*:*
 cpe:2.3:a:fuzzball_muck:fuzzball_muck:*:*:*:*:*:*:*:*
 cpe:2.3:a:fuzzguard:captcha_them_all:*:*:*:*:*:*:*:*
@@ -55072,6 +55078,7 @@ cpe:2.3:a:privateoctopus:picoquic:*:*:*:*:*:*:*:*
 cpe:2.3:a:privatetunnel:privatetunnel:*:*:*:*:*:*:*:*
 cpe:2.3:a:privatevpn:privatevpn:*:*:*:*:*:*:*:*
 cpe:2.3:a:privawall:privawall_antivirus:*:*:*:*:*:*:*:*
+cpe:2.3:a:privoce:vocechat_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:privoxy:privoxy:*:*:*:*:*:*:*:*
 cpe:2.3:a:privx:privx:*:*:*:*:*:*:*:*
 cpe:2.3:a:prixan:prixanconnect:*:*:*:*:*:*:*:*
@@ -70221,6 +70228,9 @@ cpe:2.3:a:trust-dns-server_project:trust-dns-server:*:*:*:*:*:*:*:*
 cpe:2.3:a:trust_digital:trusted_mobility_suite:*:*:*:*:*:*:*:*
 cpe:2.3:a:trust_form_project:trust_form:*:*:*:*:*:*:*:*
 cpe:2.3:a:trusted_boot_project:trusted_boot:*:*:*:*:*:*:*:*
+cpe:2.3:a:trusted_domain_project:openarc:*:*:*:*:*:*:*:*
+cpe:2.3:a:trusted_domain_project:opendkim:*:*:*:*:*:*:*:*
+cpe:2.3:a:trusted_domain_project:opendmarc:*:*:*:*:*:*:*:*
 cpe:2.3:a:trustedcomputinggroup:trousers:*:*:*:*:*:*:*:*
 cpe:2.3:a:trustedcomputinggroup:trusted_platform_module:*:*:*:*:*:*:*:*
 cpe:2.3:a:trustedconnectivityalliance:s\@t_browser:*:*:*:*:*:*:*:*
