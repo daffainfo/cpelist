@@ -1009,6 +1009,7 @@ cpe:2.3:a:acquia:mautic:*:*:*:*:*:*:*:*
 cpe:2.3:a:acquia:mollom:*:*:*:*:*:*:*:*
 cpe:2.3:a:acquisition_technology_and_logistics_agency:installer_of_electronic_tendering:*:*:*:*:*:*:*:*
 cpe:2.3:a:acra:acra_library:*:*:*:*:*:*:*:*
+cpe:2.3:a:acrel_electric:unet_web_service:*:*:*:*:*:*:*:*
 cpe:2.3:a:acrel_electrical:eems_enterprise_power_operation_and_maintenance_cloud_platform:*:*:*:*:*:*:*:*
 cpe:2.3:a:acresso:flexnet_connect:*:*:*:*:*:*:*:*
 cpe:2.3:a:acresso:intallshield_update_agent:*:*:*:*:*:*:*:*
@@ -2099,6 +2100,7 @@ cpe:2.3:a:agentfront:frontmcp:*:*:*:*:*:*:*:*
 cpe:2.3:a:agentpp:agent\+\+:*:*:*:*:*:*:*:*
 cpe:2.3:a:agentpp:agentx\+\+:*:*:*:*:*:*:*:*
 cpe:2.3:a:agentpp:snmp\+\+:*:*:*:*:*:*:*:*
+cpe:2.3:a:agentverus:agentverus-scanner:*:*:*:*:*:*:*:*
 cpe:2.3:a:agentworkhq:agentwork-cli:*:*:*:*:*:*:*:*
 cpe:2.3:a:agenziaentrate:desktop_telematico:*:*:*:*:*:*:*:*
 cpe:2.3:a:ageoflearning:cli-lib:*:*:*:*:*:*:*:*
@@ -16495,6 +16497,7 @@ cpe:2.3:a:deepnetexplorer:deepnet_explorer:*:*:*:*:*:*:*:*
 cpe:2.3:a:deepnetsecurity:dualshield:*:*:*:*:*:*:*:*
 cpe:2.3:a:deepref_project:deepref:*:*:*:*:*:*:*:*
 cpe:2.3:a:deeproot_linux:deepofix:*:*:*:*:*:*:*:*
+cpe:2.3:a:deepseek-ai:deepseek-harness:*:*:*:*:*:*:*:*
 cpe:2.3:a:deepseek:deepseek-r1:*:*:*:*:*:*:*:*
 cpe:2.3:a:deepseek:deepseek-v2:*:*:*:*:*:*:*:*
 cpe:2.3:a:deepseek:deepseek-v3:*:*:*:*:*:*:*:*
@@ -46219,6 +46222,7 @@ cpe:2.3:a:netcomposite:shellguard_ssh:*:*:*:*:*:*:*:*
 cpe:2.3:a:netcordia:netmri:*:*:*:*:*:*:*:*
 cpe:2.3:a:netcore:nbr100v2:*:*:*:*:*:*:*:*
 cpe:2.3:a:netcore:nbr200v2:*:*:*:*:*:*:*:*
+cpe:2.3:a:netcore:nr289-ge:*:*:*:*:*:*:*:*
 cpe:2.3:a:netcplus:browsegate:*:*:*:*:*:*:*:*
 cpe:2.3:a:netcplus:businessmail:*:*:*:*:*:*:*:*
 cpe:2.3:a:netcracker:resource_management_system:*:*:*:*:*:*:*:*
@@ -57848,6 +57852,7 @@ cpe:2.3:a:refined-github_project:refined-github:*:*:*:*:*:*:*:*
 cpe:2.3:a:refined:refined_toolkit:*:*:*:*:*:*:*:*
 cpe:2.3:a:refinedwiki:refinedwiki_original_theme:*:*:*:*:*:*:*:*
 cpe:2.3:a:reflex_gallery_project:reflex_gallery:*:*:*:*:*:*:*:*
+cpe:2.3:a:refly-ai:refly:*:*:*:*:*:*:*:*
 cpe:2.3:a:refraction-networking:utls:*:*:*:*:*:*:*:*
 cpe:2.3:a:refuel:autolabel:*:*:*:*:*:*:*:*
 cpe:2.3:a:reg-keygen-git-hash_project:reg-keygen-git-hash:*:*:*:*:*:*:*:*
@@ -68656,6 +68661,7 @@ cpe:2.3:a:thinkst:opencanary:*:*:*:*:*:*:*:*
 cpe:2.3:a:thinktwit_project:thinktwit:*:*:*:*:*:*:*:*
 cpe:2.3:a:thinkupapp:thinkup:*:*:*:*:*:*:*:*
 cpe:2.3:a:thinkupthemes:responsive_vector_maps:*:*:*:*:*:*:*:*
+cpe:2.3:a:thinkware:u3000:*:*:*:*:*:*:*:*
 cpe:2.3:a:thinkwise:thinkwise:*:*:*:*:*:*:*:*
 cpe:2.3:a:thinstation_project:thinstation:*:*:*:*:*:*:*:*
 cpe:2.3:a:thinutech:thinu-cms:*:*:*:*:*:*:*:*
