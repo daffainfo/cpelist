@@ -16498,6 +16498,7 @@ cpe:2.3:a:deepnetsecurity:dualshield:*:*:*:*:*:*:*:*
 cpe:2.3:a:deepref_project:deepref:*:*:*:*:*:*:*:*
 cpe:2.3:a:deeproot_linux:deepofix:*:*:*:*:*:*:*:*
 cpe:2.3:a:deepseek-ai:deepseek-harness:*:*:*:*:*:*:*:*
+cpe:2.3:a:deepseek:deepseek-harness:*:*:*:*:*:*:*:*
 cpe:2.3:a:deepseek:deepseek-r1:*:*:*:*:*:*:*:*
 cpe:2.3:a:deepseek:deepseek-v2:*:*:*:*:*:*:*:*
 cpe:2.3:a:deepseek:deepseek-v3:*:*:*:*:*:*:*:*
