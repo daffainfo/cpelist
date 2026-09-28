@@ -61444,6 +61444,10 @@ cpe:2.3:a:seeon:seeon:*:*:*:*:*:*:*:*
 cpe:2.3:a:seerox:wp_dynamic_keywords_injector:*:*:*:*:*:*:*:*
 cpe:2.3:a:seerr:seerr:*:*:*:*:*:*:*:*
 cpe:2.3:a:seesaw:parent_and_family:*:*:*:*:*:*:*:*
+cpe:2.3:a:seetong:t8108:*:*:*:*:*:*:*:*
+cpe:2.3:a:seetong:t8108p:*:*:*:*:*:*:*:*
+cpe:2.3:a:seetong:t8116:*:*:*:*:*:*:*:*
+cpe:2.3:a:seetong:t8232:*:*:*:*:*:*:*:*
 cpe:2.3:a:seeyon:a8\+_collaborative_management:*:*:*:*:*:*:*:*
 cpe:2.3:a:seeyon:fe_collaborative_office_platform:*:*:*:*:*:*:*:*
 cpe:2.3:a:seeyon:g6_government_collaborative_system:*:*:*:*:*:*:*:*
