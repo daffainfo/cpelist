@@ -504,6 +504,7 @@ cpe:2.3:a:aakashbhagat:single_user_chat:*:*:*:*:*:*:*:*
 cpe:2.3:a:aakashweb:announcer:*:*:*:*:*:*:*:*
 cpe:2.3:a:aaluoxiang:oa_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:aapanel:aapanel:*:*:*:*:*:*:*:*
+cpe:2.3:a:aapanel:baota:*:*:*:*:*:*:*:*
 cpe:2.3:a:aaptjs_project:aaptjs:*:*:*:*:*:*:*:*
 cpe:2.3:a:aaravrajsingh:chatbot:*:*:*:*:*:*:*:*
 cpe:2.3:a:aarboard:jave2:*:*:*:*:*:*:*:*
@@ -22018,6 +22019,7 @@ cpe:2.3:a:fast-report:fastreport:*:*:*:*:*:*:*:*
 cpe:2.3:a:fast-search-powered-by-solr_project:fast-search-powered-by-solr:*:*:*:*:*:*:*:*
 cpe:2.3:a:fast-xml-parser_project:fast-xml-parser:*:*:*:*:*:*:*:*
 cpe:2.3:a:fast5:prison_management_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:fast:fac1200r:*:*:*:*:*:*:*:*
 cpe:2.3:a:fast:fac1203r_gigabit_edition:*:*:*:*:*:*:*:*
 cpe:2.3:a:fast:fac1900r:*:*:*:*:*:*:*:*
 cpe:2.3:a:fast_ber_project:fast_ber:*:*:*:*:*:*:*:*
@@ -22698,6 +22700,7 @@ cpe:2.3:a:flattern_project:flattern:*:*:*:*:*:*:*:*
 cpe:2.3:a:flattr:flattr:*:*:*:*:*:*:*:*
 cpe:2.3:a:flavio_veloso:nobo:*:*:*:*:*:*:*:*
 cpe:2.3:a:flaxweb:flax_article_manager:*:*:*:*:*:*:*:*
+cpe:2.3:a:flb-music:flb-music-player:*:*:*:*:*:*:*:*
 cpe:2.3:a:flds-script:flds:*:*:*:*:*:*:*:*
 cpe:2.3:a:flds_script:flds:*:*:*:*:*:*:*:*
 cpe:2.3:a:fledrcms_project:fledrcms:*:*:*:*:*:*:*:*
@@ -23382,6 +23385,7 @@ cpe:2.3:a:frappe:frappe_crm:*:*:*:*:*:*:*:*
 cpe:2.3:a:frappe:frappe_hr:*:*:*:*:*:*:*:*
 cpe:2.3:a:frappe:frappe_lms:*:*:*:*:*:*:*:*
 cpe:2.3:a:frappe:helpdesk:*:*:*:*:*:*:*:*
+cpe:2.3:a:frappe:hr:*:*:*:*:*:*:*:*
 cpe:2.3:a:frappe:learning:*:*:*:*:*:*:*:*
 cpe:2.3:a:frappe:press:*:*:*:*:*:*:*:*
 cpe:2.3:a:fraserxu:electron-pdf:*:*:*:*:*:*:*:*
@@ -46213,6 +46217,7 @@ cpe:2.3:a:netcomm:4gt101w_software:*:*:*:*:*:*:*:*
 cpe:2.3:a:netcommons:netcommons:*:*:*:*:*:*:*:*
 cpe:2.3:a:netcomposite:shellguard_ssh:*:*:*:*:*:*:*:*
 cpe:2.3:a:netcordia:netmri:*:*:*:*:*:*:*:*
+cpe:2.3:a:netcore:nbr100v2:*:*:*:*:*:*:*:*
 cpe:2.3:a:netcore:nbr200v2:*:*:*:*:*:*:*:*
 cpe:2.3:a:netcplus:browsegate:*:*:*:*:*:*:*:*
 cpe:2.3:a:netcplus:businessmail:*:*:*:*:*:*:*:*
@@ -47537,6 +47542,7 @@ cpe:2.3:a:notifyvisitors:notifyvisitors:*:*:*:*:*:*:*:*
 cpe:2.3:a:notimoo_project:notimoo:*:*:*:*:*:*:*:*
 cpe:2.3:a:notion:notion:*:*:*:*:*:*:*:*
 cpe:2.3:a:notion:web_clipper:*:*:*:*:*:*:*:*
+cpe:2.3:a:notionnext-org:notionnext:*:*:*:*:*:*:*:*
 cpe:2.3:a:notmuchmail:notmuch:*:*:*:*:*:*:*:*
 cpe:2.3:a:notredame:notredame_seguradora:*:*:*:*:*:*:*:*
 cpe:2.3:a:notrinos:notrinoserp:*:*:*:*:*:*:*:*
@@ -48244,6 +48250,7 @@ cpe:2.3:a:oct8ne:chatbot:*:*:*:*:*:*:*:*
 cpe:2.3:a:octavolabs:vernemq:*:*:*:*:*:*:*:*
 cpe:2.3:a:octech:oempro:*:*:*:*:*:*:*:*
 cpe:2.3:a:octeth:oempro:*:*:*:*:*:*:*:*
+cpe:2.3:a:october_cms:october_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:octobercms:debugbar:*:*:*:*:*:*:*:*
 cpe:2.3:a:octobercms:october:*:*:*:*:*:*:*:*
 cpe:2.3:a:octobercms:october_cms:*:*:*:*:*:*:*:*
@@ -58302,6 +58309,7 @@ cpe:2.3:a:ricko:brplot:*:*:*:*:*:*:*:*
 cpe:2.3:a:ricksoft:wbs_gantt-chart:*:*:*:*:*:*:*:*
 cpe:2.3:a:rickxy:hospital_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:ricky_morse:excluded_users:*:*:*:*:*:*:*:*
+cpe:2.3:a:ricoh:aficio_sp_3500sf:*:*:*:*:*:*:*:*
 cpe:2.3:a:ricoh:device_software_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:ricoh:dl-10:*:*:*:*:*:*:*:*
 cpe:2.3:a:ricoh:dl-1_sr10:*:*:*:*:*:*:*:*
@@ -58614,6 +58622,9 @@ cpe:2.3:a:ricoh:rpcs_raster_driver_for_sg_3200:*:*:*:*:*:*:*:*
 cpe:2.3:a:ricoh:rpcs_raster_driver_for_sg_5100:*:*:*:*:*:*:*:*
 cpe:2.3:a:ricoh:rpcs_raster_driver_for_sg_7100dn:*:*:*:*:*:*:*:*
 cpe:2.3:a:ricoh:rpcs_raster_driver_for_sg_7200:*:*:*:*:*:*:*:*
+cpe:2.3:a:ricoh:sp_221:*:*:*:*:*:*:*:*
+cpe:2.3:a:ricoh:sp_330dn:*:*:*:*:*:*:*:*
+cpe:2.3:a:ricoh:sp_c252sf:*:*:*:*:*:*:*:*
 cpe:2.3:a:ricoh:streamline_nx_client_tool:*:*:*:*:*:*:*:*
 cpe:2.3:a:ricoh:streamline_nx_pc_client:*:*:*:*:*:*:*:*
 cpe:2.3:a:ricoh_company_ltd:javatm_platform:*:*:*:*:*:*:*:*
