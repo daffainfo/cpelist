@@ -21362,6 +21362,7 @@ cpe:2.3:a:ez:ezplatform-page-builder:*:*:*:*:*:*:*:*
 cpe:2.3:a:ez_photo_sales:ez_photo_sales:*:*:*:*:*:*:*:*
 cpe:2.3:a:ez_systems:httpbench:*:*:*:*:*:*:*:*
 cpe:2.3:a:eza.rock:eza:*:*:*:*:*:*:*:*
+cpe:2.3:a:eza.rocks:eza:*:*:*:*:*:*:*:*
 cpe:2.3:a:eza:eza:*:*:*:*:*:*:*:*
 cpe:2.3:a:ezaspsite:ezaspsite:*:*:*:*:*:*:*:*
 cpe:2.3:a:ezautomation:ez_plc_editor:*:*:*:*:*:*:*:*
@@ -22024,6 +22025,7 @@ cpe:2.3:a:fast-search-powered-by-solr_project:fast-search-powered-by-solr:*:*:*:
 cpe:2.3:a:fast-xml-parser_project:fast-xml-parser:*:*:*:*:*:*:*:*
 cpe:2.3:a:fast5:prison_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:fast:fac1200r:*:*:*:*:*:*:*:*
+cpe:2.3:a:fast:fac1203r:*:*:*:*:*:*:*:*
 cpe:2.3:a:fast:fac1203r_gigabit_edition:*:*:*:*:*:*:*:*
 cpe:2.3:a:fast:fac1900r:*:*:*:*:*:*:*:*
 cpe:2.3:a:fast_ber_project:fast_ber:*:*:*:*:*:*:*:*
@@ -29335,6 +29337,7 @@ cpe:2.3:a:httrack:httrack:*:*:*:*:*:*:*:*
 cpe:2.3:a:httrack:winhttrack:*:*:*:*:*:*:*:*
 cpe:2.3:a:hu-manity:cookie_notice_\&_compliance_for_gdpr_\/_ccpa:*:*:*:*:*:*:*:*
 cpe:2.3:a:hu60:hu60wap6:*:*:*:*:*:*:*:*
+cpe:2.3:a:huajay:easy_test_online_learning_and_testing_platform:*:*:*:*:*:*:*:*
 cpe:2.3:a:huaju:easytest_online_learning_test_platform:*:*:*:*:*:*:*:*
 cpe:2.3:a:huakecms:huakecms:*:*:*:*:*:*:*:*
 cpe:2.3:a:hualai:isc5:*:*:*:*:*:*:*:*
@@ -44106,6 +44109,7 @@ cpe:2.3:a:modplug:tracker:*:*:*:*:*:*:*:*
 cpe:2.3:a:mods-for-hesk:mods_for_hesk:*:*:*:*:*:*:*:*
 cpe:2.3:a:modsecurity:modsecurity:*:*:*:*:*:*:*:*
 cpe:2.3:a:modsecurity:owasp_modsecurity_core_rule_set:*:*:*:*:*:*:*:*
+cpe:2.3:a:modsetter:surfsense:*:*:*:*:*:*:*:*
 cpe:2.3:a:modsimconnected:modsim_world_2014:*:*:*:*:*:*:*:*
 cpe:2.3:a:modssl:mod_ssl:*:*:*:*:*:*:*:*
 cpe:2.3:a:modstart:modstartcms:*:*:*:*:*:*:*:*
@@ -46221,6 +46225,7 @@ cpe:2.3:a:netcomm:4gt101w_software:*:*:*:*:*:*:*:*
 cpe:2.3:a:netcommons:netcommons:*:*:*:*:*:*:*:*
 cpe:2.3:a:netcomposite:shellguard_ssh:*:*:*:*:*:*:*:*
 cpe:2.3:a:netcordia:netmri:*:*:*:*:*:*:*:*
+cpe:2.3:a:netcore:nap930:*:*:*:*:*:*:*:*
 cpe:2.3:a:netcore:nbr100v2:*:*:*:*:*:*:*:*
 cpe:2.3:a:netcore:nbr200v2:*:*:*:*:*:*:*:*
 cpe:2.3:a:netcore:nr289-ge:*:*:*:*:*:*:*:*
@@ -57203,6 +57208,7 @@ cpe:2.3:a:rebelcode:spotlight_social_feeds:*:*:*:*:*:*:*:*
 cpe:2.3:a:rebellion:rogue_trooper:*:*:*:*:*:*:*:*
 cpe:2.3:a:rebing:woocommerce_esto:*:*:*:*:*:*:*:*
 cpe:2.3:a:rebrand:p2p_share_spy:*:*:*:*:*:*:*:*
+cpe:2.3:a:rebuild:rebuild:*:*:*:*:*:*:*:*
 cpe:2.3:a:rebuild_project:rebuild:*:*:*:*:*:*:*:*
 cpe:2.3:a:recall-products_project:recall-products:*:*:*:*:*:*:*:*
 cpe:2.3:a:recantha:pi_camera_project:*:*:*:*:*:*:*:*
@@ -115793,6 +115799,7 @@ cpe:2.3:h:intelbras:sg_2404_poe:*:*:*:*:*:*:*:*
 cpe:2.3:h:intelbras:tip200:*:*:*:*:*:*:*:*
 cpe:2.3:h:intelbras:tip200lite:*:*:*:*:*:*:*:*
 cpe:2.3:h:intelbras:tip300:*:*:*:*:*:*:*:*
+cpe:2.3:h:intelbras:tip_125i:*:*:*:*:*:*:*:*
 cpe:2.3:h:intelbras:tip_635g:*:*:*:*:*:*:*:*
 cpe:2.3:h:intelbras:wifiber_120ac_inmesh:*:*:*:*:*:*:*:*
 cpe:2.3:h:intelbras:win_240:*:*:*:*:*:*:*:*
