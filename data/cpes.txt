@@ -46224,6 +46224,7 @@ cpe:2.3:a:netcordia:netmri:*:*:*:*:*:*:*:*
 cpe:2.3:a:netcore:nbr100v2:*:*:*:*:*:*:*:*
 cpe:2.3:a:netcore:nbr200v2:*:*:*:*:*:*:*:*
 cpe:2.3:a:netcore:nr289-ge:*:*:*:*:*:*:*:*
+cpe:2.3:a:netcore:power13:*:*:*:*:*:*:*:*
 cpe:2.3:a:netcplus:browsegate:*:*:*:*:*:*:*:*
 cpe:2.3:a:netcplus:businessmail:*:*:*:*:*:*:*:*
 cpe:2.3:a:netcracker:resource_management_system:*:*:*:*:*:*:*:*
@@ -77661,6 +77662,7 @@ cpe:2.3:a:zipstore:zip_store_chat:*:*:*:*:*:*:*:*
 cpe:2.3:a:ziptorrent:ziptorrent:*:*:*:*:*:*:*:*
 cpe:2.3:a:ziragroup:wbrm:*:*:*:*:*:*:*:*
 cpe:2.3:a:zirkon_box:yappa-ng:*:*:*:*:*:*:*:*
+cpe:2.3:a:ziroom:zhome_a0101:*:*:*:*:*:*:*:*
 cpe:2.3:a:zishanj:gi-media-library:*:*:*:*:*:*:*:*
 cpe:2.3:a:zitadel:zitadel:*:*:*:*:*:*:*:*
 cpe:2.3:a:ziteboard:ziteboard:*:*:*:*:*:*:*:*
