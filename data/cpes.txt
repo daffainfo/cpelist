@@ -24256,7 +24256,10 @@ cpe:2.3:a:gatewaygeomatics:mapserver:*:*:*:*:*:*:*:*
 cpe:2.3:a:gatling:gatling:*:*:*:*:*:*:*:*
 cpe:2.3:a:gator:gator:*:*:*:*:*:*:*:*
 cpe:2.3:a:gatos:gatos:*:*:*:*:*:*:*:*
+cpe:2.3:a:gatsbyjs:gatsby-plugin-mdx:*:*:*:*:*:*:*:*
+cpe:2.3:a:gatsbyjs:gatsby-plugin-sharp:*:*:*:*:*:*:*:*
 cpe:2.3:a:gatsbyjs:gatsby-source-wordpress:*:*:*:*:*:*:*:*
+cpe:2.3:a:gatsbyjs:gatsby-transformer-remark:*:*:*:*:*:*:*:*
 cpe:2.3:a:gatsbyjs:gatsby:*:*:*:*:*:*:*:*
 cpe:2.3:a:gatship:web_module:*:*:*:*:*:*:*:*
 cpe:2.3:a:gauche:gauche:*:*:*:*:*:*:*:*
@@ -40204,6 +40207,7 @@ cpe:2.3:a:mahinsha:newsticker:*:*:*:*:*:*:*:*
 cpe:2.3:a:mahlamusa:multi_purpose_mail_form:*:*:*:*:*:*:*:*
 cpe:2.3:a:mahlamusa:who_hit_the_page_-_hit_counter:*:*:*:*:*:*:*:*
 cpe:2.3:a:mahlamusa:who_hit_the_page_hit_counter:*:*:*:*:*:*:*:*
+cpe:2.3:a:mahonelau:kykms:*:*:*:*:*:*:*:*
 cpe:2.3:a:mahype:pagerank_tools:*:*:*:*:*:*:*:*
 cpe:2.3:a:maia_mailguard:maia_mailguard:*:*:*:*:*:*:*:*
 cpe:2.3:a:maian:gallery:*:*:*:*:*:*:*:*
@@ -49241,7 +49245,7 @@ cpe:2.3:a:openmicroscopy:omero.server:*:*:*:*:*:*:*:*
 cpe:2.3:a:openmicroscopy:omero.web:*:*:*:*:*:*:*:*
 cpe:2.3:a:openmicroscopy:omero:*:*:*:*:*:*:*:*
 cpe:2.3:a:openmix:mix_php:*:*:*:*:*:*:*:*
-cpe:2.3:a:openml:openml.org:*:*:*:*:*:*:*:*
+cpe:2.3:a:openml:openml_frontend:*:*:*:*:*:*:*:*
 cpe:2.3:a:openmodelica:omcompiler:*:*:*:*:*:*:*:*
 cpe:2.3:a:openmoney_api_project:openmoney_api:*:*:*:*:*:*:*:*
 cpe:2.3:a:openmosixview:openmosixview:*:*:*:*:*:*:*:*
