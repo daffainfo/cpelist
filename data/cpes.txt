@@ -42739,6 +42739,7 @@ cpe:2.3:a:microsoft:microsoft.aspnetcore.mvc.webapicompatshim:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:microsoft.aspnetcore.mvc:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:microsoft.data.odata:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:microsoft.data.sqlclient:*:*:*:*:*:*:*:*
+cpe:2.3:a:microsoft:microsoft.diagnostics.runtime:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:microsoft.powershell.archive:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:microsoft_365:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:microsoft_advertising_universal_event_tracking:*:*:*:*:*:*:*:*
@@ -42979,6 +42980,7 @@ cpe:2.3:a:microsoft:small_business_srv:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:sna_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:snip_\&_sketch:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:snipping_tool:*:*:*:*:*:*:*:*
+cpe:2.3:a:microsoft:spring_cloud:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:sql_2016_azure_connect_feature_pack:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:sql_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:sql_server_2000:*:*:*:*:*:*:*:*
@@ -58716,6 +58718,7 @@ cpe:2.3:a:riscv:spike_risc-v_isa_simulator:*:*:*:*:*:*:*:*
 cpe:2.3:a:rise:ultimate_project_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:risearch:risearch:*:*:*:*:*:*:*:*
 cpe:2.3:a:risearch:risearch_pro:*:*:*:*:*:*:*:*
+cpe:2.3:a:risesoft-y9:workflow-engine:*:*:*:*:*:*:*:*
 cpe:2.3:a:risethemes:rt_easy_builder:*:*:*:*:*:*:*:*
 cpe:2.3:a:risi:gestao_de_horarios:*:*:*:*:*:*:*:*
 cpe:2.3:a:rising-global:rising_antivirus:*:*:*:*:*:*:*:*
