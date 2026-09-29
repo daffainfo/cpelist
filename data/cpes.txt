@@ -13603,6 +13603,7 @@ cpe:2.3:a:codecall:com_ionfiles:*:*:*:*:*:*:*:*
 cpe:2.3:a:codecanyon:crmgo_saas:*:*:*:*:*:*:*:*
 cpe:2.3:a:codecanyon:phpsound:*:*:*:*:*:*:*:*
 cpe:2.3:a:codecanyon:rise_ultimate_project_manager:*:*:*:*:*:*:*:*
+cpe:2.3:a:codecanyon:rocket_lms:*:*:*:*:*:*:*:*
 cpe:2.3:a:codecanyon:timecamp_integration_for_crm:*:*:*:*:*:*:*:*
 cpe:2.3:a:codecanyon:wooevents:*:*:*:*:*:*:*:*
 cpe:2.3:a:codecentric:spring_boot_admin:*:*:*:*:*:*:*:*
@@ -14609,6 +14610,7 @@ cpe:2.3:a:cookpad:android_mykitchen:*:*:*:*:*:*:*:*
 cpe:2.3:a:cool-php-captcha_project:cool-php-captcha:*:*:*:*:*:*:*:*
 cpe:2.3:a:cool_cafe_chat:cool_cafe_chat:*:*:*:*:*:*:*:*
 cpe:2.3:a:cool_video_gallery_project:cool_video_gallery:*:*:*:*:*:*:*:*
+cpe:2.3:a:coolbeans1212:mateishomepage-website:*:*:*:*:*:*:*:*
 cpe:2.3:a:coolercontrol:coolercontrol:*:*:*:*:*:*:*:*
 cpe:2.3:a:coolercontrol:coolercontrold:*:*:*:*:*:*:*:*
 cpe:2.3:a:coolforum:coolforum:*:*:*:*:*:*:*:*
@@ -31956,6 +31958,7 @@ cpe:2.3:a:innoraft:login_time_restriction:*:*:*:*:*:*:*:*
 cpe:2.3:a:innorix:file_transfer_solution:*:*:*:*:*:*:*:*
 cpe:2.3:a:innorix:web-based_file_transfer_solution:*:*:*:*:*:*:*:*
 cpe:2.3:a:innosa_probbys_project:innosa_probbys:*:*:*:*:*:*:*:*
+cpe:2.3:a:innosetup:installer:*:*:*:*:*:*:*:*
 cpe:2.3:a:innotube:itguard_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:innovaage:innovashop:*:*:*:*:*:*:*:*
 cpe:2.3:a:innovadeluxe:manufacturer_or_supplier_alphabetical_search:*:*:*:*:*:*:*:*
@@ -44994,6 +44997,7 @@ cpe:2.3:a:mw6tech:aztec_activex_control:*:*:*:*:*:*:*:*
 cpe:2.3:a:mw6tech:datamatrix_activex_control:*:*:*:*:*:*:*:*
 cpe:2.3:a:mw6tech:maxicode_activex_control:*:*:*:*:*:*:*:*
 cpe:2.3:a:mw_wp_form_project:mw_wp_form:*:*:*:*:*:*:*:*
+cpe:2.3:a:mwasikz:robo-cafe-rms:*:*:*:*:*:*:*:*
 cpe:2.3:a:mwchat_pro:mwchat_pro:*:*:*:*:*:*:*:*
 cpe:2.3:a:mwiede:jsch:*:*:*:*:*:*:*:*
 cpe:2.3:a:mwielgoszewski:doorman:*:*:*:*:*:*:*:*
@@ -51331,6 +51335,7 @@ cpe:2.3:a:owasp:owasp_modsecurity_core_rule_set:*:*:*:*:*:*:*:*
 cpe:2.3:a:owasp:stinger:*:*:*:*:*:*:*:*
 cpe:2.3:a:owasp:webscarab:*:*:*:*:*:*:*:*
 cpe:2.3:a:owasp:zed_attack_proxy:*:*:*:*:*:*:*:*
+cpe:2.3:a:owen2345:camaleon_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:owentechkenya:owenpoll:*:*:*:*:*:*:*:*
 cpe:2.3:a:owfs:owfs:*:*:*:*:*:*:*:*
 cpe:2.3:a:owl:intranet_knowledgebase:*:*:*:*:*:*:*:*
@@ -57105,6 +57110,7 @@ cpe:2.3:a:reality:medias_phpizabi:*:*:*:*:*:*:*:*
 cpe:2.3:a:realitymedias:repairshop2:*:*:*:*:*:*:*:*
 cpe:2.3:a:realityscape:mylogin_2000:*:*:*:*:*:*:*:*
 cpe:2.3:a:realization:concerto_critical_chain_planner:*:*:*:*:*:*:*:*
+cpe:2.3:a:realjerrytang:tacomall:*:*:*:*:*:*:*:*
 cpe:2.3:a:really-simple-plugins:complianz:*:*:*:*:*:*:*:*
 cpe:2.3:a:really-simple-plugins:really_simple_security:*:*:*:*:*:*:*:*
 cpe:2.3:a:really-simple-plugins:recipe_maker_for_your_food_blog_from_zip_recipes:*:*:*:*:*:*:*:*
