@@ -21,6 +21,7 @@ cpe:2.3:a:0mk_shortener_project:0mk_shortener:*:*:*:*:*:*:*:*
 cpe:2.3:a:0verkill:0verkill:*:*:*:*:*:*:*:*
 cpe:2.3:a:0x4m4:hexstrike_ai:*:*:*:*:*:*:*:*
 cpe:2.3:a:0xacab:mat2:*:*:*:*:*:*:*:*
+cpe:2.3:a:0xshariq:github-mcp-server:*:*:*:*:*:*:*:*
 cpe:2.3:a:1-script:1-book:*:*:*:*:*:*:*:*
 cpe:2.3:a:1-script:1-search:*:*:*:*:*:*:*:*
 cpe:2.3:a:10-4_aps:asp_fast_forum:*:*:*:*:*:*:*:*
@@ -17211,6 +17212,7 @@ cpe:2.3:a:device42:remote_collector:*:*:*:*:*:*:*:*
 cpe:2.3:a:devicefarmer:smartphone_test_farm:*:*:*:*:*:*:*:*
 cpe:2.3:a:devicelock:devicelock:*:*:*:*:*:*:*:*
 cpe:2.3:a:devicelock:plug_and_play_auditor:*:*:*:*:*:*:*:*
+cpe:2.3:a:devify:coursevault-preview:*:*:*:*:*:*:*:*
 cpe:2.3:a:devil:developers_image_library:*:*:*:*:*:*:*:*
 cpe:2.3:a:devilz_clanportal:devilz_clanportal:*:*:*:*:*:*:*:*
 cpe:2.3:a:devincentiis:gazie:*:*:*:*:*:*:*:*
@@ -27885,6 +27887,7 @@ cpe:2.3:a:hkdigit:payment_gateway_for_telcell:*:*:*:*:*:*:*:*
 cpe:2.3:a:hkdigital:payment_gateway_for_telcell:*:*:*:*:*:*:*:*
 cpe:2.3:a:hkritesh009:grocery_list_management_web:*:*:*:*:*:*:*:*
 cpe:2.3:a:hkuds:ai-trader:*:*:*:*:*:*:*:*
+cpe:2.3:a:hkuds:anytool:*:*:*:*:*:*:*:*
 cpe:2.3:a:hkuds:deepcode:*:*:*:*:*:*:*:*
 cpe:2.3:a:hkuds:lightrag:*:*:*:*:*:*:*:*
 cpe:2.3:a:hkuds:openharness:*:*:*:*:*:*:*:*
@@ -49247,6 +49250,7 @@ cpe:2.3:a:openmicroscopy:omero.server:*:*:*:*:*:*:*:*
 cpe:2.3:a:openmicroscopy:omero.web:*:*:*:*:*:*:*:*
 cpe:2.3:a:openmicroscopy:omero:*:*:*:*:*:*:*:*
 cpe:2.3:a:openmix:mix_php:*:*:*:*:*:*:*:*
+cpe:2.3:a:openml:openml:*:*:*:*:*:*:*:*
 cpe:2.3:a:openml:openml_frontend:*:*:*:*:*:*:*:*
 cpe:2.3:a:openmodelica:omcompiler:*:*:*:*:*:*:*:*
 cpe:2.3:a:openmoney_api_project:openmoney_api:*:*:*:*:*:*:*:*
@@ -55643,6 +55647,7 @@ cpe:2.3:a:pull_it_project:pull_it:*:*:*:*:*:*:*:*
 cpe:2.3:a:pulp_project:pulp:*:*:*:*:*:*:*:*
 cpe:2.3:a:pulpproject:pulp:*:*:*:*:*:*:*:*
 cpe:2.3:a:pulpproject:pulp_ansible:*:*:*:*:*:*:*:*
+cpe:2.3:a:pulpproject:pulp_container:*:*:*:*:*:*:*:*
 cpe:2.3:a:pulpproject:qpid:*:*:*:*:*:*:*:*
 cpe:2.3:a:pulseaudio:pulseaudio:*:*:*:*:*:*:*:*
 cpe:2.3:a:pulseaudio_project:pulseaudio:*:*:*:*:*:*:*:*
@@ -64596,6 +64601,7 @@ cpe:2.3:a:sourcecodester:online_hospital_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:online_hotel_reservation_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:online_job_portal:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:online_learning_system_v2:*:*:*:*:*:*:*:*
+cpe:2.3:a:sourcecodester:online_leave_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:online_library_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:online_magazine_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:online_mobile_management_store:*:*:*:*:*:*:*:*
@@ -77937,6 +77943,7 @@ cpe:2.3:a:zorem:advanced_local_pickup_for_woocommerce:*:*:*:*:*:*:*:*
 cpe:2.3:a:zorem:advanced_shipment_tracking_for_woocommerce:*:*:*:*:*:*:*:*
 cpe:2.3:a:zorem:sales_report_email_for_woocommerce:*:*:*:*:*:*:*:*
 cpe:2.3:a:zorovavi\/blog_project:zorovavi\/blog:*:*:*:*:*:*:*:*
+cpe:2.3:a:zosmaai:pi-llm-wiki:*:*:*:*:*:*:*:*
 cpe:2.3:a:zotonic:zotonic:*:*:*:*:*:*:*:*
 cpe:2.3:a:zotpress_project:zotpress:*:*:*:*:*:*:*:*
 cpe:2.3:a:zotregistry:zot:*:*:*:*:*:*:*:*
