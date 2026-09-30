@@ -31964,7 +31964,6 @@ cpe:2.3:a:innoraft:login_time_restriction:*:*:*:*:*:*:*:*
 cpe:2.3:a:innorix:file_transfer_solution:*:*:*:*:*:*:*:*
 cpe:2.3:a:innorix:web-based_file_transfer_solution:*:*:*:*:*:*:*:*
 cpe:2.3:a:innosa_probbys_project:innosa_probbys:*:*:*:*:*:*:*:*
-cpe:2.3:a:innosetup:installer:*:*:*:*:*:*:*:*
 cpe:2.3:a:innotube:itguard_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:innovaage:innovashop:*:*:*:*:*:*:*:*
 cpe:2.3:a:innovadeluxe:manufacturer_or_supplier_alphabetical_search:*:*:*:*:*:*:*:*
@@ -51076,7 +51075,7 @@ cpe:2.3:a:orion:orion_application_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:orion:woocommerce_products_designer:*:*:*:*:*:*:*:*
 cpe:2.3:a:orion_project:orion:*:*:*:*:*:*:*:*
 cpe:2.3:a:orion_studios:cinematicmp3:*:*:*:*:*:*:*:*
-cpe:2.3:a:orionsec:orion-ops:*:*:*:*:*:*:*:*
+cpe:2.3:a:orionsec:orion_ops:*:*:*:*:*:*:*:*
 cpe:2.3:a:orionserver:orion_application_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:orjinweb:orjinweb_e-commerce:*:*:*:*:*:*:*:*
 cpe:2.3:a:orjinyazilim:ats_pro:*:*:*:*:*:*:*:*
