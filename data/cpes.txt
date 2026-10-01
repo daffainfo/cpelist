@@ -32363,6 +32363,7 @@ cpe:2.3:a:intel:ethernet_diagnostics_driver_iqvw32.sys:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:ethernet_diagnostics_driver_iqvw64.sys:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:ethernet_i218_adapter_driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:expressway_cloud_access_360:*:*:*:*:*:*:*:*
+cpe:2.3:a:intel:extension_for_pytorch:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:extreme_tuning_utility:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:field_programmable_gate_array_crypto_service_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:field_programmable_gate_array_software_development_kit_for_opencl:*:*:*:*:*:*:*:*
