@@ -14397,6 +14397,7 @@ cpe:2.3:a:confire_project:confire:*:*:*:*:*:*:*:*
 cpe:2.3:a:confirm:confirm:*:*:*:*:*:*:*:*
 cpe:2.3:a:confluence:snotify:*:*:*:*:*:*:*:*
 cpe:2.3:a:confluent:ansible:*:*:*:*:*:*:*:*
+cpe:2.3:a:confluent:confluent-kafka:*:*:*:*:*:*:*:*
 cpe:2.3:a:confluent:cp-ansible:*:*:*:*:*:*:*:*
 cpe:2.3:a:conftool:conftool:*:*:*:*:*:*:*:*
 cpe:2.3:a:conga:conga:*:*:*:*:*:*:*:*
