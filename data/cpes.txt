@@ -8192,6 +8192,8 @@ cpe:2.3:a:blackberry:good_control:*:*:*:*:*:*:*:*
 cpe:2.3:a:blackberry:good_control_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:blackberry:mobile_device_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:blackberry:protect:*:*:*:*:*:*:*:*
+cpe:2.3:a:blackberry:qnx_hypervisor:*:*:*:*:*:*:*:*
+cpe:2.3:a:blackberry:qnx_hypervisor_for_safety:*:*:*:*:*:*:*:*
 cpe:2.3:a:blackberry:qnx_momentics:*:*:*:*:*:*:*:*
 cpe:2.3:a:blackberry:qnx_momentics_tool_suite:*:*:*:*:*:*:*:*
 cpe:2.3:a:blackberry:qnx_software_development_platform:*:*:*:*:*:*:*:*
@@ -16124,6 +16126,7 @@ cpe:2.3:a:davethewebguy:battle_blog:*:*:*:*:*:*:*:*
 cpe:2.3:a:davfs2:davfs2:*:*:*:*:*:*:*:*
 cpe:2.3:a:davical:andrew\'s_web_libraries:*:*:*:*:*:*:*:*
 cpe:2.3:a:davical:davical:*:*:*:*:*:*:*:*
+cpe:2.3:a:david-crty:databasement:*:*:*:*:*:*:*:*
 cpe:2.3:a:david_alkire:drag_\&_drop_gallery:*:*:*:*:*:*:*:*
 cpe:2.3:a:david_alkire:email2image:*:*:*:*:*:*:*:*
 cpe:2.3:a:david_azoulay:web_file_browser:*:*:*:*:*:*:*:*
@@ -31571,6 +31574,7 @@ cpe:2.3:a:immcoin_project:immcoin:*:*:*:*:*:*:*:*
 cpe:2.3:a:immediacy:immediacy_.net_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:immer_project:immer:*:*:*:*:*:*:*:*
 cpe:2.3:a:immersion_games:cellfactor_revolution:*:*:*:*:*:*:*:*
+cpe:2.3:a:immich:immich:*:*:*:*:*:*:*:*
 cpe:2.3:a:immigrer:forum_ic:*:*:*:*:*:*:*:*
 cpe:2.3:a:immunix:immunix:*:*:*:*:*:*:*:*
 cpe:2.3:a:immunix:stackguard:*:*:*:*:*:*:*:*
