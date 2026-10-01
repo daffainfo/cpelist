@@ -16013,6 +16013,7 @@ cpe:2.3:a:datadoghq:datadog-api-client-java:*:*:*:*:*:*:*:*
 cpe:2.3:a:datadoghq:dd-trace-cpp:*:*:*:*:*:*:*:*
 cpe:2.3:a:datadoghq:guarddog:*:*:*:*:*:*:*:*
 cpe:2.3:a:datadoghq:import-in-the-middle:*:*:*:*:*:*:*:*
+cpe:2.3:a:datadrivenconstruction:openconstructionerp:*:*:*:*:*:*:*:*
 cpe:2.3:a:datadynamics:activebar:*:*:*:*:*:*:*:*
 cpe:2.3:a:datadynamics:activereports:*:*:*:*:*:*:*:*
 cpe:2.3:a:dataease:dataease:*:*:*:*:*:*:*:*
@@ -77864,6 +77865,7 @@ cpe:2.3:a:zoneo-soft:phptraffica:*:*:*:*:*:*:*:*
 cpe:2.3:a:zoner:zoner_antivirus_free:*:*:*:*:*:*:*:*
 cpe:2.3:a:zonet:zsr1104we_wireless_router_runtime_code:*:*:*:*:*:*:*:*
 cpe:2.3:a:zongg:zongg:*:*:*:*:*:*:*:*
+cpe:2.3:a:zongxr:supermarket:*:*:*:*:*:*:*:*
 cpe:2.3:a:zoo_management_system_project:zoo_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:zoo_project:zoo:*:*:*:*:*:*:*:*
 cpe:2.3:a:zoodles:kid_mode\:_free_games_\+_lock:*:*:*:*:*:*:*:*
