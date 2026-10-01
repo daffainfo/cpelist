@@ -32378,6 +32378,7 @@ cpe:2.3:a:intel:fpga_add-on:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:fpga_software_development_kit:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:g41_driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:gametechdev_presentmon:*:*:*:*:*:*:*:*
+cpe:2.3:a:intel:gaudi_container_runtime:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:gdb_software:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:genomics_kernel_library:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:geomedia_webmap:*:*:*:*:*:*:*:*
@@ -32525,6 +32526,7 @@ cpe:2.3:a:intel:oneapi_toolkit_and_component_software_installer:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:oneapi_toolkit_and_component_software_installers:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:oneapi_toolkits:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:oneapi_video_processing_library:*:*:*:*:*:*:*:*
+cpe:2.3:a:intel:oneccl_bindings_for_pytorch:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:onevpl_gpu_runtime:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:online_connect_access:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:open_active_management_technology_cloud_toolkit:*:*:*:*:*:*:*:*
@@ -42649,6 +42651,8 @@ cpe:2.3:a:microsoft:grpconv:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:heif_image_extension:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:help_file_viewer:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:hevc_video_extensions:*:*:*:*:*:*:*:*
+cpe:2.3:a:microsoft:hevc_video_extensions_for_licensed_applications:*:*:*:*:*:*:*:*
+cpe:2.3:a:microsoft:hevc_video_extensions_from_device_manufacturer:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:high_definition_audio_bus_driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:high_efficiency_video_coding:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:home_publishing:*:*:*:*:*:*:*:*
@@ -50922,10 +50926,12 @@ cpe:2.3:a:orchestrated:corona_virus_\(covid-19\)_banner_\&_live_data:*:*:*:*:*:*
 cpe:2.3:a:orchid:platform:*:*:*:*:*:*:*:*
 cpe:2.3:a:orckestra:c1_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:ordasoft:advertisement_board:*:*:*:*:*:*:*:*
+cpe:2.3:a:ordasoft:book_library:*:*:*:*:*:*:*:*
 cpe:2.3:a:ordasoft:com_booklibrary:*:*:*:*:*:*:*:*
 cpe:2.3:a:ordasoft:com_medialibrary:*:*:*:*:*:*:*:*
 cpe:2.3:a:ordasoft:com_realestatemanager:*:*:*:*:*:*:*:*
 cpe:2.3:a:ordasoft:com_vehiclemanager:*:*:*:*:*:*:*:*
+cpe:2.3:a:ordasoft:joomla_cck:*:*:*:*:*:*:*:*
 cpe:2.3:a:ordasoft:medialibrary:*:*:*:*:*:*:*:*
 cpe:2.3:a:ordat:foss-online:*:*:*:*:*:*:*:*
 cpe:2.3:a:ordat:ordat.erp:*:*:*:*:*:*:*:*
@@ -58297,6 +58303,7 @@ cpe:2.3:a:rhonabwy_project:rhonabwy:*:*:*:*:*:*:*:*
 cpe:2.3:a:rhovit_project:rhovit:*:*:*:*:*:*:*:*
 cpe:2.3:a:rhq-project:rhq:*:*:*:*:*:*:*:*
 cpe:2.3:a:rhubcom:turbomeeting:*:*:*:*:*:*:*:*
+cpe:2.3:a:rhukster:dom-sanitizer:*:*:*:*:*:*:*:*
 cpe:2.3:a:rhymix:rhymix:*:*:*:*:*:*:*:*
 cpe:2.3:a:rhythm:tcptrack:*:*:*:*:*:*:*:*
 cpe:2.3:a:rianxosencabos_cms:rianxosencabos_cms:*:*:*:*:*:*:*:*
