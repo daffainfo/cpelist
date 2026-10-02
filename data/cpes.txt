@@ -33725,6 +33725,7 @@ cpe:2.3:a:itsourcecode:library_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:loan_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:magbanua_beach_resort_online_reservation_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:monbela_tourist_inn_online_reservation_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:itsourcecode:online_admission_system_project:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:online_blood_bank_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:online_book_store:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:online_book_store_project:*:*:*:*:*:*:*:*
