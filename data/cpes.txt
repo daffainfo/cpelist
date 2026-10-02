@@ -2091,6 +2091,7 @@ cpe:2.3:a:agendaless:pyramid:*:*:*:*:*:*:*:*
 cpe:2.3:a:agendaless:waitress:*:*:*:*:*:*:*:*
 cpe:2.3:a:agent-zero:agent-zero:*:*:*:*:*:*:*:*
 cpe:2.3:a:agentatech:agenta:*:*:*:*:*:*:*:*
+cpe:2.3:a:agentdeskai:browser-tools-mcp:*:*:*:*:*:*:*:*
 cpe:2.3:a:agenteasy_properties_project:agenteasy_properties:*:*:*:*:*:*:*:*
 cpe:2.3:a:agentejo:cockpit:*:*:*:*:*:*:*:*
 cpe:2.3:a:agentejo:cockpit_cms:*:*:*:*:*:*:*:*
@@ -32153,6 +32154,7 @@ cpe:2.3:a:intel:advisor_tools:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:ai_containers:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:ai_hackathon:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:ai_reference_models:*:*:*:*:*:*:*:*
+cpe:2.3:a:intel:approximate_bayesian_inference_framework:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:aptio_v_uefi_firmware_integrator_tools:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:arc_a_graphics:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:arc_pro_graphics:*:*:*:*:*:*:*:*
@@ -32395,6 +32397,7 @@ cpe:2.3:a:intel:graphics_performance_analyzers:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:graphics_performance_analyzers_framework:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:graphics_software:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:graphics_windows_dch_driver_software:*:*:*:*:*:*:*:*
+cpe:2.3:a:intel:hardware-aware-automated-machine-learning:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:hardware_accelerated_execution_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:hid_event_filter_driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:high-bandwidth_digital_content_protection:*:*:*:*:*:*:*:*
@@ -32714,6 +32717,7 @@ cpe:2.3:a:intel:wake_up_latency_tracer:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:wimax_network_service:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:wireless_bluetooth_drivers:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:wlan_authentication_and_privacy_infrastructure:*:*:*:*:*:*:*:*
+cpe:2.3:a:intel:workload_sevices_framework:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:x710_series_driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:xeon_3104:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:xeon_3106:*:*:*:*:*:*:*:*
