@@ -1076,6 +1076,7 @@ cpe:2.3:a:action1:agent:*:*:*:*:*:*:*:*
 cpe:2.3:a:action_view_project:action_view:*:*:*:*:*:*:*:*
 cpe:2.3:a:actionapps:actionapps:*:*:*:*:*:*:*:*
 cpe:2.3:a:actionlauncher:action_launcher:*:*:*:*:*:*:*:*
+cpe:2.3:a:actionnetwork:action_network:*:*:*:*:*:*:*:*
 cpe:2.3:a:actionpack_project:actionpack:*:*:*:*:*:*:*:*
 cpe:2.3:a:actionpoll:actionpoll:*:*:*:*:*:*:*:*
 cpe:2.3:a:actionsky:sqle:*:*:*:*:*:*:*:*
@@ -32238,6 +32239,7 @@ cpe:2.3:a:intel:cli_auto-configuration_utility:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:client_nvme:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:client_system_setup_utility:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:cluster_checker:*:*:*:*:*:*:*:*
+cpe:2.3:a:intel:cluster_management_toolkit_for_kubernetes:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:collaboration_suite:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:computer_vision_annotation_tool:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:computing_improvement_program:*:*:*:*:*:*:*:*
@@ -33745,6 +33747,7 @@ cpe:2.3:a:itsourcecode:online_student_enrollment_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:payroll_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:payroll_management_system_project_in_php_with_source_code:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:payroll_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:itsourcecode:pet_shop_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:placement_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:pool_of_bethesda_online_reservation_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:project_expense_monitoring_system:*:*:*:*:*:*:*:*
@@ -37737,6 +37740,7 @@ cpe:2.3:a:kwsphp:kwsphp:*:*:*:*:*:*:*:*
 cpe:2.3:a:kyantonius:hadith_module:*:*:*:*:*:*:*:*
 cpe:2.3:a:kyberdigi_labs:php-exec-dir:*:*:*:*:*:*:*:*
 cpe:2.3:a:kyberna:ky2help:*:*:*:*:*:*:*:*
+cpe:2.3:a:kybernaut:zalomeni:*:*:*:*:*:*:*:*
 cpe:2.3:a:kybernetika:phpshowtime:*:*:*:*:*:*:*:*
 cpe:2.3:a:kyivstar:react_native_sms_user_consent:*:*:*:*:*:*:*:*
 cpe:2.3:a:kykms:kykms:*:*:*:*:*:*:*:*
@@ -44097,6 +44101,8 @@ cpe:2.3:a:moddable:xs:*:*:*:*:*:*:*:*
 cpe:2.3:a:model_context_protocol:mcp-rdf-explorer:*:*:*:*:*:*:*:*
 cpe:2.3:a:model_project:model:*:*:*:*:*:*:*:*
 cpe:2.3:a:modelcloud:gptqmodel:*:*:*:*:*:*:*:*
+cpe:2.3:a:modelcontextprotocol:mcp-server-everything:*:*:*:*:*:*:*:*
+cpe:2.3:a:modelcontextprotocol:mcp-server-fetch:*:*:*:*:*:*:*:*
 cpe:2.3:a:modelconverter_project:modelconverter:*:*:*:*:*:*:*:*
 cpe:2.3:a:modelisme:modelisme.com_forum\/portail:*:*:*:*:*:*:*:*
 cpe:2.3:a:modelscope:agentscope:*:*:*:*:*:*:*:*
@@ -63067,6 +63073,7 @@ cpe:2.3:a:simple_water_refilling_station_management_system_project:simple_water_
 cpe:2.3:a:simple_yearly_archive_project:simple_yearly_archive:*:*:*:*:*:*:*:*
 cpe:2.3:a:simple_youtube_responsive_project:simple_youtube_responsive:*:*:*:*:*:*:*:*
 cpe:2.3:a:simplebooklet:simplebooklet:*:*:*:*:*:*:*:*
+cpe:2.3:a:simplebooklet:simplebooklet_pdf_viewer_and_embedder:*:*:*:*:*:*:*:*
 cpe:2.3:a:simplecdr-x:simplecdr-x:*:*:*:*:*:*:*:*
 cpe:2.3:a:simplece:simplece:*:*:*:*:*:*:*:*
 cpe:2.3:a:simplechat:simplechat:*:*:*:*:*:*:*:*
@@ -65009,6 +65016,7 @@ cpe:2.3:a:sportinginnovations:utah_jazz:*:*:*:*:*:*:*:*
 cpe:2.3:a:sports2i:kbo_sports2i_2014:*:*:*:*:*:*:*:*
 cpe:2.3:a:sports_club_management_system_project:sports_club_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sports_management_system_project:sports_management_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:sportsdanka:wp_ajax_contact_form:*:*:*:*:*:*:*:*
 cpe:2.3:a:sportsleague_project:sportsleague:*:*:*:*:*:*:*:*
 cpe:2.3:a:sportsnet:sportsnet:*:*:*:*:*:*:*:*
 cpe:2.3:a:sportsnet:sportsnetcms:*:*:*:*:*:*:*:*
@@ -138525,7 +138533,7 @@ cpe:2.3:h:tenda:g3:*:*:*:*:*:*:*:*
 cpe:2.3:h:tenda:hg10:*:*:*:*:*:*:*:*
 cpe:2.3:h:tenda:hg3:*:*:*:*:*:*:*:*
 cpe:2.3:h:tenda:hg6:*:*:*:*:*:*:*:*
-cpe:2.3:h:tenda:hg7hg9:*:*:*:*:*:*:*:*
+cpe:2.3:h:tenda:hg7:*:*:*:*:*:*:*:*
 cpe:2.3:h:tenda:hg9:*:*:*:*:*:*:*:*
 cpe:2.3:h:tenda:i12:*:*:*:*:*:*:*:*
 cpe:2.3:h:tenda:i21:*:*:*:*:*:*:*:*
