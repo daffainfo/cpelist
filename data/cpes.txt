@@ -48658,6 +48658,7 @@ cpe:2.3:a:onetarek:wp_logs_book:*:*:*:*:*:*:*:*
 cpe:2.3:a:onethink:onethink:*:*:*:*:*:*:*:*
 cpe:2.3:a:onethird:onethird:*:*:*:*:*:*:*:*
 cpe:2.3:a:onethird:onethird_cms:*:*:*:*:*:*:*:*
+cpe:2.3:a:onetwothreeneth:hospitalmanagementsystem:*:*:*:*:*:*:*:*
 cpe:2.3:a:oneuptime:oneuptime:*:*:*:*:*:*:*:*
 cpe:2.3:a:onevision:workspace:*:*:*:*:*:*:*:*
 cpe:2.3:a:onewebsite:wp_repost:*:*:*:*:*:*:*:*
@@ -64690,6 +64691,7 @@ cpe:2.3:a:sourcecodester:smart_attendance_system_with_qr_code_scanner:*:*:*:*:*:
 cpe:2.3:a:sourcecodester:stock_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:student_grades_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:student_record_management_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:sourcecodester:student_result_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:student_study_center_desk_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:sup_online_shopping:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:survey_application_system:*:*:*:*:*:*:*:*
