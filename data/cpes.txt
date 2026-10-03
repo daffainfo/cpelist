@@ -172896,6 +172896,7 @@ cpe:2.3:o:linux:parduslinux:*:*:*:*:*:*:*:*
 cpe:2.3:o:linux:systemd:*:*:*:*:*:*:*:*
 cpe:2.3:o:linux:tizen:*:*:*:*:*:*:*:*
 cpe:2.3:o:linux_foundation:magma:*:*:*:*:*:*:*:*
+cpe:2.3:o:linux_mint:xreader:*:*:*:*:*:*:*:*
 cpe:2.3:o:linux_workbooth:linux_workbooth:*:*:*:*:*:*:*:*
 cpe:2.3:o:linuxfoundation:acrn:*:*:*:*:*:*:*:*
 cpe:2.3:o:linuxfoundation:automotive_grade_linux:*:*:*:*:*:*:*:*
