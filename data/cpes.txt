@@ -73424,6 +73424,7 @@ cpe:2.3:a:weaverslave:netzbrett:*:*:*:*:*:*:*:*
 cpe:2.3:a:weavertheme:weaver_show_posts:*:*:*:*:*:*:*:*
 cpe:2.3:a:weavertheme:weaver_xtreme_theme:*:*:*:*:*:*:*:*
 cpe:2.3:a:weavertheme:weaver_xtreme_theme_support:*:*:*:*:*:*:*:*
+cpe:2.3:a:weaviate:verba:*:*:*:*:*:*:*:*
 cpe:2.3:a:weaviate:weaviate:*:*:*:*:*:*:*:*
 cpe:2.3:a:web-album:webalbum:*:*:*:*:*:*:*:*
 cpe:2.3:a:web-app.net:webapp:*:*:*:*:*:*:*:*
