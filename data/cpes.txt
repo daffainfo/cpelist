@@ -48514,6 +48514,7 @@ cpe:2.3:a:ombu:bulk_me_now\!:*:*:*:*:*:*:*:*
 cpe:2.3:a:ombu:the_sorter:*:*:*:*:*:*:*:*
 cpe:2.3:a:omec-project:amf:*:*:*:*:*:*:*:*
 cpe:2.3:a:omega-rpg:omega-rpg:*:*:*:*:*:*:*:*
+cpe:2.3:a:omega_solution:coinex_crypto:*:*:*:*:*:*:*:*
 cpe:2.3:a:omega_solution:fbp_fulfillment_by_people:*:*:*:*:*:*:*:*
 cpe:2.3:a:omega_solution:hrm_os:*:*:*:*:*:*:*:*
 cpe:2.3:a:omegaboard_project:omegaboard:*:*:*:*:*:*:*:*
