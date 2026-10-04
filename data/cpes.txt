@@ -2172,6 +2172,7 @@ cpe:2.3:a:ahnlab:v3net:*:*:*:*:*:*:*:*
 cpe:2.3:a:ahnlab:v3pro_2004:*:*:*:*:*:*:*:*
 cpe:2.3:a:ahsanriaz26gmailcom:inventory_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:ahsanriaz26gmailcom:sales_and_inventory_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:ahsay:ahsaycbs:*:*:*:*:*:*:*:*
 cpe:2.3:a:ahsay:cloud_backup_suite:*:*:*:*:*:*:*:*
 cpe:2.3:a:ahtty:ahtty:*:*:*:*:*:*:*:*
 cpe:2.3:a:ahujasid:blender-mcp:*:*:*:*:*:*:*:*
@@ -33023,6 +33024,7 @@ cpe:2.3:a:internetmarketingninjas:internal_link_building:*:*:*:*:*:*:*:*
 cpe:2.3:a:internetnow:proxynow:*:*:*:*:*:*:*:*
 cpe:2.3:a:internic:whois_lookup:*:*:*:*:*:*:*:*
 cpe:2.3:a:internlm:lmdeploy:*:*:*:*:*:*:*:*
+cpe:2.3:a:internlm:mindsearch:*:*:*:*:*:*:*:*
 cpe:2.3:a:internment_project:internment:*:*:*:*:*:*:*:*
 cpe:2.3:a:internship_portal_management_system_project:internship_portal_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:internshipsystem_project:internshipsystem:*:*:*:*:*:*:*:*
@@ -37934,6 +37936,7 @@ cpe:2.3:a:laracms_project:laracms:*:*:*:*:*:*:*:*
 cpe:2.3:a:laracom:laracom:*:*:*:*:*:*:*:*
 cpe:2.3:a:laracom_project:laracom:*:*:*:*:*:*:*:*
 cpe:2.3:a:laradashboard:lara_dashboard:*:*:*:*:*:*:*:*
+cpe:2.3:a:laradock:laradock:*:*:*:*:*:*:*:*
 cpe:2.3:a:laragon:laragon:*:*:*:*:*:*:*:*
 cpe:2.3:a:larasync_project:larasync:*:*:*:*:*:*:*:*
 cpe:2.3:a:laravel-admin:laravel-admin:*:*:*:*:*:*:*:*
@@ -69519,6 +69522,7 @@ cpe:2.3:a:topmanage:olk_module:*:*:*:*:*:*:*:*
 cpe:2.3:a:topmanage:olk_webstore:*:*:*:*:*:*:*:*
 cpe:2.3:a:topmeeting:topmeeting:*:*:*:*:*:*:*:*
 cpe:2.3:a:topnew:sidu:*:*:*:*:*:*:*:*
+cpe:2.3:a:topoteretes:cognee:*:*:*:*:*:*:*:*
 cpe:2.3:a:toppe:toppe_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:topper:toppermod:*:*:*:*:*:*:*:*
 cpe:2.3:a:topquadrant:topbraid_edg:*:*:*:*:*:*:*:*
