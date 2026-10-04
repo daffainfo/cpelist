@@ -56769,6 +56769,7 @@ cpe:2.3:a:rainmachine:rainmachine_web_application:*:*:*:*:*:*:*:*
 cpe:2.3:a:rainniar:bike_delivery_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:rainworx:auctionworx:*:*:*:*:*:*:*:*
 cpe:2.3:a:rainworx:rwauction_pro:*:*:*:*:*:*:*:*
+cpe:2.3:a:rainygao:docsys:*:*:*:*:*:*:*:*
 cpe:2.3:a:raisecom:communication_command_and_dispatch_management_platform:*:*:*:*:*:*:*:*
 cpe:2.3:a:raiseitsolutions:rits_browser:*:*:*:*:*:*:*:*
 cpe:2.3:a:raiserweb:competition_form:*:*:*:*:*:*:*:*
