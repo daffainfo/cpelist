@@ -61088,6 +61088,7 @@ cpe:2.3:a:scilico:i\,_librarian:*:*:*:*:*:*:*:*
 cpe:2.3:a:scilico:labwiki:*:*:*:*:*:*:*:*
 cpe:2.3:a:scilicot:i\,_librarian:*:*:*:*:*:*:*:*
 cpe:2.3:a:scintilla:scintilla:*:*:*:*:*:*:*:*
+cpe:2.3:a:sciphi-ai:r2r:*:*:*:*:*:*:*:*
 cpe:2.3:a:scipter.ch:gastebuch:*:*:*:*:*:*:*:*
 cpe:2.3:a:scipy:scipy:*:*:*:*:*:*:*:*
 cpe:2.3:a:sciruby:nmatrix:*:*:*:*:*:*:*:*
