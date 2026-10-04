@@ -33103,6 +33103,7 @@ cpe:2.3:a:intuit:turbo_tax:*:*:*:*:*:*:*:*
 cpe:2.3:a:intuitive_custom_post_order_project:intuitive_custom_post_order:*:*:*:*:*:*:*:*
 cpe:2.3:a:intumit:smartrobot:*:*:*:*:*:*:*:*
 cpe:2.3:a:invage:views:*:*:*:*:*:*:*:*
+cpe:2.3:a:invariant-systems-ai:aiir:*:*:*:*:*:*:*:*
 cpe:2.3:a:inveniosoftware:invenio-app:*:*:*:*:*:*:*:*
 cpe:2.3:a:inveniosoftware:invenio-communities:*:*:*:*:*:*:*:*
 cpe:2.3:a:inveniosoftware:invenio-drafts-resources:*:*:*:*:*:*:*:*
