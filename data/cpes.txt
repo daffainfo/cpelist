@@ -17248,6 +17248,7 @@ cpe:2.3:a:devolutions:workspace:*:*:*:*:*:*:*:*
 cpe:2.3:a:devome:grr:*:*:*:*:*:*:*:*
 cpe:2.3:a:devondev:simple_matted_thumbnails:*:*:*:*:*:*:*:*
 cpe:2.3:a:devonit:thin-client_management_tool:*:*:*:*:*:*:*:*
+cpe:2.3:a:devopspolis:secrets-replicator:*:*:*:*:*:*:*:*
 cpe:2.3:a:devowl:real_media_library:*:*:*:*:*:*:*:*
 cpe:2.3:a:devowl:wordpress_real_cookie_banner:*:*:*:*:*:*:*:*
 cpe:2.3:a:devowl:wordpress_real_media_library:*:*:*:*:*:*:*:*
@@ -37261,6 +37262,7 @@ cpe:2.3:a:kirstyburgoine:responsive_video:*:*:*:*:*:*:*:*
 cpe:2.3:a:kishan0725:hospital-management-system:*:*:*:*:*:*:*:*
 cpe:2.3:a:kishan0725:hospital_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:kishanlal:hospital_management_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:kishor-23:food-waste-management-system:*:*:*:*:*:*:*:*
 cpe:2.3:a:kishor-23:food_waste_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:kishor23:food_waste_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:kishore_asokan:kish_guest_posting_plugin:*:*:*:*:*:*:*:*
