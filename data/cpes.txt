@@ -33733,6 +33733,7 @@ cpe:2.3:a:itsourcecode:library_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:loan_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:magbanua_beach_resort_online_reservation_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:monbela_tourist_inn_online_reservation_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:itsourcecode:online_admission_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:online_admission_system_project:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:online_blood_bank_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:online_book_store:*:*:*:*:*:*:*:*
@@ -34284,6 +34285,7 @@ cpe:2.3:a:jedox:jedox:*:*:*:*:*:*:*:*
 cpe:2.3:a:jedox:jedox_cloud:*:*:*:*:*:*:*:*
 cpe:2.3:a:jedox:palo:*:*:*:*:*:*:*:*
 cpe:2.3:a:jedsoft:s-lang:*:*:*:*:*:*:*:*
+cpe:2.3:a:jeebase:jeebase:*:*:*:*:*:*:*:*
 cpe:2.3:a:jeeblestechnology:jeebles_directory:*:*:*:*:*:*:*:*
 cpe:2.3:a:jeecg:jeecg-boot:*:*:*:*:*:*:*:*
 cpe:2.3:a:jeecg:jeecg:*:*:*:*:*:*:*:*
