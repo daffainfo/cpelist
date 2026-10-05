@@ -13420,6 +13420,7 @@ cpe:2.3:a:code-projects:hotel_and_tourism_reservation_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:hotel_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:human_resource_integrated_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:human_resource_management:*:*:*:*:*:*:*:*
+cpe:2.3:a:code-projects:human_resource_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:internship_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:interview_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:inventory_management:*:*:*:*:*:*:*:*
@@ -51160,6 +51161,7 @@ cpe:2.3:a:oscommerce:finnish_bank_payment:*:*:*:*:*:*:*:*
 cpe:2.3:a:oscommerce:luottokunta:*:*:*:*:*:*:*:*
 cpe:2.3:a:oscommerce:online_merchant:*:*:*:*:*:*:*:*
 cpe:2.3:a:oscommerce:osc2nuke:*:*:*:*:*:*:*:*
+cpe:2.3:a:oscommerce:oscommerce2:*:*:*:*:*:*:*:*
 cpe:2.3:a:oscommerce:oscommerce:*:*:*:*:*:*:*:*
 cpe:2.3:a:oscommerce:php_point_of_sale:*:*:*:*:*:*:*:*
 cpe:2.3:a:oscommerce:poll_booth:*:*:*:*:*:*:*:*
@@ -61930,6 +61932,7 @@ cpe:2.3:a:sha256crypt_project:sha256crypt:*:*:*:*:*:*:*:*
 cpe:2.3:a:sha2_project:sha2:*:*:*:*:*:*:*:*
 cpe:2.3:a:sha3_project:sha3:*:*:*:*:*:*:*:*
 cpe:2.3:a:sha512crypt_project:sha512crypt:*:*:*:*:*:*:*:*
+cpe:2.3:a:shaarli:shaarli:*:*:*:*:*:*:*:*
 cpe:2.3:a:shaarli_project:shaarli:*:*:*:*:*:*:*:*
 cpe:2.3:a:shaarlier_project:shaarlier:*:*:*:*:*:*:*:*
 cpe:2.3:a:shackerpanel_project:shackerpanel:*:*:*:*:*:*:*:*
