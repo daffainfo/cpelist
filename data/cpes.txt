@@ -24949,6 +24949,7 @@ cpe:2.3:a:giovambattistafazioli:wp_social_bookmark_menu:*:*:*:*:*:*:*:*
 cpe:2.3:a:gipsy_project:gipsy:*:*:*:*:*:*:*:*
 cpe:2.3:a:giptables:giptables_firewall:*:*:*:*:*:*:*:*
 cpe:2.3:a:giribaz:file_manager:*:*:*:*:*:*:*:*
+cpe:2.3:a:girishsaraf:online-appointment-booking-system:*:*:*:*:*:*:*:*
 cpe:2.3:a:girlgame:baby_get_up_-_kids_care:*:*:*:*:*:*:*:*
 cpe:2.3:a:girlserv:girlserv_ads:*:*:*:*:*:*:*:*
 cpe:2.3:a:girlsgames123:kiss_kiss_office:*:*:*:*:*:*:*:*
@@ -71270,6 +71271,7 @@ cpe:2.3:a:unikey:unikey:*:*:*:*:*:*:*:*
 cpe:2.3:a:uninet:statsplus:*:*:*:*:*:*:*:*
 cpe:2.3:a:uninett:mod_auth_mellon:*:*:*:*:*:*:*:*
 cpe:2.3:a:uninett:radsecproxy:*:*:*:*:*:*:*:*
+cpe:2.3:a:union:hospitalmanagementsystem:*:*:*:*:*:*:*:*
 cpe:2.3:a:unioncms_project:unioncms:*:*:*:*:*:*:*:*
 cpe:2.3:a:uniong:webitr:*:*:*:*:*:*:*:*
 cpe:2.3:a:unionpayintl:union_pay:*:*:*:*:*:*:*:*
