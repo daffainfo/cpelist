@@ -17727,6 +17727,7 @@ cpe:2.3:a:django-celery-results_project:django-celery-results:*:*:*:*:*:*:*:*
 cpe:2.3:a:django-cms:django_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:django-epiceditor_project:django-epiceditor:*:*:*:*:*:*:*:*
 cpe:2.3:a:django-filter_project:django-filter:*:*:*:*:*:*:*:*
+cpe:2.3:a:django-haystack:django-haystack:*:*:*:*:*:*:*:*
 cpe:2.3:a:django-helpdesk_project:django-helpdesk:*:*:*:*:*:*:*:*
 cpe:2.3:a:django-markupfield_project:django-markupfield:*:*:*:*:*:*:*:*
 cpe:2.3:a:django-mfa2_project:django-mfa2:*:*:*:*:*:*:*:*
@@ -22263,6 +22264,7 @@ cpe:2.3:a:feedwordpress_project:feedwordpress:*:*:*:*:*:*:*:*
 cpe:2.3:a:feehi:cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:feehi:feehi_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:feehi:feehicms:*:*:*:*:*:*:*:*
+cpe:2.3:a:feelec-yishu:feelcrm-os:*:*:*:*:*:*:*:*
 cpe:2.3:a:feellove:exp_shop_component:*:*:*:*:*:*:*:*
 cpe:2.3:a:feep:libtar:*:*:*:*:*:*:*:*
 cpe:2.3:a:fefe:fnord:*:*:*:*:*:*:*:*
