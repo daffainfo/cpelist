@@ -4405,6 +4405,7 @@ cpe:2.3:a:apache:xml_security_for_c\+\+:*:*:*:*:*:*:*:*
 cpe:2.3:a:apache:xml_security_for_java:*:*:*:*:*:*:*:*
 cpe:2.3:a:apache:xmlbeans:*:*:*:*:*:*:*:*
 cpe:2.3:a:apache:xmlgraphics_commons:*:*:*:*:*:*:*:*
+cpe:2.3:a:apache:xmlschema:*:*:*:*:*:*:*:*
 cpe:2.3:a:apache:zeppelin:*:*:*:*:*:*:*:*
 cpe:2.3:a:apache:zookeeper:*:*:*:*:*:*:*:*
 cpe:2.3:a:apache_authenhook_project:apache_authenhook:*:*:*:*:*:*:*:*
@@ -51237,6 +51238,7 @@ cpe:2.3:a:osslsigncode_project:osslsigncode:*:*:*:*:*:*:*:*
 cpe:2.3:a:ossp:mm:*:*:*:*:*:*:*:*
 cpe:2.3:a:ossp:shiela:*:*:*:*:*:*:*:*
 cpe:2.3:a:ossrs:simple_realtime_server:*:*:*:*:*:*:*:*
+cpe:2.3:a:ossrs:srs:*:*:*:*:*:*:*:*
 cpe:2.3:a:osstech:openam:*:*:*:*:*:*:*:*
 cpe:2.3:a:oste:oste:*:*:*:*:*:*:*:*
 cpe:2.3:a:ostenta:yawpp:*:*:*:*:*:*:*:*
@@ -53341,6 +53343,7 @@ cpe:2.3:a:phpgurukul:traffic_squad_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:phpgurukul:user_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:phpgurukul:user_registration_\&_login_and_user_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:phpgurukul:user_registration_and_login_and_user_management_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:phpgurukul:user_registration_login_and_user_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:phpgurukul:vehicle_parking_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:phpgurukul:vehicle_record_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:phpgurukul:vehicle_record_system:*:*:*:*:*:*:*:*
@@ -53737,6 +53740,7 @@ cpe:2.3:a:pichi_project:pichi:*:*:*:*:*:*:*:*
 cpe:2.3:a:picketlink:picketlink:*:*:*:*:*:*:*:*
 cpe:2.3:a:pickle:pickle:*:*:*:*:*:*:*:*
 cpe:2.3:a:pickmall:lilishop:*:*:*:*:*:*:*:*
+cpe:2.3:a:pickmall_lilishop:pickmall_lilishop:*:*:*:*:*:*:*:*
 cpe:2.3:a:pickplugins:accordion:*:*:*:*:*:*:*:*
 cpe:2.3:a:pickplugins:breadcrumb:*:*:*:*:*:*:*:*
 cpe:2.3:a:pickplugins:comboblocks:*:*:*:*:*:*:*:*
