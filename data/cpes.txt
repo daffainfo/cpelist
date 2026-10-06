@@ -4334,6 +4334,7 @@ cpe:2.3:a:apache:sling_i18n:*:*:*:*:*:*:*:*
 cpe:2.3:a:apache:sling_jcr_base:*:*:*:*:*:*:*:*
 cpe:2.3:a:apache:sling_jcr_contentloader:*:*:*:*:*:*:*:*
 cpe:2.3:a:apache:sling_resource_merger:*:*:*:*:*:*:*:*
+cpe:2.3:a:apache:sling_security:*:*:*:*:*:*:*:*
 cpe:2.3:a:apache:sling_servlets_post:*:*:*:*:*:*:*:*
 cpe:2.3:a:apache:sling_servlets_resolver:*:*:*:*:*:*:*:*
 cpe:2.3:a:apache:sling_xss_protection_api:*:*:*:*:*:*:*:*
@@ -37736,6 +37737,7 @@ cpe:2.3:a:kurt_kunig:kk_downloader:*:*:*:*:*:*:*:*
 cpe:2.3:a:kurzweiledu:kurzweil_1000:*:*:*:*:*:*:*:*
 cpe:2.3:a:kurzweiledu:kurzweil_3000:*:*:*:*:*:*:*:*
 cpe:2.3:a:kusaba:kusaba:*:*:*:*:*:*:*:*
+cpe:2.3:a:kusalkasilva:learning-management-system:*:*:*:*:*:*:*:*
 cpe:2.3:a:kushan2k:student-management-system:*:*:*:*:*:*:*:*
 cpe:2.3:a:kutangguo:ktg-mes:*:*:*:*:*:*:*:*
 cpe:2.3:a:kutethemes:ovic_responsive_wpbakery:*:*:*:*:*:*:*:*
