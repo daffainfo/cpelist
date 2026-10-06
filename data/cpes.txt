@@ -35611,6 +35611,7 @@ cpe:2.3:a:joomboost:joomcrm:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomboost:joomla_joomrecipe:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomboost:joomproject:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomboost:joomrecipe:*:*:*:*:*:*:*:*
+cpe:2.3:a:joomcode:jc_tables:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomcode:jcdashboard:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomcoder:joomcck:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomdle:com_joomdle:*:*:*:*:*:*:*:*
@@ -56327,6 +56328,7 @@ cpe:2.3:a:qualcomm:gobi_single_installer_package_for_novatel:*:*:*:*:*:*:*:*
 cpe:2.3:a:qualcomm:gobi_single_installer_package_for_zte:*:*:*:*:*:*:*:*
 cpe:2.3:a:qualcomm:ips:*:*:*:*:*:*:*:*
 cpe:2.3:a:qualcomm:ips_pdf:*:*:*:*:*:*:*:*
+cpe:2.3:a:qualcomm:package_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:qualcomm:qcmap:*:*:*:*:*:*:*:*
 cpe:2.3:a:qualcomm:qpopper:*:*:*:*:*:*:*:*
 cpe:2.3:a:qualcomm:qualcomm_mobile_access_point:*:*:*:*:*:*:*:*
@@ -64671,6 +64673,7 @@ cpe:2.3:a:sourcecodester:onlne_examination_learning_management_system:*:*:*:*:*:
 cpe:2.3:a:sourcecodester:open_source_medicine_ordering_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:packers_and_movers_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:payroll_management_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:sourcecodester:performance_indicator_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:pet_grooming_management_software:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:petrol_pump_management:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:petshop_management_system:*:*:*:*:*:*:*:*
@@ -127492,6 +127495,7 @@ cpe:2.3:h:qualcomm:mdm9640:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:mdm9645:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:mdm9650:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:mdm9655:*:*:*:*:*:*:*:*
+cpe:2.3:h:qualcomm:mdm9665:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:milos:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:milos_iot:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:molokai:*:*:*:*:*:*:*:*
@@ -128361,6 +128365,7 @@ cpe:2.3:h:qualcomm:sdx20:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:sdx20m:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:sdx24:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:sdx24m:*:*:*:*:*:*:*:*
+cpe:2.3:h:qualcomm:sdx50:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:sdx50m:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:sdx55:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:sdx55m:*:*:*:*:*:*:*:*
@@ -179142,6 +179147,7 @@ cpe:2.3:o:qualcomm:mdm9640_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:mdm9645_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:mdm9650_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:mdm9655_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:qualcomm:mdm9665_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:milos_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:milos_iot_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:molokai_firmware:*:*:*:*:*:*:*:*
@@ -179996,6 +180002,7 @@ cpe:2.3:o:qualcomm:sdx20_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:sdx20m_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:sdx24_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:sdx24m_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:qualcomm:sdx50_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:sdx50m_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:sdx55_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:sdx55m_firmware:*:*:*:*:*:*:*:*
