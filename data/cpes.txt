@@ -7845,6 +7845,7 @@ cpe:2.3:a:bgerp:bgerp:*:*:*:*:*:*:*:*
 cpe:2.3:a:bgp:openbgpd:*:*:*:*:*:*:*:*
 cpe:2.3:a:bgsvetionik:bgs_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:bhabishya-123:e-commerce:*:*:*:*:*:*:*:*
+cpe:2.3:a:bhagya3929:employee-movement-tracking-and-monitoring-website-for-iocl:*:*:*:*:*:*:*:*
 cpe:2.3:a:bharat_mediratta:gallery:*:*:*:*:*:*:*:*
 cpe:2.3:a:bharatkambariya:donation_block_for_paypal:*:*:*:*:*:*:*:*
 cpe:2.3:a:bhaskardhote:back_link_tracker:*:*:*:*:*:*:*:*
@@ -15869,6 +15870,8 @@ cpe:2.3:a:daniel_stenberg:dispair:*:*:*:*:*:*:*:*
 cpe:2.3:a:daniel_toma:webchat:*:*:*:*:*:*:*:*
 cpe:2.3:a:danielb:cool_aid:*:*:*:*:*:*:*:*
 cpe:2.3:a:danielb:finder:*:*:*:*:*:*:*:*
+cpe:2.3:a:danielberkompas:cloak:*:*:*:*:*:*:*:*
+cpe:2.3:a:danielberkompas:cloak_ecto:*:*:*:*:*:*:*:*
 cpe:2.3:a:danielgatis:rembg:*:*:*:*:*:*:*:*
 cpe:2.3:a:danieljamesscott:com_clubmanager:*:*:*:*:*:*:*:*
 cpe:2.3:a:danieljamesscott:com_music:*:*:*:*:*:*:*:*
@@ -31574,6 +31577,7 @@ cpe:2.3:a:imgallery:imgallery:*:*:*:*:*:*:*:*
 cpe:2.3:a:imgburn:imgburn:*:*:*:*:*:*:*:*
 cpe:2.3:a:imgix:imgix:*:*:*:*:*:*:*:*
 cpe:2.3:a:imgpals:img_pals_photo_host:*:*:*:*:*:*:*:*
+cpe:2.3:a:imgproxy:imgproxy:*:*:*:*:*:*:*:*
 cpe:2.3:a:imgtech:zoneplayer:*:*:*:*:*:*:*:*
 cpe:2.3:a:imgurl_project:imgurl:*:*:*:*:*:*:*:*
 cpe:2.3:a:imhamzaazam:ecommerceflask:*:*:*:*:*:*:*:*
@@ -71506,6 +71510,7 @@ cpe:2.3:a:uptime_kuma_project:uptime_kuma:*:*:*:*:*:*:*:*
 cpe:2.3:a:uptimed_project:uptimed:*:*:*:*:*:*:*:*
 cpe:2.3:a:uptrace:pg:*:*:*:*:*:*:*:*
 cpe:2.3:a:uptrace:pgdriver:*:*:*:*:*:*:*:*
+cpe:2.3:a:uptrace:uptrace:*:*:*:*:*:*:*:*
 cpe:2.3:a:upunzipper_project:upunzipper:*:*:*:*:*:*:*:*
 cpe:2.3:a:upv:peix:*:*:*:*:*:*:*:*
 cpe:2.3:a:upwork:time_tracker:*:*:*:*:*:*:*:*
