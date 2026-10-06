@@ -43701,6 +43701,8 @@ cpe:2.3:a:misp-project:malware_information_sharing_platform:*:*:*:*:*:*:*:*
 cpe:2.3:a:misp-project:misp:*:*:*:*:*:*:*:*
 cpe:2.3:a:misp:misp-maltego:*:*:*:*:*:*:*:*
 cpe:2.3:a:misp:misp:*:*:*:*:*:*:*:*
+cpe:2.3:a:misp:misp_\(malware_information_sharing_platform\):*:*:*:*:*:*:*:*
+cpe:2.3:a:misp:sachertortephp_\(cakephp-based_misp_application\):*:*:*:*:*:*:*:*
 cpe:2.3:a:misp_project:misp:*:*:*:*:*:*:*:*
 cpe:2.3:a:missimx:msxadvanced:*:*:*:*:*:*:*:*
 cpe:2.3:a:missionlabs:smartagent:*:*:*:*:*:*:*:*
