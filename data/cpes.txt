@@ -18156,6 +18156,7 @@ cpe:2.3:a:dothattask:do_that_task:*:*:*:*:*:*:*:*
 cpe:2.3:a:dotit-corp:banque_zitouna:*:*:*:*:*:*:*:*
 cpe:2.3:a:dotmesh-io:dotmesh:*:*:*:*:*:*:*:*
 cpe:2.3:a:dotmesh:dotmesh:*:*:*:*:*:*:*:*
+cpe:2.3:a:dotnet:eshop:*:*:*:*:*:*:*:*
 cpe:2.3:a:dotnetbb:dotnetbb_forums:*:*:*:*:*:*:*:*
 cpe:2.3:a:dotnetblogengine:blogengine.net:*:*:*:*:*:*:*:*
 cpe:2.3:a:dotnetcore:agileconfig:*:*:*:*:*:*:*:*
@@ -39899,6 +39900,7 @@ cpe:2.3:a:lxml:lxml:*:*:*:*:*:*:*:*
 cpe:2.3:a:lxr_project:lxr:*:*:*:*:*:*:*:*
 cpe:2.3:a:lxsmnsyc:seroval:*:*:*:*:*:*:*:*
 cpe:2.3:a:lxterminal_project:lxterminal:*:*:*:*:*:*:*:*
+cpe:2.3:a:lybbn:django-vue-lyadmin:*:*:*:*:*:*:*:*
 cpe:2.3:a:lyc8503:uptimeflare:*:*:*:*:*:*:*:*
 cpe:2.3:a:lycheeorg:lychee:*:*:*:*:*:*:*:*
 cpe:2.3:a:lycheeorganisation:lychee-v3:*:*:*:*:*:*:*:*
