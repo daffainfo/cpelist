@@ -52742,6 +52742,7 @@ cpe:2.3:a:phonecleaner:boost\&cleaner:*:*:*:*:*:*:*:*
 cpe:2.3:a:phonefsod_project:phonefsod:*:*:*:*:*:*:*:*
 cpe:2.3:a:phonepe:phonepe:*:*:*:*:*:*:*:*
 cpe:2.3:a:phonepe:phonepe_payment_solutions:*:*:*:*:*:*:*:*
+cpe:2.3:a:phonepe_app:phonepe_app:*:*:*:*:*:*:*:*
 cpe:2.3:a:phoner:phonerlite:*:*:*:*:*:*:*:*
 cpe:2.3:a:phonetrack:phonetrack_meu_site_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:phore:phore:*:*:*:*:*:*:*:*
