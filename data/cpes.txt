@@ -42299,6 +42299,7 @@ cpe:2.3:a:microsoft:.net_education_bundle_sdk_install_tool:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:.net_framework:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:.net_framework_developer_pack:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:.net_install_tool_for_extension_authors:*:*:*:*:*:*:*:*
+cpe:2.3:a:microsoft:.net_sdk:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:.net_windows_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:20007_office_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:365:*:*:*:*:*:*:*:*
@@ -76559,6 +76560,7 @@ cpe:2.3:a:xnat:xnat:*:*:*:*:*:*:*:*
 cpe:2.3:a:xnau:participants_database:*:*:*:*:*:*:*:*
 cpe:2.3:a:xnotestopwatch:xnote_stopwatch:*:*:*:*:*:*:*:*
 cpe:2.3:a:xnova:xnova:*:*:*:*:*:*:*:*
+cpe:2.3:a:xnview:classic:*:*:*:*:*:*:*:*
 cpe:2.3:a:xnview:nconvert:*:*:*:*:*:*:*:*
 cpe:2.3:a:xnview:xnview:*:*:*:*:*:*:*:*
 cpe:2.3:a:xnview:xnview_classic:*:*:*:*:*:*:*:*
