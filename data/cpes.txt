@@ -42388,6 +42388,7 @@ cpe:2.3:a:microsoft:azure_automation_state_configuration:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_automation_update_management:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_bastion_developer:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_batch:*:*:*:*:*:*:*:*
+cpe:2.3:a:microsoft:azure_billing:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_c_shared_utility:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_cache_for_redis:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_cli:*:*:*:*:*:*:*:*
