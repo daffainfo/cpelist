@@ -50510,6 +50510,7 @@ cpe:2.3:a:oracle:oracle_http_server_component:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:oracle_portal_component:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:oracle_retail_customer_engagement:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:order_management:*:*:*:*:*:*:*:*
+cpe:2.3:a:oracle:order_management_enterprise_command_center:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:oss_support_tools:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:outside_in_technology:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:outsourced_manufacturing_for_discrete_industries:*:*:*:*:*:*:*:*
@@ -61219,6 +61220,7 @@ cpe:2.3:a:scripter.ch:sinapis_forum:*:*:*:*:*:*:*:*
 cpe:2.3:a:scripteverkauf:domain_verkaus_and_auktions_portal:*:*:*:*:*:*:*:*
 cpe:2.3:a:scriptez:mail_manager_pro:*:*:*:*:*:*:*:*
 cpe:2.3:a:scripthead:webmail_plus:*:*:*:*:*:*:*:*
+cpe:2.3:a:scriptkittyos:beam_mcp:*:*:*:*:*:*:*:*
 cpe:2.3:a:scriptlerim:radio_isetek_scripti:*:*:*:*:*:*:*:*
 cpe:2.3:a:scriptlogic:active_administrator_console:*:*:*:*:*:*:*:*
 cpe:2.3:a:scriptlogic:active_administrator_server:*:*:*:*:*:*:*:*
@@ -121108,6 +121110,7 @@ cpe:2.3:h:mediatek:mt8863:*:*:*:*:*:*:*:*
 cpe:2.3:h:mediatek:mt8863t:*:*:*:*:*:*:*:*
 cpe:2.3:h:mediatek:mt8871:*:*:*:*:*:*:*:*
 cpe:2.3:h:mediatek:mt8873:*:*:*:*:*:*:*:*
+cpe:2.3:h:mediatek:mt8875:*:*:*:*:*:*:*:*
 cpe:2.3:h:mediatek:mt8883:*:*:*:*:*:*:*:*
 cpe:2.3:h:mediatek:mt8891:*:*:*:*:*:*:*:*
 cpe:2.3:h:mediatek:mt8893:*:*:*:*:*:*:*:*
@@ -173454,6 +173457,7 @@ cpe:2.3:o:mediatek:mt6897_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt6899_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt6980_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt6980d_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:mediatek:mt6982_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt6982vb_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt6983_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt6983t_firmware:*:*:*:*:*:*:*:*
@@ -173552,6 +173556,7 @@ cpe:2.3:o:mediatek:mt8798_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt8799_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt8863_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt8873_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:mediatek:mt8875_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt8883_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt8893_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt8910_firmware:*:*:*:*:*:*:*:*
