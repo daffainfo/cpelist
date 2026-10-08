@@ -25020,8 +25020,10 @@ cpe:2.3:a:github:copilot-cli:*:*:*:*:*:*:*:*
 cpe:2.3:a:github:copilot_command_line_interface:*:*:*:*:*:*:*:*
 cpe:2.3:a:github:enterprise_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:github:gaug.es:*:*:*:*:*:*:*:*
+cpe:2.3:a:github:gh-aw-firewall:*:*:*:*:*:*:*:*
 cpe:2.3:a:github:gh-ost:*:*:*:*:*:*:*:*
 cpe:2.3:a:github:github:*:*:*:*:*:*:*:*
+cpe:2.3:a:github:github_agentic_workflows:*:*:*:*:*:*:*:*
 cpe:2.3:a:github:go-gh:*:*:*:*:*:*:*:*
 cpe:2.3:a:github:hub:*:*:*:*:*:*:*:*
 cpe:2.3:a:github:mcp_server:*:*:*:*:*:*:*:*
@@ -48463,6 +48465,7 @@ cpe:2.3:a:okta:mobile:*:*:*:*:*:*:*:*
 cpe:2.3:a:okta:oidc_middleware:*:*:*:*:*:*:*:*
 cpe:2.3:a:okta:privileged_access_server_agent_sftd:*:*:*:*:*:*:*:*
 cpe:2.3:a:okta:verify:*:*:*:*:*:*:*:*
+cpe:2.3:a:okta:workforce_identity:*:*:*:*:*:*:*:*
 cpe:2.3:a:okul_merkezi:okul_merkezi_portal:*:*:*:*:*:*:*:*
 cpe:2.3:a:okulsistem_okul_web:otomasyon_sistemi:*:*:*:*:*:*:*:*
 cpe:2.3:a:okulumunsitesi:portal:*:*:*:*:*:*:*:*
