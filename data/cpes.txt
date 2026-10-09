@@ -16866,6 +16866,7 @@ cpe:2.3:a:dell:secureworks:*:*:*:*:*:*:*:*
 cpe:2.3:a:dell:security_management_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:dell:server_e-support_tool:*:*:*:*:*:*:*:*
 cpe:2.3:a:dell:server_hardware_manager:*:*:*:*:*:*:*:*
+cpe:2.3:a:dell:smartfabric_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:dell:smartfabric_storage_software:*:*:*:*:*:*:*:*
 cpe:2.3:a:dell:solution_center:*:*:*:*:*:*:*:*
 cpe:2.3:a:dell:solutions_enabler:*:*:*:*:*:*:*:*
