@@ -19813,6 +19813,7 @@ cpe:2.3:a:elixir-mint:mint:*:*:*:*:*:*:*:*
 cpe:2.3:a:elixir-plug:plug.cowboy:*:*:*:*:*:*:*:*
 cpe:2.3:a:elixir-plug:plug:*:*:*:*:*:*:*:*
 cpe:2.3:a:elixir-plug:plug_cowboy:*:*:*:*:*:*:*:*
+cpe:2.3:a:elixir-protobuf:protobuf:*:*:*:*:*:*:*:*
 cpe:2.3:a:elixir-tesla:tesla:*:*:*:*:*:*:*:*
 cpe:2.3:a:eliz_software:panel:*:*:*:*:*:*:*:*
 cpe:2.3:a:elizsoftware:panel:*:*:*:*:*:*:*:*
@@ -21959,6 +21960,7 @@ cpe:2.3:a:falconsc:wisepoint:*:*:*:*:*:*:*:*
 cpe:2.3:a:falconsc:wisepoint_authenticator:*:*:*:*:*:*:*:*
 cpe:2.3:a:falconseye_project:falconseye:*:*:*:*:*:*:*:*
 cpe:2.3:a:falko_timme_and_till_brehm:sqlitewebadmin:*:*:*:*:*:*:*:*
+cpe:2.3:a:falkordb:falkordb:*:*:*:*:*:*:*:*
 cpe:2.3:a:falktx:cadence:*:*:*:*:*:*:*:*
 cpe:2.3:a:fallacystudios:marijuana_handbook_lite_-_weed:*:*:*:*:*:*:*:*
 cpe:2.3:a:fallacystudios:stoner\'s_handbook_l-_bud_guide:*:*:*:*:*:*:*:*
