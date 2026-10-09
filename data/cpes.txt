@@ -108872,6 +108872,7 @@ cpe:2.3:h:huawei:figo-l21:*:*:*:*:*:*:*:*
 cpe:2.3:h:huawei:figo-l23:*:*:*:*:*:*:*:*
 cpe:2.3:h:huawei:figo-l31:*:*:*:*:*:*:*:*
 cpe:2.3:h:huawei:figo-tl10b:*:*:*:*:*:*:*:*
+cpe:2.3:h:huawei:firehunter6000:*:*:*:*:*:*:*:*
 cpe:2.3:h:huawei:flmg-10:*:*:*:*:*:*:*:*
 cpe:2.3:h:huawei:florida-al20b:*:*:*:*:*:*:*:*
 cpe:2.3:h:huawei:florida-l03:*:*:*:*:*:*:*:*
@@ -109133,6 +109134,7 @@ cpe:2.3:h:huawei:ocean_stor_5800_v3:*:*:*:*:*:*:*:*
 cpe:2.3:h:huawei:ocean_stor_6800_v3:*:*:*:*:*:*:*:*
 cpe:2.3:h:huawei:oceanstor_18500:*:*:*:*:*:*:*:*
 cpe:2.3:h:huawei:oceanstor_18500_v3:*:*:*:*:*:*:*:*
+cpe:2.3:h:huawei:oceanstor_18500f:*:*:*:*:*:*:*:*
 cpe:2.3:h:huawei:oceanstor_18800:*:*:*:*:*:*:*:*
 cpe:2.3:h:huawei:oceanstor_18800_v3:*:*:*:*:*:*:*:*
 cpe:2.3:h:huawei:oceanstor_18800f:*:*:*:*:*:*:*:*
@@ -109152,6 +109154,8 @@ cpe:2.3:h:huawei:oceanstor_9000:*:*:*:*:*:*:*:*
 cpe:2.3:h:huawei:oceanstor_cse:*:*:*:*:*:*:*:*
 cpe:2.3:h:huawei:oceanstor_hvs85t:*:*:*:*:*:*:*:*
 cpe:2.3:h:huawei:oceanstor_hvs88t:*:*:*:*:*:*:*:*
+cpe:2.3:h:huawei:oceanstor_n8500:*:*:*:*:*:*:*:*
+cpe:2.3:h:huawei:oceanstor_onebox:*:*:*:*:*:*:*:*
 cpe:2.3:h:huawei:oceanstor_s2600t:*:*:*:*:*:*:*:*
 cpe:2.3:h:huawei:oceanstor_s5500t:*:*:*:*:*:*:*:*
 cpe:2.3:h:huawei:oceanstor_s5600t:*:*:*:*:*:*:*:*
@@ -127303,6 +127307,7 @@ cpe:2.3:h:qualcomm:8998:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:9205:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:9205_lte:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:9205_lte_modem:*:*:*:*:*:*:*:*
+cpe:2.3:h:qualcomm:9205s_modem:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:9206_lte:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:9206_lte_modem:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:9207_lte_modem:*:*:*:*:*:*:*:*
@@ -127364,6 +127369,7 @@ cpe:2.3:h:qualcomm:cq7790m:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:cq8725s:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:cq8750m:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:cq8845s:*:*:*:*:*:*:*:*
+cpe:2.3:h:qualcomm:cq8850ns:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:csr6030:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:csr8510_a10:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:csr8811:*:*:*:*:*:*:*:*
@@ -127581,6 +127587,7 @@ cpe:2.3:h:qualcomm:networking_pro_810:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:networking_pro_810_platform:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:nicobar:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:npro_a8_elite:*:*:*:*:*:*:*:*
+cpe:2.3:h:qualcomm:npro_a8_elite_platform:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:orne:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:palawan25:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:pandeiro:*:*:*:*:*:*:*:*
@@ -128033,6 +128040,7 @@ cpe:2.3:h:qualcomm:qmp1000:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:qmp2001:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:qmx82l:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:qmx85l:*:*:*:*:*:*:*:*
+cpe:2.3:h:qualcomm:qna715:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:qpa1083bd:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:qpa1086bd:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:qpa2625:*:*:*:*:*:*:*:*
@@ -128890,6 +128898,7 @@ cpe:2.3:h:qualcomm:snapdragon_auto_5g:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:snapdragon_auto_5g__modem-rf:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:snapdragon_auto_5g_modem-rf:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:snapdragon_auto_5g_modem-rf_gen_2:*:*:*:*:*:*:*:*
+cpe:2.3:h:qualcomm:snapdragon_c_platform:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:snapdragon_cockpit_elite:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:snapdragon_compute:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:snapdragon_connectivity:*:*:*:*:*:*:*:*
@@ -128901,6 +128910,7 @@ cpe:2.3:h:qualcomm:snapdragon_internet_of_things:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:snapdragon_mobile:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:snapdragon_reality_elite_platform:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:snapdragon_ride_elite:*:*:*:*:*:*:*:*
+cpe:2.3:h:qualcomm:snapdragon_ride_elite_:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:snapdragon_s7_sound_gen_1_platforms:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:snapdragon_sc8180x-aa:*:*:*:*:*:*:*:*
 cpe:2.3:h:qualcomm:snapdragon_sc8180x-ac:*:*:*:*:*:*:*:*
@@ -163737,6 +163747,7 @@ cpe:2.3:o:huawei:figo-l21_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:huawei:figo-l23_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:huawei:figo-l31_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:huawei:figo-tl10b_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:huawei:firehunter6000_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:huawei:flmg-10_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:huawei:florida-al20b_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:huawei:florida-l03_firmware:*:*:*:*:*:*:*:*
@@ -163980,21 +163991,29 @@ cpe:2.3:o:huawei:nova_5i_pro_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:huawei:nova_lite_3_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:huawei:nts-al00_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:huawei:oceanstor_18500_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:huawei:oceanstor_18500_v3_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:huawei:oceanstor_18500f_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:huawei:oceanstor_18800_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:huawei:oceanstor_18800_v3_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:huawei:oceanstor_18800f_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:huawei:oceanstor_2800_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:huawei:oceanstor_5300_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:huawei:oceanstor_5300_v3_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:huawei:oceanstor_5310_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:huawei:oceanstor_5500_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:huawei:oceanstor_5500_v3_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:huawei:oceanstor_5600_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:huawei:oceanstor_5600_v3_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:huawei:oceanstor_5800_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:huawei:oceanstor_5800_v3_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:huawei:oceanstor_6800_v3_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:huawei:oceanstor_6900_v3_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:huawei:oceanstor_9000_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:huawei:oceanstor_cse_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:huawei:oceanstor_hvs85t_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:huawei:oceanstor_hvs88t_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:huawei:oceanstor_n8500_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:huawei:oceanstor_onebox_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:huawei:oceanstor_s2600t_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:huawei:oceanstor_s5500t_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:huawei:oceanstor_s5600t_firmware:*:*:*:*:*:*:*:*
@@ -178958,6 +178977,7 @@ cpe:2.3:o:qualcomm:8998_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:9205_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:9205_lte_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:9205_lte_modem_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:qualcomm:9205s_modem_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:9206_lte_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:9206_lte_modem_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:9207_lte_modem_firmware:*:*:*:*:*:*:*:*
@@ -179018,6 +179038,7 @@ cpe:2.3:o:qualcomm:cq7790m_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:cq8725s_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:cq8750m_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:cq8845s_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:qualcomm:cq8850ns_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:csr6030_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:csr8510_a10_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:csr8811_a12_firmware:*:*:*:*:*:*:*:*
@@ -179230,6 +179251,7 @@ cpe:2.3:o:qualcomm:networking_pro_810_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:networking_pro_810_platform_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:nicobar_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:npro_a8_elite_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:qualcomm:npro_a8_elite_platform_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:orne_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:palawan25_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:pandeiro_firmware:*:*:*:*:*:*:*:*
@@ -179677,6 +179699,7 @@ cpe:2.3:o:qualcomm:qmp1000_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:qmp2001_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:qmx82l_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:qmx85l_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:qualcomm:qna715_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:qpa1083bd_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:qpa1086bd_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:qpa2625_firmware:*:*:*:*:*:*:*:*
@@ -180503,6 +180526,7 @@ cpe:2.3:o:qualcomm:snapdragon_auto_5g_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:snapdragon_auto_5g_modem-rf_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:snapdragon_auto_5g_modem-rf_gen_2_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:snapdragon_auto_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:qualcomm:snapdragon_c_platform_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:snapdragon_cockpit_elite_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:snapdragon_compute_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:snapdragon_connectivity_firmware:*:*:*:*:*:*:*:*
@@ -180513,6 +180537,7 @@ cpe:2.3:o:qualcomm:snapdragon_industrial_internet_of_things_firmware:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:snapdragon_internet_of_things_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:snapdragon_mobile_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:snapdragon_reality_elite_platform_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:qualcomm:snapdragon_ride_elite__firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:snapdragon_ride_elite_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:snapdragon_s7_sound_gen_1_platforms_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:qualcomm:snapdragon_sc8180x-aa_firmware:*:*:*:*:*:*:*:*
