@@ -39072,6 +39072,7 @@ cpe:2.3:a:linuxfoundation:backstage\/integration:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:backstage\/plugin-catalog-backend-module-unprocessed:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:backstage\/plugin-catalog-unprocessed-entities-common:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:backstage\/plugin-catalog-unprocessed-entities:*:*:*:*:*:*:*:*
+cpe:2.3:a:linuxfoundation:backstage\/plugin-scaffolder-backend-module-sentry:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:backstage\/plugin-scaffolder-backend:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:backstage_backend-common:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:backstage_catalog-model:*:*:*:*:*:*:*:*
