@@ -23965,6 +23965,7 @@ cpe:2.3:a:funnelkit:funnelkit_checkout:*:*:*:*:*:*:*:*
 cpe:2.3:a:funnelkit:slingblocks:*:*:*:*:*:*:*:*
 cpe:2.3:a:funny_photo_color_editor_project:funny_photo_color_editor:*:*:*:*:*:*:*:*
 cpe:2.3:a:funnymonkey:feature_set:*:*:*:*:*:*:*:*
+cpe:2.3:a:funnywolf:viper:*:*:*:*:*:*:*:*
 cpe:2.3:a:funnyzpc:mee-admin:*:*:*:*:*:*:*:*
 cpe:2.3:a:funscripts:red_reservations:*:*:*:*:*:*:*:*
 cpe:2.3:a:funsoft:dinos_webserver:*:*:*:*:*:*:*:*
@@ -46335,6 +46336,7 @@ cpe:2.3:a:netenberg:fantastico_de_luxe:*:*:*:*:*:*:*:*
 cpe:2.3:a:netentsec:application_security_gateway:*:*:*:*:*:*:*:*
 cpe:2.3:a:netentsec:ns-asg_application_security_gateway:*:*:*:*:*:*:*:*
 cpe:2.3:a:netepi_case_manager:netepi_case_manager:*:*:*:*:*:*:*:*
+cpe:2.3:a:neterbit:nw-431f:*:*:*:*:*:*:*:*
 cpe:2.3:a:netexplorer:my_smtp_contact:*:*:*:*:*:*:*:*
 cpe:2.3:a:neteyes:nexusway:*:*:*:*:*:*:*:*
 cpe:2.3:a:netfarer:movieplay:*:*:*:*:*:*:*:*
@@ -69778,6 +69780,7 @@ cpe:2.3:a:toybox_project:toybox:*:*:*:*:*:*:*:*
 cpe:2.3:a:toyoko_inn:toyoko_inn:*:*:*:*:*:*:*:*
 cpe:2.3:a:toyota:global_techstream:*:*:*:*:*:*:*:*
 cpe:2.3:a:toyotaownersclub:toyota_oc:*:*:*:*:*:*:*:*
+cpe:2.3:a:tozed:x300:*:*:*:*:*:*:*:*
 cpe:2.3:a:tozt:spreadsheet\:\:parsexlsx:*:*:*:*:*:*:*:*
 cpe:2.3:a:tp-link:8840t:*:*:*:*:*:*:*:*
 cpe:2.3:a:tp-link:aginet:*:*:*:*:*:*:*:*
