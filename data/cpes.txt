@@ -9,6 +9,7 @@ cpe:2.3:a:01-scripts:01acp:*:*:*:*:*:*:*:*
 cpe:2.3:a:01generator:pireospay:*:*:*:*:*:*:*:*
 cpe:2.3:a:01org:tpm2.0-tools:*:*:*:*:*:*:*:*
 cpe:2.3:a:0215andrewfeng:ace-mcp:*:*:*:*:*:*:*:*
+cpe:2.3:a:021is:elvix-sdk:*:*:*:*:*:*:*:*
 cpe:2.3:a:03-lovepreetsingh:mcp:*:*:*:*:*:*:*:*
 cpe:2.3:a:06ketan:slideshot:*:*:*:*:*:*:*:*
 cpe:2.3:a:0717376:cowork_bench:*:*:*:*:*:*:*:*
@@ -2075,6 +2076,7 @@ cpe:2.3:a:ag-grid:ag_charts:*:*:*:*:*:*:*:*
 cpe:2.3:a:ag-klettern-odenwald:ag_klettern_odenwald:*:*:*:*:*:*:*:*
 cpe:2.3:a:ag-solutions:mosmedia_lite:*:*:*:*:*:*:*:*
 cpe:2.3:a:ag-ui-protocol:ag-ui:*:*:*:*:*:*:*:*
+cpe:2.3:a:ag2ai:ag2:*:*:*:*:*:*:*:*
 cpe:2.3:a:agares_media:arcadem:*:*:*:*:*:*:*:*
 cpe:2.3:a:agares_media:arcadem_pro:*:*:*:*:*:*:*:*
 cpe:2.3:a:agares_media:phpautovideo:*:*:*:*:*:*:*:*
@@ -23967,6 +23969,7 @@ cpe:2.3:a:funnyzpc:mee-admin:*:*:*:*:*:*:*:*
 cpe:2.3:a:funscripts:red_reservations:*:*:*:*:*:*:*:*
 cpe:2.3:a:funsoft:dinos_webserver:*:*:*:*:*:*:*:*
 cpe:2.3:a:furikake_project:furikake:*:*:*:*:*:*:*:*
+cpe:2.3:a:furion:.net_framework:*:*:*:*:*:*:*:*
 cpe:2.3:a:furkan_tastan_blog:furkan_tastan_blog:*:*:*:*:*:*:*:*
 cpe:2.3:a:furqansofware:node_whois:*:*:*:*:*:*:*:*
 cpe:2.3:a:furquim:chironfs:*:*:*:*:*:*:*:*
@@ -27514,6 +27517,7 @@ cpe:2.3:a:highlight:highlight:*:*:*:*:*:*:*:*
 cpe:2.3:a:highlight_focus_project:highlight_focus:*:*:*:*:*:*:*:*
 cpe:2.3:a:highlighterstudio:vineyard_all_in:*:*:*:*:*:*:*:*
 cpe:2.3:a:highlightjs:highlight.js:*:*:*:*:*:*:*:*
+cpe:2.3:a:highwarden:super_store_finder:*:*:*:*:*:*:*:*
 cpe:2.3:a:highwood_design:hwdvideoshare:*:*:*:*:*:*:*:*
 cpe:2.3:a:higuma:webaudiorecorder.js:*:*:*:*:*:*:*:*
 cpe:2.3:a:hihonor:honorboardapp:*:*:*:*:*:*:*:*
@@ -32105,6 +32109,7 @@ cpe:2.3:a:instantphp:lknsupport:*:*:*:*:*:*:*:*
 cpe:2.3:a:instantrankingseo:infocus_real_estate:*:*:*:*:*:*:*:*
 cpe:2.3:a:instantservers_inc.:ismail:*:*:*:*:*:*:*:*
 cpe:2.3:a:instantservers_inc.:miniportal:*:*:*:*:*:*:*:*
+cpe:2.3:a:instantsoft:icms2:*:*:*:*:*:*:*:*
 cpe:2.3:a:instantsoft:instantcms:*:*:*:*:*:*:*:*
 cpe:2.3:a:instantsoftwares:dating_site:*:*:*:*:*:*:*:*
 cpe:2.3:a:instareza:mail_control:*:*:*:*:*:*:*:*
@@ -39203,6 +39208,7 @@ cpe:2.3:a:lionscripts:webmaster_tools:*:*:*:*:*:*:*:*
 cpe:2.3:a:lionwiki:lionwiki:*:*:*:*:*:*:*:*
 cpe:2.3:a:lipbrau:hearsay\:_a_social_party_game:*:*:*:*:*:*:*:*
 cpe:2.3:a:lipnitsk:libcue:*:*:*:*:*:*:*:*
+cpe:2.3:a:lippu:docx_reader_office_viewer_app:*:*:*:*:*:*:*:*
 cpe:2.3:a:liqua:wbblog:*:*:*:*:*:*:*:*
 cpe:2.3:a:liquibase:liquibase:*:*:*:*:*:*:*:*
 cpe:2.3:a:liquid_bytes_technologies:adaptive_website_framework:*:*:*:*:*:*:*:*
@@ -49441,6 +49447,7 @@ cpe:2.3:a:opensourcecms:60cyclecms:*:*:*:*:*:*:*:*
 cpe:2.3:a:opensourcelabs:skyscraper:*:*:*:*:*:*:*:*
 cpe:2.3:a:opensourcelabs:thermakube:*:*:*:*:*:*:*:*
 cpe:2.3:a:opensourcepos:open_source_point_of_sale:*:*:*:*:*:*:*:*
+cpe:2.3:a:openspug:spug:*:*:*:*:*:*:*:*
 cpe:2.3:a:opensrcsec:grsecurity:*:*:*:*:*:*:*:*
 cpe:2.3:a:opensrcsec:pax:*:*:*:*:*:*:*:*
 cpe:2.3:a:openssh:openssh:*:*:*:*:*:*:*:*
