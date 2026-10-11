@@ -65829,6 +65829,7 @@ cpe:2.3:a:student_study_center_desk_management_system_project:student_study_cent
 cpe:2.3:a:student_study_center_management_system_project:student_study_center_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:students_online_internship_timesheet_system_project:students_online_internship_timesheet_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:studiewijzer:studiewijzer:*:*:*:*:*:*:*:*
+cpe:2.3:a:studio-saelix:sencho:*:*:*:*:*:*:*:*
 cpe:2.3:a:studio.gd:gd_infinite_scroll:*:*:*:*:*:*:*:*
 cpe:2.3:a:studio42:elfinder:*:*:*:*:*:*:*:*
 cpe:2.3:a:studio_achtundachtzig:bloomooweb_activex_control:*:*:*:*:*:*:*:*
