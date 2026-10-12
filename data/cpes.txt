@@ -28344,6 +28344,8 @@ cpe:2.3:a:house_rental_and_property_listing_project:house_rental_and_property_li
 cpe:2.3:a:house_rental_system_project:house_rental_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:housegate:house_gate:*:*:*:*:*:*:*:*
 cpe:2.3:a:houtini-ai:houtini-lm:*:*:*:*:*:*:*:*
+cpe:2.3:a:houtini-ai:seo-crawler-mcp:*:*:*:*:*:*:*:*
+cpe:2.3:a:houtini-ai:voice-analyser-mcp:*:*:*:*:*:*:*:*
 cpe:2.3:a:houzez:houzez_crm:*:*:*:*:*:*:*:*
 cpe:2.3:a:hover-image_project:hover-image:*:*:*:*:*:*:*:*
 cpe:2.3:a:hover_image_project:hover_image:*:*:*:*:*:*:*:*
@@ -55599,6 +55601,7 @@ cpe:2.3:a:prozilla:top_100:*:*:*:*:*:*:*:*
 cpe:2.3:a:prozilla:topsites:*:*:*:*:*:*:*:*
 cpe:2.3:a:prozilla:webring:*:*:*:*:*:*:*:*
 cpe:2.3:a:prusa3d:prusaslicer:*:*:*:*:*:*:*:*
+cpe:2.3:a:prvtpro:amnezia-web-panel:*:*:*:*:*:*:*:*
 cpe:2.3:a:pryaniki:pryaniki:*:*:*:*:*:*:*:*
 cpe:2.3:a:pryopus:memtester:*:*:*:*:*:*:*:*
 cpe:2.3:a:ps-kill_project:ps-kill:*:*:*:*:*:*:*:*
