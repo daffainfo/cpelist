@@ -21233,6 +21233,7 @@ cpe:2.3:a:explorerplusplus:explorer\+\+:*:*:*:*:*:*:*:*
 cpe:2.3:a:explosion:spacy:*:*:*:*:*:*:*:*
 cpe:2.3:a:expo:expo:*:*:*:*:*:*:*:*
 cpe:2.3:a:expo:expo_software_development_kit:*:*:*:*:*:*:*:*
+cpe:2.3:a:exponent:cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:exponent:exponent:*:*:*:*:*:*:*:*
 cpe:2.3:a:exponent:exponent_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:exponentcms:exponent_cms:*:*:*:*:*:*:*:*
@@ -46311,6 +46312,7 @@ cpe:2.3:a:netcordia:netmri:*:*:*:*:*:*:*:*
 cpe:2.3:a:netcore:nap930:*:*:*:*:*:*:*:*
 cpe:2.3:a:netcore:nbr100v2:*:*:*:*:*:*:*:*
 cpe:2.3:a:netcore:nbr200v2:*:*:*:*:*:*:*:*
+cpe:2.3:a:netcore:nr268:*:*:*:*:*:*:*:*
 cpe:2.3:a:netcore:nr289-ge:*:*:*:*:*:*:*:*
 cpe:2.3:a:netcore:power13:*:*:*:*:*:*:*:*
 cpe:2.3:a:netcplus:browsegate:*:*:*:*:*:*:*:*
@@ -62125,6 +62127,7 @@ cpe:2.3:a:shenyanzhi:memorialday:*:*:*:*:*:*:*:*
 cpe:2.3:a:shenzen:guoxin_synthesis_image_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:shenzhen_aitemi:m300_wi-fi_repeater:*:*:*:*:*:*:*:*
 cpe:2.3:a:shenzhen_gongji_technology:xbrother_dynamic_environment_monitoring_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:shenzhen_hcc_technology:mpos_m6_plus:*:*:*:*:*:*:*:*
 cpe:2.3:a:shenzhen_huizhi_software_development:enterprise_resource_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:shenzhen_interconnection_harbor_network_technology:ofweek_online_exhibition:*:*:*:*:*:*:*:*
 cpe:2.3:a:shenzhen_project:jf6000_cloud_media_collaboration_processing_platform_firmware:*:*:*:*:*:*:*:*
@@ -69426,6 +69429,7 @@ cpe:2.3:a:tobias_cichon:simple_photoswipe:*:*:*:*:*:*:*:*
 cpe:2.3:a:tobias_kloy:tp-book:*:*:*:*:*:*:*:*
 cpe:2.3:a:tobias_maier:paratrooper-pingdom:*:*:*:*:*:*:*:*
 cpe:2.3:a:tobias_sommer:zid_linklist:*:*:*:*:*:*:*:*
+cpe:2.3:a:tobychui:zoraxy:*:*:*:*:*:*:*:*
 cpe:2.3:a:toc.js_project:toc.js:*:*:*:*:*:*:*:*
 cpe:2.3:a:tochat_be:tochat_be:*:*:*:*:*:*:*:*
 cpe:2.3:a:todaysseniorsnetwork:todaysseniorsnetwork:*:*:*:*:*:*:*:*
