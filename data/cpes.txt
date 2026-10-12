@@ -8187,6 +8187,7 @@ cpe:2.3:a:blackandwhitedigital:treepress:*:*:*:*:*:*:*:*
 cpe:2.3:a:blackbam:custom_header_images:*:*:*:*:*:*:*:*
 cpe:2.3:a:blackbam:tinymce_and_tinymce_advanced_professsional_formats_and_styles:*:*:*:*:*:*:*:*
 cpe:2.3:a:blackbeltstudio:most_popular_ringtones:*:*:*:*:*:*:*:*
+cpe:2.3:a:blackbelttechnology:pi-agent-dashboard:*:*:*:*:*:*:*:*
 cpe:2.3:a:blackberry:appliance-x:*:*:*:*:*:*:*:*
 cpe:2.3:a:blackberry:athoc:*:*:*:*:*:*:*:*
 cpe:2.3:a:blackberry:blackberry_enterprise_service:*:*:*:*:*:*:*:*
@@ -10185,6 +10186,7 @@ cpe:2.3:a:cahier_de_textes:cahier_de_textes:*:*:*:*:*:*:*:*
 cpe:2.3:a:cahilfoley:utils:*:*:*:*:*:*:*:*
 cpe:2.3:a:caido:caido:*:*:*:*:*:*:*:*
 cpe:2.3:a:cainor:calendarinho:*:*:*:*:*:*:*:*
+cpe:2.3:a:cairo-dock:glx-dock:*:*:*:*:*:*:*:*
 cpe:2.3:a:cairographics:cairo:*:*:*:*:*:*:*:*
 cpe:2.3:a:caishixiong:modern_farm_digital_integrated_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:cakefoundation:cakephp:*:*:*:*:*:*:*:*
@@ -41677,6 +41679,7 @@ cpe:2.3:a:medtronic:paceart_optima:*:*:*:*:*:*:*:*
 cpe:2.3:a:medtronic:valleylab_exchange_client:*:*:*:*:*:*:*:*
 cpe:2.3:a:meesho:online_shopping_app:*:*:*:*:*:*:*:*
 cpe:2.3:a:meet\#web:meet\#web:*:*:*:*:*:*:*:*
+cpe:2.3:a:meetecho:janus-gateway:*:*:*:*:*:*:*:*
 cpe:2.3:a:meetecho:janus:*:*:*:*:*:*:*:*
 cpe:2.3:a:meetinghouse:aegis_secureconnect_client:*:*:*:*:*:*:*:*
 cpe:2.3:a:meetup:meetup:*:*:*:*:*:*:*:*
@@ -46453,6 +46456,7 @@ cpe:2.3:a:netiq:sentinel_agent_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:netiq:snmp_trap_receiver:*:*:*:*:*:*:*:*
 cpe:2.3:a:netiq:unix_agent_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:netiq:unix_manager:*:*:*:*:*:*:*:*
+cpe:2.3:a:netis:wf2409e:*:*:*:*:*:*:*:*
 cpe:2.3:a:netjapan:tsushima_travel_guide:*:*:*:*:*:*:*:*
 cpe:2.3:a:netjuke:netjuke:*:*:*:*:*:*:*:*
 cpe:2.3:a:netjukebox:netjukebox:*:*:*:*:*:*:*:*
@@ -63675,6 +63679,7 @@ cpe:2.3:a:smart-hmi:webiq:*:*:*:*:*:*:*:*
 cpe:2.3:a:smart-plugs:smartplugs:*:*:*:*:*:*:*:*
 cpe:2.3:a:smart-shop:smart-shop:*:*:*:*:*:*:*:*
 cpe:2.3:a:smart_ip_ban_project:smart_ip_ban:*:*:*:*:*:*:*:*
+cpe:2.3:a:smart_media4u_technology:shareit_app:*:*:*:*:*:*:*:*
 cpe:2.3:a:smart_media_systems:power_audio_editor:*:*:*:*:*:*:*:*
 cpe:2.3:a:smart_related_articles_project:smart_related_articles:*:*:*:*:*:*:*:*
 cpe:2.3:a:smart_technologies:synchroneyes:*:*:*:*:*:*:*:*
@@ -77380,6 +77385,8 @@ cpe:2.3:a:yumerium_project:yumerium:*:*:*:*:*:*:*:*
 cpe:2.3:a:yumpu:yumpu_epaper_publishing:*:*:*:*:*:*:*:*
 cpe:2.3:a:yunaiv:ruoyi-vue-pro:*:*:*:*:*:*:*:*
 cpe:2.3:a:yunaiv:yudao-cloud:*:*:*:*:*:*:*:*
+cpe:2.3:a:yungengxin:cloud_billing:*:*:*:*:*:*:*:*
+cpe:2.3:a:yungengxin:yun_jia_security_guard:*:*:*:*:*:*:*:*
 cpe:2.3:a:yungifez:skuul:*:*:*:*:*:*:*:*
 cpe:2.3:a:yunknet:online_school_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:yunknet:yunke_online_school_system:*:*:*:*:*:*:*:*
