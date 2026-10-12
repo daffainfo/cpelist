@@ -2139,6 +2139,7 @@ cpe:2.3:a:agnai:agnai:*:*:*:*:*:*:*:*
 cpe:2.3:a:agner_fog:aforum:*:*:*:*:*:*:*:*
 cpe:2.3:a:agnitum:outpost_firewall:*:*:*:*:*:*:*:*
 cpe:2.3:a:agnitum:outpost_security_suite:*:*:*:*:*:*:*:*
+cpe:2.3:a:agno-agi:agno:*:*:*:*:*:*:*:*
 cpe:2.3:a:agno:agno:*:*:*:*:*:*:*:*
 cpe:2.3:a:agora-project:agora-project:*:*:*:*:*:*:*:*
 cpe:2.3:a:agora:video_software_development_kit:*:*:*:*:*:*:*:*
@@ -37621,6 +37622,7 @@ cpe:2.3:a:kronos:web_time_and_attendance:*:*:*:*:*:*:*:*
 cpe:2.3:a:krontech:single_connect:*:*:*:*:*:*:*:*
 cpe:2.3:a:krpano:krpano:*:*:*:*:*:*:*:*
 cpe:2.3:a:krstarica:forum_krstarice:*:*:*:*:*:*:*:*
+cpe:2.3:a:krupalshah:employeerecruitmentsystem:*:*:*:*:*:*:*:*
 cpe:2.3:a:krusader:krusader:*:*:*:*:*:*:*:*
 cpe:2.3:a:krylack:archive_password_recovery:*:*:*:*:*:*:*:*
 cpe:2.3:a:krylack:asterisks_password_decryptor:*:*:*:*:*:*:*:*
@@ -54902,6 +54904,7 @@ cpe:2.3:a:prasadkirpekar:wp_free_ssl:*:*:*:*:*:*:*:*
 cpe:2.3:a:prasadkirpekar:wp_meta_and_date_remover:*:*:*:*:*:*:*:*
 cpe:2.3:a:prasanna:com_youtube:*:*:*:*:*:*:*:*
 cpe:2.3:a:prasathmani:tiny_file_manager:*:*:*:*:*:*:*:*
+cpe:2.3:a:prasathmani:tinyfilemanager:*:*:*:*:*:*:*:*
 cpe:2.3:a:prashantmavinkurve:agile_video_player_lite:*:*:*:*:*:*:*:*
 cpe:2.3:a:prasidhda:woo_manage_fraud_orders:*:*:*:*:*:*:*:*
 cpe:2.3:a:prasidhdamalla:honeypot_for_wp_comment:*:*:*:*:*:*:*:*
@@ -70156,12 +70159,15 @@ cpe:2.3:a:trendmicro:worry-free_business_security_services:*:*:*:*:*:*:*:*
 cpe:2.3:a:trendnet:securview_wireless_internet_camera_activex_control:*:*:*:*:*:*:*:*
 cpe:2.3:a:trendnet:tew-432brp:*:*:*:*:*:*:*:*
 cpe:2.3:a:trendnet:tew-635brm:*:*:*:*:*:*:*:*
+cpe:2.3:a:trendnet:tew-751dr:*:*:*:*:*:*:*:*
+cpe:2.3:a:trendnet:tew-752dru:*:*:*:*:*:*:*:*
 cpe:2.3:a:trendnet:tew-813dru:*:*:*:*:*:*:*:*
 cpe:2.3:a:trendnet:tew-814dap:*:*:*:*:*:*:*:*
 cpe:2.3:a:trendnet:tew-816drm:*:*:*:*:*:*:*:*
 cpe:2.3:a:trendnet:tew-823dru:*:*:*:*:*:*:*:*
 cpe:2.3:a:trendnet:tew-827dru_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:a:trendnet:tew-wlc100:*:*:*:*:*:*:*:*
+cpe:2.3:a:trendnet:tew733gr:*:*:*:*:*:*:*:*
 cpe:2.3:a:trendnet:tv-ip751wic:*:*:*:*:*:*:*:*
 cpe:2.3:a:trendylogics:crypto_currency_tracker:*:*:*:*:*:*:*:*
 cpe:2.3:a:tresata:tree-orion:*:*:*:*:*:*:*:*
@@ -74722,6 +74728,7 @@ cpe:2.3:a:wl-enq_project:wl-enq:*:*:*:*:*:*:*:*
 cpe:2.3:a:wliang:wmtv:*:*:*:*:*:*:*:*
 cpe:2.3:a:wmagent_project:wmagent:*:*:*:*:*:*:*:*
 cpe:2.3:a:wmanager:wmanager:*:*:*:*:*:*:*:*
+cpe:2.3:a:wmcms:wmcms:*:*:*:*:*:*:*:*
 cpe:2.3:a:wmctoken_project:wmctoken:*:*:*:*:*:*:*:*
 cpe:2.3:a:wmde-fisch:twocolconflict:*:*:*:*:*:*:*:*
 cpe:2.3:a:wmfrog:wmfrog:*:*:*:*:*:*:*:*
