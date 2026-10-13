@@ -10201,6 +10201,7 @@ cpe:2.3:a:calacode:atmail_webmail_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:calamares:calamares:*:*:*:*:*:*:*:*
 cpe:2.3:a:calamine_project:calamine:*:*:*:*:*:*:*:*
 cpe:2.3:a:calarepasoftware:e-dziennik:*:*:*:*:*:*:*:*
+cpe:2.3:a:calcom:cal.com:*:*:*:*:*:*:*:*
 cpe:2.3:a:calcom:cal.diy:*:*:*:*:*:*:*:*
 cpe:2.3:a:calculatorsworld:cc_bmi_calculator:*:*:*:*:*:*:*:*
 cpe:2.3:a:caldera:caldera:*:*:*:*:*:*:*:*
@@ -33737,6 +33738,7 @@ cpe:2.3:a:itrsgroup:ninja:*:*:*:*:*:*:*:*
 cpe:2.3:a:its-a-feature:mythic:*:*:*:*:*:*:*:*
 cpe:2.3:a:itserv_incorporated:ridewaypn:*:*:*:*:*:*:*:*
 cpe:2.3:a:itservicejung:youforms-free-for-copecart:*:*:*:*:*:*:*:*
+cpe:2.3:a:itsmeravitejak:online-examination-system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsource:online_bookstore_project:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:airline_reservation_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:alton_management_system:*:*:*:*:*:*:*:*
@@ -54556,6 +54558,7 @@ cpe:2.3:a:pokkho:lango:*:*:*:*:*:*:*:*
 cpe:2.3:a:polar_software:helpdesk:*:*:*:*:*:*:*:*
 cpe:2.3:a:polarbear_cms_project:polarbear_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:polaring:polaring:*:*:*:*:*:*:*:*
+cpe:2.3:a:polaris:office_app:*:*:*:*:*:*:*:*
 cpe:2.3:a:polarisft:intellect_core_banking:*:*:*:*:*:*:*:*
 cpe:2.3:a:polarisoffice:polaris_ml_report:*:*:*:*:*:*:*:*
 cpe:2.3:a:polarisoffice:polaris_office:*:*:*:*:*:*:*:*
@@ -64640,6 +64643,7 @@ cpe:2.3:a:sourcecodester:computer_inventory_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:computer_laboratory_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:computer_repair_shop_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:contact_manager:*:*:*:*:*:*:*:*
+cpe:2.3:a:sourcecodester:contact_tracing_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:crud:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:customer_relationship_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:customer_review_app:*:*:*:*:*:*:*:*
@@ -64650,6 +64654,7 @@ cpe:2.3:a:sourcecodester:downloading_client_database_management_system:*:*:*:*:*
 cpe:2.3:a:sourcecodester:drag_and_drop_image_upload:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:drug_recommendation_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:dynamic_input_field_generator_using_html_css_and_php:*:*:*:*:*:*:*:*
+cpe:2.3:a:sourcecodester:e-learning_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:ecommerce_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:edoc_doctor_appointment_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:electric_billing_management_system:*:*:*:*:*:*:*:*
@@ -64682,6 +64687,7 @@ cpe:2.3:a:sourcecodester:kortex_lite_advocate_office_management_system:*:*:*:*:*
 cpe:2.3:a:sourcecodester:laboratory_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:laundry_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:leads_manager_tool:*:*:*:*:*:*:*:*
+cpe:2.3:a:sourcecodester:library_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:lost_and_found_information_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:lot_reservation_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:medicine_tracker_system:*:*:*:*:*:*:*:*
@@ -73394,6 +73400,8 @@ cpe:2.3:a:wavlink:etc._wn529:*:*:*:*:*:*:*:*
 cpe:2.3:a:wavlink:nu516:*:*:*:*:*:*:*:*
 cpe:2.3:a:wavlink:wavrouter_app:*:*:*:*:*:*:*:*
 cpe:2.3:a:wavlink:wl-nu516u1-a:*:*:*:*:*:*:*:*
+cpe:2.3:a:wavlink:wl-wn530be1-a:*:*:*:*:*:*:*:*
+cpe:2.3:a:wavlink:wl-wn592ax6:*:*:*:*:*:*:*:*
 cpe:2.3:a:wavlink:wl_wnj575a3:*:*:*:*:*:*:*:*
 cpe:2.3:a:wavlink:wn529:*:*:*:*:*:*:*:*
 cpe:2.3:a:wavlink:wn530:*:*:*:*:*:*:*:*
