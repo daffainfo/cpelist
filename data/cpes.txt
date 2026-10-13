@@ -27079,6 +27079,7 @@ cpe:2.3:a:hazelcast:jet:*:*:*:*:*:*:*:*
 cpe:2.3:a:hazelcast:management_center:*:*:*:*:*:*:*:*
 cpe:2.3:a:hazelpress:hazelpress:*:*:*:*:*:*:*:*
 cpe:2.3:a:hazzardweb:easylogin_pro:*:*:*:*:*:*:*:*
+cpe:2.3:a:hbai-ltd:toonflow-app:*:*:*:*:*:*:*:*
 cpe:2.3:a:hbcm_project:hbcm:*:*:*:*:*:*:*:*
 cpe:2.3:a:hbcms:hbcms:*:*:*:*:*:*:*:*
 cpe:2.3:a:hbgary:hbgary_agent:*:*:*:*:*:*:*:*
@@ -38753,6 +38754,7 @@ cpe:2.3:a:libsisimai:sisimai:*:*:*:*:*:*:*:*
 cpe:2.3:a:libsixel:libsixel:*:*:*:*:*:*:*:*
 cpe:2.3:a:libsixel_project:libsixel:*:*:*:*:*:*:*:*
 cpe:2.3:a:libslirp_project:libslirp:*:*:*:*:*:*:*:*
+cpe:2.3:a:libsndfile:libsndfile:*:*:*:*:*:*:*:*
 cpe:2.3:a:libsndfile_project:libsndfile:*:*:*:*:*:*:*:*
 cpe:2.3:a:libsoup:libsoup:*:*:*:*:*:*:*:*
 cpe:2.3:a:libsox_project:libsox:*:*:*:*:*:*:*:*
@@ -64627,6 +64629,7 @@ cpe:2.3:a:sourcecodester:air_cargo_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:airline_ticket_reservation_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:airport_booking_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:aplaya_beach_resort_online_reservation_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:sourcecodester:art_gallery_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:barangay_resident_profiling_and_information_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:best_courier_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:best_employee_management_system:*:*:*:*:*:*:*:*
@@ -64713,6 +64716,7 @@ cpe:2.3:a:sourcecodester:online_computer_and_laptop_store:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:online_course_registration:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:online_courseware:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:online_diagnostic_lab_management_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:sourcecodester:online_exam_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:online_examination_learning_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:online_eyewear_shop:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:online_faculty_clearance_system:*:*:*:*:*:*:*:*
@@ -64731,6 +64735,7 @@ cpe:2.3:a:sourcecodester:online_magazine_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:online_mobile_management_store:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:online_railway_reservation_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:online_reviewer_management_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:sourcecodester:online_reviewer_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:online_student_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:online_timesheet:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:online_tours_and_travels_management:*:*:*:*:*:*:*:*
@@ -64774,6 +64779,7 @@ cpe:2.3:a:sourcecodester:service_provider_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:ship_ferry_ticket_reservation_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:shopping_website:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:simple_and_nice_shopping_cart_script:*:*:*:*:*:*:*:*
+cpe:2.3:a:sourcecodester:simple_cafe_billing_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:simple_client_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:simple_doctors_appointment_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:simple_file_manager:*:*:*:*:*:*:*:*
@@ -77354,6 +77360,7 @@ cpe:2.3:a:yourownprogrammer:yop_poll:*:*:*:*:*:*:*:*
 cpe:2.3:a:yourplace:yourplace:*:*:*:*:*:*:*:*
 cpe:2.3:a:yourtango:your_tango:*:*:*:*:*:*:*:*
 cpe:2.3:a:youtag:two-factor_authentication:*:*:*:*:*:*:*:*
+cpe:2.3:a:youtransfer:youtransfer:*:*:*:*:*:*:*:*
 cpe:2.3:a:youtube-dlc_project:youtube-dlc:*:*:*:*:*:*:*:*
 cpe:2.3:a:youtube-php-mirroring_project:youtube-php-mirroring:*:*:*:*:*:*:*:*
 cpe:2.3:a:youtube:clone_script:*:*:*:*:*:*:*:*
