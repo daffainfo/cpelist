@@ -7520,6 +7520,7 @@ cpe:2.3:a:beatnik:beatnik_player:*:*:*:*:*:*:*:*
 cpe:2.3:a:beatport:beatport_player:*:*:*:*:*:*:*:*
 cpe:2.3:a:beaugunderson:ip-address:*:*:*:*:*:*:*:*
 cpe:2.3:a:beaussier:roomphplanning:*:*:*:*:*:*:*:*
+cpe:2.3:a:beautifier:js-beautify:*:*:*:*:*:*:*:*
 cpe:2.3:a:beautiful-cookie-banner:beautiful_cookie_consent_banner:*:*:*:*:*:*:*:*
 cpe:2.3:a:beauty:beauty_ecosystem_coin:*:*:*:*:*:*:*:*
 cpe:2.3:a:beauty_parlour_booking_script_project:beauty_parlour_booking_script:*:*:*:*:*:*:*:*
@@ -14384,6 +14385,7 @@ cpe:2.3:a:conda:miniconda3:*:*:*:*:*:*:*:*
 cpe:2.3:a:condenast:ziplist_recipe:*:*:*:*:*:*:*:*
 cpe:2.3:a:condless:cities_shopping_zones_for_woocommerce:*:*:*:*:*:*:*:*
 cpe:2.3:a:condor_project:condor:*:*:*:*:*:*:*:*
+cpe:2.3:a:conductor-oss:conductor:*:*:*:*:*:*:*:*
 cpe:2.3:a:conduit-hyper_project:conduit-hyper:*:*:*:*:*:*:*:*
 cpe:2.3:a:conduit:conduit:*:*:*:*:*:*:*:*
 cpe:2.3:a:condusiv:diskeeper:*:*:*:*:*:*:*:*
@@ -16522,6 +16524,7 @@ cpe:2.3:a:deepmetrix:livestats:*:*:*:*:*:*:*:*
 cpe:2.3:a:deepmyst:mysti:*:*:*:*:*:*:*:*
 cpe:2.3:a:deepnetexplorer:deepnet_explorer:*:*:*:*:*:*:*:*
 cpe:2.3:a:deepnetsecurity:dualshield:*:*:*:*:*:*:*:*
+cpe:2.3:a:deeppavlov:deeppavlov:*:*:*:*:*:*:*:*
 cpe:2.3:a:deepref_project:deepref:*:*:*:*:*:*:*:*
 cpe:2.3:a:deeproot_linux:deepofix:*:*:*:*:*:*:*:*
 cpe:2.3:a:deepseek-ai:deepseek-harness:*:*:*:*:*:*:*:*
@@ -34243,6 +34246,7 @@ cpe:2.3:a:jazzcash:woocommerce_jazzcash_gateway_plugin:*:*:*:*:*:*:*:*
 cpe:2.3:a:jazzpodiumdetor:jazzpodium_de_tor:*:*:*:*:*:*:*:*
 cpe:2.3:a:jb\+:jigbrowser\+:*:*:*:*:*:*:*:*
 cpe:2.3:a:jbahlquist:blue_triad_ezanalytics:*:*:*:*:*:*:*:*
+cpe:2.3:a:jbardin:scp.py:*:*:*:*:*:*:*:*
 cpe:2.3:a:jbb:jbb:*:*:*:*:*:*:*:*
 cpe:2.3:a:jbc:forumjbc:*:*:*:*:*:*:*:*
 cpe:2.3:a:jberet:jberet:*:*:*:*:*:*:*:*
@@ -44534,6 +44538,7 @@ cpe:2.3:a:mortoncu:morton_credit_union_mobile_banking:*:*:*:*:*:*:*:*
 cpe:2.3:a:mosaic5g:flexric:*:*:*:*:*:*:*:*
 cpe:2.3:a:mosaic_commerce:mosaic_commerce:*:*:*:*:*:*:*:*
 cpe:2.3:a:mosaic_project:mosaic:*:*:*:*:*:*:*:*
+cpe:2.3:a:mosaicml:composer:*:*:*:*:*:*:*:*
 cpe:2.3:a:mosaxiv:clawlet:*:*:*:*:*:*:*:*
 cpe:2.3:a:mosc_project:mosc:*:*:*:*:*:*:*:*
 cpe:2.3:a:mosca_project:mosca:*:*:*:*:*:*:*:*
@@ -61636,6 +61641,7 @@ cpe:2.3:a:sejoong_namo:namoinstall.1_activex_control:*:*:*:*:*:*:*:*
 cpe:2.3:a:sela_project:sela:*:*:*:*:*:*:*:*
 cpe:2.3:a:seladb:pcapplusplus:*:*:*:*:*:*:*:*
 cpe:2.3:a:selbstzweck:rgallery_plugin:*:*:*:*:*:*:*:*
+cpe:2.3:a:seldonio:mlserver:*:*:*:*:*:*:*:*
 cpe:2.3:a:selea:carplateserver:*:*:*:*:*:*:*:*
 cpe:2.3:a:select-themes:stockholm:*:*:*:*:*:*:*:*
 cpe:2.3:a:select-themes:stockholm_core:*:*:*:*:*:*:*:*
@@ -73450,6 +73456,7 @@ cpe:2.3:a:wbolt:all-in-one_search_automatic_push_management:*:*:*:*:*:*:*:*
 cpe:2.3:a:wbolt:donate_with_qrcode:*:*:*:*:*:*:*:*
 cpe:2.3:a:wbolt:imgspider:*:*:*:*:*:*:*:*
 cpe:2.3:a:wbolt:smart_seo_tool:*:*:*:*:*:*:*:*
+cpe:2.3:a:wbond:certvalidator:*:*:*:*:*:*:*:*
 cpe:2.3:a:wbsairback:white_bear_solutions:*:*:*:*:*:*:*:*
 cpe:2.3:a:wc-cmd_project:wc-cmd:*:*:*:*:*:*:*:*
 cpe:2.3:a:wc-marketplace:multivendor_marketplace_solution_for_woocommerce_-_wc_marketplace:*:*:*:*:*:*:*:*
