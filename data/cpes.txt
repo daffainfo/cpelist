@@ -6088,6 +6088,7 @@ cpe:2.3:a:autodesk:3ds_Max:*:*:*:*:*:*:*:*
 cpe:2.3:a:autodesk:3ds_max:*:*:*:*:*:*:*:*
 cpe:2.3:a:autodesk:3ds_max_usd:*:*:*:*:*:*:*:*
 cpe:2.3:a:autodesk:aautocad_lt:*:*:*:*:*:*:*:*
+cpe:2.3:a:autodesk:adp_desktop_sdk:*:*:*:*:*:*:*:*
 cpe:2.3:a:autodesk:advance_steel:*:*:*:*:*:*:*:*
 cpe:2.3:a:autodesk:advanced_material_exchange:*:*:*:*:*:*:*:*
 cpe:2.3:a:autodesk:alias:*:*:*:*:*:*:*:*
@@ -42399,6 +42400,7 @@ cpe:2.3:a:microsoft:azure-iot-sdk-c:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure-umqtt-c:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure\/msal-node:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_active_directory:*:*:*:*:*:*:*:*
+cpe:2.3:a:microsoft:azure_active_directory_b2c:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_active_directory_connect:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_active_directory_connect_provisioning_agent:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_active_directory_passport:*:*:*:*:*:*:*:*
@@ -42410,6 +42412,7 @@ cpe:2.3:a:microsoft:azure_ai_bot_service:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_ai_document_intelligence_studio:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_ai_face_service:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_ai_foundry:*:*:*:*:*:*:*:*
+cpe:2.3:a:microsoft:azure_ai_language_authoring:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_ai_search:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_api_management:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_app_service_for_linux:*:*:*:*:*:*:*:*
@@ -42631,6 +42634,7 @@ cpe:2.3:a:microsoft:directx:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:directx_files_viewer_control:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:directx_media:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:directx_sdk:*:*:*:*:*:*:*:*
+cpe:2.3:a:microsoft:discovery_studio:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:distributed_transaction_coordinator:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:django_backend:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:dynamics_365:*:*:*:*:*:*:*:*
@@ -42938,6 +42942,7 @@ cpe:2.3:a:microsoft:outlook_express:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:outlook_express_book_control:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:outlook_multilingual_user_interface_pack:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:outlook_rt:*:*:*:*:*:*:*:*
+cpe:2.3:a:microsoft:outlook_web:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:outlook_web_access:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:package_manager_configurations:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:paint_3d:*:*:*:*:*:*:*:*
@@ -43775,6 +43780,7 @@ cpe:2.3:a:mit:kerberos_5:*:*:*:*:*:*:*:*
 cpe:2.3:a:mit:kerberos_ftp_client:*:*:*:*:*:*:*:*
 cpe:2.3:a:mit:krb5-appl:*:*:*:*:*:*:*:*
 cpe:2.3:a:mit:mit_kerberos:*:*:*:*:*:*:*:*
+cpe:2.3:a:mit:moos-ivp:*:*:*:*:*:*:*:*
 cpe:2.3:a:mit:pgp_public_key_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:mit:scratch-svg-renderer:*:*:*:*:*:*:*:*
 cpe:2.3:a:mit:scratch-vm:*:*:*:*:*:*:*:*
@@ -52745,6 +52751,7 @@ cpe:2.3:a:phnews:phnews:*:*:*:*:*:*:*:*
 cpe:2.3:a:phoca:com_phocadocumentation:*:*:*:*:*:*:*:*
 cpe:2.3:a:phoca:download:*:*:*:*:*:*:*:*
 cpe:2.3:a:phoca:maps:*:*:*:*:*:*:*:*
+cpe:2.3:a:phoca:phoca_cart:*:*:*:*:*:*:*:*
 cpe:2.3:a:phoeniixx:custom_my_account_for_woocommerce:*:*:*:*:*:*:*:*
 cpe:2.3:a:phoeniixx:filter_portfolio_gallery:*:*:*:*:*:*:*:*
 cpe:2.3:a:phoeniixx:social_login_lite_for_woocommerce:*:*:*:*:*:*:*:*
@@ -65404,8 +65411,8 @@ cpe:2.3:a:st:x-cube-azrtos-l5:*:*:*:*:*:*:*:*
 cpe:2.3:a:st:x-cube-azrtos-wb:*:*:*:*:*:*:*:*
 cpe:2.3:a:st:x-cube-azrtos-wl:*:*:*:*:*:*:*:*
 cpe:2.3:a:st:x-cube-safea1:*:*:*:*:*:*:*:*
-cpe:2.3:a:st_engineering_idirect:evolution:*:*:*:*:*:*:*:*
-cpe:2.3:a:st_engineering_idirect:velocity_webserver_evolution:*:*:*:*:*:*:*:*
+cpe:2.3:a:st_engineering_idirect:evo_idx:*:*:*:*:*:*:*:*
+cpe:2.3:a:st_engineering_idirect:idx:*:*:*:*:*:*:*:*
 cpe:2.3:a:st_project:st:*:*:*:*:*:*:*:*
 cpe:2.3:a:stablebit:drivepool:*:*:*:*:*:*:*:*
 cpe:2.3:a:stablebit:scanner:*:*:*:*:*:*:*:*
@@ -66465,6 +66472,7 @@ cpe:2.3:a:sveltycms:sveltycms:*:*:*:*:*:*:*:*
 cpe:2.3:a:sven-ove_bjerkan:downloadprotect:*:*:*:*:*:*:*:*
 cpe:2.3:a:sven_decabooter:uc_paydutchgroup_\/_wedeal_payment:*:*:*:*:*:*:*:*
 cpe:2.3:a:sven_moderow:sven_moderow_guestbook:*:*:*:*:*:*:*:*
+cpe:2.3:a:svenbluege:event_gallery:*:*:*:*:*:*:*:*
 cpe:2.3:a:svendecabooter:webform_validation:*:*:*:*:*:*:*:*
 cpe:2.3:a:svenl7:post_form:*:*:*:*:*:*:*:*
 cpe:2.3:a:svenstaro:miniserve:*:*:*:*:*:*:*:*
@@ -67738,6 +67746,7 @@ cpe:2.3:a:techexcel:back_office_software:*:*:*:*:*:*:*:*
 cpe:2.3:a:techexcel_inc.:back_office:*:*:*:*:*:*:*:*
 cpe:2.3:a:techexcel_inc.:customerwise:*:*:*:*:*:*:*:*
 cpe:2.3:a:techexcel_inc.:devtrack:*:*:*:*:*:*:*:*
+cpe:2.3:a:techfry:tf_content:*:*:*:*:*:*:*:*
 cpe:2.3:a:techhub.p-m:decap_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:techjoomla:com_socialads:*:*:*:*:*:*:*:*
 cpe:2.3:a:techjoomla:invitex:*:*:*:*:*:*:*:*
@@ -68706,6 +68715,8 @@ cpe:2.3:a:themify:woocommerce_product_filter:*:*:*:*:*:*:*:*
 cpe:2.3:a:themographics:listingo:*:*:*:*:*:*:*:*
 cpe:2.3:a:themoneytizer:the_moneytizer:*:*:*:*:*:*:*:*
 cpe:2.3:a:themooltipass:moolticute:*:*:*:*:*:*:*:*
+cpe:2.3:a:themoos:core-moos:*:*:*:*:*:*:*:*
+cpe:2.3:a:themoos:essential-moos:*:*:*:*:*:*:*:*
 cpe:2.3:a:themoyles:church_admin:*:*:*:*:*:*:*:*
 cpe:2.3:a:themrdemonized:xray-monolith:*:*:*:*:*:*:*:*
 cpe:2.3:a:thenahidul:responsive_owl_carousel_for_elementor:*:*:*:*:*:*:*:*
@@ -91048,6 +91059,7 @@ cpe:2.3:h:dell:mobile_precision_3591:*:*:*:*:*:*:*:*
 cpe:2.3:h:dell:mx740c:*:*:*:*:*:*:*:*
 cpe:2.3:h:dell:mx750c:*:*:*:*:*:*:*:*
 cpe:2.3:h:dell:mx840c:*:*:*:*:*:*:*:*
+cpe:2.3:h:dell:mxg610s:*:*:*:*:*:*:*:*
 cpe:2.3:h:dell:nx3230:*:*:*:*:*:*:*:*
 cpe:2.3:h:dell:nx3240:*:*:*:*:*:*:*:*
 cpe:2.3:h:dell:nx3330:*:*:*:*:*:*:*:*
@@ -174222,6 +174234,7 @@ cpe:2.3:o:microsoft:windows_11_23h2:*:*:*:*:*:*:*:*
 cpe:2.3:o:microsoft:windows_11_24h2:*:*:*:*:*:*:*:*
 cpe:2.3:o:microsoft:windows_11_25h2:*:*:*:*:*:*:*:*
 cpe:2.3:o:microsoft:windows_11_26h1:*:*:*:*:*:*:*:*
+cpe:2.3:o:microsoft:windows_11_26h2:*:*:*:*:*:*:*:*
 cpe:2.3:o:microsoft:windows_2000:*:*:*:*:*:*:*:*
 cpe:2.3:o:microsoft:windows_2000_advanced_server:*:*:*:*:*:*:*:*
 cpe:2.3:o:microsoft:windows_2000_terminal_services:*:*:*:*:*:*:*:*
