@@ -46306,6 +46306,7 @@ cpe:2.3:a:netaxis:api_orchestrator:*:*:*:*:*:*:*:*
 cpe:2.3:a:netbeans-mmd-plugin_project:netbeans-mmd-plugin:*:*:*:*:*:*:*:*
 cpe:2.3:a:netbeans:netbeans_ide:*:*:*:*:*:*:*:*
 cpe:2.3:a:netbilling:netbilling:*:*:*:*:*:*:*:*
+cpe:2.3:a:netbird:netbird:*:*:*:*:*:*:*:*
 cpe:2.3:a:netbirdio:netbird:*:*:*:*:*:*:*:*
 cpe:2.3:a:netbizcity:faqmasterflexplus:*:*:*:*:*:*:*:*
 cpe:2.3:a:netbox:netbox:*:*:*:*:*:*:*:*
