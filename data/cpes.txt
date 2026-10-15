@@ -35817,6 +35817,7 @@ cpe:2.3:a:joomlabiblestudy:com_biblestudy:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomlaboard:joomlaboard:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomlaboat:com_youtubegallery:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomlaboat:extra_search:*:*:*:*:*:*:*:*
+cpe:2.3:a:joomlaboat:youtube_gallery:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomlacache:com_cbresumebuilder:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomlacalendars:event_calendar:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomlacalendars:picture_calendar:*:*:*:*:*:*:*:*
