@@ -48258,6 +48258,7 @@ cpe:2.3:a:o:milesight:*:*:*:*:*:*:*:*
 cpe:2.3:a:oaboard:oaboard:*:*:*:*:*:*:*:*
 cpe:2.3:a:oacstudio:mailtree_log_mail:*:*:*:*:*:*:*:*
 cpe:2.3:a:oai_epc_federation:oai_epc_federation:*:*:*:*:*:*:*:*
+cpe:2.3:a:oaid:tengine:*:*:*:*:*:*:*:*
 cpe:2.3:a:oakserver:oak:*:*:*:*:*:*:*:*
 cpe:2.3:a:oalders:html\:\:entities:*:*:*:*:*:*:*:*
 cpe:2.3:a:oalders:www\:\:mechanize\:\:cached:*:*:*:*:*:*:*:*
@@ -54908,6 +54909,7 @@ cpe:2.3:a:ppstream:ppstream:*:*:*:*:*:*:*:*
 cpe:2.3:a:pq-crystals:kyber:*:*:*:*:*:*:*:*
 cpe:2.3:a:pqclean_project:pqclean:*:*:*:*:*:*:*:*
 cpe:2.3:a:pquic:pquic:*:*:*:*:*:*:*:*
+cpe:2.3:a:praat:praat:*:*:*:*:*:*:*:*
 cpe:2.3:a:practical_creative_and_code:friendly:*:*:*:*:*:*:*:*
 cpe:2.3:a:practo:insta_hms:*:*:*:*:*:*:*:*
 cpe:2.3:a:pradeep-mishra:csvjson:*:*:*:*:*:*:*:*
@@ -70572,6 +70574,7 @@ cpe:2.3:a:tuomoku:spx_gc:*:*:*:*:*:*:*:*
 cpe:2.3:a:turaconsulting:signalix:*:*:*:*:*:*:*:*
 cpe:2.3:a:turbo-stream:turbo_stream:*:*:*:*:*:*:*:*
 cpe:2.3:a:turboboost_commands_project:turboboost_commands:*:*:*:*:*:*:*:*
+cpe:2.3:a:turboderp:exllamav2:*:*:*:*:*:*:*:*
 cpe:2.3:a:turbogears:turbogears2:*:*:*:*:*:*:*:*
 cpe:2.3:a:turbogears_project:turbogears:*:*:*:*:*:*:*:*
 cpe:2.3:a:turbopuffer:logrus:*:*:*:*:*:*:*:*
