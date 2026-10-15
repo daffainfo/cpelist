@@ -73434,6 +73434,7 @@ cpe:2.3:a:wavlink:wl-wn592ax6:*:*:*:*:*:*:*:*
 cpe:2.3:a:wavlink:wl_wnj575a3:*:*:*:*:*:*:*:*
 cpe:2.3:a:wavlink:wn529:*:*:*:*:*:*:*:*
 cpe:2.3:a:wavlink:wn530:*:*:*:*:*:*:*:*
+cpe:2.3:a:wavlink:wn530hg4b:*:*:*:*:*:*:*:*
 cpe:2.3:a:wavlink:wn531:*:*:*:*:*:*:*:*
 cpe:2.3:a:wavlink:wn531p3:*:*:*:*:*:*:*:*
 cpe:2.3:a:wavlink:wn535:*:*:*:*:*:*:*:*
