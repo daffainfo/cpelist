@@ -73429,6 +73429,7 @@ cpe:2.3:a:wavlink:nu516:*:*:*:*:*:*:*:*
 cpe:2.3:a:wavlink:wavrouter_app:*:*:*:*:*:*:*:*
 cpe:2.3:a:wavlink:wl-nu516u1-a:*:*:*:*:*:*:*:*
 cpe:2.3:a:wavlink:wl-wn530be1-a:*:*:*:*:*:*:*:*
+cpe:2.3:a:wavlink:wl-wn530be2-a:*:*:*:*:*:*:*:*
 cpe:2.3:a:wavlink:wl-wn592ax6:*:*:*:*:*:*:*:*
 cpe:2.3:a:wavlink:wl_wnj575a3:*:*:*:*:*:*:*:*
 cpe:2.3:a:wavlink:wn529:*:*:*:*:*:*:*:*
