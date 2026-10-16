@@ -8058,6 +8058,7 @@ cpe:2.3:a:bitcoin_mlm_project:bitcoin_mlm:*:*:*:*:*:*:*:*
 cpe:2.3:a:bitcoin_red_project:bitcoin_red:*:*:*:*:*:*:*:*
 cpe:2.3:a:bitcoinagile_project:bitcoinagile:*:*:*:*:*:*:*:*
 cpe:2.3:a:bitcoincore:bitcoin_core:*:*:*:*:*:*:*:*
+cpe:2.3:a:bitcoinj:bitcoinj:*:*:*:*:*:*:*:*
 cpe:2.3:a:bitcoinknots:bitcoin_knots:*:*:*:*:*:*:*:*
 cpe:2.3:a:bitcoinsv:bitcoin_sv:*:*:*:*:*:*:*:*
 cpe:2.3:a:bitcomet:bitcomet:*:*:*:*:*:*:*:*
@@ -31669,6 +31670,7 @@ cpe:2.3:a:impressions_games:lords_of_the_realm_iii:*:*:*:*:*:*:*:*
 cpe:2.3:a:impresspages:impresspages_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:impressum:cdburnerxp:*:*:*:*:*:*:*:*
 cpe:2.3:a:imprint_cms_project:imprint_cms:*:*:*:*:*:*:*:*
+cpe:2.3:a:imprintlab:medical-sam-adapter:*:*:*:*:*:*:*:*
 cpe:2.3:a:impronta:janto_ticketing_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:improved_include_page_project:improved_include_page:*:*:*:*:*:*:*:*
 cpe:2.3:a:improved_user_search_in_backend_project:improved_user_search_in_backend:*:*:*:*:*:*:*:*
@@ -39659,6 +39661,7 @@ cpe:2.3:a:lollms:lord_of_large_language_models:*:*:*:*:*:*:*:*
 cpe:2.3:a:lollms:webui:*:*:*:*:*:*:*:*
 cpe:2.3:a:lolypop55:html5_snmp:*:*:*:*:*:*:*:*
 cpe:2.3:a:lomag:warehouse_management:*:*:*:*:*:*:*:*
+cpe:2.3:a:lomart:up:*:*:*:*:*:*:*:*
 cpe:2.3:a:lomtec:activeweb:*:*:*:*:*:*:*:*
 cpe:2.3:a:loncoin_project:loncoin:*:*:*:*:*:*:*:*
 cpe:2.3:a:londontrustmedia:private_internet_access:*:*:*:*:*:*:*:*
@@ -52752,6 +52755,7 @@ cpe:2.3:a:phlymail:phlymail:*:*:*:*:*:*:*:*
 cpe:2.3:a:phlymail:phlymail_lite:*:*:*:*:*:*:*:*
 cpe:2.3:a:phm:phm_registry_editor:*:*:*:*:*:*:*:*
 cpe:2.3:a:phnews:phnews:*:*:*:*:*:*:*:*
+cpe:2.3:a:phoca:cart:*:*:*:*:*:*:*:*
 cpe:2.3:a:phoca:com_phocadocumentation:*:*:*:*:*:*:*:*
 cpe:2.3:a:phoca:download:*:*:*:*:*:*:*:*
 cpe:2.3:a:phoca:maps:*:*:*:*:*:*:*:*
@@ -58019,7 +58023,9 @@ cpe:2.3:a:registrationmagic:registrationmagic:*:*:*:*:*:*:*:*
 cpe:2.3:a:regpacks:regpack:*:*:*:*:*:*:*:*
 cpe:2.3:a:regretless:dodos_mail:*:*:*:*:*:*:*:*
 cpe:2.3:a:regularjs:mpregular:*:*:*:*:*:*:*:*
+cpe:2.3:a:regularlabs:modules_anywhere:*:*:*:*:*:*:*:*
 cpe:2.3:a:regularlabs:sourcerer:*:*:*:*:*:*:*:*
+cpe:2.3:a:regularlabs:tabs_\&_accordions:*:*:*:*:*:*:*:*
 cpe:2.3:a:reid_garner:free_web_chat:*:*:*:*:*:*:*:*
 cpe:2.3:a:reimbursetoken_project:reimbursetoken:*:*:*:*:*:*:*:*
 cpe:2.3:a:rein_velt:vedit:*:*:*:*:*:*:*:*
@@ -71215,6 +71221,7 @@ cpe:2.3:a:ultraedit:ultraedit:*:*:*:*:*:*:*:*
 cpe:2.3:a:ultrafunk:popcorn:*:*:*:*:*:*:*:*
 cpe:2.3:a:ultraiso:ultraiso:*:*:*:*:*:*:*:*
 cpe:2.3:a:ultrajson_project:ultrajson:*:*:*:*:*:*:*:*
+cpe:2.3:a:ultralytics:fastsam:*:*:*:*:*:*:*:*
 cpe:2.3:a:ultralytics:yolov3:*:*:*:*:*:*:*:*
 cpe:2.3:a:ultralytics:yolov5:*:*:*:*:*:*:*:*
 cpe:2.3:a:ultramagnetic:ultramagnetic:*:*:*:*:*:*:*:*
