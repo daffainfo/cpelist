@@ -39112,8 +39112,12 @@ cpe:2.3:a:linuxfoundation:backstage\/plugin-auth-backend:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:backstage\/plugin-catalog-backend-module-unprocessed:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:backstage\/plugin-catalog-unprocessed-entities-common:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:backstage\/plugin-catalog-unprocessed-entities:*:*:*:*:*:*:*:*
+cpe:2.3:a:linuxfoundation:backstage\/plugin-kubernetes-backend:*:*:*:*:*:*:*:*
+cpe:2.3:a:linuxfoundation:backstage\/plugin-scaffolder-backend-module-confluence-to-markdown:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:backstage\/plugin-scaffolder-backend-module-sentry:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:backstage\/plugin-scaffolder-backend:*:*:*:*:*:*:*:*
+cpe:2.3:a:linuxfoundation:backstage\/plugin-search-backend-module-elasticsearch:*:*:*:*:*:*:*:*
+cpe:2.3:a:linuxfoundation:backstage\/plugin-search-backend:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:backstage_backend-common:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:backstage_catalog-model:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:backstage_core-components:*:*:*:*:*:*:*:*
@@ -73383,6 +73387,7 @@ cpe:2.3:a:watchful:xcloner:*:*:*:*:*:*:*:*
 cpe:2.3:a:watchguard:agent:*:*:*:*:*:*:*:*
 cpe:2.3:a:watchguard:authentication_gateway:*:*:*:*:*:*:*:*
 cpe:2.3:a:watchguard:authpoint_password_manager:*:*:*:*:*:*:*:*
+cpe:2.3:a:watchguard:endpoint_security:*:*:*:*:*:*:*:*
 cpe:2.3:a:watchguard:firebox_cloud:*:*:*:*:*:*:*:*
 cpe:2.3:a:watchguard:firebox_pptp_vpn:*:*:*:*:*:*:*:*
 cpe:2.3:a:watchguard:fireware_xtm:*:*:*:*:*:*:*:*
