@@ -32586,6 +32586,7 @@ cpe:2.3:a:intel:open_active_management_technology_cloud_toolkit:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:open_cache_acceleration_software:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:open_cloud_integrity_tehnology:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:open_image_denoise:*:*:*:*:*:*:*:*
+cpe:2.3:a:intel:open_vkl:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:open_volume_kernel_library:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:open_webrtc_toolkit:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:openattestation:*:*:*:*:*:*:*:*
@@ -39104,6 +39105,7 @@ cpe:2.3:a:linuxfoundation:automotive_grade_linux:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:backstage:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:backstage\/backend_defaults:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:backstage\/integration:*:*:*:*:*:*:*:*
+cpe:2.3:a:linuxfoundation:backstage\/plugin-auth-backend:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:backstage\/plugin-catalog-backend-module-unprocessed:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:backstage\/plugin-catalog-unprocessed-entities-common:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:backstage\/plugin-catalog-unprocessed-entities:*:*:*:*:*:*:*:*
