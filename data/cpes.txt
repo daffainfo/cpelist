@@ -42408,6 +42408,11 @@ cpe:2.3:a:microsoft:auto_updater_for_mac:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:autoupdate:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:av1_video_extension:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure-iot-sdk-c:*:*:*:*:*:*:*:*
+cpe:2.3:a:microsoft:azure-keyvault-administration:*:*:*:*:*:*:*:*
+cpe:2.3:a:microsoft:azure-keyvault-certificates:*:*:*:*:*:*:*:*
+cpe:2.3:a:microsoft:azure-keyvault-keys:*:*:*:*:*:*:*:*
+cpe:2.3:a:microsoft:azure-keyvault-secrets:*:*:*:*:*:*:*:*
+cpe:2.3:a:microsoft:azure-keyvault-securitydomain:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure-umqtt-c:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure\/msal-node:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_active_directory:*:*:*:*:*:*:*:*
@@ -42865,6 +42870,7 @@ cpe:2.3:a:microsoft:msn_messenger_service:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:msn_messenger_service_for_exchange:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:msn_setup_bulletin_board_services:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:muzic:*:*:*:*:*:*:*:*
+cpe:2.3:a:microsoft:native.quic.msquic.schannel:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:netmeeting:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:network_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:network_monitor:*:*:*:*:*:*:*:*
