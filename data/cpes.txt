@@ -67751,6 +67751,7 @@ cpe:2.3:a:tec-it:tbarcode_ocx:*:*:*:*:*:*:*:*
 cpe:2.3:a:teca_scripts:guestex:*:*:*:*:*:*:*:*
 cpe:2.3:a:teca_scripts:teca_diary:*:*:*:*:*:*:*:*
 cpe:2.3:a:tecdiary:simple_pos:*:*:*:*:*:*:*:*
+cpe:2.3:a:tech-banker:captcha_bank:*:*:*:*:*:*:*:*
 cpe:2.3:a:tech-banker:contact_bank:*:*:*:*:*:*:*:*
 cpe:2.3:a:tech-banker:gallery_bank:*:*:*:*:*:*:*:*
 cpe:2.3:a:tech-noel:pigeon_server:*:*:*:*:*:*:*:*
@@ -67758,7 +67759,6 @@ cpe:2.3:a:tech-source:raptor_gfx_pgx32:*:*:*:*:*:*:*:*
 cpe:2.3:a:tech9logy_creators:wordpress_custom_search:*:*:*:*:*:*:*:*
 cpe:2.3:a:tech_logic:tlnews:*:*:*:*:*:*:*:*
 cpe:2.3:a:techastha:integration_of_moneybird_for_woocommerce:*:*:*:*:*:*:*:*
-cpe:2.3:a:techbanker:captcha_bank:*:*:*:*:*:*:*:*
 cpe:2.3:a:techdeluge:com_techfolio:*:*:*:*:*:*:*:*
 cpe:2.3:a:techearty:carousel\,_slider\,_gallery_by_wp_carousel:*:*:*:*:*:*:*:*
 cpe:2.3:a:techearty:easy_accordion:*:*:*:*:*:*:*:*
