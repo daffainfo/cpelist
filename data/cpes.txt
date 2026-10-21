@@ -482,6 +482,7 @@ cpe:2.3:a:a1apps:office_app-edit_word\,_pdf_file:*:*:*:*:*:*:*:*
 cpe:2.3:a:a1webserver:http_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:a2aproject:a2a-java:*:*:*:*:*:*:*:*
 cpe:2.3:a:a2aproject:a2a-python:*:*:*:*:*:*:*:*
+cpe:2.3:a:a2aproject:a2a-rs:*:*:*:*:*:*:*:*
 cpe:2.3:a:a2hosting:a2_optimized:*:*:*:*:*:*:*:*
 cpe:2.3:a:a2technology:camera_trap_tracking_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:a2technology:license_portal_system:*:*:*:*:*:*:*:*
@@ -2136,6 +2137,7 @@ cpe:2.3:a:agiletestware:pangolin_connector_for_testrail:*:*:*:*:*:*:*:*
 cpe:2.3:a:agilewiki:agilewiki:*:*:*:*:*:*:*:*
 cpe:2.3:a:agiloft:agiloft:*:*:*:*:*:*:*:*
 cpe:2.3:a:agilonhealth:minerva:*:*:*:*:*:*:*:*
+cpe:2.3:a:agit8or1:clientst0r:*:*:*:*:*:*:*:*
 cpe:2.3:a:agixt:agixt:*:*:*:*:*:*:*:*
 cpe:2.3:a:agnai:agnai:*:*:*:*:*:*:*:*
 cpe:2.3:a:agner_fog:aforum:*:*:*:*:*:*:*:*
@@ -2187,6 +2189,7 @@ cpe:2.3:a:ai-dev:aicustomfee:*:*:*:*:*:*:*:*
 cpe:2.3:a:ai-dev:ailinear:*:*:*:*:*:*:*:*
 cpe:2.3:a:ai-dev:aioptimizedcombinations:*:*:*:*:*:*:*:*
 cpe:2.3:a:ai-dev:declinaisons_a_la_volee:*:*:*:*:*:*:*:*
+cpe:2.3:a:ai-genius-automations:octoally:*:*:*:*:*:*:*:*
 cpe:2.3:a:ai3:qbibot:*:*:*:*:*:*:*:*
 cpe:2.3:a:ai_contact_us_form_project:ai_contact_us_form:*:*:*:*:*:*:*:*
 cpe:2.3:a:ai_engine_project:ai_engine:*:*:*:*:*:*:*:*
@@ -2575,6 +2578,7 @@ cpe:2.3:a:alexgladkov:claude-in-mobile:*:*:*:*:*:*:*:*
 cpe:2.3:a:alexguestbook:\@lex_guestbook:*:*:*:*:*:*:*:*
 cpe:2.3:a:alexis_wilke:protected_node:*:*:*:*:*:*:*:*
 cpe:2.3:a:alexmacarthur:complete_open_graph:*:*:*:*:*:*:*:*
+cpe:2.3:a:alexpasmantier:television:*:*:*:*:*:*:*:*
 cpe:2.3:a:alexphpteam:\@lex_poll:*:*:*:*:*:*:*:*
 cpe:2.3:a:alexphpteam:alex_guestbook:*:*:*:*:*:*:*:*
 cpe:2.3:a:alexraven:wp_report_post:*:*:*:*:*:*:*:*
@@ -3851,6 +3855,7 @@ cpe:2.3:a:antoinebcx:ml-toolkit-ts:*:*:*:*:*:*:*:*
 cpe:2.3:a:antoinebcx:ml-toolkit-ts\/preprocessing:*:*:*:*:*:*:*:*
 cpe:2.3:a:antoinebcx:ml-toolkit-ts\/xgboost:*:*:*:*:*:*:*:*
 cpe:2.3:a:antoineh:football_pool:*:*:*:*:*:*:*:*
+cpe:2.3:a:antoinersx:clawhost:*:*:*:*:*:*:*:*
 cpe:2.3:a:anton_belev:mp3_search_archive:*:*:*:*:*:*:*:*
 cpe:2.3:a:anton_hoelstad:wp_quick_setup:*:*:*:*:*:*:*:*
 cpe:2.3:a:anton_vanyukov:market_exporter:*:*:*:*:*:*:*:*
@@ -5076,6 +5081,7 @@ cpe:2.3:a:arisusanto:easy-popup-show:*:*:*:*:*:*:*:*
 cpe:2.3:a:ariva:accord_ors:*:*:*:*:*:*:*:*
 cpe:2.3:a:ariva_computer:accord_ors:*:*:*:*:*:*:*:*
 cpe:2.3:a:arizona-dream:livre_d_or_livor:*:*:*:*:*:*:*:*
+cpe:2.3:a:arizu-id:fast-tunnel:*:*:*:*:*:*:*:*
 cpe:2.3:a:arj_software:arj_archiver:*:*:*:*:*:*:*:*
 cpe:2.3:a:arj_software_inc.:unarj:*:*:*:*:*:*:*:*
 cpe:2.3:a:arjohn_kampman:sesame_rdf_container:*:*:*:*:*:*:*:*
@@ -6772,6 +6778,7 @@ cpe:2.3:a:awsm:wp_job_openings:*:*:*:*:*:*:*:*
 cpe:2.3:a:awstats:awstats:*:*:*:*:*:*:*:*
 cpe:2.3:a:awzmb:awzmb:*:*:*:*:*:*:*:*
 cpe:2.3:a:ax_developer_cms:ax_developer_cms:*:*:*:*:*:*:*:*
+cpe:2.3:a:axa_group:nlp.js:*:*:*:*:*:*:*:*
 cpe:2.3:a:axalto:protiva:*:*:*:*:*:*:*:*
 cpe:2.3:a:axcient:replibit:*:*:*:*:*:*:*:*
 cpe:2.3:a:axcora:axcora:*:*:*:*:*:*:*:*
@@ -11138,6 +11145,7 @@ cpe:2.3:a:chameleon_mini_live_debugger_project:chameleon_mini_live_debugger:*:*:
 cpe:2.3:a:chameleon_project:chameleon:*:*:*:*:*:*:*:*
 cpe:2.3:a:chamilo:chamilo:*:*:*:*:*:*:*:*
 cpe:2.3:a:chamilo:chamilo_lms:*:*:*:*:*:*:*:*
+cpe:2.3:a:chamilo:lms:*:*:*:*:*:*:*:*
 cpe:2.3:a:chamilo_integration_project:chamilo_integration:*:*:*:*:*:*:*:*
 cpe:2.3:a:chancms:chancms:*:*:*:*:*:*:*:*
 cpe:2.3:a:chandler_project:chandler_server:*:*:*:*:*:*:*:*
@@ -16082,6 +16090,7 @@ cpe:2.3:a:datashieldcoin_project:datashieldcoin:*:*:*:*:*:*:*:*
 cpe:2.3:a:dataspade:dataspade:*:*:*:*:*:*:*:*
 cpe:2.3:a:dataspheric:linkspheric:*:*:*:*:*:*:*:*
 cpe:2.3:a:datastax:enterprise_service_broker:*:*:*:*:*:*:*:*
+cpe:2.3:a:datastax:pulsar-jms:*:*:*:*:*:*:*:*
 cpe:2.3:a:datatables:datatables.net:*:*:*:*:*:*:*:*
 cpe:2.3:a:datateam:datactive:*:*:*:*:*:*:*:*
 cpe:2.3:a:datatechgroup:telecommunication_inventory_and_billing_information_data_pump:*:*:*:*:*:*:*:*
@@ -16131,6 +16140,7 @@ cpe:2.3:a:daum_communications:daumgame_activex_control:*:*:*:*:*:*:*:*
 cpe:2.3:a:daumcorp:daum_cloud:*:*:*:*:*:*:*:*
 cpe:2.3:a:daurnimator:lua-http:*:*:*:*:*:*:*:*
 cpe:2.3:a:dav-cogs_project:dav-cogs:*:*:*:*:*:*:*:*
+cpe:2.3:a:dav-ee:dairy-management-system:*:*:*:*:*:*:*:*
 cpe:2.3:a:davart154:t1_theme:*:*:*:*:*:*:*:*
 cpe:2.3:a:dave_airlie:pam_smb:*:*:*:*:*:*:*:*
 cpe:2.3:a:dave_brul:xbreaky:*:*:*:*:*:*:*:*
@@ -17310,6 +17320,7 @@ cpe:2.3:a:deweisecurityservicetoken_project:deweisecurityservicetoken:*:*:*:*:*:
 cpe:2.3:a:dexie:dexie:*:*:*:*:*:*:*:*
 cpe:2.3:a:dexis:imaging_suite:*:*:*:*:*:*:*:*
 cpe:2.3:a:dexma:dexgate:*:*:*:*:*:*:*:*
+cpe:2.3:a:dext34-morgan:books4cash:*:*:*:*:*:*:*:*
 cpe:2.3:a:dext5:dext5:*:*:*:*:*:*:*:*
 cpe:2.3:a:dext5:dext5_editor:*:*:*:*:*:*:*:*
 cpe:2.3:a:dext5:dext5upload:*:*:*:*:*:*:*:*
@@ -17435,6 +17446,7 @@ cpe:2.3:a:diffplug:eclipse-wtp:*:*:*:*:*:*:*:*
 cpe:2.3:a:diffplug:goomph:*:*:*:*:*:*:*:*
 cpe:2.3:a:diffplug:gradle:*:*:*:*:*:*:*:*
 cpe:2.3:a:diffplug:maven:*:*:*:*:*:*:*:*
+cpe:2.3:a:diffsk:configobj:*:*:*:*:*:*:*:*
 cpe:2.3:a:diffy_project:diffy:*:*:*:*:*:*:*:*
 cpe:2.3:a:difuse:kalmia:*:*:*:*:*:*:*:*
 cpe:2.3:a:dify:dify:*:*:*:*:*:*:*:*
@@ -18740,6 +18752,7 @@ cpe:2.3:a:dxmsoft:xm_easy_personal_ftp_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:dxpr_builder_project:dxpr_builder:*:*:*:*:*:*:*:*
 cpe:2.3:a:dxproscripts:dxshopcart:*:*:*:*:*:*:*:*
 cpe:2.3:a:dxstudio:dx_studio_player:*:*:*:*:*:*:*:*
+cpe:2.3:a:dyad-sh:dyad:*:*:*:*:*:*:*:*
 cpe:2.3:a:dyadyalesha:dl_robots.txt:*:*:*:*:*:*:*:*
 cpe:2.3:a:dyadyalesha:dl_verification:*:*:*:*:*:*:*:*
 cpe:2.3:a:dyadyalesha:dl_yandex_metrika:*:*:*:*:*:*:*:*
@@ -20650,6 +20663,7 @@ cpe:2.3:a:erau:embry-riddle:*:*:*:*:*:*:*:*
 cpe:2.3:a:erc20_ico_project:erc20_ico:*:*:*:*:*:*:*:*
 cpe:2.3:a:erc20token_project:erc20token:*:*:*:*:*:*:*:*
 cpe:2.3:a:erdogant:pypickle:*:*:*:*:*:*:*:*
+cpe:2.3:a:eremef:bandcamp-player:*:*:*:*:*:*:*:*
 cpe:2.3:a:erfan_wiki:erfan_wiki:*:*:*:*:*:*:*:*
 cpe:2.3:a:erfurtwiki:erfurtwiki:*:*:*:*:*:*:*:*
 cpe:2.3:a:eric_allman:sendmail:*:*:*:*:*:*:*:*
@@ -20819,6 +20833,7 @@ cpe:2.3:a:espeak-ng:espeak-ng:*:*:*:*:*:*:*:*
 cpe:2.3:a:espeak-ng:espeak_ng:*:*:*:*:*:*:*:*
 cpe:2.3:a:espeak-ruby_project:espeak-ruby:*:*:*:*:*:*:*:*
 cpe:2.3:a:esphome:esphome:*:*:*:*:*:*:*:*
+cpe:2.3:a:espnet:espnet:*:*:*:*:*:*:*:*
 cpe:2.3:a:espocrm:espocrm:*:*:*:*:*:*:*:*
 cpe:2.3:a:esportz_project:esportz:*:*:*:*:*:*:*:*
 cpe:2.3:a:espressif:arduino-esp32:*:*:*:*:*:*:*:*
@@ -21535,6 +21550,7 @@ cpe:2.3:a:f2c_open_source_project:f2c_translator:*:*:*:*:*:*:*:*
 cpe:2.3:a:f2e-server_project:f2e-server:*:*:*:*:*:*:*:*
 cpe:2.3:a:f2fs-tools_project:f2fs-tools:*:*:*:*:*:*:*:*
 cpe:2.3:a:f2html.pl:f2html.pl:*:*:*:*:*:*:*:*
+cpe:2.3:a:f3-factory:fatfree-core:*:*:*:*:*:*:*:*
 cpe:2.3:a:f3site:f3site:*:*:*:*:*:*:*:*
 cpe:2.3:a:f4dev:f4_improvements:*:*:*:*:*:*:*:*
 cpe:2.3:a:f5:3_dns:*:*:*:*:*:*:*:*
@@ -23468,6 +23484,7 @@ cpe:2.3:a:free5gc:smf:*:*:*:*:*:*:*:*
 cpe:2.3:a:free5gc:udm:*:*:*:*:*:*:*:*
 cpe:2.3:a:free5gc:udr:*:*:*:*:*:*:*:*
 cpe:2.3:a:free5gc:upf:*:*:*:*:*:*:*:*
+cpe:2.3:a:free5gc:webconsole:*:*:*:*:*:*:*:*
 cpe:2.3:a:free:freebox_os:*:*:*:*:*:*:*:*
 cpe:2.3:a:free:freebox_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:free_and_open_source_inventory_management_system_project:free_and_open_source_inventory_management_system:*:*:*:*:*:*:*:*
@@ -26204,6 +26221,7 @@ cpe:2.3:a:grammarly:grammarly:*:*:*:*:*:*:*:*
 cpe:2.3:a:grandcom:dynweb:*:*:*:*:*:*:*:*
 cpe:2.3:a:grandingteco:utime_master:*:*:*:*:*:*:*:*
 cpe:2.3:a:grandit:grandit:*:*:*:*:*:*:*:*
+cpe:2.3:a:grandnode:grandnode2:*:*:*:*:*:*:*:*
 cpe:2.3:a:grandnode:grandnode:*:*:*:*:*:*:*:*
 cpe:2.3:a:grandora:rialto:*:*:*:*:*:*:*:*
 cpe:2.3:a:grandplugins:avif_uploader:*:*:*:*:*:*:*:*
@@ -26830,6 +26848,7 @@ cpe:2.3:a:hangzhou_meisoft_information_technology:finesoft:*:*:*:*:*:*:*:*
 cpe:2.3:a:hangzhou_network_technology_development:ediorcms:*:*:*:*:*:*:*:*
 cpe:2.3:a:hangzhou_rui-qiang:richstrong_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:hangzhou_shunwang_technology:shzh:*:*:*:*:*:*:*:*
+cpe:2.3:a:hankcs:hanlp:*:*:*:*:*:*:*:*
 cpe:2.3:a:hannonhill:cascade:*:*:*:*:*:*:*:*
 cpe:2.3:a:hans_alshoff:minalic:*:*:*:*:*:*:*:*
 cpe:2.3:a:hans_nilsson:video_filter:*:*:*:*:*:*:*:*
@@ -29277,6 +29296,7 @@ cpe:2.3:a:hrblock:taxcut_deluxe_\+_efile_\+_state_2010:*:*:*:*:*:*:*:*
 cpe:2.3:a:hrblock:taxcut_maryland_2010:*:*:*:*:*:*:*:*
 cpe:2.3:a:hrblock:taxcut_premium\+efile_2008:*:*:*:*:*:*:*:*
 cpe:2.3:a:hrblock:taxcut_premium\+state\+efile:*:*:*:*:*:*:*:*
+cpe:2.3:a:hrisikeshpal:blood_bank_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:hrp2000:e-hr:*:*:*:*:*:*:*:*
 cpe:2.3:a:hrsale:hrsale:*:*:*:*:*:*:*:*
 cpe:2.3:a:hrsale_project:hrsale:*:*:*:*:*:*:*:*
@@ -29953,6 +29973,10 @@ cpe:2.3:a:ibm:call_center_for_commerce:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:campaign:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:capacity_management_analytics:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:carbon_charts:*:*:*:*:*:*:*:*
+cpe:2.3:a:ibm:carboncharts_angular:*:*:*:*:*:*:*:*
+cpe:2.3:a:ibm:carboncharts_react:*:*:*:*:*:*:*:*
+cpe:2.3:a:ibm:carboncharts_svelte:*:*:*:*:*:*:*:*
+cpe:2.3:a:ibm:carboncharts_vue:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:care_management:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:case_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:catia:*:*:*:*:*:*:*:*
@@ -30038,6 +30062,7 @@ cpe:2.3:a:ibm:controller:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:copy_services_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:cp4ba_-_filenet_content_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:curam_social_program_management:*:*:*:*:*:*:*:*
+cpe:2.3:a:ibm:cyber_fraud:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:daeja_viewone:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:dashboard_application_services_hub:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:dashdb_local:*:*:*:*:*:*:*:*
@@ -30535,6 +30560,7 @@ cpe:2.3:a:ibm:qradar_network_security:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:qradar_network_threat_analytics:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:qradar_pulse:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:qradar_risk_manager:*:*:*:*:*:*:*:*
+cpe:2.3:a:ibm:qradar_security_information_and_event_management:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:qradar_security_information_and_event_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:qradar_security_network_threat_analytics:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:qradar_siem:*:*:*:*:*:*:*:*
@@ -30754,6 +30780,7 @@ cpe:2.3:a:ibm:sterling_connect\:express:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:sterling_connect\:express_adapter_for_sterling_b2b_integrator:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:sterling_connect\:express_for_unix:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:sterling_connect\:express_for_windows:*:*:*:*:*:*:*:*
+cpe:2.3:a:ibm:sterling_connect_direct:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:sterling_connect_direct_user_interface:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:sterling_connect_direct_web_services:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:sterling_connect_enterprise_http_option:*:*:*:*:*:*:*:*
@@ -37348,6 +37375,7 @@ cpe:2.3:a:kiuwan:sast:*:*:*:*:*:*:*:*
 cpe:2.3:a:kiwi-logo-carousel_project:kiwi-logo-carousel:*:*:*:*:*:*:*:*
 cpe:2.3:a:kiwi_enterprises:kiwi_cattools:*:*:*:*:*:*:*:*
 cpe:2.3:a:kiwi_project:kiwi:*:*:*:*:*:*:*:*
+cpe:2.3:a:kiwilan:php-archive:*:*:*:*:*:*:*:*
 cpe:2.3:a:kiwitcms:kiwi_tcms:*:*:*:*:*:*:*:*
 cpe:2.3:a:kiwix:kiwix:*:*:*:*:*:*:*:*
 cpe:2.3:a:kiwix:libkiwix:*:*:*:*:*:*:*:*
@@ -38222,6 +38250,7 @@ cpe:2.3:a:lee_howard:hylafax\+:*:*:*:*:*:*:*:*
 cpe:2.3:a:lee_mcloughlin:mirror:*:*:*:*:*:*:*:*
 cpe:2.3:a:leechesnutt:slick_contact_forms:*:*:*:*:*:*:*:*
 cpe:2.3:a:leechesnutt:slick_social_share_buttons:*:*:*:*:*:*:*:*
+cpe:2.3:a:leedroid_labs:shortcutter_2_app:*:*:*:*:*:*:*:*
 cpe:2.3:a:leefish:file_thingie:*:*:*:*:*:*:*:*
 cpe:2.3:a:leejet:stable-diffusion.cpp:*:*:*:*:*:*:*:*
 cpe:2.3:a:leenk:leenk.me:*:*:*:*:*:*:*:*
@@ -39426,6 +39455,7 @@ cpe:2.3:a:lksctp:stream_control_transmission_protocol:*:*:*:*:*:*:*:*
 cpe:2.3:a:lkw199711:smanga:*:*:*:*:*:*:*:*
 cpe:2.3:a:llama-factory:llama-factory:*:*:*:*:*:*:*:*
 cpe:2.3:a:llama.cpp:llama.cpp:*:*:*:*:*:*:*:*
+cpe:2.3:a:llamachinese:llama-chinese:*:*:*:*:*:*:*:*
 cpe:2.3:a:llamahub:llamahub:*:*:*:*:*:*:*:*
 cpe:2.3:a:llamaindex:llamaindex:*:*:*:*:*:*:*:*
 cpe:2.3:a:llamaindex_project:llamaindex:*:*:*:*:*:*:*:*
@@ -39435,6 +39465,7 @@ cpe:2.3:a:llhttp:llhttp:*:*:*:*:*:*:*:*
 cpe:2.3:a:llisoft:mta_maita_training_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:llnl:model_specific_registers-safe:*:*:*:*:*:*:*:*
 cpe:2.3:a:llnl:slurm:*:*:*:*:*:*:*:*
+cpe:2.3:a:llsourcell:doctor-dignity:*:*:*:*:*:*:*:*
 cpe:2.3:a:llvm:clang:*:*:*:*:*:*:*:*
 cpe:2.3:a:llvm:compiler-rt:*:*:*:*:*:*:*:*
 cpe:2.3:a:llvm:compiler:*:*:*:*:*:*:*:*
@@ -41482,6 +41513,7 @@ cpe:2.3:a:mcms:easy_web_make:*:*:*:*:*:*:*:*
 cpe:2.3:a:mcms_project:mcms:*:*:*:*:*:*:*:*
 cpe:2.3:a:mcmurtrey_whitaker_and_associates:cart32:*:*:*:*:*:*:*:*
 cpe:2.3:a:mcnews:mcnews:*:*:*:*:*:*:*:*
+cpe:2.3:a:mcollina:mcp-ripgrep:*:*:*:*:*:*:*:*
 cpe:2.3:a:mcp-atlassian:mcp_atlassian:*:*:*:*:*:*:*:*
 cpe:2.3:a:mcp_mapping_viewer_project:mcp_mapping_viewer:*:*:*:*:*:*:*:*
 cpe:2.3:a:mcp_server_for_data_exploration_project:mcp_server_for_data_exploration:*:*:*:*:*:*:*:*
@@ -41814,6 +41846,7 @@ cpe:2.3:a:memorizeit:memorizeit\!:*:*:*:*:*:*:*:*
 cpe:2.3:a:memorysafety:sudo:*:*:*:*:*:*:*:*
 cpe:2.3:a:memos:memos:*:*:*:*:*:*:*:*
 cpe:2.3:a:memphis_documents_library_project:memphis_documents_library:*:*:*:*:*:*:*:*
+cpe:2.3:a:memtensor:memmy-agent:*:*:*:*:*:*:*:*
 cpe:2.3:a:menalto:gallery:*:*:*:*:*:*:*:*
 cpe:2.3:a:menalto:gallery_publish_xp_module:*:*:*:*:*:*:*:*
 cpe:2.3:a:menalto:gallery_webcam_module:*:*:*:*:*:*:*:*
@@ -42140,6 +42173,7 @@ cpe:2.3:a:michaelis_freunde:contentnow:*:*:*:*:*:*:*:*
 cpe:2.3:a:michaelkazakov:nimble_commander:*:*:*:*:*:*:*:*
 cpe:2.3:a:michaelkelly:duouniversalkeycloakauthenticator:*:*:*:*:*:*:*:*
 cpe:2.3:a:michaelliao:itranswarp:*:*:*:*:*:*:*:*
+cpe:2.3:a:michaelrsweet:mxml:*:*:*:*:*:*:*:*
 cpe:2.3:a:michaelschwarz:ajax.net_professional:*:*:*:*:*:*:*:*
 cpe:2.3:a:michaeluno:auto_amazon_links:*:*:*:*:*:*:*:*
 cpe:2.3:a:michaeluno:responsive_column_widgets:*:*:*:*:*:*:*:*
@@ -42437,6 +42471,7 @@ cpe:2.3:a:microsoft:azure_application_gateway:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_arc-enabled_kubernetes:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_arc-enabled_servers:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_arc:*:*:*:*:*:*:*:*
+cpe:2.3:a:microsoft:azure_arc__sql_server_extension:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_arc_extension_microsoft.azstackhci.operator:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_arc_extension_microsoft.azure.hybridnetwork:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_arc_extension_microsoft.azurekeyvaultsecretsprovider:*:*:*:*:*:*:*:*
@@ -43769,6 +43804,7 @@ cpe:2.3:a:misp-project:misp:*:*:*:*:*:*:*:*
 cpe:2.3:a:misp:misp-maltego:*:*:*:*:*:*:*:*
 cpe:2.3:a:misp:misp:*:*:*:*:*:*:*:*
 cpe:2.3:a:misp:misp_\(malware_information_sharing_platform\):*:*:*:*:*:*:*:*
+cpe:2.3:a:misp:misp_modules_\(html_to_markdown_expansion_module\):*:*:*:*:*:*:*:*
 cpe:2.3:a:misp:sachertortephp_\(cakephp-based_misp_application\):*:*:*:*:*:*:*:*
 cpe:2.3:a:misp_project:misp:*:*:*:*:*:*:*:*
 cpe:2.3:a:missimx:msxadvanced:*:*:*:*:*:*:*:*
@@ -46007,6 +46043,7 @@ cpe:2.3:a:nelzkie15:human_resource_information_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:nelzkie15:pet_shop_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:nema:dicom_standard:*:*:*:*:*:*:*:*
 cpe:2.3:a:nemetschek:cinema_4d:*:*:*:*:*:*:*:*
+cpe:2.3:a:nemotyrant:manong:*:*:*:*:*:*:*:*
 cpe:2.3:a:nendeb:fudousan_plugin:*:*:*:*:*:*:*:*
 cpe:2.3:a:nendeb:fudousan_plugin_pro_multi-user:*:*:*:*:*:*:*:*
 cpe:2.3:a:nendeb:fudousan_plugin_pro_single-user:*:*:*:*:*:*:*:*
@@ -46058,6 +46095,7 @@ cpe:2.3:a:nerdpress:social_pug_wordpress:*:*:*:*:*:*:*:*
 cpe:2.3:a:nerdvana:crypt\:\:secretbuffer:*:*:*:*:*:*:*:*
 cpe:2.3:a:nerf_arena_blast:nerf_arena_blast:*:*:*:*:*:*:*:*
 cpe:2.3:a:nerijus_masikonis:geolocator:*:*:*:*:*:*:*:*
+cpe:2.3:a:nerimity:desktop:*:*:*:*:*:*:*:*
 cpe:2.3:a:nero:advertising_center:*:*:*:*:*:*:*:*
 cpe:2.3:a:nero:backitup:*:*:*:*:*:*:*:*
 cpe:2.3:a:nero:burnrights:*:*:*:*:*:*:*:*
@@ -46503,6 +46541,7 @@ cpe:2.3:a:netiq:sentinel_agent_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:netiq:snmp_trap_receiver:*:*:*:*:*:*:*:*
 cpe:2.3:a:netiq:unix_agent_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:netiq:unix_manager:*:*:*:*:*:*:*:*
+cpe:2.3:a:netis:eap930:*:*:*:*:*:*:*:*
 cpe:2.3:a:netis:wf2409e:*:*:*:*:*:*:*:*
 cpe:2.3:a:netjapan:tsushima_travel_guide:*:*:*:*:*:*:*:*
 cpe:2.3:a:netjuke:netjuke:*:*:*:*:*:*:*:*
@@ -49497,6 +49536,7 @@ cpe:2.3:a:opensolution:quick.cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:opensolution:quick_cart:*:*:*:*:*:*:*:*
 cpe:2.3:a:opensolution:quick_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:opensource-socialnetwork:open_source_social_network:*:*:*:*:*:*:*:*
+cpe:2.3:a:opensource-socialnetwork:opensource-socialnetwork:*:*:*:*:*:*:*:*
 cpe:2.3:a:opensource-workshop:connect-cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:opensource_classified_ads_script_project:opensource_classified_ads_script:*:*:*:*:*:*:*:*
 cpe:2.3:a:opensource_technologies:responsive_logo_slideshow:*:*:*:*:*:*:*:*
@@ -49874,6 +49914,7 @@ cpe:2.3:a:optical_character_recognition_project:optical_character_recognition:*:
 cpe:2.3:a:optim:optimal_guard:*:*:*:*:*:*:*:*
 cpe:2.3:a:optimal-systems:enaio:*:*:*:*:*:*:*:*
 cpe:2.3:a:optimal_access:kbucket:*:*:*:*:*:*:*:*
+cpe:2.3:a:optimal_idm:optimalcloud:*:*:*:*:*:*:*:*
 cpe:2.3:a:optimalaccess:kbucket:*:*:*:*:*:*:*:*
 cpe:2.3:a:optimalog:optima_plc:*:*:*:*:*:*:*:*
 cpe:2.3:a:optimalpayments:neteller_direct_payment_api:*:*:*:*:*:*:*:*
@@ -51021,6 +51062,7 @@ cpe:2.3:a:orbic:maui:*:*:*:*:*:*:*:*
 cpe:2.3:a:orbicule:undercover:*:*:*:*:*:*:*:*
 cpe:2.3:a:orbisius:child_theme_creator:*:*:*:*:*:*:*:*
 cpe:2.3:a:orbit_downloader:orbit_downloader:*:*:*:*:*:*:*:*
+cpe:2.3:a:orbitale:imagemagick-php:*:*:*:*:*:*:*:*
 cpe:2.3:a:orbitals:orbital_viewer:*:*:*:*:*:*:*:*
 cpe:2.3:a:orbitcoders:orbitmatrix:*:*:*:*:*:*:*:*
 cpe:2.3:a:orbitdownloader:orbit_downloader:*:*:*:*:*:*:*:*
@@ -55714,6 +55756,7 @@ cpe:2.3:a:psysh:psysh:*:*:*:*:*:*:*:*
 cpe:2.3:a:psywerks:puma:*:*:*:*:*:*:*:*
 cpe:2.3:a:pt_news:pt_news:*:*:*:*:*:*:*:*
 cpe:2.3:a:ptarmigan_project:ptarmigan:*:*:*:*:*:*:*:*
+cpe:2.3:a:ptbsare:anx-calibre-manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:ptc:axeda_agent:*:*:*:*:*:*:*:*
 cpe:2.3:a:ptc:axeda_desktop_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:ptc:codebeamer:*:*:*:*:*:*:*:*
@@ -56370,6 +56413,7 @@ cpe:2.3:a:qt-cute:quickteam:*:*:*:*:*:*:*:*
 cpe:2.3:a:qt-cute:quickticket:*:*:*:*:*:*:*:*
 cpe:2.3:a:qt-dcgui:qt-dcgui:*:*:*:*:*:*:*:*
 cpe:2.3:a:qt-users:silk:*:*:*:*:*:*:*:*
+cpe:2.3:a:qt:qt5compat:*:*:*:*:*:*:*:*
 cpe:2.3:a:qt:qt:*:*:*:*:*:*:*:*
 cpe:2.3:a:qt:qt_network_authorization:*:*:*:*:*:*:*:*
 cpe:2.3:a:qt:qtbase:*:*:*:*:*:*:*:*
@@ -60822,6 +60866,7 @@ cpe:2.3:a:satollo:head\,_footer\,_and_post_injections:*:*:*:*:*:*:*:*
 cpe:2.3:a:satori:uuid:*:*:*:*:*:*:*:*
 cpe:2.3:a:satos:satos_mobile:*:*:*:*:*:*:*:*
 cpe:2.3:a:saturday_drive:ninja_forms:*:*:*:*:*:*:*:*
+cpe:2.3:a:satya-vinay:events-management-system:*:*:*:*:*:*:*:*
 cpe:2.3:a:satyadeep:scratcher:*:*:*:*:*:*:*:*
 cpe:2.3:a:sauerbraten:cube:*:*:*:*:*:*:*:*
 cpe:2.3:a:sauerbraten:sauerbraten:*:*:*:*:*:*:*:*
@@ -63895,6 +63940,7 @@ cpe:2.3:a:smplayer:smplayer:*:*:*:*:*:*:*:*
 cpe:2.3:a:smplredirectionsmanager_project:smplredirectionsmanager:*:*:*:*:*:*:*:*
 cpe:2.3:a:smpn1smg:absis:*:*:*:*:*:*:*:*
 cpe:2.3:a:smr:shenwang_endpoint_protection_security_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:smrealms:smr:*:*:*:*:*:*:*:*
 cpe:2.3:a:sms:sms:*:*:*:*:*:*:*:*
 cpe:2.3:a:sms_framework_project:sms_framework:*:*:*:*:*:*:*:*
 cpe:2.3:a:sms_script:sms_script:*:*:*:*:*:*:*:*
@@ -64987,6 +65033,7 @@ cpe:2.3:a:spawar.navy.mil:wwwwais.25.c:*:*:*:*:*:*:*:*
 cpe:2.3:a:spb:kiosk_engine:*:*:*:*:*:*:*:*
 cpe:2.3:a:spbas:business_automation_software:*:*:*:*:*:*:*:*
 cpe:2.3:a:spdk:storage_performance_development_kit:*:*:*:*:*:*:*:*
+cpe:2.3:a:speaches-ai:speaches:*:*:*:*:*:*:*:*
 cpe:2.3:a:speakdigital:bulk_delete_users_by_email:*:*:*:*:*:*:*:*
 cpe:2.3:a:speakout\!_email_petitions_project:speakout\!_email_petitions:*:*:*:*:*:*:*:*
 cpe:2.3:a:spearman:unbounded-spsc:*:*:*:*:*:*:*:*
@@ -65856,6 +65903,7 @@ cpe:2.3:a:streamlink:streamlink:*:*:*:*:*:*:*:*
 cpe:2.3:a:streamlit:streamlit:*:*:*:*:*:*:*:*
 cpe:2.3:a:streamrelay:streamrelay:*:*:*:*:*:*:*:*
 cpe:2.3:a:streamripper:streamripper:*:*:*:*:*:*:*:*
+cpe:2.3:a:streamsoft:pingtools_network_utilities:*:*:*:*:*:*:*:*
 cpe:2.3:a:streamweasels:twitch_integration:*:*:*:*:*:*:*:*
 cpe:2.3:a:streamweasels:twitch_player:*:*:*:*:*:*:*:*
 cpe:2.3:a:streber-pm:streber:*:*:*:*:*:*:*:*
@@ -68054,6 +68102,7 @@ cpe:2.3:a:tencent:ioa:*:*:*:*:*:*:*:*
 cpe:2.3:a:tencent:libpag:*:*:*:*:*:*:*:*
 cpe:2.3:a:tencent:microblogpad:*:*:*:*:*:*:*:*
 cpe:2.3:a:tencent:mobileqq:*:*:*:*:*:*:*:*
+cpe:2.3:a:tencent:ncnn:*:*:*:*:*:*:*:*
 cpe:2.3:a:tencent:pc_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:tencent:pcmanager:*:*:*:*:*:*:*:*
 cpe:2.3:a:tencent:qq:*:*:*:*:*:*:*:*
@@ -68958,6 +69007,7 @@ cpe:2.3:a:throughtek:kalay_platform:*:*:*:*:*:*:*:*
 cpe:2.3:a:throughtek:kalay_sdk:*:*:*:*:*:*:*:*
 cpe:2.3:a:thruk:thruk:*:*:*:*:*:*:*:*
 cpe:2.3:a:thttpd:thttpd_http_server:*:*:*:*:*:*:*:*
+cpe:2.3:a:thu-mig:yoloe:*:*:*:*:*:*:*:*
 cpe:2.3:a:thulasidas:easy-adsense-lite:*:*:*:*:*:*:*:*
 cpe:2.3:a:thumbtack_clone_project:thumbtack_clone:*:*:*:*:*:*:*:*
 cpe:2.3:a:thunderatz:thunderdocs:*:*:*:*:*:*:*:*
@@ -69155,6 +69205,7 @@ cpe:2.3:a:tibco:web_player_automation_services:*:*:*:*:*:*:*:*
 cpe:2.3:a:tibco:webfocus_client:*:*:*:*:*:*:*:*
 cpe:2.3:a:tibco:webfocus_installer:*:*:*:*:*:*:*:*
 cpe:2.3:a:tibco:webfocus_reporting_server:*:*:*:*:*:*:*:*
+cpe:2.3:a:tibillet:lespass:*:*:*:*:*:*:*:*
 cpe:2.3:a:tic-tac_to_the_max_free_project:tic-tac_to_the_max_free:*:*:*:*:*:*:*:*
 cpe:2.3:a:ticalc:tiemu:*:*:*:*:*:*:*:*
 cpe:2.3:a:tickbh:process_lock:*:*:*:*:*:*:*:*
@@ -70542,6 +70593,7 @@ cpe:2.3:a:tufat:flashchat:*:*:*:*:*:*:*:*
 cpe:2.3:a:tufat:mybackup:*:*:*:*:*:*:*:*
 cpe:2.3:a:tufat:mycard:*:*:*:*:*:*:*:*
 cpe:2.3:a:tufat:osdate:*:*:*:*:*:*:*:*
+cpe:2.3:a:tufayellus:tiktok-video-downloader-php:*:*:*:*:*:*:*:*
 cpe:2.3:a:tufin:securechange:*:*:*:*:*:*:*:*
 cpe:2.3:a:tufin:securetrack:*:*:*:*:*:*:*:*
 cpe:2.3:a:tug:tetex:*:*:*:*:*:*:*:*
@@ -71561,6 +71613,7 @@ cpe:2.3:a:unsafe_accessor_project:unsafe_accessor:*:*:*:*:*:*:*:*
 cpe:2.3:a:unsanity:application_enhancer:*:*:*:*:*:*:*:*
 cpe:2.3:a:unscripts:webmaster_marketplace:*:*:*:*:*:*:*:*
 cpe:2.3:a:unshield_project:unshield:*:*:*:*:*:*:*:*
+cpe:2.3:a:unslothai:unsloth:*:*:*:*:*:*:*:*
 cpe:2.3:a:unstructured:unstructured:*:*:*:*:*:*:*:*
 cpe:2.3:a:untangle:ng_firewall:*:*:*:*:*:*:*:*
 cpe:2.3:a:untangle:untangle_firewall_ng:*:*:*:*:*:*:*:*
@@ -73107,6 +73160,8 @@ cpe:2.3:a:vpnhood:vpnhood:*:*:*:*:*:*:*:*
 cpe:2.3:a:vprj_project:vprj:*:*:*:*:*:*:*:*
 cpe:2.3:a:vqsoft:vqserver:*:*:*:*:*:*:*:*
 cpe:2.3:a:vr_calendar_project:vr_calendar:*:*:*:*:*:*:*:*
+cpe:2.3:a:vraj404:criminal-management-system:*:*:*:*:*:*:*:*
+cpe:2.3:a:vraj404:criminal_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:vrcx-team:vrcx:*:*:*:*:*:*:*:*
 cpe:2.3:a:vrdesktop:virtual_desktop_streamer:*:*:*:*:*:*:*:*
 cpe:2.3:a:vrite:vrite:*:*:*:*:*:*:*:*
@@ -73948,6 +74003,7 @@ cpe:2.3:a:webkitgtk:webkitgtk:*:*:*:*:*:*:*:*
 cpe:2.3:a:webkitgtk:webkitgtk\+:*:*:*:*:*:*:*:*
 cpe:2.3:a:webklex:php-imap:*:*:*:*:*:*:*:*
 cpe:2.3:a:webkul:ajax_quiz:*:*:*:*:*:*:*:*
+cpe:2.3:a:webkul:aureus_erp:*:*:*:*:*:*:*:*
 cpe:2.3:a:webkul:bagisto:*:*:*:*:*:*:*:*
 cpe:2.3:a:webkul:bundle_product:*:*:*:*:*:*:*:*
 cpe:2.3:a:webkul:com_ultimateportfolio:*:*:*:*:*:*:*:*
@@ -74903,6 +74959,7 @@ cpe:2.3:a:wonderware:suitelink:*:*:*:*:*:*:*:*
 cpe:2.3:a:wonderwhy-er:desktopcommandermcp:*:*:*:*:*:*:*:*
 cpe:2.3:a:wong2:mcp-cli:*:*:*:*:*:*:*:*
 cpe:2.3:a:wongcyrus:excellexbot:*:*:*:*:*:*:*:*
+cpe:2.3:a:wongkinyiu:yolov9:*:*:*:*:*:*:*:*
 cpe:2.3:a:wonko:notftp:*:*:*:*:*:*:*:*
 cpe:2.3:a:wonko:smolder:*:*:*:*:*:*:*:*
 cpe:2.3:a:woo-myghpay-payment-gateway_project:woo-myghpay-payment-gateway:*:*:*:*:*:*:*:*
@@ -76187,6 +76244,8 @@ cpe:2.3:a:wurmlab:sequenceserver:*:*:*:*:*:*:*:*
 cpe:2.3:a:wut:com_port_redirector_legacy:*:*:*:*:*:*:*:*
 cpe:2.3:a:wut:com_port_redirector_plug_\&_play:*:*:*:*:*:*:*:*
 cpe:2.3:a:wut:opc_server:*:*:*:*:*:*:*:*
+cpe:2.3:a:wuxi_wubang_security_software:five-in-one_safety_production_management_information_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:wuxi_wubang_security_software:wubang_five-in-one_safety_production_management_information_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:wuzhi_cms_project:wuzhi_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:wuzhicms:wuzhi_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:wuzhicms:wuzhicms:*:*:*:*:*:*:*:*
@@ -78186,6 +78245,7 @@ cpe:2.3:a:zte:zxun-epdg:*:*:*:*:*:*:*:*
 cpe:2.3:a:ztml:ezportal_ztml_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:ztoken_project:ztoken:*:*:*:*:*:*:*:*
 cpe:2.3:a:ztree_project:ztree:*:*:*:*:*:*:*:*
+cpe:2.3:a:ztxz16:fastllm:*:*:*:*:*:*:*:*
 cpe:2.3:a:zucchetti:ad_hoc_infinity:*:*:*:*:*:*:*:*
 cpe:2.3:a:zucchetti:helpdeskadvanced:*:*:*:*:*:*:*:*
 cpe:2.3:a:zucchetti:hr_portal:*:*:*:*:*:*:*:*
@@ -89498,7 +89558,11 @@ cpe:2.3:h:d-link:dwr-932b:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dwr-933:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dwr-m920:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dwr-m921:*:*:*:*:*:*:*:*
+cpe:2.3:h:d-link:e15:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:ebr-2310_ethernet_broadband_router:*:*:*:*:*:*:*:*
+cpe:2.3:h:d-link:m32:*:*:*:*:*:*:*:*
+cpe:2.3:h:d-link:r15:*:*:*:*:*:*:*:*
+cpe:2.3:h:d-link:r32:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:r95:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:tm-g5240:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:wbr-1310_wireless_g_router:*:*:*:*:*:*:*:*
