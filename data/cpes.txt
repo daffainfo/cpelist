@@ -2105,6 +2105,7 @@ cpe:2.3:a:agentfront:\@frontmcp\/adapters:*:*:*:*:*:*:*:*
 cpe:2.3:a:agentfront:\@frontmcp\/sdk:*:*:*:*:*:*:*:*
 cpe:2.3:a:agentfront:enclave:*:*:*:*:*:*:*:*
 cpe:2.3:a:agentfront:frontmcp:*:*:*:*:*:*:*:*
+cpe:2.3:a:agentjido:req_llm:*:*:*:*:*:*:*:*
 cpe:2.3:a:agentpp:agent\+\+:*:*:*:*:*:*:*:*
 cpe:2.3:a:agentpp:agentx\+\+:*:*:*:*:*:*:*:*
 cpe:2.3:a:agentpp:snmp\+\+:*:*:*:*:*:*:*:*
@@ -13786,6 +13787,7 @@ cpe:2.3:a:codestag:stagtools:*:*:*:*:*:*:*:*
 cpe:2.3:a:codester:astrotalks:*:*:*:*:*:*:*:*
 cpe:2.3:a:codestyling_localization_project:codestyling_localization:*:*:*:*:*:*:*:*
 cpe:2.3:a:codesupply:absolute_reviews:*:*:*:*:*:*:*:*
+cpe:2.3:a:codesupply:powerkit:*:*:*:*:*:*:*:*
 cpe:2.3:a:codesupply:sight:*:*:*:*:*:*:*:*
 cpe:2.3:a:codesupply:squaretype:*:*:*:*:*:*:*:*
 cpe:2.3:a:codesupplyco:networker_technews_wordpress_theme_with_dark_mode:*:*:*:*:*:*:*:*
@@ -17163,6 +17165,7 @@ cpe:2.3:a:designwall:dw_question_\&_answer:*:*:*:*:*:*:*:*
 cpe:2.3:a:desiquintans:writers_block_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:desire2learn_fusion_2014_project:desire2learn_fusion_2014:*:*:*:*:*:*:*:*
 cpe:2.3:a:desiscripts:desi_short_url_script:*:*:*:*:*:*:*:*
+cpe:2.3:a:deskcomm:deskcommcrm:*:*:*:*:*:*:*:*
 cpe:2.3:a:deskfiler:deskfiler:*:*:*:*:*:*:*:*
 cpe:2.3:a:deskflow:deskflow:*:*:*:*:*:*:*:*
 cpe:2.3:a:desklance:desklance:*:*:*:*:*:*:*:*
@@ -17369,6 +17372,7 @@ cpe:2.3:a:dhcart:dhcart:*:*:*:*:*:*:*:*
 cpe:2.3:a:dhclient_project:dhclient:*:*:*:*:*:*:*:*
 cpe:2.3:a:dhcms_project:dhcms:*:*:*:*:*:*:*:*
 cpe:2.3:a:dhcpcd_project:dhcpcd:*:*:*:*:*:*:*:*
+cpe:2.3:a:dhikshitha29:insurance-management-system:*:*:*:*:*:*:*:*
 cpe:2.3:a:dhims:ahlta:*:*:*:*:*:*:*:*
 cpe:2.3:a:dhis2:dhis_2:*:*:*:*:*:*:*:*
 cpe:2.3:a:dhis_tools:dns_package:*:*:*:*:*:*:*:*
@@ -18617,6 +18621,7 @@ cpe:2.3:a:dst-admin_project:dst-admin:*:*:*:*:*:*:*:*
 cpe:2.3:a:dstar2018:agency:*:*:*:*:*:*:*:*
 cpe:2.3:a:dsub_for_subsonic_project:dsub_for_subsonic:*:*:*:*:*:*:*:*
 cpe:2.3:a:dswjcms_project:dswjcms:*:*:*:*:*:*:*:*
+cpe:2.3:a:dt42:berrynet:*:*:*:*:*:*:*:*
 cpe:2.3:a:dt_centrepiece:dt_centrepiece:*:*:*:*:*:*:*:*
 cpe:2.3:a:dt_guestbook:dt_guestbook:*:*:*:*:*:*:*:*
 cpe:2.3:a:dtabs_project:dtabs:*:*:*:*:*:*:*:*
@@ -18832,6 +18837,7 @@ cpe:2.3:a:e-dynamics:events_made_easy:*:*:*:*:*:*:*:*
 cpe:2.3:a:e-gads:e-gads:*:*:*:*:*:*:*:*
 cpe:2.3:a:e-goi:smart_marketing_sms_and_newsletters_forms:*:*:*:*:*:*:*:*
 cpe:2.3:a:e-gov:e-gov:*:*:*:*:*:*:*:*
+cpe:2.3:a:e-guardian:siteguard:*:*:*:*:*:*:*:*
 cpe:2.3:a:e-invoice_project:e-invoice:*:*:*:*:*:*:*:*
 cpe:2.3:a:e-isg:crystal_installer:*:*:*:*:*:*:*:*
 cpe:2.3:a:e-isg:visual_asset_manager:*:*:*:*:*:*:*:*
@@ -19600,6 +19606,7 @@ cpe:2.3:a:ekinboard:ekinboard:*:*:*:*:*:*:*:*
 cpe:2.3:a:ekith:com_dcs_flashgames:*:*:*:*:*:*:*:*
 cpe:2.3:a:ekkaia:pie_web:*:*:*:*:*:*:*:*
 cpe:2.3:a:ekke_doerre:mods_4_xoops_contenido_ez_publish:*:*:*:*:*:*:*:*
+cpe:2.3:a:ekkolearnai:ekko-studio:*:*:*:*:*:*:*:*
 cpe:2.3:a:ekoJR:Advanced_Post_List:*:*:*:*:*:*:*:*
 cpe:2.3:a:ekolbilisim:web_sablonu_yazilimi:*:*:*:*:*:*:*:*
 cpe:2.3:a:ekoopmans:html2pdf.js:*:*:*:*:*:*:*:*
@@ -19842,6 +19849,7 @@ cpe:2.3:a:elixir-mint:mint:*:*:*:*:*:*:*:*
 cpe:2.3:a:elixir-plug:plug.cowboy:*:*:*:*:*:*:*:*
 cpe:2.3:a:elixir-plug:plug:*:*:*:*:*:*:*:*
 cpe:2.3:a:elixir-plug:plug_cowboy:*:*:*:*:*:*:*:*
+cpe:2.3:a:elixir-plug:plug_crypto:*:*:*:*:*:*:*:*
 cpe:2.3:a:elixir-protobuf:protobuf:*:*:*:*:*:*:*:*
 cpe:2.3:a:elixir-tesla:tesla:*:*:*:*:*:*:*:*
 cpe:2.3:a:eliz_software:panel:*:*:*:*:*:*:*:*
@@ -22284,6 +22292,7 @@ cpe:2.3:a:fedoraproject:fedora_extra_packages_for_enterprise_linux:*:*:*:*:*:*:*
 cpe:2.3:a:fedoraproject:fedora_linux_kernel:*:*:*:*:*:*:*:*
 cpe:2.3:a:fedoraproject:mirrormanager:*:*:*:*:*:*:*:*
 cpe:2.3:a:fedoraproject:python-fedora:*:*:*:*:*:*:*:*
+cpe:2.3:a:fedoraproject:rpm_sequoia:*:*:*:*:*:*:*:*
 cpe:2.3:a:fedoraproject:sectool:*:*:*:*:*:*:*:*
 cpe:2.3:a:fedoraproject:selinux-policy:*:*:*:*:*:*:*:*
 cpe:2.3:a:fedoraproject:spin-kickstarts:*:*:*:*:*:*:*:*
@@ -22430,6 +22439,7 @@ cpe:2.3:a:fiksu:fiksu_library:*:*:*:*:*:*:*:*
 cpe:2.3:a:fil-ocl_project:fil-ocl:*:*:*:*:*:*:*:*
 cpe:2.3:a:filament:excel_export:*:*:*:*:*:*:*:*
 cpe:2.3:a:filamentphp:filament:*:*:*:*:*:*:*:*
+cpe:2.3:a:file-management-system:file-management-system:*:*:*:*:*:*:*:*
 cpe:2.3:a:file-transfer:file_transfer:*:*:*:*:*:*:*:*
 cpe:2.3:a:file-type_project:file-type:*:*:*:*:*:*:*:*
 cpe:2.3:a:file-upload-with-preview_project:file-upload-with-preview:*:*:*:*:*:*:*:*
@@ -22549,6 +22559,7 @@ cpe:2.3:a:finn:podium_layout:*:*:*:*:*:*:*:*
 cpe:2.3:a:finn:podium_proxy:*:*:*:*:*:*:*:*
 cpe:2.3:a:finos:gitproxy:*:*:*:*:*:*:*:*
 cpe:2.3:a:finrota:finrota:*:*:*:*:*:*:*:*
+cpe:2.3:a:finrota:netahsilat:*:*:*:*:*:*:*:*
 cpe:2.3:a:finto:langfuse:*:*:*:*:*:*:*:*
 cpe:2.3:a:finviz:stock_market_charts_from_finviz:*:*:*:*:*:*:*:*
 cpe:2.3:a:fiocoin_project:fiocoin:*:*:*:*:*:*:*:*
@@ -23475,6 +23486,7 @@ cpe:2.3:a:free-now:freenow:*:*:*:*:*:*:*:*
 cpe:2.3:a:free-sa:free-sa:*:*:*:*:*:*:*:*
 cpe:2.3:a:free5gc:amf:*:*:*:*:*:*:*:*
 cpe:2.3:a:free5gc:bsf:*:*:*:*:*:*:*:*
+cpe:2.3:a:free5gc:chf:*:*:*:*:*:*:*:*
 cpe:2.3:a:free5gc:free5gc:*:*:*:*:*:*:*:*
 cpe:2.3:a:free5gc:go-upf:*:*:*:*:*:*:*:*
 cpe:2.3:a:free5gc:nef:*:*:*:*:*:*:*:*
@@ -29985,7 +29997,6 @@ cpe:2.3:a:ibm:chatbot_with_ibm_watson:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:cics_transaction_gateway:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:cics_transaction_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:cics_tx:*:*:*:*:*:*:*:*
-cpe:2.3:a:ibm:cics_tx_advanced:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:classic_meeting_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:client_access:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:client_application_access:*:*:*:*:*:*:*:*
@@ -33840,6 +33851,7 @@ cpe:2.3:a:itsourcecode:placement_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:pool_of_bethesda_online_reservation_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:project_expense_monitoring_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:real_estate_management_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:itsourcecode:sales-and-inventory-system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:sales_and_inventory_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:school_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:simple_online_hotel_reservation_system:*:*:*:*:*:*:*:*
@@ -38450,6 +38462,7 @@ cpe:2.3:a:leocaseiro:custom_options_plus:*:*:*:*:*:*:*:*
 cpe:2.3:a:leoeditor:leo:*:*:*:*:*:*:*:*
 cpe:2.3:a:leogermani:tainacan:*:*:*:*:*:*:*:*
 cpe:2.3:a:leokhoa:laragon:*:*:*:*:*:*:*:*
+cpe:2.3:a:leomoon-studios:wiki-go:*:*:*:*:*:*:*:*
 cpe:2.3:a:leon_j_breedt:pam-pgsql:*:*:*:*:*:*:*:*
 cpe:2.3:a:leon_weber:pyxtrlock:*:*:*:*:*:*:*:*
 cpe:2.3:a:leonard_richardson:newsbruiser:*:*:*:*:*:*:*:*
@@ -39135,18 +39148,30 @@ cpe:2.3:a:linuxfoundation:argo_continuous_delivery:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:auth_backend:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:automotive_grade_linux:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:backstage:*:*:*:*:*:*:*:*
+cpe:2.3:a:linuxfoundation:backstage\/backend-defaults:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:backstage\/backend_defaults:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:backstage\/integration:*:*:*:*:*:*:*:*
+cpe:2.3:a:linuxfoundation:backstage\/plugin-auth-backend-module-oidc-provider:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:backstage\/plugin-auth-backend:*:*:*:*:*:*:*:*
+cpe:2.3:a:linuxfoundation:backstage\/plugin-catalog-backend-module-aws:*:*:*:*:*:*:*:*
+cpe:2.3:a:linuxfoundation:backstage\/plugin-catalog-backend-module-azure:*:*:*:*:*:*:*:*
+cpe:2.3:a:linuxfoundation:backstage\/plugin-catalog-backend-module-gitlab:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:backstage\/plugin-catalog-backend-module-unprocessed:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:backstage\/plugin-catalog-unprocessed-entities-common:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:backstage\/plugin-catalog-unprocessed-entities:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:backstage\/plugin-kubernetes-backend:*:*:*:*:*:*:*:*
+cpe:2.3:a:linuxfoundation:backstage\/plugin-proxy-backend:*:*:*:*:*:*:*:*
+cpe:2.3:a:linuxfoundation:backstage\/plugin-scaffolder-backend-module-azure:*:*:*:*:*:*:*:*
+cpe:2.3:a:linuxfoundation:backstage\/plugin-scaffolder-backend-module-bitbucket-cloud:*:*:*:*:*:*:*:*
+cpe:2.3:a:linuxfoundation:backstage\/plugin-scaffolder-backend-module-bitbucket-server:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:backstage\/plugin-scaffolder-backend-module-confluence-to-markdown:*:*:*:*:*:*:*:*
+cpe:2.3:a:linuxfoundation:backstage\/plugin-scaffolder-backend-module-github:*:*:*:*:*:*:*:*
+cpe:2.3:a:linuxfoundation:backstage\/plugin-scaffolder-backend-module-gitlab:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:backstage\/plugin-scaffolder-backend-module-sentry:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:backstage\/plugin-scaffolder-backend:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:backstage\/plugin-search-backend-module-elasticsearch:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:backstage\/plugin-search-backend:*:*:*:*:*:*:*:*
+cpe:2.3:a:linuxfoundation:backstage\/plugin-techdocs-backend:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:backstage_backend-common:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:backstage_catalog-model:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:backstage_core-components:*:*:*:*:*:*:*:*
@@ -40001,6 +40026,7 @@ cpe:2.3:a:lycorp:line_mini_app:*:*:*:*:*:*:*:*
 cpe:2.3:a:lycos:fileuploader.dll:*:*:*:*:*:*:*:*
 cpe:2.3:a:lycos:htmlgear_guestgear:*:*:*:*:*:*:*:*
 cpe:2.3:a:lyesoft:andexplorer:*:*:*:*:*:*:*:*
+cpe:2.3:a:lyft:freenow:*:*:*:*:*:*:*:*
 cpe:2.3:a:lyften:com_lyftenbloggie:*:*:*:*:*:*:*:*
 cpe:2.3:a:lykoszine:lykos_reviews_module:*:*:*:*:*:*:*:*
 cpe:2.3:a:lylme:lylme_spage:*:*:*:*:*:*:*:*
@@ -40015,6 +40041,7 @@ cpe:2.3:a:lynxspring:jenesys_bas_bridge:*:*:*:*:*:*:*:*
 cpe:2.3:a:lynxtechnology:twonky_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:lyonbros:turtl:*:*:*:*:*:*:*:*
 cpe:2.3:a:lyrasis:dspace:*:*:*:*:*:*:*:*
+cpe:2.3:a:lyrasis:fcrepo:*:*:*:*:*:*:*:*
 cpe:2.3:a:lyricvideocreator:lyric_video_creator:*:*:*:*:*:*:*:*
 cpe:2.3:a:lyrion:lyrion_music_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:lyris:list_manager:*:*:*:*:*:*:*:*
@@ -40147,6 +40174,7 @@ cpe:2.3:a:maddy_project:maddy:*:*:*:*:*:*:*:*
 cpe:2.3:a:madebytribe:caddy:*:*:*:*:*:*:*:*
 cpe:2.3:a:madefornet:http_debugger:*:*:*:*:*:*:*:*
 cpe:2.3:a:madeit:forms:*:*:*:*:*:*:*:*
+cpe:2.3:a:madelineproto:madelineproto:*:*:*:*:*:*:*:*
 cpe:2.3:a:madeofcode:omniauth-facebook:*:*:*:*:*:*:*:*
 cpe:2.3:a:madeportable:playable:*:*:*:*:*:*:*:*
 cpe:2.3:a:madewithfuel:better_notifications_for_wp:*:*:*:*:*:*:*:*
@@ -44365,6 +44393,7 @@ cpe:2.3:a:momentumprotocol:momentumtoken:*:*:*:*:*:*:*:*
 cpe:2.3:a:momizat:goodnews:*:*:*:*:*:*:*:*
 cpe:2.3:a:mommyheather:advanced_backups:*:*:*:*:*:*:*:*
 cpe:2.3:a:momo_project:momo:*:*:*:*:*:*:*:*
+cpe:2.3:a:momotommy:file-management-system:*:*:*:*:*:*:*:*
 cpe:2.3:a:mon_project:mon:*:*:*:*:*:*:*:*
 cpe:2.3:a:monai:medical_open_network_for_ai:*:*:*:*:*:*:*:*
 cpe:2.3:a:monal:monal:*:*:*:*:*:*:*:*
@@ -45743,6 +45772,7 @@ cpe:2.3:a:navision:financials_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:naviwebs:navigate_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:naviwebs:navigatecms:*:*:*:*:*:*:*:*
 cpe:2.3:a:navneil_naicer:bootscraper:*:*:*:*:*:*:*:*
+cpe:2.3:a:navtor:navbox:*:*:*:*:*:*:*:*
 cpe:2.3:a:navyism:n_at_board:*:*:*:*:*:*:*:*
 cpe:2.3:a:navz:acf_photo_gallery_field:*:*:*:*:*:*:*:*
 cpe:2.3:a:naxsi_project:naxsi:*:*:*:*:*:*:*:*
@@ -51141,6 +51171,7 @@ cpe:2.3:a:oretnom23:event_registration_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:oretnom23:expense_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:oretnom23:expense_tracker:*:*:*:*:*:*:*:*
 cpe:2.3:a:oretnom23:facebook_news_feed_like:*:*:*:*:*:*:*:*
+cpe:2.3:a:oretnom23:file-management-system-php:*:*:*:*:*:*:*:*
 cpe:2.3:a:oretnom23:food_ordering_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:oretnom23:gym_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:oretnom23:hospitals_patient_records_management_system:*:*:*:*:*:*:*:*
@@ -51180,6 +51211,7 @@ cpe:2.3:a:oretnom23:online_veterinary_appointment_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:oretnom23:packers_and_movers_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:oretnom23:payroll_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:oretnom23:pharmacy_point_of_sale_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:oretnom23:php-travel-agency-system:*:*:*:*:*:*:*:*
 cpe:2.3:a:oretnom23:pos_-_point_of_sale_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:oretnom23:product_show_room_site:*:*:*:*:*:*:*:*
 cpe:2.3:a:oretnom23:purchase_order_management_system:*:*:*:*:*:*:*:*
@@ -56766,6 +56798,7 @@ cpe:2.3:a:r2newsletter:r2_newsletter_pro:*:*:*:*:*:*:*:*
 cpe:2.3:a:r2newsletter:r2_newsletter_stats:*:*:*:*:*:*:*:*
 cpe:2.3:a:r2xdesign:qlitenews:*:*:*:*:*:*:*:*
 cpe:2.3:a:r3:corda:*:*:*:*:*:*:*:*
+cpe:2.3:a:r6410418:jackrong-llm-finetuning-guide:*:*:*:*:*:*:*:*
 cpe:2.3:a:r74n:sandboxels:*:*:*:*:*:*:*:*
 cpe:2.3:a:r_foundation:r:*:*:*:*:*:*:*:*
 cpe:2.3:a:r_project:r:*:*:*:*:*:*:*:*
@@ -64751,6 +64784,7 @@ cpe:2.3:a:sourcecodester:event_registration_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:faq_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:file_management_app:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:flashcard_quiz_app:*:*:*:*:*:*:*:*
+cpe:2.3:a:sourcecodester:food_order_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:food_ordering_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:garbage_collection_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:gas_agency_management_system:*:*:*:*:*:*:*:*
@@ -68152,6 +68186,7 @@ cpe:2.3:a:tenon:itools:*:*:*:*:*:*:*:*
 cpe:2.3:a:tensorflow:tensorflow:*:*:*:*:*:*:*:*
 cpe:2.3:a:tensorlayer:tensorlayer:*:*:*:*:*:*:*:*
 cpe:2.3:a:tensoropera:fedml:*:*:*:*:*:*:*:*
+cpe:2.3:a:tenstorrent:tt-metal:*:*:*:*:*:*:*:*
 cpe:2.3:a:tenyearsgone:asp_folder_gallery:*:*:*:*:*:*:*:*
 cpe:2.3:a:teomantuncer:node_email_check:*:*:*:*:*:*:*:*
 cpe:2.3:a:teosoft_software:teobase:*:*:*:*:*:*:*:*
@@ -89296,6 +89331,7 @@ cpe:2.3:h:d-link:dcs-5605_ptz_ip_network_camera:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dcs-5615:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dcs-6010l:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dcs-6212l:*:*:*:*:*:*:*:*
+cpe:2.3:h:d-link:dcs-6501lh:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dcs-7000l:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dcs-7010l:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dcs-8000lh:*:*:*:*:*:*:*:*
@@ -89332,6 +89368,7 @@ cpe:2.3:h:d-link:dgs-1500-28:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dgs-1500-52:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dgs-1500:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dhp-1565:*:*:*:*:*:*:*:*
+cpe:2.3:h:d-link:dhp-w610av:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:di-524:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:di-524up:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:di-604:*:*:*:*:*:*:*:*
@@ -96783,6 +96820,7 @@ cpe:2.3:h:hardy-barth:cph2_echarge:*:*:*:*:*:*:*:*
 cpe:2.3:h:harman:amx_mvp5150:*:*:*:*:*:*:*:*
 cpe:2.3:h:harmonicinc:nsg_9000-6g:*:*:*:*:*:*:*:*
 cpe:2.3:h:harmonicinc:nsg_9000:*:*:*:*:*:*:*:*
+cpe:2.3:h:harnessrouter:harnessrouter:*:*:*:*:*:*:*:*
 cpe:2.3:h:harris:bgan:*:*:*:*:*:*:*:*
 cpe:2.3:h:hathway:skyworth_cm5100-511:*:*:*:*:*:*:*:*
 cpe:2.3:h:hawking_technology:har11a_dsl_router:*:*:*:*:*:*:*:*
@@ -138783,6 +138821,7 @@ cpe:2.3:h:tenda:ax2_pro:*:*:*:*:*:*:*:*
 cpe:2.3:h:tenda:ax3:*:*:*:*:*:*:*:*
 cpe:2.3:h:tenda:ax9:*:*:*:*:*:*:*:*
 cpe:2.3:h:tenda:be12_pro:*:*:*:*:*:*:*:*
+cpe:2.3:h:tenda:be3l_pro:*:*:*:*:*:*:*:*
 cpe:2.3:h:tenda:ch10:*:*:*:*:*:*:*:*
 cpe:2.3:h:tenda:ch22:*:*:*:*:*:*:*:*
 cpe:2.3:h:tenda:ch7:*:*:*:*:*:*:*:*
