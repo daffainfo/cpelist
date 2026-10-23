@@ -57614,6 +57614,7 @@ cpe:2.3:a:redhat:codeready_linux_builder_for_eus:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:codeready_linux_builder_for_ibm_z_systems:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:codeready_linux_builder_for_ibm_z_systems_eus:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:codeready_linux_builder_for_power_little_endian:*:*:*:*:*:*:*:*
+cpe:2.3:a:redhat:codeready_linux_builder_for_power_little_endian_els:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:codeready_linux_builder_for_power_little_endian_eus:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:codeready_linux_builder_for_x86_64:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:codeready_linux_builder_for_x86_64_eus:*:*:*:*:*:*:*:*
@@ -126429,8 +126430,10 @@ cpe:2.3:h:paloaltonetworks:pa-800:*:*:*:*:*:*:*:*
 cpe:2.3:h:paloaltonetworks:pa-820:*:*:*:*:*:*:*:*
 cpe:2.3:h:paloaltonetworks:pa-850:*:*:*:*:*:*:*:*
 cpe:2.3:h:paloaltonetworks:panorama_m-200:*:*:*:*:*:*:*:*
+cpe:2.3:h:paloaltonetworks:panorama_m-300:*:*:*:*:*:*:*:*
 cpe:2.3:h:paloaltonetworks:panorama_m-500:*:*:*:*:*:*:*:*
 cpe:2.3:h:paloaltonetworks:panorama_m-600:*:*:*:*:*:*:*:*
+cpe:2.3:h:paloaltonetworks:panorama_m-700:*:*:*:*:*:*:*:*
 cpe:2.3:h:paloaltonetworks:vm-1000-hv:*:*:*:*:*:*:*:*
 cpe:2.3:h:paloaltonetworks:vm-100:*:*:*:*:*:*:*:*
 cpe:2.3:h:paloaltonetworks:vm-200:*:*:*:*:*:*:*:*
