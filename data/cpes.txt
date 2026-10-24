@@ -33114,6 +33114,7 @@ cpe:2.3:a:internic:whois_lookup:*:*:*:*:*:*:*:*
 cpe:2.3:a:internlm:lmdeploy:*:*:*:*:*:*:*:*
 cpe:2.3:a:internlm:mindsearch:*:*:*:*:*:*:*:*
 cpe:2.3:a:internment_project:internment:*:*:*:*:*:*:*:*
+cpe:2.3:a:internscience:internagent:*:*:*:*:*:*:*:*
 cpe:2.3:a:internship_portal_management_system_project:internship_portal_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:internshipsystem_project:internshipsystem:*:*:*:*:*:*:*:*
 cpe:2.3:a:interquest_internet_services:realty_pro_one:*:*:*:*:*:*:*:*
