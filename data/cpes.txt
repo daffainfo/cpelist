@@ -71038,6 +71038,7 @@ cpe:2.3:a:ubiquiti:unifi_connect_ev_station:*:*:*:*:*:*:*:*
 cpe:2.3:a:ubiquiti:unifi_connect_ev_station_pro:*:*:*:*:*:*:*:*
 cpe:2.3:a:ubiquiti:unifi_network_application:*:*:*:*:*:*:*:*
 cpe:2.3:a:ubiquiti:unifi_os:*:*:*:*:*:*:*:*
+cpe:2.3:a:ubiquitouslearning:mllm:*:*:*:*:*:*:*:*
 cpe:2.3:a:ubiquity_slideshow_team:ubiquity-slideshow-ubuntu:*:*:*:*:*:*:*:*
 cpe:2.3:a:ubisoft:uplay:*:*:*:*:*:*:*:*
 cpe:2.3:a:ubit:student_information_management_system:*:*:*:*:*:*:*:*
@@ -138844,6 +138845,7 @@ cpe:2.3:h:tenda:f3:*:*:*:*:*:*:*:*
 cpe:2.3:h:tenda:f451:*:*:*:*:*:*:*:*
 cpe:2.3:h:tenda:f453:*:*:*:*:*:*:*:*
 cpe:2.3:h:tenda:f456:*:*:*:*:*:*:*:*
+cpe:2.3:h:tenda:f6:*:*:*:*:*:*:*:*
 cpe:2.3:h:tenda:fh1201:*:*:*:*:*:*:*:*
 cpe:2.3:h:tenda:fh1202:*:*:*:*:*:*:*:*
 cpe:2.3:h:tenda:fh1203:*:*:*:*:*:*:*:*
