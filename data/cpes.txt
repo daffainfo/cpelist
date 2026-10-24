@@ -36639,6 +36639,7 @@ cpe:2.3:a:kajona:kajona:*:*:*:*:*:*:*:*
 cpe:2.3:a:kajoom:kjm_admin_notices:*:*:*:*:*:*:*:*
 cpe:2.3:a:kakadusoftware:kakadu_sdk:*:*:*:*:*:*:*:*
 cpe:2.3:a:kakadusoftware:kakadu_software:*:*:*:*:*:*:*:*
+cpe:2.3:a:kakao:khaiii:*:*:*:*:*:*:*:*
 cpe:2.3:a:kakaocorp:kakaotalk:*:*:*:*:*:*:*:*
 cpe:2.3:a:kakaocorp:potplayer:*:*:*:*:*:*:*:*
 cpe:2.3:a:kalahari:kalahari.com_shopping:*:*:*:*:*:*:*:*
