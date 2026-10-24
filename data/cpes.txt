@@ -22217,6 +22217,7 @@ cpe:2.3:a:fauzantrif_election_project:fauzantrif_election:*:*:*:*:*:*:*:*
 cpe:2.3:a:fava_project:fava:*:*:*:*:*:*:*:*
 cpe:2.3:a:faveo:helpdesk:*:*:*:*:*:*:*:*
 cpe:2.3:a:faveohelpdesk:faveo:*:*:*:*:*:*:*:*
+cpe:2.3:a:faveosuite:faveo_helpdesk:*:*:*:*:*:*:*:*
 cpe:2.3:a:favethemes:homey:*:*:*:*:*:*:*:*
 cpe:2.3:a:favethemes:houzez:*:*:*:*:*:*:*:*
 cpe:2.3:a:favicon-switcher_project:favicon-switcher:*:*:*:*:*:*:*:*
@@ -70106,6 +70107,7 @@ cpe:2.3:a:travelzeditoken_project:travelzeditoken:*:*:*:*:*:*:*:*
 cpe:2.3:a:travianz_project:travianz:*:*:*:*:*:*:*:*
 cpe:2.3:a:travis-ci:travis_ci:*:*:*:*:*:*:*:*
 cpe:2.3:a:travis_shirk:eyed3:*:*:*:*:*:*:*:*
+cpe:2.3:a:travisun:opptrix:*:*:*:*:*:*:*:*
 cpe:2.3:a:trawler:trawler_web_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:traza:aurora:*:*:*:*:*:*:*:*
 cpe:2.3:a:trcore:dvc:*:*:*:*:*:*:*:*
