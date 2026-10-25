@@ -106,6 +106,7 @@ cpe:2.3:a:1800contacts:1800contacts_app:*:*:*:*:*:*:*:*
 cpe:2.3:a:180solutions:zango:*:*:*:*:*:*:*:*
 cpe:2.3:a:1902756969:ikun_library:*:*:*:*:*:*:*:*
 cpe:2.3:a:1902756969:reggie:*:*:*:*:*:*:*:*
+cpe:2.3:a:1999azzar:designer-mcp:*:*:*:*:*:*:*:*
 cpe:2.3:a:1app:1app_business_forms:*:*:*:*:*:*:*:*
 cpe:2.3:a:1byte:copy9:*:*:*:*:*:*:*:*
 cpe:2.3:a:1byte:exactspy:*:*:*:*:*:*:*:*
@@ -21076,6 +21077,7 @@ cpe:2.3:a:event_management_system_project:event_management_system:*:*:*:*:*:*:*:
 cpe:2.3:a:event_notifier_project:event_notifier:*:*:*:*:*:*:*:*
 cpe:2.3:a:event_registration_application_project:event_registration_application:*:*:*:*:*:*:*:*
 cpe:2.3:a:event_registration_system_project:event_registration_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:eventcatalog:sdk:*:*:*:*:*:*:*:*
 cpe:2.3:a:eventespresso:event_espresso:*:*:*:*:*:*:*:*
 cpe:2.3:a:eventespresso:event_espresso_4_decaf:*:*:*:*:*:*:*:*
 cpe:2.3:a:eventespresso:event_espresso_lite:*:*:*:*:*:*:*:*
@@ -37691,6 +37693,7 @@ cpe:2.3:a:kronos:web_time_and_attendance:*:*:*:*:*:*:*:*
 cpe:2.3:a:krontech:single_connect:*:*:*:*:*:*:*:*
 cpe:2.3:a:krpano:krpano:*:*:*:*:*:*:*:*
 cpe:2.3:a:krstarica:forum_krstarice:*:*:*:*:*:*:*:*
+cpe:2.3:a:krupalshah:employee_recruitment_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:krupalshah:employeerecruitmentsystem:*:*:*:*:*:*:*:*
 cpe:2.3:a:krusader:krusader:*:*:*:*:*:*:*:*
 cpe:2.3:a:krylack:archive_password_recovery:*:*:*:*:*:*:*:*
@@ -55328,6 +55331,7 @@ cpe:2.3:a:privateoctopus:picoquic:*:*:*:*:*:*:*:*
 cpe:2.3:a:privatetunnel:privatetunnel:*:*:*:*:*:*:*:*
 cpe:2.3:a:privatevpn:privatevpn:*:*:*:*:*:*:*:*
 cpe:2.3:a:privawall:privawall_antivirus:*:*:*:*:*:*:*:*
+cpe:2.3:a:privoce:vocechat:*:*:*:*:*:*:*:*
 cpe:2.3:a:privoce:vocechat_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:privoxy:privoxy:*:*:*:*:*:*:*:*
 cpe:2.3:a:privx:privx:*:*:*:*:*:*:*:*
