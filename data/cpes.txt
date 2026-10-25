@@ -40701,6 +40701,7 @@ cpe:2.3:a:manidoraisamy:formfacade:*:*:*:*:*:*:*:*
 cpe:2.3:a:manjurulhoque:django-job-portal:*:*:*:*:*:*:*:*
 cpe:2.3:a:mannaandpoem:openmanus:*:*:*:*:*:*:*:*
 cpe:2.3:a:manoj_srivastava:dist:*:*:*:*:*:*:*:*
+cpe:2.3:a:mansi-k:restaurant_ims:*:*:*:*:*:*:*:*
 cpe:2.3:a:mansion_productions:member_area_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:mansurahamed:chatbot_support_ai:*:*:*:*:*:*:*:*
 cpe:2.3:a:mansurahamed:woocommerce_quote_calculator:*:*:*:*:*:*:*:*
@@ -78323,6 +78324,7 @@ cpe:2.3:a:zxid:zxid:*:*:*:*:*:*:*:*
 cpe:2.3:a:zyantific:zydis:*:*:*:*:*:*:*:*
 cpe:2.3:a:zykzhangyukang:xinguan:*:*:*:*:*:*:*:*
 cpe:2.3:a:zylon-ai:private-gpt:*:*:*:*:*:*:*:*
+cpe:2.3:a:zylon:privategpt:*:*:*:*:*:*:*:*
 cpe:2.3:a:zynit:seo_tools:*:*:*:*:*:*:*:*
 cpe:2.3:a:zynith:zynith:*:*:*:*:*:*:*:*
 cpe:2.3:a:zyrex:popup:*:*:*:*:*:*:*:*
