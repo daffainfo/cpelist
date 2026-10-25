@@ -39077,6 +39077,7 @@ cpe:2.3:a:linksoftwarellc:html_forms:*:*:*:*:*:*:*:*
 cpe:2.3:a:linksoftwarellc:white_label:*:*:*:*:*:*:*:*
 cpe:2.3:a:linksoftwarellc:wp_terms_popup:*:*:*:*:*:*:*:*
 cpe:2.3:a:linkstack:linkstack:*:*:*:*:*:*:*:*
+cpe:2.3:a:linkstackorg:linkstack:*:*:*:*:*:*:*:*
 cpe:2.3:a:linksys:e5600_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:a:linksys:ea7500:*:*:*:*:*:*:*:*
 cpe:2.3:a:linksys:spa-2102_phone_adapter:*:*:*:*:*:*:*:*
