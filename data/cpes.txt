@@ -2600,6 +2600,7 @@ cpe:2.3:a:alfasado:powercms:*:*:*:*:*:*:*:*
 cpe:2.3:a:alfio-event:alf.io:*:*:*:*:*:*:*:*
 cpe:2.3:a:alfred-spotify-mini-player:alfred_spotify_mini_player:*:*:*:*:*:*:*:*
 cpe:2.3:a:alfred24_click_\&_collect_project:alfred24_click_\&_collect:*:*:*:*:*:*:*:*
+cpe:2.3:a:alfresco:activiti:*:*:*:*:*:*:*:*
 cpe:2.3:a:alfresco:alfresco:*:*:*:*:*:*:*:*
 cpe:2.3:a:alfresco:alfresco_content_services:*:*:*:*:*:*:*:*
 cpe:2.3:a:alfresco:alfresco_transform_services:*:*:*:*:*:*:*:*
