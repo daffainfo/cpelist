@@ -62127,6 +62127,7 @@ cpe:2.3:a:sgqserve_project:sgqserve:*:*:*:*:*:*:*:*
 cpe:2.3:a:sgx_tstd_project:sgx_tstd:*:*:*:*:*:*:*:*
 cpe:2.3:a:sh-news:sh-news:*:*:*:*:*:*:*:*
 cpe:2.3:a:sh39:mailserver:*:*:*:*:*:*:*:*
+cpe:2.3:a:sh3:sh3:*:*:*:*:*:*:*:*
 cpe:2.3:a:sha256crypt_project:sha256crypt:*:*:*:*:*:*:*:*
 cpe:2.3:a:sha2_project:sha2:*:*:*:*:*:*:*:*
 cpe:2.3:a:sha3_project:sha3:*:*:*:*:*:*:*:*
