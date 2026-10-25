@@ -71564,6 +71564,7 @@ cpe:2.3:a:unitedthemes:brooklyn:*:*:*:*:*:*:*:*
 cpe:2.3:a:unitedthemes:brooklyn_creativie_multi_purpose_responsive_wordpress_theme:*:*:*:*:*:*:*:*
 cpe:2.3:a:unitedthemes:shortcodes:*:*:*:*:*:*:*:*
 cpe:2.3:a:unitegallery:unite_gallery_lite:*:*:*:*:*:*:*:*
+cpe:2.3:a:unitree_robotics:unitree_go2:*:*:*:*:*:*:*:*
 cpe:2.3:a:unitrends:backup:*:*:*:*:*:*:*:*
 cpe:2.3:a:unitrends:enterprise_backup:*:*:*:*:*:*:*:*
 cpe:2.3:a:unitronics:unilogic:*:*:*:*:*:*:*:*
