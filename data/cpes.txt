@@ -63952,6 +63952,7 @@ cpe:2.3:a:smeego:smeego:*:*:*:*:*:*:*:*
 cpe:2.3:a:smerriman:login_logger:*:*:*:*:*:*:*:*
 cpe:2.3:a:smeup:erp:*:*:*:*:*:*:*:*
 cpe:2.3:a:smeweb:smeweb:*:*:*:*:*:*:*:*
+cpe:2.3:a:smg-project:smg:*:*:*:*:*:*:*:*
 cpe:2.3:a:smg-webdesign:shortcode_for_font_awesome:*:*:*:*:*:*:*:*
 cpe:2.3:a:smidgeonsoft:pebrowse:*:*:*:*:*:*:*:*
 cpe:2.3:a:smihica:pyminizip:*:*:*:*:*:*:*:*
