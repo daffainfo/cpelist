@@ -2724,6 +2724,7 @@ cpe:2.3:a:allegro:rom_pager:*:*:*:*:*:*:*:*
 cpe:2.3:a:allegro_ai:clearml:*:*:*:*:*:*:*:*
 cpe:2.3:a:allegrosoft:rompager:*:*:*:*:*:*:*:*
 cpe:2.3:a:allen_disk_project:allen_disk:*:*:*:*:*:*:*:*
+cpe:2.3:a:allenai:allennlp:*:*:*:*:*:*:*:*
 cpe:2.3:a:allendisk_project:allendisk:*:*:*:*:*:*:*:*
 cpe:2.3:a:allenthusiast:reviewpost_php_pro:*:*:*:*:*:*:*:*
 cpe:2.3:a:allgeier:metasonic_doc_webclient:*:*:*:*:*:*:*:*
@@ -26985,6 +26986,7 @@ cpe:2.3:a:hasanmovahed:duplicate_title_validate:*:*:*:*:*:*:*:*
 cpe:2.3:a:hasb_e_haal_project:hasb_e_haal:*:*:*:*:*:*:*:*
 cpe:2.3:a:hasbani_web_server:hasbani_web_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:haschek:pictshare:*:*:*:*:*:*:*:*
+cpe:2.3:a:hascheksolutions:pictshare:*:*:*:*:*:*:*:*
 cpe:2.3:a:haserl_project:haserl:*:*:*:*:*:*:*:*
 cpe:2.3:a:hashbrowncms:hashbrown_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:hashcash:hashcash:*:*:*:*:*:*:*:*
@@ -36689,6 +36691,7 @@ cpe:2.3:a:kamalkhan:kk_star_ratings:*:*:*:*:*:*:*:*
 cpe:2.3:a:kame:ipcomp:*:*:*:*:*:*:*:*
 cpe:2.3:a:kame:kame:*:*:*:*:*:*:*:*
 cpe:2.3:a:kame:racoon:*:*:*:*:*:*:*:*
+cpe:2.3:a:kameleo:kameleo:*:*:*:*:*:*:*:*
 cpe:2.3:a:kaminari_project:kaminari:*:*:*:*:*:*:*:*
 cpe:2.3:a:kamivision:yi_iot:*:*:*:*:*:*:*:*
 cpe:2.3:a:kamkomesan_project:kamkomesan:*:*:*:*:*:*:*:*
@@ -40838,6 +40841,7 @@ cpe:2.3:a:marconi:forethought:*:*:*:*:*:*:*:*
 cpe:2.3:a:marcopiovanello:yt-dlp-web-ui:*:*:*:*:*:*:*:*
 cpe:2.3:a:marcorulicke:coru_lfmember:*:*:*:*:*:*:*:*
 cpe:2.3:a:marcos_luiz_onisto:lib_cgi:*:*:*:*:*:*:*:*
+cpe:2.3:a:marcoscamara01:ecommerce-template:*:*:*:*:*:*:*:*
 cpe:2.3:a:marcosteinbrecher:wp_browserupdate:*:*:*:*:*:*:*:*
 cpe:2.3:a:marcus_krause:t3sec_saltedpw:*:*:*:*:*:*:*:*
 cpe:2.3:a:marcus_s._xenakis:directory.php:*:*:*:*:*:*:*:*
