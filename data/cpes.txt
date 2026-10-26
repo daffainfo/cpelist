@@ -208,6 +208,7 @@ cpe:2.3:a:2g_live_tv_project:2g_live_tv:*:*:*:*:*:*:*:*
 cpe:2.3:a:2glux:com_sexypolling:*:*:*:*:*:*:*:*
 cpe:2.3:a:2inc:snow_monkey_forms:*:*:*:*:*:*:*:*
 cpe:2.3:a:2joomla:2j_slideshow:*:*:*:*:*:*:*:*
+cpe:2.3:a:2k_games:civilization_v:*:*:*:*:*:*:*:*
 cpe:2.3:a:2kblater:2kb_amazon_affiliates_store:*:*:*:*:*:*:*:*
 cpe:2.3:a:2kgames:vietcong_2:*:*:*:*:*:*:*:*
 cpe:2.3:a:2moons_project:2moons:*:*:*:*:*:*:*:*
@@ -13079,6 +13080,7 @@ cpe:2.3:a:cloudberrylab:backup:*:*:*:*:*:*:*:*
 cpe:2.3:a:cloudburstmc:network:*:*:*:*:*:*:*:*
 cpe:2.3:a:cloudcannon:pagefind:*:*:*:*:*:*:*:*
 cpe:2.3:a:cloudcharge:cloudcharge.se:*:*:*:*:*:*:*:*
+cpe:2.3:a:cloudclassroom-php-project:cloudclassroom-php-project:*:*:*:*:*:*:*:*
 cpe:2.3:a:cloudcli:cloud_cli:*:*:*:*:*:*:*:*
 cpe:2.3:a:cloudcti:hip_integrator_recognition_configuration_tool:*:*:*:*:*:*:*:*
 cpe:2.3:a:cloudera:cdh:*:*:*:*:*:*:*:*
@@ -16058,6 +16060,7 @@ cpe:2.3:a:dataease_project:dataease:*:*:*:*:*:*:*:*
 cpe:2.3:a:datafeed_studio:datafeed_studio:*:*:*:*:*:*:*:*
 cpe:2.3:a:datafeedfile:dff_framework_api:*:*:*:*:*:*:*:*
 cpe:2.3:a:datafeedr:ads_by_datafeedr.com:*:*:*:*:*:*:*:*
+cpe:2.3:a:datafeedr:product_sets_plugin:*:*:*:*:*:*:*:*
 cpe:2.3:a:datafeedr:woocommerce_cloak_affiliate_links:*:*:*:*:*:*:*:*
 cpe:2.3:a:dataflowx:datadiodex:*:*:*:*:*:*:*:*
 cpe:2.3:a:datagear:datagear:*:*:*:*:*:*:*:*
@@ -24033,6 +24036,7 @@ cpe:2.3:a:fusetalk:fusetalk:*:*:*:*:*:*:*:*
 cpe:2.3:a:fuseware:fusemail:*:*:*:*:*:*:*:*
 cpe:2.3:a:fusion:sbx:*:*:*:*:*:*:*:*
 cpe:2.3:a:fusion_builder_project:fusion_builder:*:*:*:*:*:*:*:*
+cpe:2.3:a:fusion_creators_studio:scp_containment_breach_multiplayer:*:*:*:*:*:*:*:*
 cpe:2.3:a:fusion_news:fusion_news:*:*:*:*:*:*:*:*
 cpe:2.3:a:fusionauth:fusionauth:*:*:*:*:*:*:*:*
 cpe:2.3:a:fusionauth:saml_v2:*:*:*:*:*:*:*:*
@@ -24950,6 +24954,7 @@ cpe:2.3:a:gianni-porto:intothedark:*:*:*:*:*:*:*:*
 cpe:2.3:a:gianni_tedesco:fwmon:*:*:*:*:*:*:*:*
 cpe:2.3:a:gianni_tommasi:kr-php_web_content_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:giannopouloskostas:wpsoononlinepage:*:*:*:*:*:*:*:*
+cpe:2.3:a:giantappman:livewallpaper:*:*:*:*:*:*:*:*
 cpe:2.3:a:giantrobot:zipcart:*:*:*:*:*:*:*:*
 cpe:2.3:a:gibb-modul-151_project:gibb-modul-151:*:*:*:*:*:*:*:*
 cpe:2.3:a:gibbon:core:*:*:*:*:*:*:*:*
@@ -27485,6 +27490,7 @@ cpe:2.3:a:hexpm:hex_core:*:*:*:*:*:*:*:*
 cpe:2.3:a:hexpm:hexpm:*:*:*:*:*:*:*:*
 cpe:2.3:a:hey_project:hey:*:*:*:*:*:*:*:*
 cpe:2.3:a:heybbs_project:heybbs:*:*:*:*:*:*:*:*
+cpe:2.3:a:heycyan_app:heycyan_app:*:*:*:*:*:*:*:*
 cpe:2.3:a:heyewei:jfinalcms:*:*:*:*:*:*:*:*
 cpe:2.3:a:heyewei:springbootcms:*:*:*:*:*:*:*:*
 cpe:2.3:a:heysoft:eventsave:*:*:*:*:*:*:*:*
@@ -56539,6 +56545,7 @@ cpe:2.3:a:qualys:qualyssuite:*:*:*:*:*:*:*:*
 cpe:2.3:a:qualys:web_application_screening:*:*:*:*:*:*:*:*
 cpe:2.3:a:quantatw:qoca_aim:*:*:*:*:*:*:*:*
 cpe:2.3:a:quantconnect:lean:*:*:*:*:*:*:*:*
+cpe:2.3:a:quantgeekdev:docker-mcp:*:*:*:*:*:*:*:*
 cpe:2.3:a:quanticalabs:timetable_responsive_schedule:*:*:*:*:*:*:*:*
 cpe:2.3:a:quanticedge:first_order_discount_woocommerce:*:*:*:*:*:*:*:*
 cpe:2.3:a:quanticedgesolutions:category_discount_woocommerce:*:*:*:*:*:*:*:*
@@ -65711,6 +65718,7 @@ cpe:2.3:a:steedos:steedos-platform:*:*:*:*:*:*:*:*
 cpe:2.3:a:steedos:steedos:*:*:*:*:*:*:*:*
 cpe:2.3:a:steel:browser:*:*:*:*:*:*:*:*
 cpe:2.3:a:steelid:thephototool:*:*:*:*:*:*:*:*
+cpe:2.3:a:steelraven7:ravenfield:*:*:*:*:*:*:*:*
 cpe:2.3:a:steelseries:gg:*:*:*:*:*:*:*:*
 cpe:2.3:a:steelseries:nahimic:*:*:*:*:*:*:*:*
 cpe:2.3:a:steelthemes:nioland:*:*:*:*:*:*:*:*
@@ -77427,6 +77435,7 @@ cpe:2.3:a:yoono:yoono:*:*:*:*:*:*:*:*
 cpe:2.3:a:yoono:yoono_desktop:*:*:*:*:*:*:*:*
 cpe:2.3:a:yoono:yoono_for_firefox:*:*:*:*:*:*:*:*
 cpe:2.3:a:yooooomi:your_spotify:*:*:*:*:*:*:*:*
+cpe:2.3:a:yoosee:gm8135s_camera:*:*:*:*:*:*:*:*
 cpe:2.3:a:yoosee:yoosee:*:*:*:*:*:*:*:*
 cpe:2.3:a:yooslider:yoo_slider:*:*:*:*:*:*:*:*
 cpe:2.3:a:yootheme:pagekit:*:*:*:*:*:*:*:*
