@@ -399,6 +399,7 @@ cpe:2.3:a:74cms:74cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:74cms:74cmsse:*:*:*:*:*:*:*:*
 cpe:2.3:a:75lb:deep-merge:*:*:*:*:*:*:*:*
 cpe:2.3:a:7725:7725.com_three_kingdoms:*:*:*:*:*:*:*:*
+cpe:2.3:a:777genius:agent-teams-ai:*:*:*:*:*:*:*:*
 cpe:2.3:a:77bank:77_bank:*:*:*:*:*:*:*:*
 cpe:2.3:a:78:xiaozhi-esp32:*:*:*:*:*:*:*:*
 cpe:2.3:a:7_habits_personal_development_project:7_habits_personal_development:*:*:*:*:*:*:*:*
@@ -7950,6 +7951,7 @@ cpe:2.3:a:bilingual_magic_ball_relajo_project:bilingual_magic_ball_relajo:*:*:*:
 cpe:2.3:a:bill_kendrick:gbook.cgi:*:*:*:*:*:*:*:*
 cpe:2.3:a:bill_roberts:bloo:*:*:*:*:*:*:*:*
 cpe:2.3:a:bill_shupp:vegadns:*:*:*:*:*:*:*:*
+cpe:2.3:a:billabear:billabear:*:*:*:*:*:*:*:*
 cpe:2.3:a:billahmed:qbit_matui:*:*:*:*:*:*:*:*
 cpe:2.3:a:billgbennett:bill_g._bennett:*:*:*:*:*:*:*:*
 cpe:2.3:a:billing_management_system_project:billing_management_system:*:*:*:*:*:*:*:*
@@ -22402,6 +22404,7 @@ cpe:2.3:a:ffri:ffri_yarai:*:*:*:*:*:*:*:*
 cpe:2.3:a:ffw:complete_analytics_optimization_suite:*:*:*:*:*:*:*:*
 cpe:2.3:a:ffw:omgf:*:*:*:*:*:*:*:*
 cpe:2.3:a:ffw:optimize_my_google_fonts:*:*:*:*:*:*:*:*
+cpe:2.3:a:ffxiv-teamcraft:ffxiv_teamcraft:*:*:*:*:*:*:*:*
 cpe:2.3:a:fgallery_project:fgallery:*:*:*:*:*:*:*:*
 cpe:2.3:a:fgmacedo:python_statemachine:*:*:*:*:*:*:*:*
 cpe:2.3:a:fh54:justvisual:*:*:*:*:*:*:*:*
@@ -23415,6 +23418,7 @@ cpe:2.3:a:fr.simon_rundell:pd_trainingcourses:*:*:*:*:*:*:*:*
 cpe:2.3:a:fr.simon_rundell:ste_parish_admin:*:*:*:*:*:*:*:*
 cpe:2.3:a:fr.simon_rundell:ste_prayer2:*:*:*:*:*:*:*:*
 cpe:2.3:a:fr.simon_rundell:ste_prayer:*:*:*:*:*:*:*:*
+cpe:2.3:a:fr0tt:benotes:*:*:*:*:*:*:*:*
 cpe:2.3:a:fractal:string\:\:compare\:\:constanttime:*:*:*:*:*:*:*:*
 cpe:2.3:a:fractalconcept:mod_lisp:*:*:*:*:*:*:*:*
 cpe:2.3:a:fractalfir:memory_pages:*:*:*:*:*:*:*:*
@@ -24494,6 +24498,7 @@ cpe:2.3:a:geekwebsolution:embed_youtube_video:*:*:*:*:*:*:*:*
 cpe:2.3:a:geert_moernaut:lsrunase:*:*:*:*:*:*:*:*
 cpe:2.3:a:geert_moernaut:supercrypt:*:*:*:*:*:*:*:*
 cpe:2.3:a:geertsen_holdings_inc:geecarts:*:*:*:*:*:*:*:*
+cpe:2.3:a:geesondog:rhaphp:*:*:*:*:*:*:*:*
 cpe:2.3:a:geex-arts:django-jet:*:*:*:*:*:*:*:*
 cpe:2.3:a:gegabyte:my_projects:*:*:*:*:*:*:*:*
 cpe:2.3:a:gegabyte:user_bench:*:*:*:*:*:*:*:*
@@ -31229,6 +31234,7 @@ cpe:2.3:a:icq_inc:icq_toolbar:*:*:*:*:*:*:*:*
 cpe:2.3:a:icq_inc:icqlite:*:*:*:*:*:*:*:*
 cpe:2.3:a:icradius:icradius:*:*:*:*:*:*:*:*
 cpe:2.3:a:icredibb:icredibb:*:*:*:*:*:*:*:*
+cpe:2.3:a:icret:easyimage:*:*:*:*:*:*:*:*
 cpe:2.3:a:ics:kea:*:*:*:*:*:*:*:*
 cpe:2.3:a:ics_cert:medtronic_n_vision_clinician_programmer:*:*:*:*:*:*:*:*
 cpe:2.3:a:icsgmbh:pactware:*:*:*:*:*:*:*:*
@@ -43844,6 +43850,7 @@ cpe:2.3:a:mislav_marohnic:will_paginate:*:*:*:*:*:*:*:*
 cpe:2.3:a:misli:misli.com_app:*:*:*:*:*:*:*:*
 cpe:2.3:a:misp-project:malware_information_sharing_platform:*:*:*:*:*:*:*:*
 cpe:2.3:a:misp-project:misp:*:*:*:*:*:*:*:*
+cpe:2.3:a:misp:misp-guard:*:*:*:*:*:*:*:*
 cpe:2.3:a:misp:misp-maltego:*:*:*:*:*:*:*:*
 cpe:2.3:a:misp:misp:*:*:*:*:*:*:*:*
 cpe:2.3:a:misp:misp_\(malware_information_sharing_platform\):*:*:*:*:*:*:*:*
@@ -45910,6 +45917,7 @@ cpe:2.3:a:ncurses_project:ncurses:*:*:*:*:*:*:*:*
 cpe:2.3:a:nd-learning_project:nd-learning:*:*:*:*:*:*:*:*
 cpe:2.3:a:nd:nd:*:*:*:*:*:*:*:*
 cpe:2.3:a:nd:sipity:*:*:*:*:*:*:*:*
+cpe:2.3:a:ndemic_creations:plague_inc_evolved:*:*:*:*:*:*:*:*
 cpe:2.3:a:ndevilla:iniparser:*:*:*:*:*:*:*:*
 cpe:2.3:a:ndk-design:ndkadvancedcustomizationfields:*:*:*:*:*:*:*:*
 cpe:2.3:a:ndkdesign:ndk_steppingpack:*:*:*:*:*:*:*:*
@@ -51101,6 +51109,7 @@ cpe:2.3:a:orangelab:imagemagick_engine:*:*:*:*:*:*:*:*
 cpe:2.3:a:orangelampsoftware:killprocess:*:*:*:*:*:*:*:*
 cpe:2.3:a:orangescrum:orangescrum:*:*:*:*:*:*:*:*
 cpe:2.3:a:oray:peanuthull:*:*:*:*:*:*:*:*
+cpe:2.3:a:oray:pugongying_x5_pro:*:*:*:*:*:*:*:*
 cpe:2.3:a:orb_networks:orb:*:*:*:*:*:*:*:*
 cpe:2.3:a:orbeon:forms:*:*:*:*:*:*:*:*
 cpe:2.3:a:orbic:maui:*:*:*:*:*:*:*:*
@@ -77639,6 +77648,7 @@ cpe:2.3:a:yzncms:yzncms:*:*:*:*:*:*:*:*
 cpe:2.3:a:yzt_project:yzt:*:*:*:*:*:*:*:*
 cpe:2.3:a:z-cron:z-cron:*:*:*:*:*:*:*:*
 cpe:2.3:a:z-url_preview_project:z-url_preview:*:*:*:*:*:*:*:*
+cpe:2.3:a:z.ai:zcode:*:*:*:*:*:*:*:*
 cpe:2.3:a:z.cash:zcash:*:*:*:*:*:*:*:*
 cpe:2.3:a:za-internet:c-mor_video_surveillance:*:*:*:*:*:*:*:*
 cpe:2.3:a:zaal:tgt:*:*:*:*:*:*:*:*
