@@ -13522,6 +13522,7 @@ cpe:2.3:a:code-projects:simple_art_gallery:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:simple_banking_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:simple_car_rental_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:simple_chat_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:code-projects:simple_content_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:simple_crud_functionality:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:simple_flight_ticket_booking_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:simple_inventory_system:*:*:*:*:*:*:*:*
@@ -15862,6 +15863,7 @@ cpe:2.3:a:damian_hickey:freeway:*:*:*:*:*:*:*:*
 cpe:2.3:a:damicms:damicms:*:*:*:*:*:*:*:*
 cpe:2.3:a:damien_benier:myalbum:*:*:*:*:*:*:*:*
 cpe:2.3:a:damienharper:auditor-bundle:*:*:*:*:*:*:*:*
+cpe:2.3:a:damo_academy:videollama2:*:*:*:*:*:*:*:*
 cpe:2.3:a:damstratechnology:smart_asset:*:*:*:*:*:*:*:*
 cpe:2.3:a:dan-in-ca:sustainable_irrigation_platform:*:*:*:*:*:*:*:*
 cpe:2.3:a:dan009:wp_bing_map_pro:*:*:*:*:*:*:*:*
@@ -24878,6 +24880,7 @@ cpe:2.3:a:getshieldsecurity:shield_security:*:*:*:*:*:*:*:*
 cpe:2.3:a:getshopped:wp_e-commerce:*:*:*:*:*:*:*:*
 cpe:2.3:a:getshortcodes:shortcodes_ultimate:*:*:*:*:*:*:*:*
 cpe:2.3:a:getsimple-ce:getsimple_cms:*:*:*:*:*:*:*:*
+cpe:2.3:a:getsimple:my-smtp-contact:*:*:*:*:*:*:*:*
 cpe:2.3:a:getsocial:social_share_buttons_\&_analytics:*:*:*:*:*:*:*:*
 cpe:2.3:a:getsol:eopkg:*:*:*:*:*:*:*:*
 cpe:2.3:a:getswish:swish_payments:*:*:*:*:*:*:*:*
@@ -60895,6 +60898,7 @@ cpe:2.3:a:sarab:sarab:*:*:*:*:*:*:*:*
 cpe:2.3:a:saral_kaushik:saralblog:*:*:*:*:*:*:*:*
 cpe:2.3:a:saralblog:saralblog:*:*:*:*:*:*:*:*
 cpe:2.3:a:sarg:squid_analysis_report_generator:*:*:*:*:*:*:*:*
+cpe:2.3:a:saruf-ratul:hr-payroll-management-system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sarveshmrao:wp_discord_invite:*:*:*:*:*:*:*:*
 cpe:2.3:a:sas:base:*:*:*:*:*:*:*:*
 cpe:2.3:a:sas:base_sas:*:*:*:*:*:*:*:*
