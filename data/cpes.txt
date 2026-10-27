@@ -209,7 +209,7 @@ cpe:2.3:a:2glux:com_sexypolling:*:*:*:*:*:*:*:*
 cpe:2.3:a:2inc:snow_monkey_forms:*:*:*:*:*:*:*:*
 cpe:2.3:a:2joomla:2j_slideshow:*:*:*:*:*:*:*:*
 cpe:2.3:a:2k_games:civilization_v:*:*:*:*:*:*:*:*
-cpe:2.3:a:2k_games:sid_meiers_civilization_iv:*:*:*:*:*:*:*:*
+cpe:2.3:a:2k_games:sid_meiers_civilization_vi:*:*:*:*:*:*:*:*
 cpe:2.3:a:2kblater:2kb_amazon_affiliates_store:*:*:*:*:*:*:*:*
 cpe:2.3:a:2kgames:vietcong_2:*:*:*:*:*:*:*:*
 cpe:2.3:a:2moons_project:2moons:*:*:*:*:*:*:*:*
