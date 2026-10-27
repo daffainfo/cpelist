@@ -485,6 +485,7 @@ cpe:2.3:a:a17lab:wpstickybar:*:*:*:*:*:*:*:*
 cpe:2.3:a:a1apps:office_app-edit_word\,_pdf_file:*:*:*:*:*:*:*:*
 cpe:2.3:a:a1webserver:http_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:a2aproject:a2a-dotnet:*:*:*:*:*:*:*:*
+cpe:2.3:a:a2aproject:a2a-go:*:*:*:*:*:*:*:*
 cpe:2.3:a:a2aproject:a2a-java:*:*:*:*:*:*:*:*
 cpe:2.3:a:a2aproject:a2a-python:*:*:*:*:*:*:*:*
 cpe:2.3:a:a2aproject:a2a-rs:*:*:*:*:*:*:*:*
@@ -5031,6 +5032,7 @@ cpe:2.3:a:argencoders-notevil_project:argencoders-notevil:*:*:*:*:*:*:*:*
 cpe:2.3:a:argent:recoverymanager:*:*:*:*:*:*:*:*
 cpe:2.3:a:argie:online_courseware:*:*:*:*:*:*:*:*
 cpe:2.3:a:argie:simple_inventory_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:argilla:argilla:*:*:*:*:*:*:*:*
 cpe:2.3:a:argo_events_project:argo_events:*:*:*:*:*:*:*:*
 cpe:2.3:a:argo_workflows_project:argo_workflows:*:*:*:*:*:*:*:*
 cpe:2.3:a:argon2_project:argon2:*:*:*:*:*:*:*:*
@@ -54935,6 +54937,7 @@ cpe:2.3:a:postsrsd_project:postsrsd:*:*:*:*:*:*:*:*
 cpe:2.3:a:posttabs_project:posttabs:*:*:*:*:*:*:*:*
 cpe:2.3:a:potato-scripts:potato_news:*:*:*:*:*:*:*:*
 cpe:2.3:a:potatosalad:erlang-jose:*:*:*:*:*:*:*:*
+cpe:2.3:a:potatosalad:jose:*:*:*:*:*:*:*:*
 cpe:2.3:a:potenzaglobalsolutions:ciyashop:*:*:*:*:*:*:*:*
 cpe:2.3:a:potrace_project:potrace:*:*:*:*:*:*:*:*
 cpe:2.3:a:potsky:pimp_my_log:*:*:*:*:*:*:*:*
@@ -70724,6 +70727,7 @@ cpe:2.3:a:tuomoku:spx_gc:*:*:*:*:*:*:*:*
 cpe:2.3:a:turaconsulting:signalix:*:*:*:*:*:*:*:*
 cpe:2.3:a:turbo-stream:turbo_stream:*:*:*:*:*:*:*:*
 cpe:2.3:a:turboboost_commands_project:turboboost_commands:*:*:*:*:*:*:*:*
+cpe:2.3:a:turboderp-org:exllamav2:*:*:*:*:*:*:*:*
 cpe:2.3:a:turboderp:exllamav2:*:*:*:*:*:*:*:*
 cpe:2.3:a:turbogears:turbogears2:*:*:*:*:*:*:*:*
 cpe:2.3:a:turbogears_project:turbogears:*:*:*:*:*:*:*:*
