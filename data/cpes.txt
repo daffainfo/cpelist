@@ -6172,6 +6172,7 @@ cpe:2.3:a:autodesk:fbx_sdk:*:*:*:*:*:*:*:*
 cpe:2.3:a:autodesk:fbx_software_development_kit:*:*:*:*:*:*:*:*
 cpe:2.3:a:autodesk:fusion:*:*:*:*:*:*:*:*
 cpe:2.3:a:autodesk:fusion_360:*:*:*:*:*:*:*:*
+cpe:2.3:a:autodesk:fusion_post_processor_utility:*:*:*:*:*:*:*:*
 cpe:2.3:a:autodesk:infrastructure_parts_editor:*:*:*:*:*:*:*:*
 cpe:2.3:a:autodesk:infraworks:*:*:*:*:*:*:*:*
 cpe:2.3:a:autodesk:installer:*:*:*:*:*:*:*:*
@@ -15219,6 +15220,7 @@ cpe:2.3:a:crowdfunding_script_project:crowdfunding_script:*:*:*:*:*:*:*:*
 cpe:2.3:a:crowdnext_project:crowdnext:*:*:*:*:*:*:*:*
 cpe:2.3:a:crowdstrike:falcon:*:*:*:*:*:*:*:*
 cpe:2.3:a:crowdytheme:arolax:*:*:*:*:*:*:*:*
+cpe:2.3:a:crownpku:rasa_nlu_chi:*:*:*:*:*:*:*:*
 cpe:2.3:a:crs_manager:crs_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:crud-file-server_project:crud-file-server:*:*:*:*:*:*:*:*
 cpe:2.3:a:cruddiy:cruddiy:*:*:*:*:*:*:*:*
@@ -17197,6 +17199,7 @@ cpe:2.3:a:desktopstandard:policymaker_registry_extension:*:*:*:*:*:*:*:*
 cpe:2.3:a:desktopstandard:policymaker_software_update_client:*:*:*:*:*:*:*:*
 cpe:2.3:a:deslock:deslock:*:*:*:*:*:*:*:*
 cpe:2.3:a:deslock:deslock\+:*:*:*:*:*:*:*:*
+cpe:2.3:a:desmondmorris:node-tesseract:*:*:*:*:*:*:*:*
 cpe:2.3:a:dessci:mathplayer:*:*:*:*:*:*:*:*
 cpe:2.3:a:dest-unreach:socat:*:*:*:*:*:*:*:*
 cpe:2.3:a:destineed_project:destineed:*:*:*:*:*:*:*:*
@@ -17341,6 +17344,7 @@ cpe:2.3:a:deweisecurityservicetoken_project:deweisecurityservicetoken:*:*:*:*:*:
 cpe:2.3:a:dexie:dexie:*:*:*:*:*:*:*:*
 cpe:2.3:a:dexis:imaging_suite:*:*:*:*:*:*:*:*
 cpe:2.3:a:dexma:dexgate:*:*:*:*:*:*:*:*
+cpe:2.3:a:dexmal:dexbotic:*:*:*:*:*:*:*:*
 cpe:2.3:a:dext34-morgan:books4cash:*:*:*:*:*:*:*:*
 cpe:2.3:a:dext5:dext5:*:*:*:*:*:*:*:*
 cpe:2.3:a:dext5:dext5_editor:*:*:*:*:*:*:*:*
@@ -69312,6 +69316,7 @@ cpe:2.3:a:tiddlywiki:tiddlywiki5:*:*:*:*:*:*:*:*
 cpe:2.3:a:tidesec:wdscanner:*:*:*:*:*:*:*:*
 cpe:2.3:a:tideslash:monit:*:*:*:*:*:*:*:*
 cpe:2.3:a:tidestone:formula_one_activex_control:*:*:*:*:*:*:*:*
+cpe:2.3:a:tidewave-ai:tidewave:*:*:*:*:*:*:*:*
 cpe:2.3:a:tidio-form_project:tidio-form:*:*:*:*:*:*:*:*
 cpe:2.3:a:tidio-gallery_project:tidio-gallery:*:*:*:*:*:*:*:*
 cpe:2.3:a:tiefpunkt:meintopf:*:*:*:*:*:*:*:*
