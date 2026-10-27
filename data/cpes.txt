@@ -51161,6 +51161,8 @@ cpe:2.3:a:ordasoft:com_realestatemanager:*:*:*:*:*:*:*:*
 cpe:2.3:a:ordasoft:com_vehiclemanager:*:*:*:*:*:*:*:*
 cpe:2.3:a:ordasoft:joomla_cck:*:*:*:*:*:*:*:*
 cpe:2.3:a:ordasoft:medialibrary:*:*:*:*:*:*:*:*
+cpe:2.3:a:ordasoft:real_estate_manager:*:*:*:*:*:*:*:*
+cpe:2.3:a:ordasoft:vehicle_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:ordat:foss-online:*:*:*:*:*:*:*:*
 cpe:2.3:a:ordat:ordat.erp:*:*:*:*:*:*:*:*
 cpe:2.3:a:order_auto_complete_for_woocommerce_project:order_auto_complete_for_woocommerce:*:*:*:*:*:*:*:*
