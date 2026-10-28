@@ -39189,10 +39189,13 @@ cpe:2.3:a:linuxfoundation:backstage:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:backstage\/backend-defaults:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:backstage\/backend_defaults:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:backstage\/integration:*:*:*:*:*:*:*:*
+cpe:2.3:a:linuxfoundation:backstage\/plugin-auth-backend-module-cloudflare-access-provider:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:backstage\/plugin-auth-backend-module-oidc-provider:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:backstage\/plugin-auth-backend:*:*:*:*:*:*:*:*
+cpe:2.3:a:linuxfoundation:backstage\/plugin-auth-node:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:backstage\/plugin-catalog-backend-module-aws:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:backstage\/plugin-catalog-backend-module-azure:*:*:*:*:*:*:*:*
+cpe:2.3:a:linuxfoundation:backstage\/plugin-catalog-backend-module-bitbucket-server:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:backstage\/plugin-catalog-backend-module-gitlab:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:backstage\/plugin-catalog-backend-module-unprocessed:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:backstage\/plugin-catalog-unprocessed-entities-common:*:*:*:*:*:*:*:*
@@ -58128,6 +58131,7 @@ cpe:2.3:a:redticket_project:redticket:*:*:*:*:*:*:*:*
 cpe:2.3:a:reduce-css-calc_project:reduce-css-calc:*:*:*:*:*:*:*:*
 cpe:2.3:a:reductivelabs:puppet:*:*:*:*:*:*:*:*
 cpe:2.3:a:redux:gutenberg_template_library_\&_redux_framework:*:*:*:*:*:*:*:*
+cpe:2.3:a:reduxjs:redux-devtools:*:*:*:*:*:*:*:*
 cpe:2.3:a:redwan_hilali:wp_dropbox_dropins:*:*:*:*:*:*:*:*
 cpe:2.3:a:redwanhilali:wp_dropbox_dropins:*:*:*:*:*:*:*:*
 cpe:2.3:a:redwood:cronacle_process_server:*:*:*:*:*:*:*:*
