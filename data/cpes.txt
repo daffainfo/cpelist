@@ -208,6 +208,8 @@ cpe:2.3:a:2g_live_tv_project:2g_live_tv:*:*:*:*:*:*:*:*
 cpe:2.3:a:2glux:com_sexypolling:*:*:*:*:*:*:*:*
 cpe:2.3:a:2inc:snow_monkey_forms:*:*:*:*:*:*:*:*
 cpe:2.3:a:2joomla:2j_slideshow:*:*:*:*:*:*:*:*
+cpe:2.3:a:2k:sid_meiers_civilization_v:*:*:*:*:*:*:*:*
+cpe:2.3:a:2k:sid_meiers_civilization_vi:*:*:*:*:*:*:*:*
 cpe:2.3:a:2k_games:civilization_v:*:*:*:*:*:*:*:*
 cpe:2.3:a:2k_games:sid_meiers_civilization_vi:*:*:*:*:*:*:*:*
 cpe:2.3:a:2kblater:2kb_amazon_affiliates_store:*:*:*:*:*:*:*:*
@@ -3626,6 +3628,7 @@ cpe:2.3:a:andy_lo-a-foe:alsaplayer:*:*:*:*:*:*:*:*
 cpe:2.3:a:andy_mack:35mmslidegallery:*:*:*:*:*:*:*:*
 cpe:2.3:a:andy_prevost:ttcms:*:*:*:*:*:*:*:*
 cpe:2.3:a:andy_stedemos:the_uploader:*:*:*:*:*:*:*:*
+cpe:2.3:a:andybalholm:brotli:*:*:*:*:*:*:*:*
 cpe:2.3:a:andymoyle:church_admin:*:*:*:*:*:*:*:*
 cpe:2.3:a:andynorman:gnuserv:*:*:*:*:*:*:*:*
 cpe:2.3:a:andypalmer:post_lockdown:*:*:*:*:*:*:*:*
@@ -3832,6 +3835,7 @@ cpe:2.3:a:anthony_boyd:phpbb_blog:*:*:*:*:*:*:*:*
 cpe:2.3:a:anthony_carbon:wdes_responsive_mobile_menu:*:*:*:*:*:*:*:*
 cpe:2.3:a:anthony_mills:s3_video:*:*:*:*:*:*:*:*
 cpe:2.3:a:anthony_tuininga:cx_oracle-10g:*:*:*:*:*:*:*:*
+cpe:2.3:a:anthropic:bun:*:*:*:*:*:*:*:*
 cpe:2.3:a:anthropic:claude:*:*:*:*:*:*:*:*
 cpe:2.3:a:anthropic:claude_agent_sdk:*:*:*:*:*:*:*:*
 cpe:2.3:a:anthropic:claude_code:*:*:*:*:*:*:*:*
@@ -22266,6 +22270,7 @@ cpe:2.3:a:fccview:cronmaster:*:*:*:*:*:*:*:*
 cpe:2.3:a:fcgphilipp:mujecms:*:*:*:*:*:*:*:*
 cpe:2.3:a:fcitx_5_project:fcitx_5:*:*:*:*:*:*:*:*
 cpe:2.3:a:fckeditor:fckeditor:*:*:*:*:*:*:*:*
+cpe:2.3:a:fcs-ex:scp\:containment_breach_multiplayer:*:*:*:*:*:*:*:*
 cpe:2.3:a:fdawgs:node-poppler:*:*:*:*:*:*:*:*
 cpe:2.3:a:fdclone:fdclone:*:*:*:*:*:*:*:*
 cpe:2.3:a:fdgroup:olib7_webview:*:*:*:*:*:*:*:*
@@ -26026,6 +26031,7 @@ cpe:2.3:a:google:web_designer:*:*:*:*:*:*:*:*
 cpe:2.3:a:google:web_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:google:web_stories:*:*:*:*:*:*:*:*
 cpe:2.3:a:google:web_toolkit:*:*:*:*:*:*:*:*
+cpe:2.3:a:google:woff2:*:*:*:*:*:*:*:*
 cpe:2.3:a:google:workspace:*:*:*:*:*:*:*:*
 cpe:2.3:a:google:youtube_android_player_api:*:*:*:*:*:*:*:*
 cpe:2.3:a:google_adsense_project:google_adsense:*:*:*:*:*:*:*:*
@@ -41583,6 +41589,7 @@ cpe:2.3:a:mckesson:pathways_homecare:*:*:*:*:*:*:*:*
 cpe:2.3:a:mcl_technologies:mcl-net:*:*:*:*:*:*:*:*
 cpe:2.3:a:mclewin:wishlist:*:*:*:*:*:*:*:*
 cpe:2.3:a:mcmguides:pdg_gold_for_ncos_2009:*:*:*:*:*:*:*:*
+cpe:2.3:a:mcmilk:7-zip-zstd:*:*:*:*:*:*:*:*
 cpe:2.3:a:mcms:easy_web_make:*:*:*:*:*:*:*:*
 cpe:2.3:a:mcms_project:mcms:*:*:*:*:*:*:*:*
 cpe:2.3:a:mcmurtrey_whitaker_and_associates:cart32:*:*:*:*:*:*:*:*
@@ -45943,6 +45950,7 @@ cpe:2.3:a:nd-learning_project:nd-learning:*:*:*:*:*:*:*:*
 cpe:2.3:a:nd:nd:*:*:*:*:*:*:*:*
 cpe:2.3:a:nd:sipity:*:*:*:*:*:*:*:*
 cpe:2.3:a:ndemic_creations:plague_inc_evolved:*:*:*:*:*:*:*:*
+cpe:2.3:a:ndemiccreations:plague_inc:*:*:*:*:*:*:*:*
 cpe:2.3:a:ndevilla:iniparser:*:*:*:*:*:*:*:*
 cpe:2.3:a:ndk-design:ndkadvancedcustomizationfields:*:*:*:*:*:*:*:*
 cpe:2.3:a:ndkdesign:ndk_steppingpack:*:*:*:*:*:*:*:*
@@ -56188,6 +56196,7 @@ cpe:2.3:a:python-engineio_project:python-engineio:*:*:*:*:*:*:*:*
 cpe:2.3:a:python-eve:eve:*:*:*:*:*:*:*:*
 cpe:2.3:a:python-flask-restful-api_project:python-flask-restful-api:*:*:*:*:*:*:*:*
 cpe:2.3:a:python-gnupg_project:python-gnupg:*:*:*:*:*:*:*:*
+cpe:2.3:a:python-hyper:brotlicffi:*:*:*:*:*:*:*:*
 cpe:2.3:a:python-hyperkitty_project:python-hyperkitty:*:*:*:*:*:*:*:*
 cpe:2.3:a:python-jose_project:python-jose:*:*:*:*:*:*:*:*
 cpe:2.3:a:python-jwt_project:python-jwt:*:*:*:*:*:*:*:*
