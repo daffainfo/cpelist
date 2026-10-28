@@ -487,6 +487,7 @@ cpe:2.3:a:a1webserver:http_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:a2aproject:a2a-dotnet:*:*:*:*:*:*:*:*
 cpe:2.3:a:a2aproject:a2a-go:*:*:*:*:*:*:*:*
 cpe:2.3:a:a2aproject:a2a-java:*:*:*:*:*:*:*:*
+cpe:2.3:a:a2aproject:a2a-js:*:*:*:*:*:*:*:*
 cpe:2.3:a:a2aproject:a2a-python:*:*:*:*:*:*:*:*
 cpe:2.3:a:a2aproject:a2a-rs:*:*:*:*:*:*:*:*
 cpe:2.3:a:a2hosting:a2_optimized:*:*:*:*:*:*:*:*
