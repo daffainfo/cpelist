@@ -496,6 +496,7 @@ cpe:2.3:a:a2hosting:a2_optimized:*:*:*:*:*:*:*:*
 cpe:2.3:a:a2technology:camera_trap_tracking_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:a2technology:license_portal_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:a2ui-project:a2ui:*:*:*:*:*:*:*:*
+cpe:2.3:a:a2ui:a2ui:*:*:*:*:*:*:*:*
 cpe:2.3:a:a3malnet:magic-portal:*:*:*:*:*:*:*:*
 cpe:2.3:a:a3rev:a3_portfolio:*:*:*:*:*:*:*:*
 cpe:2.3:a:a3rev:contact_us_page_-_contact_people:*:*:*:*:*:*:*:*
@@ -40775,6 +40776,7 @@ cpe:2.3:a:manzurul_haque:banner_slider:*:*:*:*:*:*:*:*
 cpe:2.3:a:manzurulhaque:banner_slider:*:*:*:*:*:*:*:*
 cpe:2.3:a:mao10:mao10cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:mao888:bluebell-plus:*:*:*:*:*:*:*:*
+cpe:2.3:a:maotoumao:musicfreedesktop:*:*:*:*:*:*:*:*
 cpe:2.3:a:map_multi_marker_project:map_multi_marker:*:*:*:*:*:*:*:*
 cpe:2.3:a:mapbender:mapbender:*:*:*:*:*:*:*:*
 cpe:2.3:a:mapbox:mapbox.js:*:*:*:*:*:*:*:*
@@ -89489,6 +89491,7 @@ cpe:2.3:h:d-link:dir-3040:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dir-3060:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dir-330:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dir-400:*:*:*:*:*:*:*:*
+cpe:2.3:h:d-link:dir-505:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dir-505l_shareport_mobile_companion:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dir-550a:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:dir-600:*:*:*:*:*:*:*:*
