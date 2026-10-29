@@ -14445,6 +14445,7 @@ cpe:2.3:a:config_pages_viewer_project:config_pages_viewer:*:*:*:*:*:*:*:*
 cpe:2.3:a:configobj_project:configobj:*:*:*:*:*:*:*:*
 cpe:2.3:a:configserver:configserver_security_firewall:*:*:*:*:*:*:*:*
 cpe:2.3:a:configurable_tag_cloud_project:configurable_tag_cloud:*:*:*:*:*:*:*:*
+cpe:2.3:a:configuroweb:inventariobasico:*:*:*:*:*:*:*:*
 cpe:2.3:a:configuroweb:simple_web_inventory_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:confinit_project:confinit:*:*:*:*:*:*:*:*
 cpe:2.3:a:confire_project:confire:*:*:*:*:*:*:*:*
@@ -17375,6 +17376,7 @@ cpe:2.3:a:dfir-iris:iris-evtx-module:*:*:*:*:*:*:*:*
 cpe:2.3:a:dfir-iris:iris:*:*:*:*:*:*:*:*
 cpe:2.3:a:dfirkuiper:kuiper:*:*:*:*:*:*:*:*
 cpe:2.3:a:dflabs:ptk:*:*:*:*:*:*:*:*
+cpe:2.3:a:dfm:feedfinder2:*:*:*:*:*:*:*:*
 cpe:2.3:a:dforum:dforum:*:*:*:*:*:*:*:*
 cpe:2.3:a:dfsol:nuevomailer:*:*:*:*:*:*:*:*
 cpe:2.3:a:dg:remote_control_server:*:*:*:*:*:*:*:*
@@ -47343,6 +47345,7 @@ cpe:2.3:a:nip2_project:nip2:*:*:*:*:*:*:*:*
 cpe:2.3:a:nipotan:line_integration_for_amon2:*:*:*:*:*:*:*:*
 cpe:2.3:a:nipper-ng_project:nipper-ng:*:*:*:*:*:*:*:*
 cpe:2.3:a:nipun_jain:xserver:*:*:*:*:*:*:*:*
+cpe:2.3:a:nipy:nibabel:*:*:*:*:*:*:*:*
 cpe:2.3:a:nirmata:kyverno:*:*:*:*:*:*:*:*
 cpe:2.3:a:nirsoft:smartsniff:*:*:*:*:*:*:*:*
 cpe:2.3:a:nirweb:nirweb_support:*:*:*:*:*:*:*:*
@@ -48019,6 +48022,7 @@ cpe:2.3:a:nsasoft:spotpaltalk:*:*:*:*:*:*:*:*
 cpe:2.3:a:nsauditor:product_key_explorer:*:*:*:*:*:*:*:*
 cpe:2.3:a:nsauditor:spotauditor:*:*:*:*:*:*:*:*
 cpe:2.3:a:nscd:nscd:*:*:*:*:*:*:*:*
+cpe:2.3:a:nschloe:meshio:*:*:*:*:*:*:*:*
 cpe:2.3:a:nsclient:nsclient\+\+:*:*:*:*:*:*:*:*
 cpe:2.3:a:nscripter_project:nscripter:*:*:*:*:*:*:*:*
 cpe:2.3:a:nsgalphp:nsgalphp:*:*:*:*:*:*:*:*
