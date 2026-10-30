@@ -246,6 +246,7 @@ cpe:2.3:a:360class.jansenhm_project:360class.jansenhm:*:*:*:*:*:*:*:*
 cpe:2.3:a:360totalsecurity:360_total_security:*:*:*:*:*:*:*:*
 cpe:2.3:a:360totalsecurity:antivirus:*:*:*:*:*:*:*:*
 cpe:2.3:a:360zip:360zip:*:*:*:*:*:*:*:*
+cpe:2.3:a:37954679:cak-filemanagement-system:*:*:*:*:*:*:*:*
 cpe:2.3:a:37signals:fizzy:*:*:*:*:*:*:*:*
 cpe:2.3:a:3cfr:3cfr:*:*:*:*:*:*:*:*
 cpe:2.3:a:3com:3c15100d:*:*:*:*:*:*:*:*
@@ -14041,6 +14042,7 @@ cpe:2.3:a:collabnet:scrumworks:*:*:*:*:*:*:*:*
 cpe:2.3:a:collabnet:subversion:*:*:*:*:*:*:*:*
 cpe:2.3:a:collabnet:subversion_client:*:*:*:*:*:*:*:*
 cpe:2.3:a:collabnet:subversion_server:*:*:*:*:*:*:*:*
+cpe:2.3:a:collabora:collabora_online_-_built-in_code_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:collabora:online:*:*:*:*:*:*:*:*
 cpe:2.3:a:collaboraoffice:collabora_online:*:*:*:*:*:*:*:*
 cpe:2.3:a:collaboraoffice:collabora_online_development_edition:*:*:*:*:*:*:*:*
@@ -66464,6 +66466,7 @@ cpe:2.3:a:supersmashbrothers:army_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:supersoju:block_referer_spam:*:*:*:*:*:*:*:*
 cpe:2.3:a:superstorefinder:php_script:*:*:*:*:*:*:*:*
 cpe:2.3:a:superstorefinder:super_store_finder:*:*:*:*:*:*:*:*
+cpe:2.3:a:supertokens:supertokens:*:*:*:*:*:*:*:*
 cpe:2.3:a:supervisord:supervisor:*:*:*:*:*:*:*:*
 cpe:2.3:a:superwebmailer:superwebmailer:*:*:*:*:*:*:*:*
 cpe:2.3:a:superwhite:demon_image_annotation:*:*:*:*:*:*:*:*
