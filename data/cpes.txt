@@ -45954,7 +45954,7 @@ cpe:2.3:a:nd-learning_project:nd-learning:*:*:*:*:*:*:*:*
 cpe:2.3:a:nd:nd:*:*:*:*:*:*:*:*
 cpe:2.3:a:nd:sipity:*:*:*:*:*:*:*:*
 cpe:2.3:a:ndemic_creations:plague_inc_evolved:*:*:*:*:*:*:*:*
-cpe:2.3:a:ndemiccreations:plague_inc:*:*:*:*:*:*:*:*
+cpe:2.3:a:ndemiccreations:plague_inc_evolved:*:*:*:*:*:*:*:*
 cpe:2.3:a:ndevilla:iniparser:*:*:*:*:*:*:*:*
 cpe:2.3:a:ndk-design:ndkadvancedcustomizationfields:*:*:*:*:*:*:*:*
 cpe:2.3:a:ndkdesign:ndk_steppingpack:*:*:*:*:*:*:*:*
@@ -57652,6 +57652,7 @@ cpe:2.3:a:redhat:ceph_storage:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:ceph_storage_for_power:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:ceph_storage_mon:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:ceph_storage_osd:*:*:*:*:*:*:*:*
+cpe:2.3:a:redhat:cert-manager_operator:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:cert-manager_operator_for_red_hat_openshift:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:certificate_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:certificate_system:*:*:*:*:*:*:*:*
@@ -57772,6 +57773,7 @@ cpe:2.3:a:redhat:icedtea:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:ignition:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:initscripts:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:insights-client:*:*:*:*:*:*:*:*
+cpe:2.3:a:redhat:insights-proxy:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:instructlab:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:integration:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:integration_camel_for_spring_boot:*:*:*:*:*:*:*:*
