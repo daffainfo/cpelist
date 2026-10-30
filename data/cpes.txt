@@ -24813,7 +24813,7 @@ cpe:2.3:a:getcomposer:composer:*:*:*:*:*:*:*:*
 cpe:2.3:a:getcujo:smart_firewall:*:*:*:*:*:*:*:*
 cpe:2.3:a:getdata_project:getdata:*:*:*:*:*:*:*:*
 cpe:2.3:a:getdbt:dbt-common:*:*:*:*:*:*:*:*
-cpe:2.3:a:getdbt:dbt_core:*:*:*:*:*:*:*:*
+cpe:2.3:a:getdbt:dbt-core:*:*:*:*:*:*:*:*
 cpe:2.3:a:getdbt:dbt_mcp_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:geteversnap:eversnap_private_photo_album:*:*:*:*:*:*:*:*
 cpe:2.3:a:getferdi:ferdi:*:*:*:*:*:*:*:*
@@ -56515,6 +56515,7 @@ cpe:2.3:a:qt-cute:quickteam:*:*:*:*:*:*:*:*
 cpe:2.3:a:qt-cute:quickticket:*:*:*:*:*:*:*:*
 cpe:2.3:a:qt-dcgui:qt-dcgui:*:*:*:*:*:*:*:*
 cpe:2.3:a:qt-users:silk:*:*:*:*:*:*:*:*
+cpe:2.3:a:qt:qt3d:*:*:*:*:*:*:*:*
 cpe:2.3:a:qt:qt5compat:*:*:*:*:*:*:*:*
 cpe:2.3:a:qt:qt:*:*:*:*:*:*:*:*
 cpe:2.3:a:qt:qt_network_authorization:*:*:*:*:*:*:*:*
@@ -57695,6 +57696,7 @@ cpe:2.3:a:redhat:community.general:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:community_general_collection:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:community_network_collection:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:conga:*:*:*:*:*:*:*:*
+cpe:2.3:a:redhat:connectivity_link:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:container_development_kit:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:coreos-installer:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:cost_management:*:*:*:*:*:*:*:*
@@ -57721,6 +57723,7 @@ cpe:2.3:a:redhat:dogtag_certificate_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:drools:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:dtach:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:edeploy:*:*:*:*:*:*:*:*
+cpe:2.3:a:redhat:edge_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:enmasse:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:enterprise_ipa:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:enterprise_linux:*:*:*:*:*:*:*:*
@@ -57911,6 +57914,7 @@ cpe:2.3:a:redhat:openshift_application_runtimes:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:openshift_application_runtimes_text-only_advisories:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:openshift_assisted_installer:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:openshift_builder:*:*:*:*:*:*:*:*
+cpe:2.3:a:redhat:openshift_cluster_observability_operator:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:openshift_container_platform:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:openshift_container_platform_assisted_installer:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:openshift_container_platform_for_arm64:*:*:*:*:*:*:*:*
@@ -58003,6 +58007,7 @@ cpe:2.3:a:redhat:satellite:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:satellite_5_managed_db:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:satellite_capsule:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:satellite_with_embedded_oracle:*:*:*:*:*:*:*:*
+cpe:2.3:a:redhat:self-service_automation_portal:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:self_node_remediation_operator:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:sendmail:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:service_interconnect:*:*:*:*:*:*:*:*
