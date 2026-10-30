@@ -32098,6 +32098,7 @@ cpe:2.3:a:innominate:mguard_delta:*:*:*:*:*:*:*:*
 cpe:2.3:a:innominate:mguard_industrial_rs:*:*:*:*:*:*:*:*
 cpe:2.3:a:innominate:mguard_pci:*:*:*:*:*:*:*:*
 cpe:2.3:a:innominate:mguard_smart:*:*:*:*:*:*:*:*
+cpe:2.3:a:innomotics:digimine_assetanalytics:*:*:*:*:*:*:*:*
 cpe:2.3:a:innopage:giga_hobby:*:*:*:*:*:*:*:*
 cpe:2.3:a:innoraft:login_time_restriction:*:*:*:*:*:*:*:*
 cpe:2.3:a:innorix:file_transfer_solution:*:*:*:*:*:*:*:*
@@ -60109,6 +60110,7 @@ cpe:2.3:a:salihciftci:liman:*:*:*:*:*:*:*:*
 cpe:2.3:a:salim_gasmi:gld:*:*:*:*:*:*:*:*
 cpe:2.3:a:salims_softhouse:jaf_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:salko:wp-svg:*:*:*:*:*:*:*:*
+cpe:2.3:a:salmen2:simple_faucet_script:*:*:*:*:*:*:*:*
 cpe:2.3:a:salmen:simple_faucet_script:*:*:*:*:*:*:*:*
 cpe:2.3:a:salome-platform:salome:*:*:*:*:*:*:*:*
 cpe:2.3:a:salon_booking_system:salon_booking_system:*:*:*:*:*:*:*:*
