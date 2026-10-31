@@ -47659,6 +47659,7 @@ cpe:2.3:a:nongnu:samizdat:*:*:*:*:*:*:*:*
 cpe:2.3:a:nongnu:zutils:*:*:*:*:*:*:*:*
 cpe:2.3:a:nonnoi_solutions:asp_barcode:*:*:*:*:*:*:*:*
 cpe:2.3:a:nonpolynomial:buttplug:*:*:*:*:*:*:*:*
+cpe:2.3:a:noobaa:noobaa:*:*:*:*:*:*:*:*
 cpe:2.3:a:noodlecake:super_stickman_golf:*:*:*:*:*:*:*:*
 cpe:2.3:a:noofs_team:network_object_oriented_file_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:nooms:nooms:*:*:*:*:*:*:*:*
@@ -54980,6 +54981,7 @@ cpe:2.3:a:pouchdb:pouchdb:*:*:*:*:*:*:*:*
 cpe:2.3:a:pouet:pouet2.0:*:*:*:*:*:*:*:*
 cpe:2.3:a:poul-henning_kamp:md5crypt:*:*:*:*:*:*:*:*
 cpe:2.3:a:poultry_farm_management_system_project:poultry_farm_management_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:pow-auth:assent:*:*:*:*:*:*:*:*
 cpe:2.3:a:powauth:pow:*:*:*:*:*:*:*:*
 cpe:2.3:a:powauth:powassent:*:*:*:*:*:*:*:*
 cpe:2.3:a:power-response_project:power-response:*:*:*:*:*:*:*:*
