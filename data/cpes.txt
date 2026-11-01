@@ -54969,6 +54969,7 @@ cpe:2.3:a:postsnippets:post_snippets:*:*:*:*:*:*:*:*
 cpe:2.3:a:postsrsd_prject:postsrsd:*:*:*:*:*:*:*:*
 cpe:2.3:a:postsrsd_project:postsrsd:*:*:*:*:*:*:*:*
 cpe:2.3:a:posttabs_project:posttabs:*:*:*:*:*:*:*:*
+cpe:2.3:a:postybirb_plus:postybirb_plus:*:*:*:*:*:*:*:*
 cpe:2.3:a:potato-scripts:potato_news:*:*:*:*:*:*:*:*
 cpe:2.3:a:potatosalad:erlang-jose:*:*:*:*:*:*:*:*
 cpe:2.3:a:potatosalad:jose:*:*:*:*:*:*:*:*
@@ -55200,6 +55201,7 @@ cpe:2.3:a:preprojects:pre_resume_submitter:*:*:*:*:*:*:*:*
 cpe:2.3:a:preprojects:pre_shopping_mall:*:*:*:*:*:*:*:*
 cpe:2.3:a:present-technologies:graffit_it:*:*:*:*:*:*:*:*
 cpe:2.3:a:presentcast_inc:tver:*:*:*:*:*:*:*:*
+cpe:2.3:a:presenton:presenton:*:*:*:*:*:*:*:*
 cpe:2.3:a:presidio:hai_build:*:*:*:*:*:*:*:*
 cpe:2.3:a:presire:qsnapper:*:*:*:*:*:*:*:*
 cpe:2.3:a:press_tigers:simple_event_planner:*:*:*:*:*:*:*:*
@@ -73646,6 +73648,8 @@ cpe:2.3:a:wavlink:wavrouter_app:*:*:*:*:*:*:*:*
 cpe:2.3:a:wavlink:wl-nu516u1-a:*:*:*:*:*:*:*:*
 cpe:2.3:a:wavlink:wl-wn530be1-a:*:*:*:*:*:*:*:*
 cpe:2.3:a:wavlink:wl-wn530be2-a:*:*:*:*:*:*:*:*
+cpe:2.3:a:wavlink:wl-wn530hg4b:*:*:*:*:*:*:*:*
+cpe:2.3:a:wavlink:wl-wn579a3-a:*:*:*:*:*:*:*:*
 cpe:2.3:a:wavlink:wl-wn592ax6:*:*:*:*:*:*:*:*
 cpe:2.3:a:wavlink:wl_wnj575a3:*:*:*:*:*:*:*:*
 cpe:2.3:a:wavlink:wn529:*:*:*:*:*:*:*:*
@@ -73661,6 +73665,7 @@ cpe:2.3:a:wavlink:wn557:*:*:*:*:*:*:*:*
 cpe:2.3:a:wavlink:wn570h:*:*:*:*:*:*:*:*
 cpe:2.3:a:wavlink:wn572:*:*:*:*:*:*:*:*
 cpe:2.3:a:wavlink:wn573:*:*:*:*:*:*:*:*
+cpe:2.3:a:wavlink:wn579x3-d:*:*:*:*:*:*:*:*
 cpe:2.3:a:wavpack:wavpack:*:*:*:*:*:*:*:*
 cpe:2.3:a:wavpack_project:wavpack:*:*:*:*:*:*:*:*
 cpe:2.3:a:wawacu:wawa_employees_credit_union_mobile:*:*:*:*:*:*:*:*
