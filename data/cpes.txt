@@ -28338,6 +28338,7 @@ cpe:2.3:a:horde:wicked:*:*:*:*:*:*:*:*
 cpe:2.3:a:horea_radu:one_page_express_companion:*:*:*:*:*:*:*:*
 cpe:2.3:a:horilla:horilla:*:*:*:*:*:*:*:*
 cpe:2.3:a:horizon921:mcpilot:*:*:*:*:*:*:*:*
+cpe:2.3:a:horizon_datasys:reboot_restore_standard:*:*:*:*:*:*:*:*
 cpe:2.3:a:horizon_project:horizon:*:*:*:*:*:*:*:*
 cpe:2.3:a:horizon_quick_content_management_system_project:horizon_quick_content_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:horizoncloud:caterease:*:*:*:*:*:*:*:*
@@ -39973,6 +39974,7 @@ cpe:2.3:a:lucvil:patplayer:*:*:*:*:*:*:*:*
 cpe:2.3:a:lucygames:com_lucygames:*:*:*:*:*:*:*:*
 cpe:2.3:a:lucyparsonslabs:openoversight:*:*:*:*:*:*:*:*
 cpe:2.3:a:lucysecurity:security_awareness:*:*:*:*:*:*:*:*
+cpe:2.3:a:lud:jsv:*:*:*:*:*:*:*:*
 cpe:2.3:a:lud:oaskit:*:*:*:*:*:*:*:*
 cpe:2.3:a:ludashi:ludashi_driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:ludek:better_anchor_links:*:*:*:*:*:*:*:*
@@ -73663,6 +73665,7 @@ cpe:2.3:a:wavlink:wn535:*:*:*:*:*:*:*:*
 cpe:2.3:a:wavlink:wn535m1:*:*:*:*:*:*:*:*
 cpe:2.3:a:wavlink:wn536:*:*:*:*:*:*:*:*
 cpe:2.3:a:wavlink:wn551:*:*:*:*:*:*:*:*
+cpe:2.3:a:wavlink:wn553x1-b:*:*:*:*:*:*:*:*
 cpe:2.3:a:wavlink:wn557:*:*:*:*:*:*:*:*
 cpe:2.3:a:wavlink:wn570h:*:*:*:*:*:*:*:*
 cpe:2.3:a:wavlink:wn572:*:*:*:*:*:*:*:*
