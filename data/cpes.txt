@@ -26905,6 +26905,7 @@ cpe:2.3:a:hangzhou_meisoft_information_technology:finesoft:*:*:*:*:*:*:*:*
 cpe:2.3:a:hangzhou_network_technology_development:ediorcms:*:*:*:*:*:*:*:*
 cpe:2.3:a:hangzhou_rui-qiang:richstrong_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:hangzhou_shunwang_technology:shzh:*:*:*:*:*:*:*:*
+cpe:2.3:a:hangzhou_xiongmai_technology:p2papi.dll:*:*:*:*:*:*:*:*
 cpe:2.3:a:hankcs:hanlp:*:*:*:*:*:*:*:*
 cpe:2.3:a:hannonhill:cascade:*:*:*:*:*:*:*:*
 cpe:2.3:a:hans_alshoff:minalic:*:*:*:*:*:*:*:*
