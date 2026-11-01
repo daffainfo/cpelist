@@ -16627,6 +16627,7 @@ cpe:2.3:a:delete_account_project:delete_account:*:*:*:*:*:*:*:*
 cpe:2.3:a:delete_all_comments_easily_project:delete_all_comments_easily:*:*:*:*:*:*:*:*
 cpe:2.3:a:delete_all_comments_project:delete_all_comments:*:*:*:*:*:*:*:*
 cpe:2.3:a:deleteoldorders_project:delete_old_orders:*:*:*:*:*:*:*:*
+cpe:2.3:a:delgan:loguru:*:*:*:*:*:*:*:*
 cpe:2.3:a:delhivery:logistics_courier:*:*:*:*:*:*:*:*
 cpe:2.3:a:deliantra:deliantra:*:*:*:*:*:*:*:*
 cpe:2.3:a:delicia:delicia:*:*:*:*:*:*:*:*
