@@ -54726,6 +54726,7 @@ cpe:2.3:a:pogidude:magic_action_box:*:*:*:*:*:*:*:*
 cpe:2.3:a:poikosoft:ez_cd_audio_converter:*:*:*:*:*:*:*:*
 cpe:2.3:a:point-cli_project:point-cli:*:*:*:*:*:*:*:*
 cpe:2.3:a:point-to-point_protocol_project:point-to-point_protocol:*:*:*:*:*:*:*:*
+cpe:2.3:a:point_b_ltd:getscreen_agent:*:*:*:*:*:*:*:*
 cpe:2.3:a:point_cloud_library:pcl:*:*:*:*:*:*:*:*
 cpe:2.3:a:point_of_sales_in_php\/pdo_project:point_of_sales_in_php\/pdo:*:*:*:*:*:*:*:*
 cpe:2.3:a:pointclouds:point_cloud_library:*:*:*:*:*:*:*:*
@@ -56535,6 +56536,7 @@ cpe:2.3:a:qt:qt:*:*:*:*:*:*:*:*
 cpe:2.3:a:qt:qt_network_authorization:*:*:*:*:*:*:*:*
 cpe:2.3:a:qt:qtbase:*:*:*:*:*:*:*:*
 cpe:2.3:a:qt:qtdeclarative:*:*:*:*:*:*:*:*
+cpe:2.3:a:qt:qtmqtt:*:*:*:*:*:*:*:*
 cpe:2.3:a:qt:qtsvg:*:*:*:*:*:*:*:*
 cpe:2.3:a:qt:qtwebkit:*:*:*:*:*:*:*:*
 cpe:2.3:a:qt:qxmlsimplereader:*:*:*:*:*:*:*:*
