@@ -7582,6 +7582,7 @@ cpe:2.3:a:bedita:bedita:*:*:*:*:*:*:*:*
 cpe:2.3:a:beds24:online_booking:*:*:*:*:*:*:*:*
 cpe:2.3:a:beecms:beecms:*:*:*:*:*:*:*:*
 cpe:2.3:a:beecrypt_project:beecrypt:*:*:*:*:*:*:*:*
+cpe:2.3:a:beecue:fastbee:*:*:*:*:*:*:*:*
 cpe:2.3:a:beef_project:beef:*:*:*:*:*:*:*:*
 cpe:2.3:a:beego:beego:*:*:*:*:*:*:*:*
 cpe:2.3:a:beehive_forum:beehive_forum:*:*:*:*:*:*:*:*
@@ -59785,6 +59786,11 @@ cpe:2.3:a:rudrasoftech:edusec:*:*:*:*:*:*:*:*
 cpe:2.3:a:rufus_project:rufus:*:*:*:*:*:*:*:*
 cpe:2.3:a:ruifang-tech:rebuild:*:*:*:*:*:*:*:*
 cpe:2.3:a:ruijie:eg105g-p:*:*:*:*:*:*:*:*
+cpe:2.3:a:ruijie:rg-es205gc:*:*:*:*:*:*:*:*
+cpe:2.3:a:ruijie:rg-es206gc-p:*:*:*:*:*:*:*:*
+cpe:2.3:a:ruijie:rg-es208gc:*:*:*:*:*:*:*:*
+cpe:2.3:a:ruijie:rg-es210gc-lp:*:*:*:*:*:*:*:*
+cpe:2.3:a:ruijie:rg-es210gs-p:*:*:*:*:*:*:*:*
 cpe:2.3:a:ruijie:rg-ew3000gx:*:*:*:*:*:*:*:*
 cpe:2.3:a:ruijie:rg-uac:*:*:*:*:*:*:*:*
 cpe:2.3:a:ruijie:rg_uac:*:*:*:*:*:*:*:*
