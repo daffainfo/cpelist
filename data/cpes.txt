@@ -2438,6 +2438,7 @@ cpe:2.3:a:akkadianlabs:ova_appliance:*:*:*:*:*:*:*:*
 cpe:2.3:a:akkadianlabs:provisioning_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:akky:7-zip32.dll:*:*:*:*:*:*:*:*
 cpe:2.3:a:aklamator:infeed:*:*:*:*:*:*:*:*
+cpe:2.3:a:aklivity:zilla:*:*:*:*:*:*:*:*
 cpe:2.3:a:akocomment:akocomment:*:*:*:*:*:*:*:*
 cpe:2.3:a:akopia:akopia_interchange:*:*:*:*:*:*:*:*
 cpe:2.3:a:akopia:minivend:*:*:*:*:*:*:*:*
@@ -16579,6 +16580,7 @@ cpe:2.3:a:deepseek:deepseek-v2:*:*:*:*:*:*:*:*
 cpe:2.3:a:deepseek:deepseek-v3:*:*:*:*:*:*:*:*
 cpe:2.3:a:deepseek:deepseek:*:*:*:*:*:*:*:*
 cpe:2.3:a:deepseek:harness:*:*:*:*:*:*:*:*
+cpe:2.3:a:deepset-ai:farm:*:*:*:*:*:*:*:*
 cpe:2.3:a:deepset:haystack:*:*:*:*:*:*:*:*
 cpe:2.3:a:deepsoft:weblibrarian:*:*:*:*:*:*:*:*
 cpe:2.3:a:deepthought.industries:ace_scanner:*:*:*:*:*:*:*:*
@@ -68381,6 +68383,7 @@ cpe:2.3:a:terminalfour:terminalfour:*:*:*:*:*:*:*:*
 cpe:2.3:a:terminalfour:xml_jdbc:*:*:*:*:*:*:*:*
 cpe:2.3:a:terminfo-base_project:terminfo-base:*:*:*:*:*:*:*:*
 cpe:2.3:a:termius:termius:*:*:*:*:*:*:*:*
+cpe:2.3:a:termix-ssh:termix:*:*:*:*:*:*:*:*
 cpe:2.3:a:termix:termix:*:*:*:*:*:*:*:*
 cpe:2.3:a:termly:gdpr_cookie_consent_banner:*:*:*:*:*:*:*:*
 cpe:2.3:a:termpkg_project:termpkg:*:*:*:*:*:*:*:*
@@ -73345,6 +73348,8 @@ cpe:2.3:a:vsphere_selfuse_project:vsphere_selfuse:*:*:*:*:*:*:*:*
 cpe:2.3:a:vspin.net:classified_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:vstakhov:libucl:*:*:*:*:*:*:*:*
 cpe:2.3:a:vstarcam:eye4:*:*:*:*:*:*:*:*
+cpe:2.3:a:vstarcam:o-kam_client:*:*:*:*:*:*:*:*
+cpe:2.3:a:vstarcam:o-kam_superipcam:*:*:*:*:*:*:*:*
 cpe:2.3:a:vt-forum:vt-forum:*:*:*:*:*:*:*:*
 cpe:2.3:a:vt-forum:vt-forum_lite:*:*:*:*:*:*:*:*
 cpe:2.3:a:vt.rovno:asp_vt_auth:*:*:*:*:*:*:*:*
@@ -73673,6 +73678,7 @@ cpe:2.3:a:wavlink:wn535m1:*:*:*:*:*:*:*:*
 cpe:2.3:a:wavlink:wn536:*:*:*:*:*:*:*:*
 cpe:2.3:a:wavlink:wn536ax6-a:*:*:*:*:*:*:*:*
 cpe:2.3:a:wavlink:wn551:*:*:*:*:*:*:*:*
+cpe:2.3:a:wavlink:wn551x3-a:*:*:*:*:*:*:*:*
 cpe:2.3:a:wavlink:wn553x1-b:*:*:*:*:*:*:*:*
 cpe:2.3:a:wavlink:wn557:*:*:*:*:*:*:*:*
 cpe:2.3:a:wavlink:wn570h:*:*:*:*:*:*:*:*
@@ -74252,6 +74258,7 @@ cpe:2.3:a:webportal:webportal_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:webportal_cms_project:webportal_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:webprancer:garfield\'s_defense:*:*:*:*:*:*:*:*
 cpe:2.3:a:webprancer:garfield\'s_diner:*:*:*:*:*:*:*:*
+cpe:2.3:a:webpro-nl:knip:*:*:*:*:*:*:*:*
 cpe:2.3:a:webprojectdb:webprojectdb:*:*:*:*:*:*:*:*
 cpe:2.3:a:webpromoexperts:webpromoexperts:*:*:*:*:*:*:*:*
 cpe:2.3:a:webpros:plesk_obsidian:*:*:*:*:*:*:*:*
