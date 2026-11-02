@@ -3632,6 +3632,7 @@ cpe:2.3:a:andy_mack:35mmslidegallery:*:*:*:*:*:*:*:*
 cpe:2.3:a:andy_prevost:ttcms:*:*:*:*:*:*:*:*
 cpe:2.3:a:andy_stedemos:the_uploader:*:*:*:*:*:*:*:*
 cpe:2.3:a:andybalholm:brotli:*:*:*:*:*:*:*:*
+cpe:2.3:a:andyfactory:newspaper4k:*:*:*:*:*:*:*:*
 cpe:2.3:a:andymoyle:church_admin:*:*:*:*:*:*:*:*
 cpe:2.3:a:andynorman:gnuserv:*:*:*:*:*:*:*:*
 cpe:2.3:a:andypalmer:post_lockdown:*:*:*:*:*:*:*:*
@@ -32465,6 +32466,7 @@ cpe:2.3:a:intel:crypto_api_toolkit_for_intel_sgx:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:cryptography_for_intel_integrated_performance_primitives:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:csi2_host_controller:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:data_analytics_acceleration_library:*:*:*:*:*:*:*:*
+cpe:2.3:a:intel:data_center_attestation_primitives:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:data_center_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:data_migration:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:data_migration_software:*:*:*:*:*:*:*:*
@@ -32516,6 +32518,7 @@ cpe:2.3:a:intel:ethernet_diagnostics_driver_iqvw64.sys:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:ethernet_i218_adapter_driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:expressway_cloud_access_360:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:extension_for_pytorch:*:*:*:*:*:*:*:*
+cpe:2.3:a:intel:extension_for_tensorflow:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:extreme_tuning_utility:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:field_programmable_gate_array_crypto_service_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:field_programmable_gate_array_software_development_kit_for_opencl:*:*:*:*:*:*:*:*
@@ -32593,6 +32596,8 @@ cpe:2.3:a:intel:license_manager_for_flexim:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:license_manager_for_flexlm_product_software:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:linux_intel_lts_kernel:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:lldptool:*:*:*:*:*:*:*:*
+cpe:2.3:a:intel:llm-scaler-vllm:*:*:*:*:*:*:*:*
+cpe:2.3:a:intel:llm_library_for_pytorch:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:local_manageability_service:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:maccpuid:*:*:*:*:*:*:*:*
 cpe:2.3:a:intel:mailbox_interface_driver:*:*:*:*:*:*:*:*
@@ -56112,6 +56117,7 @@ cpe:2.3:a:pxsystem:plume-cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:pxz_project:pxz:*:*:*:*:*:*:*:*
 cpe:2.3:a:py-lmdb_project:py-lmdb:*:*:*:*:*:*:*:*
 cpe:2.3:a:py-membres:py-membres:*:*:*:*:*:*:*:*
+cpe:2.3:a:py-pdf:pypdf:*:*:*:*:*:*:*:*
 cpe:2.3:a:py-xml_project:py-xml:*:*:*:*:*:*:*:*
 cpe:2.3:a:py2play:py2play:*:*:*:*:*:*:*:*
 cpe:2.3:a:py7zr_project:py7zr:*:*:*:*:*:*:*:*
@@ -62593,6 +62599,7 @@ cpe:2.3:a:sielcosistemi:winlog_lite:*:*:*:*:*:*:*:*
 cpe:2.3:a:sielcosistemi:winlog_pro:*:*:*:*:*:*:*:*
 cpe:2.3:a:sielox:anyware:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens-healthineers:syngo_fastview:*:*:*:*:*:*:*:*
+cpe:2.3:a:siemens:amis_ts:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:automation_license_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:brownfield_connectivity_gateway:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:cadra:*:*:*:*:*:*:*:*
@@ -62988,6 +62995,7 @@ cpe:2.3:a:siemens:spectrum_power_4:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:spectrum_power_5:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:spectrum_power_7:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:spectrum_power_microgrid_management_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:siemens:spectrum_power_tg:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:sppa-t3000_application_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:sppa-t3000_ms3000_migration_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:st7_scadaconnect:*:*:*:*:*:*:*:*
@@ -114919,6 +114927,12 @@ cpe:2.3:h:intel:xeon_d-1746ter:*:*:*:*:*:*:*:*
 cpe:2.3:h:intel:xeon_d-1747nte:*:*:*:*:*:*:*:*
 cpe:2.3:h:intel:xeon_d-1748te:*:*:*:*:*:*:*:*
 cpe:2.3:h:intel:xeon_d-1749nt:*:*:*:*:*:*:*:*
+cpe:2.3:h:intel:xeon_d-1813nt:*:*:*:*:*:*:*:*
+cpe:2.3:h:intel:xeon_d-1823nt:*:*:*:*:*:*:*:*
+cpe:2.3:h:intel:xeon_d-1834:*:*:*:*:*:*:*:*
+cpe:2.3:h:intel:xeon_d-1844nt:*:*:*:*:*:*:*:*
+cpe:2.3:h:intel:xeon_d-1846:*:*:*:*:*:*:*:*
+cpe:2.3:h:intel:xeon_d-1848ter:*:*:*:*:*:*:*:*
 cpe:2.3:h:intel:xeon_d-2123it:*:*:*:*:*:*:*:*
 cpe:2.3:h:intel:xeon_d-2141i:*:*:*:*:*:*:*:*
 cpe:2.3:h:intel:xeon_d-2142it:*:*:*:*:*:*:*:*
@@ -114936,6 +114950,7 @@ cpe:2.3:h:intel:xeon_d-2191:*:*:*:*:*:*:*:*
 cpe:2.3:h:intel:xeon_d-2712t:*:*:*:*:*:*:*:*
 cpe:2.3:h:intel:xeon_d-2733nt:*:*:*:*:*:*:*:*
 cpe:2.3:h:intel:xeon_d-2738:*:*:*:*:*:*:*:*
+cpe:2.3:h:intel:xeon_d-2739nt:*:*:*:*:*:*:*:*
 cpe:2.3:h:intel:xeon_d-2745nx:*:*:*:*:*:*:*:*
 cpe:2.3:h:intel:xeon_d-2752nte:*:*:*:*:*:*:*:*
 cpe:2.3:h:intel:xeon_d-2752ter:*:*:*:*:*:*:*:*
@@ -114953,6 +114968,12 @@ cpe:2.3:h:intel:xeon_d-2796te:*:*:*:*:*:*:*:*
 cpe:2.3:h:intel:xeon_d-2798nt:*:*:*:*:*:*:*:*
 cpe:2.3:h:intel:xeon_d-2798nx:*:*:*:*:*:*:*:*
 cpe:2.3:h:intel:xeon_d-2799:*:*:*:*:*:*:*:*
+cpe:2.3:h:intel:xeon_d-2832nt:*:*:*:*:*:*:*:*
+cpe:2.3:h:intel:xeon_d-2843nt:*:*:*:*:*:*:*:*
+cpe:2.3:h:intel:xeon_d-2876nt:*:*:*:*:*:*:*:*
+cpe:2.3:h:intel:xeon_d-2896nt:*:*:*:*:*:*:*:*
+cpe:2.3:h:intel:xeon_d-2896ter:*:*:*:*:*:*:*:*
+cpe:2.3:h:intel:xeon_d-2899nt:*:*:*:*:*:*:*:*
 cpe:2.3:h:intel:xeon_d1553n:*:*:*:*:*:*:*:*
 cpe:2.3:h:intel:xeon_d1700:*:*:*:*:*:*:*:*
 cpe:2.3:h:intel:xeon_d2700:*:*:*:*:*:*:*:*
@@ -134562,6 +134583,8 @@ cpe:2.3:h:siemens:axiom_multix_m:*:*:*:*:*:*:*:*
 cpe:2.3:h:siemens:axiom_vertix_md_trauma:*:*:*:*:*:*:*:*
 cpe:2.3:h:siemens:axiom_vertix_solitaire_m:*:*:*:*:*:*:*:*
 cpe:2.3:h:siemens:biograph_horizon_pet\/ct_systems:*:*:*:*:*:*:*:*
+cpe:2.3:h:siemens:blueplanet_360_nx3_m6_wm_od_iisx-s:*:*:*:*:*:*:*:*
+cpe:2.3:h:siemens:blueplanet_360_nx3_m6_wm_od_iisx:*:*:*:*:*:*:*:*
 cpe:2.3:h:siemens:ccid1445-dn18:*:*:*:*:*:*:*:*
 cpe:2.3:h:siemens:ccid1445-dn28:*:*:*:*:*:*:*:*
 cpe:2.3:h:siemens:ccid1445-dn36:*:*:*:*:*:*:*:*
@@ -168549,6 +168572,12 @@ cpe:2.3:o:intel:xeon_d-1746ter_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:intel:xeon_d-1747nte_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:intel:xeon_d-1748te_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:intel:xeon_d-1749nt_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:intel:xeon_d-1813nt_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:intel:xeon_d-1823nt_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:intel:xeon_d-1834_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:intel:xeon_d-1844nt_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:intel:xeon_d-1846_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:intel:xeon_d-1848ter_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:intel:xeon_d-2123it_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:intel:xeon_d-2141i_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:intel:xeon_d-2142it_firmware:*:*:*:*:*:*:*:*
@@ -168566,6 +168595,7 @@ cpe:2.3:o:intel:xeon_d-2191_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:intel:xeon_d-2712t_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:intel:xeon_d-2733nt_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:intel:xeon_d-2738_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:intel:xeon_d-2739nt_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:intel:xeon_d-2745nx_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:intel:xeon_d-2752nte_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:intel:xeon_d-2752ter_firmware:*:*:*:*:*:*:*:*
@@ -168583,6 +168613,12 @@ cpe:2.3:o:intel:xeon_d-2796te_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:intel:xeon_d-2798nt_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:intel:xeon_d-2798nx_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:intel:xeon_d-2799_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:intel:xeon_d-2832nt_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:intel:xeon_d-2843nt_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:intel:xeon_d-2876nt_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:intel:xeon_d-2896nt_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:intel:xeon_d-2896ter_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:intel:xeon_d-2899nt_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:intel:xeon_d1700_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:intel:xeon_d2700_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:intel:xeon_d_2000_series_firmware:*:*:*:*:*:*:*:*
@@ -185386,6 +185422,8 @@ cpe:2.3:o:siemens:axiom_multix_m_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:siemens:axiom_vertix_md_trauma_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:siemens:axiom_vertix_solitaire_m_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:siemens:biograph_horizon_pet\/ct_systems_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:siemens:blueplanet_360_nx3_m6_wm_od_iisx-s_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:siemens:blueplanet_360_nx3_m6_wm_od_iisx_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:siemens:cardos:*:*:*:*:*:*:*:*
 cpe:2.3:o:siemens:ccid1445-dn18_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:siemens:ccid1445-dn28_firmware:*:*:*:*:*:*:*:*
