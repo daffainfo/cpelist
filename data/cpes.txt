@@ -42550,6 +42550,7 @@ cpe:2.3:a:microsoft:azure-keyvault-certificates:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure-keyvault-keys:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure-keyvault-secrets:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure-keyvault-securitydomain:*:*:*:*:*:*:*:*
+cpe:2.3:a:microsoft:azure-storage-blob-batch:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure-umqtt-c:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure\/msal-node:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_active_directory:*:*:*:*:*:*:*:*
@@ -53720,7 +53721,10 @@ cpe:2.3:a:phpmoneybooks:phpmoneybooks:*:*:*:*:*:*:*:*
 cpe:2.3:a:phpmotion:phpmotion:*:*:*:*:*:*:*:*
 cpe:2.3:a:phpmultiplenewsletters:phpmultiplenewsletters:*:*:*:*:*:*:*:*
 cpe:2.3:a:phpmussel_project:phpmussel:*:*:*:*:*:*:*:*
+cpe:2.3:a:phpmyadmin:motranslator:*:*:*:*:*:*:*:*
 cpe:2.3:a:phpmyadmin:phpmyadmin:*:*:*:*:*:*:*:*
+cpe:2.3:a:phpmyadmin:shapefile:*:*:*:*:*:*:*:*
+cpe:2.3:a:phpmyadmin:sql-parser:*:*:*:*:*:*:*:*
 cpe:2.3:a:phpmyagenda:phpmyagenda:*:*:*:*:*:*:*:*
 cpe:2.3:a:phpmybackuppro:phpmybackuppro:*:*:*:*:*:*:*:*
 cpe:2.3:a:phpmybibli:phpmybibli:*:*:*:*:*:*:*:*
