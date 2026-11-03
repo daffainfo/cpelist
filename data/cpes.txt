@@ -56543,6 +56543,7 @@ cpe:2.3:a:qt:qt5compat:*:*:*:*:*:*:*:*
 cpe:2.3:a:qt:qt:*:*:*:*:*:*:*:*
 cpe:2.3:a:qt:qt_network_authorization:*:*:*:*:*:*:*:*
 cpe:2.3:a:qt:qtbase:*:*:*:*:*:*:*:*
+cpe:2.3:a:qt:qtcoap:*:*:*:*:*:*:*:*
 cpe:2.3:a:qt:qtdeclarative:*:*:*:*:*:*:*:*
 cpe:2.3:a:qt:qtmqtt:*:*:*:*:*:*:*:*
 cpe:2.3:a:qt:qtsvg:*:*:*:*:*:*:*:*
