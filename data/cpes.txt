@@ -7528,7 +7528,7 @@ cpe:2.3:a:beaker-project:beaker:*:*:*:*:*:*:*:*
 cpe:2.3:a:beakerbrowser:beaker:*:*:*:*:*:*:*:*
 cpe:2.3:a:beakon:beakon:*:*:*:*:*:*:*:*
 cpe:2.3:a:beakon:learning_management_system_sharable_content_object_reference_model:*:*:*:*:*:*:*:*
-cpe:2.3:a:beam:beta9:*:*:*:*:*:*:*:*
+cpe:2.3:a:beam:beta9_worker:*:*:*:*:*:*:*:*
 cpe:2.3:a:bean_project:bean:*:*:*:*:*:*:*:*
 cpe:2.3:a:beanshell:beanshell:*:*:*:*:*:*:*:*
 cpe:2.3:a:beanshell_project:beanshell:*:*:*:*:*:*:*:*
@@ -19254,6 +19254,7 @@ cpe:2.3:a:echelon:i.lon_vision:*:*:*:*:*:*:*:*
 cpe:2.3:a:echo:anti_cheat_tool:*:*:*:*:*:*:*:*
 cpe:2.3:a:echo_project:echo:*:*:*:*:*:*:*:*
 cpe:2.3:a:echobh:sharecare:*:*:*:*:*:*:*:*
+cpe:2.3:a:echohs:geekezbrowser:*:*:*:*:*:*:*:*
 cpe:2.3:a:echonewshk:echo_news:*:*:*:*:*:*:*:*
 cpe:2.3:a:echoping_project:echoping:*:*:*:*:*:*:*:*
 cpe:2.3:a:echoplugins:knowledge_base_for_documentation_faqs_with_ai_assistance:*:*:*:*:*:*:*:*
@@ -35993,6 +35994,7 @@ cpe:2.3:a:joomplace:survey_force_deluxe:*:*:*:*:*:*:*:*
 cpe:2.3:a:joompolitan:com_livechat:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomprod:com_versioning:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomservices:com_dms:*:*:*:*:*:*:*:*
+cpe:2.3:a:joomshaper:sp_movie_database:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomshaper:standard_pro_movie_database:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomshark:com_jsjobs:*:*:*:*:*:*:*:*
 cpe:2.3:a:joomsky:js_autoz:*:*:*:*:*:*:*:*
