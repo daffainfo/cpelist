@@ -74532,6 +74532,7 @@ cpe:2.3:a:welaunch:wordpress_country_selector:*:*:*:*:*:*:*:*
 cpe:2.3:a:welaunch:wordpress_gdpr:*:*:*:*:*:*:*:*
 cpe:2.3:a:welaunch:wordpress_gdpr\&ccpa:*:*:*:*:*:*:*:*
 cpe:2.3:a:welcart:e-commerce:*:*:*:*:*:*:*:*
+cpe:2.3:a:welcart:e-commerce_plugin:*:*:*:*:*:*:*:*
 cpe:2.3:a:welcart:welcart:*:*:*:*:*:*:*:*
 cpe:2.3:a:welcart:welcart_e-commerce:*:*:*:*:*:*:*:*
 cpe:2.3:a:welcart:welcart_plugin:*:*:*:*:*:*:*:*
