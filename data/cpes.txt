@@ -19165,6 +19165,7 @@ cpe:2.3:a:easysitenetwork:recipe_website_script:*:*:*:*:*:*:*:*
 cpe:2.3:a:easysitenetwork:riddles_website:*:*:*:*:*:*:*:*
 cpe:2.3:a:easysitenetwork:tips_complete_website:*:*:*:*:*:*:*:*
 cpe:2.3:a:easysocialfeed:easy_social_feed:*:*:*:*:*:*:*:*
+cpe:2.3:a:easysoft:zentao_pms:*:*:*:*:*:*:*:*
 cpe:2.3:a:easyspider:easyspider:*:*:*:*:*:*:*:*
 cpe:2.3:a:easytest:easytest_online_test_platform:*:*:*:*:*:*:*:*
 cpe:2.3:a:easytimestudio:easy_file_manager:*:*:*:*:*:*:*:*
@@ -27318,6 +27319,7 @@ cpe:2.3:a:hdwplayer:hdw-player-video-player-video-gallery:*:*:*:*:*:*:*:*
 cpe:2.3:a:hdwplayer:hdw_player:*:*:*:*:*:*:*:*
 cpe:2.3:a:he3app:he3_app:*:*:*:*:*:*:*:*
 cpe:2.3:a:headless-browser-lite_project:headless-browser-lite:*:*:*:*:*:*:*:*
+cpe:2.3:a:headless_cms_plugin:headless_cms_plugin:*:*:*:*:*:*:*:*
 cpe:2.3:a:headlight_software:mygetright:*:*:*:*:*:*:*:*
 cpe:2.3:a:headlightinc:getright:*:*:*:*:*:*:*:*
 cpe:2.3:a:headlines_news_india_project:headlines_news_india:*:*:*:*:*:*:*:*
@@ -66253,6 +66255,7 @@ cpe:2.3:a:sumanbhattarai:send_users_email:*:*:*:*:*:*:*:*
 cpe:2.3:a:sumaria:afway_cbt:*:*:*:*:*:*:*:*
 cpe:2.3:a:sumatrapdfreader:sumatrapdf:*:*:*:*:*:*:*:*
 cpe:2.3:a:sumeffect:digishop:*:*:*:*:*:*:*:*
+cpe:2.3:a:sumiie24:school-management-system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sumitomoelectricinformationsystems:rakrak_document_plus:*:*:*:*:*:*:*:*
 cpe:2.3:a:summar:mentor:*:*:*:*:*:*:*:*
 cpe:2.3:a:summarsoftware:mentor_employee_portal:*:*:*:*:*:*:*:*
@@ -71482,6 +71485,7 @@ cpe:2.3:a:ultrix:dxterm:*:*:*:*:*:*:*:*
 cpe:2.3:a:ultrize:minibill:*:*:*:*:*:*:*:*
 cpe:2.3:a:ultrize:timesheet:*:*:*:*:*:*:*:*
 cpe:2.3:a:ulyssesonline:black-letterhead:*:*:*:*:*:*:*:*
+cpe:2.3:a:umami:umami:*:*:*:*:*:*:*:*
 cpe:2.3:a:umami:umami_analytics:*:*:*:*:*:*:*:*
 cpe:2.3:a:umanni:human_resources:*:*:*:*:*:*:*:*
 cpe:2.3:a:umask_project:umask:*:*:*:*:*:*:*:*
