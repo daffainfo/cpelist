@@ -77384,6 +77384,7 @@ cpe:2.3:a:yeti-platform:yeti:*:*:*:*:*:*:*:*
 cpe:2.3:a:yetiforce:yetiforce_customer_relationship_management:*:*:*:*:*:*:*:*
 cpe:2.3:a:yettiesoft:vestcert:*:*:*:*:*:*:*:*
 cpe:2.3:a:yevhenkotelnytskyi:js_\&_css_script_optimizer:*:*:*:*:*:*:*:*
+cpe:2.3:a:yezhihao:jt808-server:*:*:*:*:*:*:*:*
 cpe:2.3:a:yf-exam_project:yf-exam:*:*:*:*:*:*:*:*
 cpe:2.3:a:yfcmf:yfcmf:*:*:*:*:*:*:*:*
 cpe:2.3:a:ygopro:ygocore:*:*:*:*:*:*:*:*
