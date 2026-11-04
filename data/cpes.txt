@@ -56372,6 +56372,12 @@ cpe:2.3:a:qibosoft:qibocms:*:*:*:*:*:*:*:*
 cpe:2.3:a:qibosoft:qibocms_x1:*:*:*:*:*:*:*:*
 cpe:2.3:a:qibosoft:qibosoft:*:*:*:*:*:*:*:*
 cpe:2.3:a:qihoo:360_total_security:*:*:*:*:*:*:*:*
+cpe:2.3:a:qihoo_360:d600-2:*:*:*:*:*:*:*:*
+cpe:2.3:a:qihoo_360:d603-2:*:*:*:*:*:*:*:*
+cpe:2.3:a:qihoo_360:d606-6:*:*:*:*:*:*:*:*
+cpe:2.3:a:qihoo_360:d619:*:*:*:*:*:*:*:*
+cpe:2.3:a:qihoo_360:d621-2:*:*:*:*:*:*:*:*
+cpe:2.3:a:qihoo_360:d706:*:*:*:*:*:*:*:*
 cpe:2.3:a:qilecms:qilecms:*:*:*:*:*:*:*:*
 cpe:2.3:a:qiling:disk_master:*:*:*:*:*:*:*:*
 cpe:2.3:a:qimingjin:snow:*:*:*:*:*:*:*:*
@@ -127644,6 +127650,7 @@ cpe:2.3:h:qaulcomm:fsm9055:*:*:*:*:*:*:*:*
 cpe:2.3:h:qbeecam:qbee_multi-sensor_camera:*:*:*:*:*:*:*:*
 cpe:2.3:h:qcp:qcp200w:*:*:*:*:*:*:*:*
 cpe:2.3:h:qeiinc:epaq-9410_substation_gateway:*:*:*:*:*:*:*:*
+cpe:2.3:h:qihoo_360:whole_home_router_m5:*:*:*:*:*:*:*:*
 cpe:2.3:h:qiku:360_mobile_phone_n6_pro:*:*:*:*:*:*:*:*
 cpe:2.3:h:qlogic:ethernet:*:*:*:*:*:*:*:*
 cpe:2.3:h:qnap:ej1600:*:*:*:*:*:*:*:*
