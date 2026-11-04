@@ -4977,6 +4977,7 @@ cpe:2.3:a:arclogics:cch_teammate_nt_services:*:*:*:*:*:*:*:*
 cpe:2.3:a:arclogics:cch_teammate_tools:*:*:*:*:*:*:*:*
 cpe:2.3:a:arcms_project:arcms:*:*:*:*:*:*:*:*
 cpe:2.3:a:arco_van_geest:goof_fotoboek:*:*:*:*:*:*:*:*
+cpe:2.3:a:arcreel:arcreel:*:*:*:*:*:*:*:*
 cpe:2.3:a:arcserve:arcserve_unified_data_protection:*:*:*:*:*:*:*:*
 cpe:2.3:a:arcserve:brightstor:*:*:*:*:*:*:*:*
 cpe:2.3:a:arcserve:d2d:*:*:*:*:*:*:*:*
@@ -43891,6 +43892,7 @@ cpe:2.3:a:mirna_database_by_php_mysql_project:mirna_database_by_php_mysql:*:*:*:
 cpe:2.3:a:miro:miro:*:*:*:*:*:*:*:*
 cpe:2.3:a:miro:miro_player:*:*:*:*:*:*:*:*
 cpe:2.3:a:miro_international:galleria:*:*:*:*:*:*:*:*
+cpe:2.3:a:miroslavpejic85:mirotalk_p2p:*:*:*:*:*:*:*:*
 cpe:2.3:a:mirotalk:mirotalk_p2p:*:*:*:*:*:*:*:*
 cpe:2.3:a:mirror_manager_project:mirror_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:mirror_photo_\&_shape_project:mirror_photo_\&_shape:*:*:*:*:*:*:*:*
@@ -65193,6 +65195,7 @@ cpe:2.3:a:spatie:browsershot:*:*:*:*:*:*:*:*
 cpe:2.3:a:spatie:image_optimizer:*:*:*:*:*:*:*:*
 cpe:2.3:a:spatie:laravel_media_library:*:*:*:*:*:*:*:*
 cpe:2.3:a:spatie:scotty:*:*:*:*:*:*:*:*
+cpe:2.3:a:spatie:url-signer:*:*:*:*:*:*:*:*
 cpe:2.3:a:spaw_editor:spaw_php:*:*:*:*:*:*:*:*
 cpe:2.3:a:spawar.navy.mil:wwwwais.25.c:*:*:*:*:*:*:*:*
 cpe:2.3:a:spb:kiosk_engine:*:*:*:*:*:*:*:*
