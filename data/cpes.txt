@@ -19882,6 +19882,7 @@ cpe:2.3:a:elitecms:elitecms:*:*:*:*:*:*:*:*
 cpe:2.3:a:eliteladders:elite_gaming_ladders:*:*:*:*:*:*:*:*
 cpe:2.3:a:eliteshippertoken_project:eliteshippertoken:*:*:*:*:*:*:*:*
 cpe:2.3:a:eliteweaver:xclick_cart:*:*:*:*:*:*:*:*
+cpe:2.3:a:elixir-ecto:ecto:*:*:*:*:*:*:*:*
 cpe:2.3:a:elixir-ecto:postgrex:*:*:*:*:*:*:*:*
 cpe:2.3:a:elixir-grpc:grpc:*:*:*:*:*:*:*:*
 cpe:2.3:a:elixir-lang:elixir:*:*:*:*:*:*:*:*
