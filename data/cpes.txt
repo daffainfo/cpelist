@@ -16564,6 +16564,7 @@ cpe:2.3:a:deepak_anand:wp_dummy_content_generator:*:*:*:*:*:*:*:*
 cpe:2.3:a:deepakmisal24:chemical_inventory_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:deepcool:deepcreative:*:*:*:*:*:*:*:*
 cpe:2.3:a:deepcool:displayservice:*:*:*:*:*:*:*:*
+cpe:2.3:a:deepgraphlearning:knowledgegraphembedding:*:*:*:*:*:*:*:*
 cpe:2.3:a:deephas_project:deephas:*:*:*:*:*:*:*:*
 cpe:2.3:a:deepin:dde_file_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:deepin:deepin-clone:*:*:*:*:*:*:*:*
@@ -19420,6 +19421,7 @@ cpe:2.3:a:eddtoken_project:eddtoken:*:*:*:*:*:*:*:*
 cpe:2.3:a:eddyverbruggen:cordova-plugin-x-socialsharing:*:*:*:*:*:*:*:*
 cpe:2.3:a:edetw:u-office_force:*:*:*:*:*:*:*:*
 cpe:2.3:a:edex-ui_project:edex-ui:*:*:*:*:*:*:*:*
+cpe:2.3:a:edge0-ai:audio8_tts:*:*:*:*:*:*:*:*
 cpe:2.3:a:edge22:wp_show_posts:*:*:*:*:*:*:*:*
 cpe:2.3:a:edgegallery:developer-be:*:*:*:*:*:*:*:*
 cpe:2.3:a:edgenexus:application_delivery_controller:*:*:*:*:*:*:*:*
@@ -38147,6 +38149,7 @@ cpe:2.3:a:larts:uploader_activex_control:*:*:*:*:*:*:*:*
 cpe:2.3:a:larvata:flygo:*:*:*:*:*:*:*:*
 cpe:2.3:a:larvit:larvitbase:*:*:*:*:*:*:*:*
 cpe:2.3:a:lasernet_cms:lasernet_cms:*:*:*:*:*:*:*:*
+cpe:2.3:a:laspy:laspy:*:*:*:*:*:*:*:*
 cpe:2.3:a:last.fm:last.fm_desktop:*:*:*:*:*:*:*:*
 cpe:2.3:a:last.fm_rotation_plugin_project:lastfm-rotation_plugin:*:*:*:*:*:*:*:*
 cpe:2.3:a:last:last.fm:*:*:*:*:*:*:*:*
@@ -45519,6 +45522,7 @@ cpe:2.3:a:mysecureshell_project:mysecureshell:*:*:*:*:*:*:*:*
 cpe:2.3:a:myserver.alexcthomas18_project:myserver.alexcthomas18:*:*:*:*:*:*:*:*
 cpe:2.3:a:myserver:myserver:*:*:*:*:*:*:*:*
 cpe:2.3:a:myserverproject:myserver:*:*:*:*:*:*:*:*
+cpe:2.3:a:myshell-ai:ailice:*:*:*:*:*:*:*:*
 cpe:2.3:a:myshell:evalsmsi:*:*:*:*:*:*:*:*
 cpe:2.3:a:myshopkit:winters:*:*:*:*:*:*:*:*
 cpe:2.3:a:mysimplenews:mysimplenews:*:*:*:*:*:*:*:*
@@ -47443,6 +47447,7 @@ cpe:2.3:a:nlb-creations:scheduled_announcements_widget:*:*:*:*:*:*:*:*
 cpe:2.3:a:nlb-creationst:my_wish_list:*:*:*:*:*:*:*:*
 cpe:2.3:a:nlb:mklik_makedonija:*:*:*:*:*:*:*:*
 cpe:2.3:a:nlgis2_project:nlgis2:*:*:*:*:*:*:*:*
+cpe:2.3:a:nliautaud:pico-content-editor:*:*:*:*:*:*:*:*
 cpe:2.3:a:nliteos:nlite:*:*:*:*:*:*:*:*
 cpe:2.3:a:nllcom:acr_phone:*:*:*:*:*:*:*:*
 cpe:2.3:a:nlnet_labs:net_dns:*:*:*:*:*:*:*:*
@@ -49602,6 +49607,7 @@ cpe:2.3:a:openpne:opopensocialplugin:*:*:*:*:*:*:*:*
 cpe:2.3:a:openpne:optimelineplugin:*:*:*:*:*:*:*:*
 cpe:2.3:a:openpolicyagent:gatekeeper:*:*:*:*:*:*:*:*
 cpe:2.3:a:openpolicyagent:open_policy_agent:*:*:*:*:*:*:*:*
+cpe:2.3:a:openppl:ppl.nn:*:*:*:*:*:*:*:*
 cpe:2.3:a:openprinting:cpdb-libs:*:*:*:*:*:*:*:*
 cpe:2.3:a:openprinting:cups-browsed:*:*:*:*:*:*:*:*
 cpe:2.3:a:openprinting:cups-filters:*:*:*:*:*:*:*:*
@@ -56088,6 +56094,7 @@ cpe:2.3:a:purethemes:workscout_core:*:*:*:*:*:*:*:*
 cpe:2.3:a:purevpn:purevpn:*:*:*:*:*:*:*:*
 cpe:2.3:a:purity:purity:*:*:*:*:*:*:*:*
 cpe:2.3:a:purl_project:purl:*:*:*:*:*:*:*:*
+cpe:2.3:a:purocean:yank_note:*:*:*:*:*:*:*:*
 cpe:2.3:a:purplebeanie:com_pbbooking:*:*:*:*:*:*:*:*
 cpe:2.3:a:purvabathe:simple_image_popup_shortcode:*:*:*:*:*:*:*:*
 cpe:2.3:a:push-dir_project:push-dir:*:*:*:*:*:*:*:*
