@@ -382,6 +382,7 @@ cpe:2.3:a:68_classifieds:68_classifieds:*:*:*:*:*:*:*:*
 cpe:2.3:a:68classifieds:68_classifieds:*:*:*:*:*:*:*:*
 cpe:2.3:a:68k:audio_file_library:*:*:*:*:*:*:*:*
 cpe:2.3:a:68k:audiofile:*:*:*:*:*:*:*:*
+cpe:2.3:a:6amtech:6valley:*:*:*:*:*:*:*:*
 cpe:2.3:a:6kare:emakin:*:*:*:*:*:*:*:*
 cpe:2.3:a:6kbbs:6kbbs:*:*:*:*:*:*:*:*
 cpe:2.3:a:6rbscript:6rbscript:*:*:*:*:*:*:*:*
@@ -14147,6 +14148,7 @@ cpe:2.3:a:cometd:cometd:*:*:*:*:*:*:*:*
 cpe:2.3:a:comex:shlex:*:*:*:*:*:*:*:*
 cpe:2.3:a:comfast:cf-n1-s:*:*:*:*:*:*:*:*
 cpe:2.3:a:comfast:cf-wr631ax_v3:*:*:*:*:*:*:*:*
+cpe:2.3:a:comfast:cf-wr632ax:*:*:*:*:*:*:*:*
 cpe:2.3:a:comforte:swap:*:*:*:*:*:*:*:*
 cpe:2.3:a:comfy:comfyui-manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:comfy:comfyui:*:*:*:*:*:*:*:*
@@ -16103,6 +16105,7 @@ cpe:2.3:a:datalenstech:datalens:*:*:*:*:*:*:*:*
 cpe:2.3:a:datalex:airline_booking_software:*:*:*:*:*:*:*:*
 cpe:2.3:a:datalex:bookit_consumer:*:*:*:*:*:*:*:*
 cpe:2.3:a:datalifecms:datalife_engine:*:*:*:*:*:*:*:*
+cpe:2.3:a:datalinkdc:dinky:*:*:*:*:*:*:*:*
 cpe:2.3:a:dataload:dataload:*:*:*:*:*:*:*:*
 cpe:2.3:a:datalogic:dxu:*:*:*:*:*:*:*:*
 cpe:2.3:a:datalust:seq.app.emailplus:*:*:*:*:*:*:*:*
@@ -20293,6 +20296,7 @@ cpe:2.3:a:emophp:emo_realty_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:emorym:android_pusher:*:*:*:*:*:*:*:*
 cpe:2.3:a:emotion:mediapartner_web_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:empire_server:empire_server:*:*:*:*:*:*:*:*
+cpe:2.3:a:empiresoft:empirecms:*:*:*:*:*:*:*:*
 cpe:2.3:a:employee_and_visitor_gate_pass_logging_system_project:employee_and_visitor_gate_pass_logging_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:employee_daily_task_management_system_project:employee_daily_task_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:employee_leaves_management_system_project:employee_leaves_management_system:*:*:*:*:*:*:*:*
@@ -47981,6 +47985,7 @@ cpe:2.3:a:nozominetworks:arc:*:*:*:*:*:*:*:*
 cpe:2.3:a:nozominetworks:central_management_control:*:*:*:*:*:*:*:*
 cpe:2.3:a:nozominetworks:cmc:*:*:*:*:*:*:*:*
 cpe:2.3:a:nozominetworks:guardian:*:*:*:*:*:*:*:*
+cpe:2.3:a:npc-worldwide:npcpy:*:*:*:*:*:*:*:*
 cpe:2.3:a:npci:bharat_interface_for_money_\(bhim\):*:*:*:*:*:*:*:*
 cpe:2.3:a:npds:npds:*:*:*:*:*:*:*:*
 cpe:2.3:a:npds:revolution:*:*:*:*:*:*:*:*
@@ -48063,6 +48068,7 @@ cpe:2.3:a:nsquared:appointment_booking_calendar:*:*:*:*:*:*:*:*
 cpe:2.3:a:nsquared:simply_schedule_appointments:*:*:*:*:*:*:*:*
 cpe:2.3:a:nss_compat_ossl_project:nss_compat_ossl:*:*:*:*:*:*:*:*
 cpe:2.3:a:nss_ldap:nss_ldap:*:*:*:*:*:*:*:*
+cpe:2.3:a:nst_labs_tech:nstbrowser:*:*:*:*:*:*:*:*
 cpe:2.3:a:nsthemes:advanced_social_pixel:*:*:*:*:*:*:*:*
 cpe:2.3:a:nsthemes:ns_coupon_to_become_customer:*:*:*:*:*:*:*:*
 cpe:2.3:a:nsthemes:ns_watermark_for_woocommerce:*:*:*:*:*:*:*:*
