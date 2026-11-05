@@ -2121,6 +2121,7 @@ cpe:2.3:a:agentjido:req_llm:*:*:*:*:*:*:*:*
 cpe:2.3:a:agentpp:agent\+\+:*:*:*:*:*:*:*:*
 cpe:2.3:a:agentpp:agentx\+\+:*:*:*:*:*:*:*:*
 cpe:2.3:a:agentpp:snmp\+\+:*:*:*:*:*:*:*:*
+cpe:2.3:a:agentscope-ai:agentscope:*:*:*:*:*:*:*:*
 cpe:2.3:a:agentverus:agentverus-scanner:*:*:*:*:*:*:*:*
 cpe:2.3:a:agentworkhq:agentwork-cli:*:*:*:*:*:*:*:*
 cpe:2.3:a:agenziaentrate:desktop_telematico:*:*:*:*:*:*:*:*
@@ -24910,6 +24911,7 @@ cpe:2.3:a:getresponse:getresponse:*:*:*:*:*:*:*:*
 cpe:2.3:a:getrobot:robot-js:*:*:*:*:*:*:*:*
 cpe:2.3:a:getscoop:kontan_kiosk:*:*:*:*:*:*:*:*
 cpe:2.3:a:getscreen:getscreen:*:*:*:*:*:*:*:*
+cpe:2.3:a:getscreen:getscreen_agent:*:*:*:*:*:*:*:*
 cpe:2.3:a:getsentry:raven-ruby:*:*:*:*:*:*:*:*
 cpe:2.3:a:getsentry:sentry:*:*:*:*:*:*:*:*
 cpe:2.3:a:getsetgames:mega_jump:*:*:*:*:*:*:*:*
@@ -49312,6 +49314,7 @@ cpe:2.3:a:openbi:openbi:*:*:*:*:*:*:*:*
 cpe:2.3:a:openbi_project:openbi:*:*:*:*:*:*:*:*
 cpe:2.3:a:openbiblio:openbiblio:*:*:*:*:*:*:*:*
 cpe:2.3:a:openblas_project:openblas:*:*:*:*:*:*:*:*
+cpe:2.3:a:openbmb:internet_of_agents:*:*:*:*:*:*:*:*
 cpe:2.3:a:openbmb:xagent:*:*:*:*:*:*:*:*
 cpe:2.3:a:openbmc-project:openbmc:*:*:*:*:*:*:*:*
 cpe:2.3:a:openbmc-project:slpd-lite:*:*:*:*:*:*:*:*
