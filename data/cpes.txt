@@ -20574,6 +20574,7 @@ cpe:2.3:a:eonweb:eonweb:*:*:*:*:*:*:*:*
 cpe:2.3:a:eonweb_project:eonweb:*:*:*:*:*:*:*:*
 cpe:2.3:a:eos.pe:siche_search_module:*:*:*:*:*:*:*:*
 cpe:2.3:a:eosio_project:eos:*:*:*:*:*:*:*:*
+cpe:2.3:a:eosphoros-ai:db-gpt:*:*:*:*:*:*:*:*
 cpe:2.3:a:eova:eova:*:*:*:*:*:*:*:*
 cpe:2.3:a:eoxia:wpshop_2:*:*:*:*:*:*:*:*
 cpe:2.3:a:ep-3bookingsystem:ep-3_bookingsystem:*:*:*:*:*:*:*:*
