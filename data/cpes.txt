@@ -8989,6 +8989,7 @@ cpe:2.3:a:br-automation:automation_runtime:*:*:*:*:*:*:*:*
 cpe:2.3:a:br-automation:automation_studio:*:*:*:*:*:*:*:*
 cpe:2.3:a:br-automation:industrial_automation_aprol:*:*:*:*:*:*:*:*
 cpe:2.3:a:br-automation:mapp_cockpit:*:*:*:*:*:*:*:*
+cpe:2.3:a:br-automation:mapp_services:*:*:*:*:*:*:*:*
 cpe:2.3:a:br-automation:mapp_view:*:*:*:*:*:*:*:*
 cpe:2.3:a:br-automation:mapp_vision:*:*:*:*:*:*:*:*
 cpe:2.3:a:br-automation:scene_viewer:*:*:*:*:*:*:*:*
@@ -44818,6 +44819,7 @@ cpe:2.3:a:moveaddons:move_addons_for_elementor:*:*:*:*:*:*:*:*
 cpe:2.3:a:moveit:moveit:*:*:*:*:*:*:*:*
 cpe:2.3:a:mover_project:mover:*:*:*:*:*:*:*:*
 cpe:2.3:a:movesti:acontact:*:*:*:*:*:*:*:*
+cpe:2.3:a:movie-pilot:moviepilot:*:*:*:*:*:*:*:*
 cpe:2.3:a:movie-review-sentiment-analysis_project:movie-review-sentiment-analysis:*:*:*:*:*:*:*:*
 cpe:2.3:a:movie_seat_reservation_project:movie_seat_reservation:*:*:*:*:*:*:*:*
 cpe:2.3:a:movie_ticket_booking_system_project:movie_ticket_booking_system:*:*:*:*:*:*:*:*
