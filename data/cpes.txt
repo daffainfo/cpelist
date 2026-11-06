@@ -11405,6 +11405,7 @@ cpe:2.3:a:chengdu_everbrite_network_technology:beike_shop:*:*:*:*:*:*:*:*
 cpe:2.3:a:chengdu_everbrite_network_technology:beikeshop:*:*:*:*:*:*:*:*
 cpe:2.3:a:chengdu_qilu_technology:ludashi:*:*:*:*:*:*:*:*
 cpe:2.3:a:chenhg5:cc-connect:*:*:*:*:*:*:*:*
+cpe:2.3:a:chenyme:grok2api:*:*:*:*:*:*:*:*
 cpe:2.3:a:chernobile:chernobile:*:*:*:*:*:*:*:*
 cpe:2.3:a:cherokee-project:cherokee:*:*:*:*:*:*:*:*
 cpe:2.3:a:cherokee-project:cherokee_web_server:*:*:*:*:*:*:*:*
