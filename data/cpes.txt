@@ -38943,6 +38943,7 @@ cpe:2.3:a:libxls_project:libxls:*:*:*:*:*:*:*:*
 cpe:2.3:a:libxmljs_project:libxmljs:*:*:*:*:*:*:*:*
 cpe:2.3:a:libxpm_project:libxpm:*:*:*:*:*:*:*:*
 cpe:2.3:a:libxsmm_project:libxsmm:*:*:*:*:*:*:*:*
+cpe:2.3:a:libyal:libvmdk:*:*:*:*:*:*:*:*
 cpe:2.3:a:libzetta-rs_project:libzetta-rs:*:*:*:*:*:*:*:*
 cpe:2.3:a:libzio_project:libzio:*:*:*:*:*:*:*:*
 cpe:2.3:a:libzip2:libzip2:*:*:*:*:*:*:*:*
@@ -56589,6 +56590,7 @@ cpe:2.3:a:qt:qthttpserver:*:*:*:*:*:*:*:*
 cpe:2.3:a:qt:qtmqtt:*:*:*:*:*:*:*:*
 cpe:2.3:a:qt:qtsvg:*:*:*:*:*:*:*:*
 cpe:2.3:a:qt:qtwebkit:*:*:*:*:*:*:*:*
+cpe:2.3:a:qt:qtwebsockets:*:*:*:*:*:*:*:*
 cpe:2.3:a:qt:qxmlsimplereader:*:*:*:*:*:*:*:*
 cpe:2.3:a:qtiworks_project:qtiworks:*:*:*:*:*:*:*:*
 cpe:2.3:a:qtmsoft:x-cart:*:*:*:*:*:*:*:*
