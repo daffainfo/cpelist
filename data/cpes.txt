@@ -153810,6 +153810,7 @@ cpe:2.3:o:f5:viprion_b2150_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:f5:viprion_b2250_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:f5:viprion_b4300_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:f5:viprion_b4450_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:fabricators:vanilla_os:*:*:*:*:*:*:*:*
 cpe:2.3:o:faleemi:fsc-880_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:fantec:mwid25-ds_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:fanuc:power_motion_i-model_a_firmware:*:*:*:*:*:*:*:*
