@@ -32170,6 +32170,7 @@ cpe:2.3:a:inprax:izzi_connect:*:*:*:*:*:*:*:*
 cpe:2.3:a:inprotect:inprotect:*:*:*:*:*:*:*:*
 cpe:2.3:a:inpsyde:akismet_privacy_policies:*:*:*:*:*:*:*:*
 cpe:2.3:a:inpsyde:backwpup:*:*:*:*:*:*:*:*
+cpe:2.3:a:input_leap_project:input_leap:*:*:*:*:*:*:*:*
 cpe:2.3:a:inqsys:duplicate_post_page_menu_\&_custom_post_type:*:*:*:*:*:*:*:*
 cpe:2.3:a:inquirelab:mcp-bridge-api:*:*:*:*:*:*:*:*
 cpe:2.3:a:inria:caml-light:*:*:*:*:*:*:*:*
@@ -38762,6 +38763,7 @@ cpe:2.3:a:libgd:libgd:*:*:*:*:*:*:*:*
 cpe:2.3:a:libgig0:libgig:*:*:*:*:*:*:*:*
 cpe:2.3:a:libgit2:libgit2:*:*:*:*:*:*:*:*
 cpe:2.3:a:libgit2_project:libgit2:*:*:*:*:*:*:*:*
+cpe:2.3:a:libgme:game_music_emu:*:*:*:*:*:*:*:*
 cpe:2.3:a:libgsf:libgsf:*:*:*:*:*:*:*:*
 cpe:2.3:a:libgtop:libgtop:*:*:*:*:*:*:*:*
 cpe:2.3:a:libguestfs:libguestfs:*:*:*:*:*:*:*:*
@@ -63241,6 +63243,7 @@ cpe:2.3:a:silverstripe:silverstripe-omnipay:*:*:*:*:*:*:*:*
 cpe:2.3:a:silverstripe:silverstripe:*:*:*:*:*:*:*:*
 cpe:2.3:a:silverstripe:subsites:*:*:*:*:*:*:*:*
 cpe:2.3:a:silverwaregames:silverwaregames:*:*:*:*:*:*:*:*
+cpe:2.3:a:silviucpp:ezstd:*:*:*:*:*:*:*:*
 cpe:2.3:a:sim:sim:*:*:*:*:*:*:*:*
 cpe:2.3:a:simalexan:api-lambda-send-email-ses:*:*:*:*:*:*:*:*
 cpe:2.3:a:simasy:simasy_cms:*:*:*:*:*:*:*:*
@@ -65390,6 +65393,7 @@ cpe:2.3:a:spmjs:spmrc:*:*:*:*:*:*:*:*
 cpe:2.3:a:spnego_http_authentication_module_project:spnego_http_authentication_module:*:*:*:*:*:*:*:*
 cpe:2.3:a:spomky-labs:webauthn-lib:*:*:*:*:*:*:*:*
 cpe:2.3:a:spomky-labs:webauthn-symfony-bundle:*:*:*:*:*:*:*:*
+cpe:2.3:a:spomky-labs:webauthn_framework:*:*:*:*:*:*:*:*
 cpe:2.3:a:spomky-labs:webauthn_framwork:*:*:*:*:*:*:*:*
 cpe:2.3:a:spon_communications:ip_network_audio_device_xc-9603:*:*:*:*:*:*:*:*
 cpe:2.3:a:sponge_news:sponge_news:*:*:*:*:*:*:*:*
