@@ -146,6 +146,7 @@ cpe:2.3:a:1two:livre_d_or:*:*:*:*:*:*:*:*
 cpe:2.3:a:1und1:1\&1_online_storage:*:*:*:*:*:*:*:*
 cpe:2.3:a:1up:oneupuploaderbundle:*:*:*:*:*:*:*:*
 cpe:2.3:a:1xinternet:simple_klaro:*:*:*:*:*:*:*:*
+cpe:2.3:a:201206030:novel:*:*:*:*:*:*:*:*
 cpe:2.3:a:202-ecommerce:administrative_mandate:*:*:*:*:*:*:*:*
 cpe:2.3:a:202-ecommerce:paypal:*:*:*:*:*:*:*:*
 cpe:2.3:a:20_20_applications:20_20_auto_gallery:*:*:*:*:*:*:*:*
@@ -20830,6 +20831,7 @@ cpe:2.3:a:escucha_eldiario_project:escucha_eldiario:*:*:*:*:*:*:*:*
 cpe:2.3:a:esdoc:esdoc-publish-html-plugin:*:*:*:*:*:*:*:*
 cpe:2.3:a:esds.co:emagic_data_center_management:*:*:*:*:*:*:*:*
 cpe:2.3:a:esearch:emerge_search_tool:*:*:*:*:*:*:*:*
+cpe:2.3:a:esengine:deepseek-reasonix:*:*:*:*:*:*:*:*
 cpe:2.3:a:eset:antivirus_and_antispyware:*:*:*:*:*:*:*:*
 cpe:2.3:a:eset:compusec:*:*:*:*:*:*:*:*
 cpe:2.3:a:eset:cyber_security:*:*:*:*:*:*:*:*
@@ -23320,6 +23322,7 @@ cpe:2.3:a:fortinet:fortisiemwindowsagent:*:*:*:*:*:*:*:*
 cpe:2.3:a:fortinet:fortisoar:*:*:*:*:*:*:*:*
 cpe:2.3:a:fortinet:fortisoar_agent_communication_bridge:*:*:*:*:*:*:*:*
 cpe:2.3:a:fortinet:fortisoar_imap_connector:*:*:*:*:*:*:*:*
+cpe:2.3:a:fortinet:fortisoar_on-premise:*:*:*:*:*:*:*:*
 cpe:2.3:a:fortinet:fortisoaragentcommunicationbridge:*:*:*:*:*:*:*:*
 cpe:2.3:a:fortinet:fortisoaron-premise:*:*:*:*:*:*:*:*
 cpe:2.3:a:fortinet:fortisoarpaas:*:*:*:*:*:*:*:*
@@ -37856,6 +37859,7 @@ cpe:2.3:a:kubernetes:nginx_ingress_controller:*:*:*:*:*:*:*:*
 cpe:2.3:a:kubernetes:operations:*:*:*:*:*:*:*:*
 cpe:2.3:a:kubernetes:secrets-store-csi-driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:kubernetes:secrets_store_csi_driver:*:*:*:*:*:*:*:*
+cpe:2.3:a:kubescape:kubescape:*:*:*:*:*:*:*:*
 cpe:2.3:a:kubeslice:kubeslice:*:*:*:*:*:*:*:*
 cpe:2.3:a:kubesphere:kubesphere:*:*:*:*:*:*:*:*
 cpe:2.3:a:kubev2v:assisted_migration_agent:*:*:*:*:*:*:*:*
@@ -45765,6 +45769,7 @@ cpe:2.3:a:narr8:knights_of_the_void:*:*:*:*:*:*:*:*
 cpe:2.3:a:narr8:secret_city_-_motion_comic:*:*:*:*:*:*:*:*
 cpe:2.3:a:narr8:spin_-_motion_comic:*:*:*:*:*:*:*:*
 cpe:2.3:a:nas4free:nas4free:*:*:*:*:*:*:*:*
+cpe:2.3:a:nasa-gcn:gcn.nasa.gov:*:*:*:*:*:*:*:*
 cpe:2.3:a:nasa:ait-core:*:*:*:*:*:*:*:*
 cpe:2.3:a:nasa:ait_core:*:*:*:*:*:*:*:*
 cpe:2.3:a:nasa:ait_dsn:*:*:*:*:*:*:*:*
@@ -54948,6 +54953,8 @@ cpe:2.3:a:posimyth:the_plus_addons_for_elementor:*:*:*:*:*:*:*:*
 cpe:2.3:a:posimyth:the_plus_addons_for_elementor_page_builder:*:*:*:*:*:*:*:*
 cpe:2.3:a:posimyth:the_plus_addons_for_elementor_page_builder_lite:*:*:*:*:*:*:*:*
 cpe:2.3:a:posimyth:the_plus_addons_for_elementor_pro:*:*:*:*:*:*:*:*
+cpe:2.3:a:posit:rstudio_server:*:*:*:*:*:*:*:*
+cpe:2.3:a:posit:workbench:*:*:*:*:*:*:*:*
 cpe:2.3:a:positive_software:cp\+:*:*:*:*:*:*:*:*
 cpe:2.3:a:positive_software:h-sphere:*:*:*:*:*:*:*:*
 cpe:2.3:a:positive_software:h-sphere_winbox:*:*:*:*:*:*:*:*
