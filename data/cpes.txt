@@ -56371,6 +56371,7 @@ cpe:2.3:a:qbnz:geshi:*:*:*:*:*:*:*:*
 cpe:2.3:a:qbs_project:qbs:*:*:*:*:*:*:*:*
 cpe:2.3:a:qcacld-2.0_project:qcacld-2.0:*:*:*:*:*:*:*:*
 cpe:2.3:a:qcacld_2.0_project:qcacld_2.0:*:*:*:*:*:*:*:*
+cpe:2.3:a:qcam:saxy:*:*:*:*:*:*:*:*
 cpe:2.3:a:qcm:marwel:*:*:*:*:*:*:*:*
 cpe:2.3:a:qcms:qcms:*:*:*:*:*:*:*:*
 cpe:2.3:a:qcubed:qcubed:*:*:*:*:*:*:*:*
