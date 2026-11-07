@@ -20745,6 +20745,7 @@ cpe:2.3:a:eric_rescorla:ssldump:*:*:*:*:*:*:*:*
 cpe:2.3:a:erichamby:adicon_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:erick_woods:terminal_server_client:*:*:*:*:*:*:*:*
 cpe:2.3:a:ericlbuehler:mistral.rs:*:*:*:*:*:*:*:*
+cpe:2.3:a:ericlbuehler:mistralrs:*:*:*:*:*:*:*:*
 cpe:2.3:a:ericmj:decimal:*:*:*:*:*:*:*:*
 cpe:2.3:a:ericom:access_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:ericom:accessnow_server:*:*:*:*:*:*:*:*
@@ -70763,6 +70764,7 @@ cpe:2.3:a:try_my_recipe_project:try_my_recipe:*:*:*:*:*:*:*:*
 cpe:2.3:a:trychroma:chromadb:*:*:*:*:*:*:*:*
 cpe:2.3:a:tryinteract:embed_a_quiz_on_your_site:*:*:*:*:*:*:*:*
 cpe:2.3:a:tryinteract:interact\:embed_a_quiz_on_your_site:*:*:*:*:*:*:*:*
+cpe:2.3:a:trysoup:soup:*:*:*:*:*:*:*:*
 cpe:2.3:a:tryton:proteus:*:*:*:*:*:*:*:*
 cpe:2.3:a:tryton:tryton:*:*:*:*:*:*:*:*
 cpe:2.3:a:tryton:trytond:*:*:*:*:*:*:*:*
