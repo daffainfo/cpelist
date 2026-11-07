@@ -19898,6 +19898,7 @@ cpe:2.3:a:eliteweaver:xclick_cart:*:*:*:*:*:*:*:*
 cpe:2.3:a:elixir-ecto:ecto:*:*:*:*:*:*:*:*
 cpe:2.3:a:elixir-ecto:postgrex:*:*:*:*:*:*:*:*
 cpe:2.3:a:elixir-grpc:grpc:*:*:*:*:*:*:*:*
+cpe:2.3:a:elixir-grpc:grpc_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:elixir-lang:elixir:*:*:*:*:*:*:*:*
 cpe:2.3:a:elixir-mint:hpax:*:*:*:*:*:*:*:*
 cpe:2.3:a:elixir-mint:mint:*:*:*:*:*:*:*:*
@@ -47025,6 +47026,7 @@ cpe:2.3:a:nexen:adminbot_mx:*:*:*:*:*:*:*:*
 cpe:2.3:a:nexent:nexent:*:*:*:*:*:*:*:*
 cpe:2.3:a:nexenta:nexentastor:*:*:*:*:*:*:*:*
 cpe:2.3:a:nexgen:nexgen_ftp_server:*:*:*:*:*:*:*:*
+cpe:2.3:a:nexmoe:vidbee:*:*:*:*:*:*:*:*
 cpe:2.3:a:nexos_project:nexos:*:*:*:*:*:*:*:*
 cpe:2.3:a:nexpara_project:nexpara:*:*:*:*:*:*:*:*
 cpe:2.3:a:nexryai:nexkey:*:*:*:*:*:*:*:*
@@ -135179,10 +135181,13 @@ cpe:2.3:h:siemens:scalance_w788-2_m12:*:*:*:*:*:*:*:*
 cpe:2.3:h:siemens:scalance_w788-2_m12_eec:*:*:*:*:*:*:*:*
 cpe:2.3:h:siemens:scalance_w788-2pro:*:*:*:*:*:*:*:*
 cpe:2.3:h:siemens:scalance_w788-2rr:*:*:*:*:*:*:*:*
+cpe:2.3:h:siemens:scalance_wab762-1:*:*:*:*:*:*:*:*
 cpe:2.3:h:siemens:scalance_wam763-1:*:*:*:*:*:*:*:*
 cpe:2.3:h:siemens:scalance_wam766-1:*:*:*:*:*:*:*:*
 cpe:2.3:h:siemens:scalance_wam766-1_6ghz:*:*:*:*:*:*:*:*
 cpe:2.3:h:siemens:scalance_wam766-1_ecc:*:*:*:*:*:*:*:*
+cpe:2.3:h:siemens:scalance_wub762-1:*:*:*:*:*:*:*:*
+cpe:2.3:h:siemens:scalance_wub762-1_ifeatures:*:*:*:*:*:*:*:*
 cpe:2.3:h:siemens:scalance_wum763-1:*:*:*:*:*:*:*:*
 cpe:2.3:h:siemens:scalance_wum766-1:*:*:*:*:*:*:*:*
 cpe:2.3:h:siemens:scalance_wum766-1_6ghz:*:*:*:*:*:*:*:*
@@ -185959,10 +185964,13 @@ cpe:2.3:o:siemens:scalance_w788-1_rj45_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:siemens:scalance_w788-2_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:siemens:scalance_w788-2_m12_eec_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:siemens:scalance_w788-2_m12_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:siemens:scalance_wab762-1_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:siemens:scalance_wam763-1_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:siemens:scalance_wam766-1_6ghz_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:siemens:scalance_wam766-1_ecc_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:siemens:scalance_wam766-1_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:siemens:scalance_wub762-1_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:siemens:scalance_wub762-1_ifeatures_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:siemens:scalance_wum763-1_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:siemens:scalance_wum766-1_6ghz_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:siemens:scalance_wum766-1_firmware:*:*:*:*:*:*:*:*
