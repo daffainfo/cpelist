@@ -30107,6 +30107,7 @@ cpe:2.3:a:ibm:cloud_pak_system_software_suite:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:cloud_private:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:cloudant:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:cloudscape:*:*:*:*:*:*:*:*
+cpe:2.3:a:ibm:cockroachdb_postgresql_for_ibm_vpc:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:cognos_8_business_intelligence:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:cognos_analytics:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:cognos_analytics_cartridge_for_ibm_cloud_pak_for_data:*:*:*:*:*:*:*:*
@@ -30149,6 +30150,7 @@ cpe:2.3:a:ibm:contextforge_mcp_gateway_translate_utility:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:control_center:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:control_desk:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:controller:*:*:*:*:*:*:*:*
+cpe:2.3:a:ibm:controller_disclosure_management:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:copy_services_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:cp4ba_-_filenet_content_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:curam_social_program_management:*:*:*:*:*:*:*:*
@@ -30562,6 +30564,7 @@ cpe:2.3:a:ibm:net.commerce_hosting_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:net.commerce_pro:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:net.commerce_start:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:net.data:*:*:*:*:*:*:*:*
+cpe:2.3:a:ibm:netezza_appliance:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:netezza_performance_portal:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:netezza_performance_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:netezza_performance_server_replication_services:*:*:*:*:*:*:*:*
@@ -30588,6 +30591,7 @@ cpe:2.3:a:ibm:operations_analytics_-_log_analysis:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:operations_analytics___log_analysis:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:operations_analytics_log_analysis:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:operations_analytics_predictive_insights:*:*:*:*:*:*:*:*
+cpe:2.3:a:ibm:optim:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:optim_performance_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:optim_workload_replay:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:os2_ftp_server:*:*:*:*:*:*:*:*
@@ -30907,6 +30911,7 @@ cpe:2.3:a:ibm:storage_protect_plus:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:storage_protect_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:storage_protect_snapshot_for_windows:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:storage_scale:*:*:*:*:*:*:*:*
+cpe:2.3:a:ibm:storage_scale_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:storage_virtualize:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:storage_virtualize_plugin_for_vsphere:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:storage_virtualize_vsphere_remote_plugin:*:*:*:*:*:*:*:*
@@ -31036,6 +31041,7 @@ cpe:2.3:a:ibm:ts3500_tape_library_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:ts4300:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:ts4500_cli_tool:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:ts4500_imc:*:*:*:*:*:*:*:*
+cpe:2.3:a:ibm:turbonomic_kubeturbo_agent:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:turbonomic_prometurbo_agent:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:txseries:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:txseries_for_multiplatform:*:*:*:*:*:*:*:*
@@ -31083,6 +31089,7 @@ cpe:2.3:a:ibm:watsonx.ai:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:watsonx.ai_on_cloud_pak_for_data:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:watsonx.data:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:watsonx.data_intelligence:*:*:*:*:*:*:*:*
+cpe:2.3:a:ibm:watsonx_orchestrate_cartridge_for_cloud_pak_for_data:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:watsonx_orchestrate_cartridge_for_ibm_cloud_pak_for_data:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:watsonxdata:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:watsonxdata_intelligence:*:*:*:*:*:*:*:*
