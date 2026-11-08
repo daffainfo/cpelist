@@ -22963,6 +22963,7 @@ cpe:2.3:a:flos-freeware:notepad2:*:*:*:*:*:*:*:*
 cpe:2.3:a:flothemes:flo-launch:*:*:*:*:*:*:*:*
 cpe:2.3:a:flothemes:flo_forms:*:*:*:*:*:*:*:*
 cpe:2.3:a:flow_project:flow:*:*:*:*:*:*:*:*
+cpe:2.3:a:flowci:flow-core-x:*:*:*:*:*:*:*:*
 cpe:2.3:a:flowcraft_ux_design_studio:advanced_personalization:*:*:*:*:*:*:*:*
 cpe:2.3:a:flowdee:clickwhale:*:*:*:*:*:*:*:*
 cpe:2.3:a:flowdee:easyazon:*:*:*:*:*:*:*:*
