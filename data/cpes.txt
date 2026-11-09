@@ -522,6 +522,7 @@ cpe:2.3:a:aakashweb:announcer:*:*:*:*:*:*:*:*
 cpe:2.3:a:aaluoxiang:oa_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:aapanel:aapanel:*:*:*:*:*:*:*:*
 cpe:2.3:a:aapanel:baota:*:*:*:*:*:*:*:*
+cpe:2.3:a:aapanel:billionmail:*:*:*:*:*:*:*:*
 cpe:2.3:a:aaptjs_project:aaptjs:*:*:*:*:*:*:*:*
 cpe:2.3:a:aaravrajsingh:chatbot:*:*:*:*:*:*:*:*
 cpe:2.3:a:aarboard:jave2:*:*:*:*:*:*:*:*
@@ -11403,6 +11404,8 @@ cpe:2.3:a:chemssou_blink_project:chemssou_blink:*:*:*:*:*:*:*:*
 cpe:2.3:a:chendotjs:lotos_webserver:*:*:*:*:*:*:*:*
 cpe:2.3:a:chengdu_everbrite_network_technology:beike_shop:*:*:*:*:*:*:*:*
 cpe:2.3:a:chengdu_everbrite_network_technology:beikeshop:*:*:*:*:*:*:*:*
+cpe:2.3:a:chengdu_feiyuxing_technology:vec10gp:*:*:*:*:*:*:*:*
+cpe:2.3:a:chengdu_feiyuxing_technology:vw2100:*:*:*:*:*:*:*:*
 cpe:2.3:a:chengdu_qilu_technology:ludashi:*:*:*:*:*:*:*:*
 cpe:2.3:a:chenhg5:cc-connect:*:*:*:*:*:*:*:*
 cpe:2.3:a:chenyme:grok2api:*:*:*:*:*:*:*:*
@@ -19911,6 +19914,7 @@ cpe:2.3:a:elixir-plug:plug_crypto:*:*:*:*:*:*:*:*
 cpe:2.3:a:elixir-protobuf:protobuf:*:*:*:*:*:*:*:*
 cpe:2.3:a:elixir-tesla:tesla:*:*:*:*:*:*:*:*
 cpe:2.3:a:eliz_software:panel:*:*:*:*:*:*:*:*
+cpe:2.3:a:elizaos:eliza:*:*:*:*:*:*:*:*
 cpe:2.3:a:elizsoftware:panel:*:*:*:*:*:*:*:*
 cpe:2.3:a:elkagroup:elkapax_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:elkagroup:image_gallery:*:*:*:*:*:*:*:*
@@ -29677,6 +29681,7 @@ cpe:2.3:a:huge-it:video_gallery:*:*:*:*:*:*:*:*
 cpe:2.3:a:huge-it_catalog_project:huge-it_catalog:*:*:*:*:*:*:*:*
 cpe:2.3:a:huggingface:datasets:*:*:*:*:*:*:*:*
 cpe:2.3:a:huggingface:diffusers:*:*:*:*:*:*:*:*
+cpe:2.3:a:huggingface:finetrainers:*:*:*:*:*:*:*:*
 cpe:2.3:a:huggingface:lerobot:*:*:*:*:*:*:*:*
 cpe:2.3:a:huggingface:smolagents:*:*:*:*:*:*:*:*
 cpe:2.3:a:huggingface:text_generation_inference:*:*:*:*:*:*:*:*
@@ -39815,6 +39820,7 @@ cpe:2.3:a:logrhythm:platform_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:logrocket-oauth2-example_project:logrocket-oauth2-example:*:*:*:*:*:*:*:*
 cpe:2.3:a:logrotate_project:logrotate:*:*:*:*:*:*:*:*
 cpe:2.3:a:logrover:logrover:*:*:*:*:*:*:*:*
+cpe:2.3:a:logseq:logseq:*:*:*:*:*:*:*:*
 cpe:2.3:a:logsign:unified_secops:*:*:*:*:*:*:*:*
 cpe:2.3:a:logsign:unified_secops_platform:*:*:*:*:*:*:*:*
 cpe:2.3:a:logstash-management-api_project:logstash-management-api:*:*:*:*:*:*:*:*
@@ -40137,6 +40143,7 @@ cpe:2.3:a:lxml:lxml:*:*:*:*:*:*:*:*
 cpe:2.3:a:lxr_project:lxr:*:*:*:*:*:*:*:*
 cpe:2.3:a:lxsmnsyc:seroval:*:*:*:*:*:*:*:*
 cpe:2.3:a:lxterminal_project:lxterminal:*:*:*:*:*:*:*:*
+cpe:2.3:a:lxtgh:omg-seg:*:*:*:*:*:*:*:*
 cpe:2.3:a:lybbn:django-vue-lyadmin:*:*:*:*:*:*:*:*
 cpe:2.3:a:lyc8503:uptimeflare:*:*:*:*:*:*:*:*
 cpe:2.3:a:lycheeorg:lychee:*:*:*:*:*:*:*:*
@@ -52098,6 +52105,7 @@ cpe:2.3:a:pantech:umw190_end_user_upgrade:*:*:*:*:*:*:*:*
 cpe:2.3:a:panterasoft:hdd_health:*:*:*:*:*:*:*:*
 cpe:2.3:a:pantha:translucid:*:*:*:*:*:*:*:*
 cpe:2.3:a:pantsel:konga:*:*:*:*:*:*:*:*
+cpe:2.3:a:pantum:bp5100dw:*:*:*:*:*:*:*:*
 cpe:2.3:a:panva:jose:*:*:*:*:*:*:*:*
 cpe:2.3:a:paolo_bacchilega:file_roller:*:*:*:*:*:*:*:*
 cpe:2.3:a:paolo_palmonari:photoracer_plugin_for_wordpress:*:*:*:*:*:*:*:*
@@ -65092,6 +65100,7 @@ cpe:2.3:a:sourcecodester:shopping_website:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:simple_and_nice_shopping_cart_script:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:simple_cafe_billing_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:simple_client_management_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:sourcecodester:simple_crud_using_php_and_fpdf:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:simple_doctors_appointment_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:simple_file_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:simple_food_ordering_system:*:*:*:*:*:*:*:*
@@ -76500,6 +76509,7 @@ cpe:2.3:a:wuftpd:wu-ftpd:*:*:*:*:*:*:*:*
 cpe:2.3:a:wuhu_project:wuhu:*:*:*:*:*:*:*:*
 cpe:2.3:a:wukongopensource:wukong_nocode:*:*:*:*:*:*:*:*
 cpe:2.3:a:wukongopensource:wukongcrm:*:*:*:*:*:*:*:*
+cpe:2.3:a:wummel:patool:*:*:*:*:*:*:*:*
 cpe:2.3:a:wunderfarm:wf_cookie_consent:*:*:*:*:*:*:*:*
 cpe:2.3:a:wurmlab:sequenceserver:*:*:*:*:*:*:*:*
 cpe:2.3:a:wut:com_port_redirector_legacy:*:*:*:*:*:*:*:*
@@ -116385,6 +116395,7 @@ cpe:2.3:h:intelbras:rx_1500:*:*:*:*:*:*:*:*
 cpe:2.3:h:intelbras:rx_3000:*:*:*:*:*:*:*:*
 cpe:2.3:h:intelbras:sg_2404_mr:*:*:*:*:*:*:*:*
 cpe:2.3:h:intelbras:sg_2404_poe:*:*:*:*:*:*:*:*
+cpe:2.3:h:intelbras:sg_2404_poe_l2_:*:*:*:*:*:*:*:*
 cpe:2.3:h:intelbras:tip200:*:*:*:*:*:*:*:*
 cpe:2.3:h:intelbras:tip200lite:*:*:*:*:*:*:*:*
 cpe:2.3:h:intelbras:tip300:*:*:*:*:*:*:*:*
