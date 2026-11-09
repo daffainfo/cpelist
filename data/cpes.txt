@@ -14638,6 +14638,7 @@ cpe:2.3:a:contronics:homeputer_cl_studio_fur_homematic:*:*:*:*:*:*:*:*
 cpe:2.3:a:contus:hd_flv_player:*:*:*:*:*:*:*:*
 cpe:2.3:a:contussupport:contus-video-comments:*:*:*:*:*:*:*:*
 cpe:2.3:a:conva:fathom_analytics:*:*:*:*:*:*:*:*
+cpe:2.3:a:convene:azeus_convene_board_management_portal:*:*:*:*:*:*:*:*
 cpe:2.3:a:convergine:file_king_advanced_file_management:*:*:*:*:*:*:*:*
 cpe:2.3:a:conversador_project:conversador:*:*:*:*:*:*:*:*
 cpe:2.3:a:conversations:conversations:*:*:*:*:*:*:*:*
@@ -69458,6 +69459,7 @@ cpe:2.3:a:tidaweb:tida_url_screenshot:*:*:*:*:*:*:*:*
 cpe:2.3:a:tiddly-gittly:tidgi-desktop:*:*:*:*:*:*:*:*
 cpe:2.3:a:tiddlywiki:cctiddly:*:*:*:*:*:*:*:*
 cpe:2.3:a:tiddlywiki:tiddlywiki5:*:*:*:*:*:*:*:*
+cpe:2.3:a:tidelift:moto:*:*:*:*:*:*:*:*
 cpe:2.3:a:tidesec:wdscanner:*:*:*:*:*:*:*:*
 cpe:2.3:a:tideslash:monit:*:*:*:*:*:*:*:*
 cpe:2.3:a:tidestone:formula_one_activex_control:*:*:*:*:*:*:*:*
@@ -77786,6 +77788,7 @@ cpe:2.3:a:yunaiv:yudao-cloud:*:*:*:*:*:*:*:*
 cpe:2.3:a:yungengxin:cloud_billing:*:*:*:*:*:*:*:*
 cpe:2.3:a:yungengxin:yun_jia_security_guard:*:*:*:*:*:*:*:*
 cpe:2.3:a:yungifez:skuul:*:*:*:*:*:*:*:*
+cpe:2.3:a:yungifez:skuul_school_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:yunknet:online_school_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:yunknet:yunke_online_school_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:yunlai:a\+:*:*:*:*:*:*:*:*
