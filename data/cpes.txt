@@ -7123,6 +7123,7 @@ cpe:2.3:a:bag:covid_certificate:*:*:*:*:*:*:*:*
 cpe:2.3:a:bagesoft:bagecms:*:*:*:*:*:*:*:*
 cpe:2.3:a:bagisto:bagisto:*:*:*:*:*:*:*:*
 cpe:2.3:a:baguettebox.js_project:baguettebox.js:*:*:*:*:*:*:*:*
+cpe:2.3:a:bahleel:bahleel:*:*:*:*:*:*:*:*
 cpe:2.3:a:bahmni:bahmnicore:*:*:*:*:*:*:*:*
 cpe:2.3:a:bahmutov:find-cypress-specs:*:*:*:*:*:*:*:*
 cpe:2.3:a:bahmutov:ggit:*:*:*:*:*:*:*:*
@@ -33422,6 +33423,7 @@ cpe:2.3:a:iofinnet:tss-lib:*:*:*:*:*:*:*:*
 cpe:2.3:a:iohk:hydra:*:*:*:*:*:*:*:*
 cpe:2.3:a:iojs:io.js:*:*:*:*:*:*:*:*
 cpe:2.3:a:iolo:system_shield:*:*:*:*:*:*:*:*
+cpe:2.3:a:iomad:iomad:*:*:*:*:*:*:*:*
 cpe:2.3:a:iomega:hotburn:*:*:*:*:*:*:*:*
 cpe:2.3:a:iomega:iomegaware:*:*:*:*:*:*:*:*
 cpe:2.3:a:iomega:jazip:*:*:*:*:*:*:*:*
@@ -37692,6 +37694,7 @@ cpe:2.3:a:konghq:kong:*:*:*:*:*:*:*:*
 cpe:2.3:a:konghq:kong_alpine_docker_image:*:*:*:*:*:*:*:*
 cpe:2.3:a:konghq:kong_gateway:*:*:*:*:*:*:*:*
 cpe:2.3:a:konghq:multipart:*:*:*:*:*:*:*:*
+cpe:2.3:a:kongxin-github:java_library_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:konicaminolta:bizhub:*:*:*:*:*:*:*:*
 cpe:2.3:a:konicaminolta:ftp_utility:*:*:*:*:*:*:*:*
 cpe:2.3:a:konker:konker_platform:*:*:*:*:*:*:*:*
@@ -78123,6 +78126,7 @@ cpe:2.3:a:zh_baidumap_project:zh_baidumap:*:*:*:*:*:*:*:*
 cpe:2.3:a:zh_googlemap_project:zh_googlemap:*:*:*:*:*:*:*:*
 cpe:2.3:a:zh_yandexmap_project:zh_yandexmap:*:*:*:*:*:*:*:*
 cpe:2.3:a:zhang_zhijun_taiwan_visit_2014-06-25_project:zhang_zhijun_taiwan_visit_2014-06-25:*:*:*:*:*:*:*:*
+cpe:2.3:a:zhangbw409:library_manager_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:zhangyanbo2007:youkefu:*:*:*:*:*:*:*:*
 cpe:2.3:a:zhaojun1998:shiro-action:*:*:*:*:*:*:*:*
 cpe:2.3:a:zhaoyachao:zdh_web:*:*:*:*:*:*:*:*
