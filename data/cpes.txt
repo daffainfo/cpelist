@@ -30048,6 +30048,7 @@ cpe:2.3:a:ibm:bigfix_webui_software_distribution:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:biginsights:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:blackice_server_protection:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:bluemix:*:*:*:*:*:*:*:*
+cpe:2.3:a:ibm:bob:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:bootable_media_creator:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:business_automation_content_analyzer_on_cloud:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:business_automation_insights:*:*:*:*:*:*:*:*
@@ -30319,6 +30320,7 @@ cpe:2.3:a:ibm:guardium_for_cloud_key_management:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:guardium_key_lifecycle_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:hacmp:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:hardware_management_console:*:*:*:*:*:*:*:*
+cpe:2.3:a:ibm:hibernate_validator:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:high_availability_cluster_multiprocessing:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:hmc_v10310500:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:hmc_v11111100:*:*:*:*:*:*:*:*
@@ -30912,6 +30914,7 @@ cpe:2.3:a:ibm:storage_protect_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:storage_protect_snapshot_for_windows:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:storage_scale:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:storage_scale_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:ibm:storage_ts4500_library:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:storage_virtualize:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:storage_virtualize_plugin_for_vsphere:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:storage_virtualize_vsphere_remote_plugin:*:*:*:*:*:*:*:*
@@ -31055,6 +31058,7 @@ cpe:2.3:a:ibm:updatexpress_system_packs_installer:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:urbancode_build:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:urbancode_deploy:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:urbancode_velocity:*:*:*:*:*:*:*:*
+cpe:2.3:a:ibm:verify_directory:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:verify_gateway:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:verify_identity_access:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:verify_identity_access_container:*:*:*:*:*:*:*:*
