@@ -37251,6 +37251,7 @@ cpe:2.3:a:kevinweber:lazy_load_for_videos:*:*:*:*:*:*:*:*
 cpe:2.3:a:kevinwong:online_food_ordering_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:kevinwong:payroll_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:kevonadonis:wp_abstracts:*:*:*:*:*:*:*:*
+cpe:2.3:a:kevquirk:pureblog:*:*:*:*:*:*:*:*
 cpe:2.3:a:keware_technologies:homeseer:*:*:*:*:*:*:*:*
 cpe:2.3:a:kexec-tools_project:kexec-tools:*:*:*:*:*:*:*:*
 cpe:2.3:a:key_focus:kf_web_server:*:*:*:*:*:*:*:*
@@ -54218,6 +54219,7 @@ cpe:2.3:a:pippin_williamson:cgc_maintenance_mode:*:*:*:*:*:*:*:*
 cpe:2.3:a:pippin_williamson:font_uploader:*:*:*:*:*:*:*:*
 cpe:2.3:a:pippinsplugins:featured_comments:*:*:*:*:*:*:*:*
 cpe:2.3:a:pippo:pippo:*:*:*:*:*:*:*:*
+cpe:2.3:a:piprapay:piprapay:*:*:*:*:*:*:*:*
 cpe:2.3:a:pipreqs_project:pipreqs:*:*:*:*:*:*:*:*
 cpe:2.3:a:piqnt:stage.js:*:*:*:*:*:*:*:*
 cpe:2.3:a:piraeus_operator:piraeus_operator:*:*:*:*:*:*:*:*
@@ -64771,6 +64773,18 @@ cpe:2.3:a:sonicwall:global_vpn_client:*:*:*:*:*:*:*:*
 cpe:2.3:a:sonicwall:hosted_email_security:*:*:*:*:*:*:*:*
 cpe:2.3:a:sonicwall:netextender:*:*:*:*:*:*:*:*
 cpe:2.3:a:sonicwall:network_security_manager:*:*:*:*:*:*:*:*
+cpe:2.3:a:sonicwall:nsv_100:*:*:*:*:*:*:*:*
+cpe:2.3:a:sonicwall:nsv_10:*:*:*:*:*:*:*:*
+cpe:2.3:a:sonicwall:nsv_1600:*:*:*:*:*:*:*:*
+cpe:2.3:a:sonicwall:nsv_200:*:*:*:*:*:*:*:*
+cpe:2.3:a:sonicwall:nsv_25:*:*:*:*:*:*:*:*
+cpe:2.3:a:sonicwall:nsv_270:*:*:*:*:*:*:*:*
+cpe:2.3:a:sonicwall:nsv_300:*:*:*:*:*:*:*:*
+cpe:2.3:a:sonicwall:nsv_400:*:*:*:*:*:*:*:*
+cpe:2.3:a:sonicwall:nsv_470:*:*:*:*:*:*:*:*
+cpe:2.3:a:sonicwall:nsv_50:*:*:*:*:*:*:*:*
+cpe:2.3:a:sonicwall:nsv_800:*:*:*:*:*:*:*:*
+cpe:2.3:a:sonicwall:nsv_870:*:*:*:*:*:*:*:*
 cpe:2.3:a:sonicwall:scrutinizer:*:*:*:*:*:*:*:*
 cpe:2.3:a:sonicwall:secure_mobile_access:*:*:*:*:*:*:*:*
 cpe:2.3:a:sonicwall:sma8200v:*:*:*:*:*:*:*:*
