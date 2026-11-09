@@ -18451,6 +18451,7 @@ cpe:2.3:a:droitthemes:droit_elementor_addons:*:*:*:*:*:*:*:*
 cpe:2.3:a:dromara:hertzbeat:*:*:*:*:*:*:*:*
 cpe:2.3:a:dromara:hutool:*:*:*:*:*:*:*:*
 cpe:2.3:a:dromara:j2eefast:*:*:*:*:*:*:*:*
+cpe:2.3:a:dromara:jpom:*:*:*:*:*:*:*:*
 cpe:2.3:a:dromara:lamp-cloud:*:*:*:*:*:*:*:*
 cpe:2.3:a:dromara:mayfly-go:*:*:*:*:*:*:*:*
 cpe:2.3:a:dromara:open-capacity-platform:*:*:*:*:*:*:*:*
@@ -70365,6 +70366,7 @@ cpe:2.3:a:trellix:central_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:trellix:data_loss_prevention:*:*:*:*:*:*:*:*
 cpe:2.3:a:trellix:edr_xconsole:*:*:*:*:*:*:*:*
 cpe:2.3:a:trellix:endpoint_security:*:*:*:*:*:*:*:*
+cpe:2.3:a:trellix:endpoint_security_agent:*:*:*:*:*:*:*:*
 cpe:2.3:a:trellix:endpoint_security_web_control:*:*:*:*:*:*:*:*
 cpe:2.3:a:trellix:enterprise_security_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:trellix:epolicy_orchestrator:*:*:*:*:*:*:*:*
