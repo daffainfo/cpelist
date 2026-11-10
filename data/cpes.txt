@@ -64853,6 +64853,7 @@ cpe:2.3:a:sony:vaio_update:*:*:*:*:*:*:*:*
 cpe:2.3:a:sony:vaio_wireless_wizard:*:*:*:*:*:*:*:*
 cpe:2.3:a:sooil:anydana-a:*:*:*:*:*:*:*:*
 cpe:2.3:a:sooil:anydana-i:*:*:*:*:*:*:*:*
+cpe:2.3:a:sooperset:mcp-atlassian:*:*:*:*:*:*:*:*
 cpe:2.3:a:sooperset:mcp_atlassian:*:*:*:*:*:*:*:*
 cpe:2.3:a:soosyze:soosyze:*:*:*:*:*:*:*:*
 cpe:2.3:a:soot-oss:soot:*:*:*:*:*:*:*:*
