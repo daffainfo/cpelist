@@ -42299,6 +42299,7 @@ cpe:2.3:a:micco:lmlzh32.dll:*:*:*:*:*:*:*:*
 cpe:2.3:a:micco:unarj32.dll:*:*:*:*:*:*:*:*
 cpe:2.3:a:micco:unlha32.dll:*:*:*:*:*:*:*:*
 cpe:2.3:a:micgr:mic_blog:*:*:*:*:*:*:*:*
+cpe:2.3:a:michael-a-kuykendall:shimmy:*:*:*:*:*:*:*:*
 cpe:2.3:a:michael-roth-software:pftp:*:*:*:*:*:*:*:*
 cpe:2.3:a:michael_a._gumienny:fcheck:*:*:*:*:*:*:*:*
 cpe:2.3:a:michael_armbruster:arctic_fox_cms:*:*:*:*:*:*:*:*
@@ -89869,6 +89870,7 @@ cpe:2.3:h:d-link:dwr-m921:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:e15:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:ebr-2310_ethernet_broadband_router:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:m32:*:*:*:*:*:*:*:*
+cpe:2.3:h:d-link:m60:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:r15:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:r32:*:*:*:*:*:*:*:*
 cpe:2.3:h:d-link:r95:*:*:*:*:*:*:*:*
