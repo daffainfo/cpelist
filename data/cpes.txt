@@ -22951,6 +22951,7 @@ cpe:2.3:a:floating_social_bar_project:floating_social_bar:*:*:*:*:*:*:*:*
 cpe:2.3:a:floci-io:floci:*:*:*:*:*:*:*:*
 cpe:2.3:a:flock:flock:*:*:*:*:*:*:*:*
 cpe:2.3:a:flocksafety:bravo_compute_box_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:a:flocksafety:flock_installer_app:*:*:*:*:*:*:*:*
 cpe:2.3:a:flocksafety:flock_safety:*:*:*:*:*:*:*:*
 cpe:2.3:a:flog_project:flog:*:*:*:*:*:*:*:*
 cpe:2.3:a:flood-it_project:flood-it:*:*:*:*:*:*:*:*
@@ -43972,6 +43973,7 @@ cpe:2.3:a:misp-project:malware_information_sharing_platform:*:*:*:*:*:*:*:*
 cpe:2.3:a:misp-project:misp:*:*:*:*:*:*:*:*
 cpe:2.3:a:misp:misp-guard:*:*:*:*:*:*:*:*
 cpe:2.3:a:misp:misp-maltego:*:*:*:*:*:*:*:*
+cpe:2.3:a:misp:misp-modules:*:*:*:*:*:*:*:*
 cpe:2.3:a:misp:misp:*:*:*:*:*:*:*:*
 cpe:2.3:a:misp:misp_\(malware_information_sharing_platform\):*:*:*:*:*:*:*:*
 cpe:2.3:a:misp:misp_modules_\(html_to_markdown_expansion_module\):*:*:*:*:*:*:*:*
