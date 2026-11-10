@@ -9029,6 +9029,7 @@ cpe:2.3:a:brain_information_technologies:brain_low-code:*:*:*:*:*:*:*:*
 cpe:2.3:a:brainabundance:brain_abundance_info:*:*:*:*:*:*:*:*
 cpe:2.3:a:braincert:virtual_classroom:*:*:*:*:*:*:*:*
 cpe:2.3:a:braincert:virtual_classroom_api:*:*:*:*:*:*:*:*
+cpe:2.3:a:braindecode:braindecode:*:*:*:*:*:*:*:*
 cpe:2.3:a:brainjar:asp_football_pool:*:*:*:*:*:*:*:*
 cpe:2.3:a:brainlowcode:brain_low-code:*:*:*:*:*:*:*:*
 cpe:2.3:a:brainstormforce:astra:*:*:*:*:*:*:*:*
@@ -26252,6 +26253,7 @@ cpe:2.3:a:gpsdrive:gpsdrive-scripts:*:*:*:*:*:*:*:*
 cpe:2.3:a:gpsdrive:gpsdrive:*:*:*:*:*:*:*:*
 cpe:2.3:a:gpt_academic_project:gpt_academic:*:*:*:*:*:*:*:*
 cpe:2.3:a:gptaipower:gpt_ai_power:*:*:*:*:*:*:*:*
+cpe:2.3:a:gpustack:gpustack:*:*:*:*:*:*:*:*
 cpe:2.3:a:gpw_project:gpw:*:*:*:*:*:*:*:*
 cpe:2.3:a:grabacr.net:kancolleviewer:*:*:*:*:*:*:*:*
 cpe:2.3:a:grabaperch:perch:*:*:*:*:*:*:*:*
@@ -43631,6 +43633,7 @@ cpe:2.3:a:mike_stefanello:og_features:*:*:*:*:*:*:*:*
 cpe:2.3:a:mikebharris:simple_php_link_shortener:*:*:*:*:*:*:*:*
 cpe:2.3:a:mikebrady:not_quite_ptp:*:*:*:*:*:*:*:*
 cpe:2.3:a:mikedeboer:com_zoom:*:*:*:*:*:*:*:*
+cpe:2.3:a:mikefarah:yq:*:*:*:*:*:*:*:*
 cpe:2.3:a:mikegualtieri:css_exfil_protection:*:*:*:*:*:*:*:*
 cpe:2.3:a:mikejolley:download_monitor:*:*:*:*:*:*:*:*
 cpe:2.3:a:mikekazakov:nimble_commander:*:*:*:*:*:*:*:*
@@ -48291,6 +48294,7 @@ cpe:2.3:a:nurhodelta17:attendance_and_payroll_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:nurse_quest_project:nurse_quest:*:*:*:*:*:*:*:*
 cpe:2.3:a:nurul_hidayah_hamazulan:mymesyuarat:*:*:*:*:*:*:*:*
 cpe:2.3:a:nuserp:nus-m9_erp:*:*:*:*:*:*:*:*
+cpe:2.3:a:nushell:nushell:*:*:*:*:*:*:*:*
 cpe:2.3:a:nusoap_project:nusoap:*:*:*:*:*:*:*:*
 cpe:2.3:a:nusoftware:nubuilder:*:*:*:*:*:*:*:*
 cpe:2.3:a:nutanix:controller_virtual_machine:*:*:*:*:*:*:*:*
@@ -64786,6 +64790,10 @@ cpe:2.3:a:sonicwall:nsv_470:*:*:*:*:*:*:*:*
 cpe:2.3:a:sonicwall:nsv_50:*:*:*:*:*:*:*:*
 cpe:2.3:a:sonicwall:nsv_800:*:*:*:*:*:*:*:*
 cpe:2.3:a:sonicwall:nsv_870:*:*:*:*:*:*:*:*
+cpe:2.3:a:sonicwall:nsv_l:*:*:*:*:*:*:*:*
+cpe:2.3:a:sonicwall:nsv_m:*:*:*:*:*:*:*:*
+cpe:2.3:a:sonicwall:nsv_s:*:*:*:*:*:*:*:*
+cpe:2.3:a:sonicwall:nsv_xs:*:*:*:*:*:*:*:*
 cpe:2.3:a:sonicwall:scrutinizer:*:*:*:*:*:*:*:*
 cpe:2.3:a:sonicwall:secure_mobile_access:*:*:*:*:*:*:*:*
 cpe:2.3:a:sonicwall:sma8200v:*:*:*:*:*:*:*:*
@@ -70922,6 +70930,7 @@ cpe:2.3:a:turaconsulting:signalix:*:*:*:*:*:*:*:*
 cpe:2.3:a:turbo-stream:turbo_stream:*:*:*:*:*:*:*:*
 cpe:2.3:a:turboboost_commands_project:turboboost_commands:*:*:*:*:*:*:*:*
 cpe:2.3:a:turboderp-org:exllamav2:*:*:*:*:*:*:*:*
+cpe:2.3:a:turboderp-org:exllamav3:*:*:*:*:*:*:*:*
 cpe:2.3:a:turboderp:exllamav2:*:*:*:*:*:*:*:*
 cpe:2.3:a:turbogears:turbogears2:*:*:*:*:*:*:*:*
 cpe:2.3:a:turbogears_project:turbogears:*:*:*:*:*:*:*:*
@@ -135527,6 +135536,7 @@ cpe:2.3:h:siemens:sicam_tm:*:*:*:*:*:*:*:*
 cpe:2.3:h:siemens:sicam_tm_1703:*:*:*:*:*:*:*:*
 cpe:2.3:h:siemens:siclock_tc100:*:*:*:*:*:*:*:*
 cpe:2.3:h:siemens:siclock_tc400:*:*:*:*:*:*:*:*
+cpe:2.3:h:siemens:sidis_secured_smartplug:*:*:*:*:*:*:*:*
 cpe:2.3:h:siemens:sidoor_atd430w:*:*:*:*:*:*:*:*
 cpe:2.3:h:siemens:sidoor_ate530s_coated:*:*:*:*:*:*:*:*
 cpe:2.3:h:siemens:sidoor_ate531s:*:*:*:*:*:*:*:*
@@ -186277,6 +186287,7 @@ cpe:2.3:o:siemens:sicam_t_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:siemens:siclock_tc100_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:siemens:siclock_tc400_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:siemens:sicore_base_system:*:*:*:*:*:*:*:*
+cpe:2.3:o:siemens:sidis_secured_smartplug_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:siemens:sidoor_atd430w_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:siemens:sidoor_ate530s_coated_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:siemens:sidoor_ate531s_firmware:*:*:*:*:*:*:*:*
