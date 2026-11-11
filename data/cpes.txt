@@ -23291,6 +23291,7 @@ cpe:2.3:a:fortinet:forticlientios:*:*:*:*:*:*:*:*
 cpe:2.3:a:fortinet:forticlientlinux:*:*:*:*:*:*:*:*
 cpe:2.3:a:fortinet:forticlientmac:*:*:*:*:*:*:*:*
 cpe:2.3:a:fortinet:forticlientwindows:*:*:*:*:*:*:*:*
+cpe:2.3:a:fortinet:forticlientwindowspam:*:*:*:*:*:*:*:*
 cpe:2.3:a:fortinet:forticonverter:*:*:*:*:*:*:*:*
 cpe:2.3:a:fortinet:fortidb:*:*:*:*:*:*:*:*
 cpe:2.3:a:fortinet:fortiddos-cm:*:*:*:*:*:*:*:*
@@ -49994,6 +49995,7 @@ cpe:2.3:a:openvpn:tap_windows6:*:*:*:*:*:*:*:*
 cpe:2.3:a:openvswitch:openvswitch:*:*:*:*:*:*:*:*
 cpe:2.3:a:openvz:vzctl:*:*:*:*:*:*:*:*
 cpe:2.3:a:openwall:crypt_blowfish:*:*:*:*:*:*:*:*
+cpe:2.3:a:openwave:webtop_media_transcoder:*:*:*:*:*:*:*:*
 cpe:2.3:a:openwaygroup:way4:*:*:*:*:*:*:*:*
 cpe:2.3:a:openwb:openwb:*:*:*:*:*:*:*:*
 cpe:2.3:a:openwbem:openwbem:*:*:*:*:*:*:*:*
@@ -62715,6 +62717,7 @@ cpe:2.3:a:siemens:cerberus_pro_ul_engineering_tool:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:cerberus_pro_ul_x300_cloud:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:common_configurator:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:comos:*:*:*:*:*:*:*:*
+cpe:2.3:a:siemens:comos_walkinside:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:compas:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:control_center_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:coreshield_one-way_gateway:*:*:*:*:*:*:*:*
@@ -62725,6 +62728,7 @@ cpe:2.3:a:siemens:cpc80_central_processing\/communication:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:cpci85_central_processing\/communication:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:cscape:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:data_flow_monitoring:*:*:*:*:*:*:*:*
+cpe:2.3:a:siemens:dataxess_configurator:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:db4web:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:desigo_cc:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:desigo_cc_advanced_reports:*:*:*:*:*:*:*:*
@@ -62763,6 +62767,7 @@ cpe:2.3:a:siemens:gma-manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:gridscale_x_prepay:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:head-end_system_universal_device_integration_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:homecontrol_for_room_automation:*:*:*:*:*:*:*:*
+cpe:2.3:a:siemens:hyperlynx:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:industrial_edge_cloud_connector_configurator:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:industrial_edge_databus_configurator:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:industrial_edge_hub:*:*:*:*:*:*:*:*
@@ -62771,6 +62776,8 @@ cpe:2.3:a:siemens:industrial_edge_management_cloud:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:industrial_edge_management_hub:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:industrial_edge_management_pro:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:industrial_edge_management_virtual:*:*:*:*:*:*:*:*
+cpe:2.3:a:siemens:innexis_architecture_native_acceleration:*:*:*:*:*:*:*:*
+cpe:2.3:a:siemens:insights_hub:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:intermesh_7177_hybrid2.0_subscriber:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:intermesh_7177_hybrid_2.0_subscriber:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:intermesh_7707_fire_subscriber:*:*:*:*:*:*:*:*
@@ -62819,19 +62826,25 @@ cpe:2.3:a:siemens:omnivise_t3000_thin_client_r9.2:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:omnivise_t3000_whitelisting_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:omnivise_t3000_whitelisting_server_r9.2:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:opc_unified_architecture:*:*:*:*:*:*:*:*
+cpe:2.3:a:siemens:opcenter_connect_electronics:*:*:*:*:*:*:*:*
+cpe:2.3:a:siemens:opcenter_connect_manufacturing_operations_management:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:opcenter_execution_core:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:opcenter_execution_discrete:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:opcenter_execution_foundation:*:*:*:*:*:*:*:*
+cpe:2.3:a:siemens:opcenter_execution_pharma:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:opcenter_execution_process:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:opcenter_intelligence:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:opcenter_quality:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:opcenter_rd\&l:*:*:*:*:*:*:*:*
+cpe:2.3:a:siemens:opcenter_x:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:openpcs_7:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:openscape_session_border_controller:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:openv2g:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:operation_scheduler:*:*:*:*:*:*:*:*
+cpe:2.3:a:siemens:pads_professional:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:pads_viewer:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:parasolid:*:*:*:*:*:*:*:*
+cpe:2.3:a:siemens:pave360_automotive:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:pcs_7:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:plm_help_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:plm_xml_sdk:*:*:*:*:*:*:*:*
@@ -62841,6 +62854,7 @@ cpe:2.3:a:siemens:polarion_alm:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:polarion_subversion_webclient:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:powersys:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:primary_setup_tool:*:*:*:*:*:*:*:*
+cpe:2.3:a:siemens:process_preparation_x:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:processsuite:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:profinet_driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:ps\/iges_parasolid_translator:*:*:*:*:*:*:*:*
@@ -62911,6 +62925,7 @@ cpe:2.3:a:siemens:simatic_automatic_tool:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:simatic_automation_tool:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:simatic_ax_runtime:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:simatic_batch:*:*:*:*:*:*:*:*
+cpe:2.3:a:siemens:simatic_braumat:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:simatic_cfc:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:simatic_cn_4100:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:simatic_cp443-1_opc_ua:*:*:*:*:*:*:*:*
@@ -62947,6 +62962,7 @@ cpe:2.3:a:siemens:simatic_process_historian_2013:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:simatic_process_historian_2014:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:simatic_process_historian_2019:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:simatic_process_historian_2020:*:*:*:*:*:*:*:*
+cpe:2.3:a:siemens:simatic_profiling_tool:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:simatic_prosave:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:simatic_rf-manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:simatic_rf-manager_2008:*:*:*:*:*:*:*:*
@@ -62960,6 +62976,7 @@ cpe:2.3:a:siemens:simatic_s7-plcsim_advanced:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:simatic_s7-pm:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:simatic_s7_cfc:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:simatic_s7_plcsim_advanced:*:*:*:*:*:*:*:*
+cpe:2.3:a:siemens:simatic_sistar:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:simatic_speech_assistant_for_machines:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:simatic_step_7:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:simatic_step_7_\(tia_portal\):*:*:*:*:*:*:*:*
@@ -62971,6 +62988,7 @@ cpe:2.3:a:siemens:simatic_winac_rtx_\(f\)_2010:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:simatic_winac_rtx_f_2010:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:simatic_wincc:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:simatic_wincc_\(tia_portal\):*:*:*:*:*:*:*:*
+cpe:2.3:a:siemens:simatic_wincc_companion:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:simatic_wincc_flexible_2008:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:simatic_wincc_flexible_runtime:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:simatic_wincc_oa:*:*:*:*:*:*:*:*
@@ -62987,15 +63005,19 @@ cpe:2.3:a:siemens:simatic_wincc_sm\@rtclient:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:simatic_wincc_sm\@rtclient_lite:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:simatic_wincc_telecontrol:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:simatic_wincc_unified:*:*:*:*:*:*:*:*
+cpe:2.3:a:siemens:simatic_wincc_unified_for_industrial_edge:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:simatic_wincc_unified_pc_runtime:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:simatic_wincc_unified_scada_runtime:*:*:*:*:*:*:*:*
+cpe:2.3:a:siemens:simatic_wincc_unified_siqence:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:simaticpcs_7:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:simcenter_3d:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:simcenter_amesim:*:*:*:*:*:*:*:*
+cpe:2.3:a:siemens:simcenter_executable_digital_twin:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:simcenter_femap:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:simcenter_nastran:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:simcenter_star-ccm\+:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:simcenter_star-ccm\+_viewer:*:*:*:*:*:*:*:*
+cpe:2.3:a:siemens:simcenter_studio:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:simit:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:simit_simulation_platform:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:simit_v10:*:*:*:*:*:*:*:*
@@ -63125,6 +63147,7 @@ cpe:2.3:a:siemens:tia_portal:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:tia_portal_cloud:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:tia_portal_cloud_v3.0:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:tia_project-server:*:*:*:*:*:*:*:*
+cpe:2.3:a:siemens:tia_project-server_web_administration_tool:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:totally_integrated_automation_portal:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:tracealertserverplus:*:*:*:*:*:*:*:*
 cpe:2.3:a:siemens:traffic_analyzer:*:*:*:*:*:*:*:*
