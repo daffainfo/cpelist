@@ -43977,6 +43977,7 @@ cpe:2.3:a:misp:misp-maltego:*:*:*:*:*:*:*:*
 cpe:2.3:a:misp:misp-modules:*:*:*:*:*:*:*:*
 cpe:2.3:a:misp:misp:*:*:*:*:*:*:*:*
 cpe:2.3:a:misp:misp_\(malware_information_sharing_platform\):*:*:*:*:*:*:*:*
+cpe:2.3:a:misp:misp_modules:*:*:*:*:*:*:*:*
 cpe:2.3:a:misp:misp_modules_\(html_to_markdown_expansion_module\):*:*:*:*:*:*:*:*
 cpe:2.3:a:misp:sachertortephp_\(cakephp-based_misp_application\):*:*:*:*:*:*:*:*
 cpe:2.3:a:misp_project:misp:*:*:*:*:*:*:*:*
