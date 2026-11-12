@@ -59210,6 +59210,7 @@ cpe:2.3:a:rm:rm_easymail_plus:*:*:*:*:*:*:*:*
 cpe:2.3:a:rm_easymail:rm_easymail_plus:*:*:*:*:*:*:*:*
 cpe:2.3:a:rmagick:rmagick:*:*:*:*:*:*:*:*
 cpe:2.3:a:rmake:rmake:*:*:*:*:*:*:*:*
+cpe:2.3:a:rmalright:tr-vision_home:*:*:*:*:*:*:*:*
 cpe:2.3:a:rmbsoft:audioconvert:*:*:*:*:*:*:*:*
 cpe:2.3:a:rmbsoft:soundedit_pro:*:*:*:*:*:*:*:*
 cpe:2.3:a:rmcproject:pm_fastrack:*:*:*:*:*:*:*:*
