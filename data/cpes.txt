@@ -19924,6 +19924,7 @@ cpe:2.3:a:eliteweaver:xclick_cart:*:*:*:*:*:*:*:*
 cpe:2.3:a:elixir-ecto:ecto:*:*:*:*:*:*:*:*
 cpe:2.3:a:elixir-ecto:postgrex:*:*:*:*:*:*:*:*
 cpe:2.3:a:elixir-grpc:grpc:*:*:*:*:*:*:*:*
+cpe:2.3:a:elixir-grpc:grpc_core:*:*:*:*:*:*:*:*
 cpe:2.3:a:elixir-grpc:grpc_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:elixir-lang:elixir:*:*:*:*:*:*:*:*
 cpe:2.3:a:elixir-mint:hpax:*:*:*:*:*:*:*:*
