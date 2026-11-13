@@ -2264,6 +2264,7 @@ cpe:2.3:a:aiohttp:aiohttp:*:*:*:*:*:*:*:*
 cpe:2.3:a:aiohttp_project:aiohttp:*:*:*:*:*:*:*:*
 cpe:2.3:a:aioseo:all_in_one_seo:*:*:*:*:*:*:*:*
 cpe:2.3:a:aioxmpp_project:aioxmpp:*:*:*:*:*:*:*:*
+cpe:2.3:a:aip-pub:acps-community:*:*:*:*:*:*:*:*
 cpe:2.3:a:aipluspro:asset_inventory_plus:*:*:*:*:*:*:*:*
 cpe:2.3:a:aipower:aipower:*:*:*:*:*:*:*:*
 cpe:2.3:a:aiql:tuui:*:*:*:*:*:*:*:*
@@ -38170,6 +38171,7 @@ cpe:2.3:a:lansuite:lanparty_intranet_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:lansuite:lansuite:*:*:*:*:*:*:*:*
 cpe:2.3:a:lansweeper:lansweeper:*:*:*:*:*:*:*:*
 cpe:2.3:a:lantronix:xprintserver_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:a:lanyulei:ferry:*:*:*:*:*:*:*:*
 cpe:2.3:a:laobancms:laobancms:*:*:*:*:*:*:*:*
 cpe:2.3:a:laobancms_project:laobancms:*:*:*:*:*:*:*:*
 cpe:2.3:a:lapack_project:lapack:*:*:*:*:*:*:*:*
@@ -65074,6 +65076,7 @@ cpe:2.3:a:sourcecodester:file_management_app:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:flashcard_quiz_app:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:food_order_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:food_ordering_management_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:sourcecodester:food_ordering_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:garbage_collection_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:gas_agency_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:home_cleaning_service_system:*:*:*:*:*:*:*:*
@@ -77951,6 +77954,7 @@ cpe:2.3:a:zack_coburn:meunity_community_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:zack_smith:unrtf:*:*:*:*:*:*:*:*
 cpe:2.3:a:zackees:transcribe-anything:*:*:*:*:*:*:*:*
 cpe:2.3:a:zackgrossbart:editorial_calendar:*:*:*:*:*:*:*:*
+cpe:2.3:a:zackriya-solutions:meetily:*:*:*:*:*:*:*:*
 cpe:2.3:a:zadarma:zadarma:*:*:*:*:*:*:*:*
 cpe:2.3:a:zahiraccounting:zahir_enterprise_plus:*:*:*:*:*:*:*:*
 cpe:2.3:a:zahmit_design:connections_business_directory_plugin:*:*:*:*:*:*:*:*
