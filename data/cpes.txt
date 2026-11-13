@@ -11181,6 +11181,7 @@ cpe:2.3:a:chainsafe:js-libp2p-noise:*:*:*:*:*:*:*:*
 cpe:2.3:a:chainsafe:lodestar:*:*:*:*:*:*:*:*
 cpe:2.3:a:chaiscript:chaiscript:*:*:*:*:*:*:*:*
 cpe:2.3:a:chaitak-gorai:blogbook:*:*:*:*:*:*:*:*
+cpe:2.3:a:chalk:chalk:*:*:*:*:*:*:*:*
 cpe:2.3:a:challenge:website_project:*:*:*:*:*:*:*:*
 cpe:2.3:a:challenge_website_project:challenge_website:*:*:*:*:*:*:*:*
 cpe:2.3:a:chama:memocgi:*:*:*:*:*:*:*:*
@@ -11402,6 +11403,7 @@ cpe:2.3:a:checkpoint:zonealarm_security_suite:*:*:*:*:*:*:*:*
 cpe:2.3:a:checkpw_project:checkpw:*:*:*:*:*:*:*:*
 cpe:2.3:a:checksec:canopy:*:*:*:*:*:*:*:*
 cpe:2.3:a:checkstyle:checkstyle:*:*:*:*:*:*:*:*
+cpe:2.3:a:cheerio:cheerio:*:*:*:*:*:*:*:*
 cpe:2.3:a:cheese_cafe_line_project:cheese_cafe_line:*:*:*:*:*:*:*:*
 cpe:2.3:a:cheese_tracker:cheese_tracker:*:*:*:*:*:*:*:*
 cpe:2.3:a:cheesyblog:cheesyblog:*:*:*:*:*:*:*:*
@@ -18637,6 +18639,7 @@ cpe:2.3:a:drupal:taxonomy_image_module:*:*:*:*:*:*:*:*
 cpe:2.3:a:drupal:taxonomy_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:drupal:taxonomy_theme_module:*:*:*:*:*:*:*:*
 cpe:2.3:a:drupal:textimage:*:*:*:*:*:*:*:*
+cpe:2.3:a:drupal:theme_negotiation_by_rules:*:*:*:*:*:*:*:*
 cpe:2.3:a:drupal:tinytax_taxonomy_block_module:*:*:*:*:*:*:*:*
 cpe:2.3:a:drupal:token_module:*:*:*:*:*:*:*:*
 cpe:2.3:a:drupal:trailscout_module:*:*:*:*:*:*:*:*
@@ -26335,6 +26338,7 @@ cpe:2.3:a:grails:spring_security_core:*:*:*:*:*:*:*:*
 cpe:2.3:a:gramaddict:gramaddict:*:*:*:*:*:*:*:*
 cpe:2.3:a:grame:faust:*:*:*:*:*:*:*:*
 cpe:2.3:a:grammarly:grammarly:*:*:*:*:*:*:*:*
+cpe:2.3:a:grammy:grammy:*:*:*:*:*:*:*:*
 cpe:2.3:a:grandcom:dynweb:*:*:*:*:*:*:*:*
 cpe:2.3:a:grandingteco:utime_master:*:*:*:*:*:*:*:*
 cpe:2.3:a:grandit:grandit:*:*:*:*:*:*:*:*
@@ -31065,6 +31069,7 @@ cpe:2.3:a:ibm:transformation_extender_advanced:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:traveler:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:tririga_application_platform:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:trivoli_service_request_manager:*:*:*:*:*:*:*:*
+cpe:2.3:a:ibm:trusteer:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:trusteer_android_sdk_for_mobile:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:trusteer_ios_sdk_for_mobile:*:*:*:*:*:*:*:*
 cpe:2.3:a:ibm:trusteer_rapport:*:*:*:*:*:*:*:*
@@ -36372,6 +36377,7 @@ cpe:2.3:a:julien_plesniak:lulieblog:*:*:*:*:*:*:*:*
 cpe:2.3:a:juliencrego:manager_for_icomoon:*:*:*:*:*:*:*:*
 cpe:2.3:a:juliusz_julas_gonera:warcraft_iii_replay_parser_php:*:*:*:*:*:*:*:*
 cpe:2.3:a:julmajanne:julmacms:*:*:*:*:*:*:*:*
+cpe:2.3:a:julykringcadayona:student_information_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:jumbacms:jumbacms:*:*:*:*:*:*:*:*
 cpe:2.3:a:jumio:jumio_sdk:*:*:*:*:*:*:*:*
 cpe:2.3:a:jump-app:esaml:*:*:*:*:*:*:*:*
@@ -37423,6 +37429,7 @@ cpe:2.3:a:kimhuebel:blogintroduction-wordpress-plugin:*:*:*:*:*:*:*:*
 cpe:2.3:a:kimihia:tellme:*:*:*:*:*:*:*:*
 cpe:2.3:a:kimili:kimili_flash_embed:*:*:*:*:*:*:*:*
 cpe:2.3:a:kimmov:frhed:*:*:*:*:*:*:*:*
+cpe:2.3:a:kimmymatillano:point_of_sale_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:kimsq:rb:*:*:*:*:*:*:*:*
 cpe:2.3:a:kimtore:practical_music_search:*:*:*:*:*:*:*:*
 cpe:2.3:a:kimwebsites:kim_websites:*:*:*:*:*:*:*:*
@@ -51969,6 +51976,7 @@ cpe:2.3:a:paloaltonetworks:bridgecrew_checkov:*:*:*:*:*:*:*:*
 cpe:2.3:a:paloaltonetworks:broker_vm:*:*:*:*:*:*:*:*
 cpe:2.3:a:paloaltonetworks:chronosphere_collector:*:*:*:*:*:*:*:*
 cpe:2.3:a:paloaltonetworks:cloud_ngfw:*:*:*:*:*:*:*:*
+cpe:2.3:a:paloaltonetworks:common_scripts:*:*:*:*:*:*:*:*
 cpe:2.3:a:paloaltonetworks:cortex_xdr_agent:*:*:*:*:*:*:*:*
 cpe:2.3:a:paloaltonetworks:cortex_xdr_broker_vm:*:*:*:*:*:*:*:*
 cpe:2.3:a:paloaltonetworks:cortex_xsiam:*:*:*:*:*:*:*:*
