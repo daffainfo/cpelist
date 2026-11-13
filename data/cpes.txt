@@ -26237,6 +26237,7 @@ cpe:2.3:a:goverlan:client_agent:*:*:*:*:*:*:*:*
 cpe:2.3:a:goverlan:reach_console:*:*:*:*:*:*:*:*
 cpe:2.3:a:goverlan:reach_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:governikus:ausweisapp_desktop:*:*:*:*:*:*:*:*
+cpe:2.3:a:governikus:ausweisapp_mobile:*:*:*:*:*:*:*:*
 cpe:2.3:a:govhk:government_bookstore:*:*:*:*:*:*:*:*
 cpe:2.3:a:gowebsmarty:wp-encryption:*:*:*:*:*:*:*:*
 cpe:2.3:a:gowebsolutions:wp_customer_reviews:*:*:*:*:*:*:*:*
