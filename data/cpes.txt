@@ -17897,6 +17897,7 @@ cpe:2.3:a:dlemstra:magick.net:*:*:*:*:*:*:*:*
 cpe:2.3:a:dleviet:datalife_engine:*:*:*:*:*:*:*:*
 cpe:2.3:a:dlguard:dlguard:*:*:*:*:*:*:*:*
 cpe:2.3:a:dli.tools:uploader:*:*:*:*:*:*:*:*
+cpe:2.3:a:dlib:dlib:*:*:*:*:*:*:*:*
 cpe:2.3:a:dlink:autman:*:*:*:*:*:*:*:*
 cpe:2.3:a:dlink:camera_stream_client_activex_control:*:*:*:*:*:*:*:*
 cpe:2.3:a:dlink:central_wifimanager:*:*:*:*:*:*:*:*
@@ -31297,6 +31298,7 @@ cpe:2.3:a:ichigo3766:image-gen-mcp:*:*:*:*:*:*:*:*
 cpe:2.3:a:ichiranusa:ichiran:*:*:*:*:*:*:*:*
 cpe:2.3:a:ichitaro:ichitaro:*:*:*:*:*:*:*:*
 cpe:2.3:a:ichitaro:ichitaro_viewer:*:*:*:*:*:*:*:*
+cpe:2.3:a:icing:mod_http2:*:*:*:*:*:*:*:*
 cpe:2.3:a:icinga:icinga:*:*:*:*:*:*:*:*
 cpe:2.3:a:icinga:icinga_db_web:*:*:*:*:*:*:*:*
 cpe:2.3:a:icinga:icinga_powershell_framework:*:*:*:*:*:*:*:*
