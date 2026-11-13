@@ -120872,6 +120872,7 @@ cpe:2.3:h:linksys:ea6500:*:*:*:*:*:*:*:*
 cpe:2.3:h:linksys:ea6700:*:*:*:*:*:*:*:*
 cpe:2.3:h:linksys:ea6900:*:*:*:*:*:*:*:*
 cpe:2.3:h:linksys:ea7500:*:*:*:*:*:*:*:*
+cpe:2.3:h:linksys:ea8100:*:*:*:*:*:*:*:*
 cpe:2.3:h:linksys:fgw3000-ah:*:*:*:*:*:*:*:*
 cpe:2.3:h:linksys:fgw3000-hk:*:*:*:*:*:*:*:*
 cpe:2.3:h:linksys:hpro200:*:*:*:*:*:*:*:*
