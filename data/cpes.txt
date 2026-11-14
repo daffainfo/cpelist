@@ -11165,6 +11165,7 @@ cpe:2.3:a:chadhaajay:phpkb:*:*:*:*:*:*:*:*
 cpe:2.3:a:chadhasoftware:phpkb:*:*:*:*:*:*:*:*
 cpe:2.3:a:chafa_project:chafa:*:*:*:*:*:*:*:*
 cpe:2.3:a:chaijis:pathval:*:*:*:*:*:*:*:*
+cpe:2.3:a:chaijs:chai:*:*:*:*:*:*:*:*
 cpe:2.3:a:chaijs:get-func-name:*:*:*:*:*:*:*:*
 cpe:2.3:a:chained_products_project:chained_products:*:*:*:*:*:*:*:*
 cpe:2.3:a:chained_quiz_project:chained_quiz:*:*:*:*:*:*:*:*
@@ -22302,6 +22303,7 @@ cpe:2.3:a:fatwire:fatwire_content_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:fatwire:updateengine:*:*:*:*:*:*:*:*
 cpe:2.3:a:faucet-sdn:ryu:*:*:*:*:*:*:*:*
 cpe:2.3:a:faucet:ryu:*:*:*:*:*:*:*:*
+cpe:2.3:a:faulhaber:motion_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:faulknermedia:wildlife_issues_in_the_new_millennium:*:*:*:*:*:*:*:*
 cpe:2.3:a:faust_informatics:freestyle_chat:*:*:*:*:*:*:*:*
 cpe:2.3:a:fauzantrif_election_project:fauzantrif_election:*:*:*:*:*:*:*:*
@@ -33696,6 +33698,7 @@ cpe:2.3:a:isaac_sukin:browserid:*:*:*:*:*:*:*:*
 cpe:2.3:a:isaac_sukin:shorten:*:*:*:*:*:*:*:*
 cpe:2.3:a:isaacs:glob:*:*:*:*:*:*:*:*
 cpe:2.3:a:isaacs:lru-cache:*:*:*:*:*:*:*:*
+cpe:2.3:a:isaacs:minimatch:*:*:*:*:*:*:*:*
 cpe:2.3:a:isaacs:nave:*:*:*:*:*:*:*:*
 cpe:2.3:a:isaacs:rimraf:*:*:*:*:*:*:*:*
 cpe:2.3:a:isaacs:tar:*:*:*:*:*:*:*:*
@@ -46494,6 +46497,7 @@ cpe:2.3:a:netapp:ontap:*:*:*:*:*:*:*:*
 cpe:2.3:a:netapp:ontap_9:*:*:*:*:*:*:*:*
 cpe:2.3:a:netapp:ontap_antivirus_connector:*:*:*:*:*:*:*:*
 cpe:2.3:a:netapp:ontap_mediator:*:*:*:*:*:*:*:*
+cpe:2.3:a:netapp:ontap_san_host_utilities:*:*:*:*:*:*:*:*
 cpe:2.3:a:netapp:ontap_select_deploy:*:*:*:*:*:*:*:*
 cpe:2.3:a:netapp:ontap_select_deploy_administration_utility:*:*:*:*:*:*:*:*
 cpe:2.3:a:netapp:ontap_select_deploy_utility:*:*:*:*:*:*:*:*
@@ -46731,6 +46735,7 @@ cpe:2.3:a:netiq:core_services:*:*:*:*:*:*:*:*
 cpe:2.3:a:netiq:edirectory:*:*:*:*:*:*:*:*
 cpe:2.3:a:netiq:endpoint:*:*:*:*:*:*:*:*
 cpe:2.3:a:netiq:identity_manager:*:*:*:*:*:*:*:*
+cpe:2.3:a:netiq:identity_manager_azuread_driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:netiq:identity_manager_rest_driver:*:*:*:*:*:*:*:*
 cpe:2.3:a:netiq:identity_reporting:*:*:*:*:*:*:*:*
 cpe:2.3:a:netiq:imanager:*:*:*:*:*:*:*:*
@@ -63664,6 +63669,7 @@ cpe:2.3:a:sincerely:ink_cards:*:*:*:*:*:*:*:*
 cpe:2.3:a:sinch:mailjet:*:*:*:*:*:*:*:*
 cpe:2.3:a:sindresorhus:file-type:*:*:*:*:*:*:*:*
 cpe:2.3:a:sindresorhus:ky:*:*:*:*:*:*:*:*
+cpe:2.3:a:sindresorhus:ora:*:*:*:*:*:*:*:*
 cpe:2.3:a:sindresorhus:type-fest:*:*:*:*:*:*:*:*
 cpe:2.3:a:sinecms:sinecms:*:*:*:*:*:*:*:*
 cpe:2.3:a:sing:sing:*:*:*:*:*:*:*:*
