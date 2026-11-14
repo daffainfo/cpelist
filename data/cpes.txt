@@ -39715,6 +39715,7 @@ cpe:2.3:a:lodahs_project:lodahs:*:*:*:*:*:*:*:*
 cpe:2.3:a:lodash:lodash-amd:*:*:*:*:*:*:*:*
 cpe:2.3:a:lodash:lodash-es:*:*:*:*:*:*:*:*
 cpe:2.3:a:lodash:lodash-rails:*:*:*:*:*:*:*:*
+cpe:2.3:a:lodash:lodash.omit:*:*:*:*:*:*:*:*
 cpe:2.3:a:lodash:lodash.template:*:*:*:*:*:*:*:*
 cpe:2.3:a:lodash:lodash.unset:*:*:*:*:*:*:*:*
 cpe:2.3:a:lodash:lodash:*:*:*:*:*:*:*:*
