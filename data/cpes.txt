@@ -14712,6 +14712,7 @@ cpe:2.3:a:cool_video_gallery_project:cool_video_gallery:*:*:*:*:*:*:*:*
 cpe:2.3:a:coolbeans1212:mateishomepage-website:*:*:*:*:*:*:*:*
 cpe:2.3:a:coolercontrol:coolercontrol:*:*:*:*:*:*:*:*
 cpe:2.3:a:coolercontrol:coolercontrold:*:*:*:*:*:*:*:*
+cpe:2.3:a:coolermaster:masterplus_:*:*:*:*:*:*:*:*
 cpe:2.3:a:coolforum:coolforum:*:*:*:*:*:*:*:*
 cpe:2.3:a:coolkit:ewelink:*:*:*:*:*:*:*:*
 cpe:2.3:a:coollabs:coolify:*:*:*:*:*:*:*:*
@@ -42121,6 +42122,7 @@ cpe:2.3:a:mercuryaudio:audio_player:*:*:*:*:*:*:*:*
 cpe:2.3:a:mercuryboard:mercuryboard:*:*:*:*:*:*:*:*
 cpe:2.3:a:mercuryboard:mercuryboard_message_board:*:*:*:*:*:*:*:*
 cpe:2.3:a:mercusys:mw325r_eu_v3:*:*:*:*:*:*:*:*
+cpe:2.3:a:mereithhh:vanblog:*:*:*:*:*:*:*:*
 cpe:2.3:a:merethis:centreon:*:*:*:*:*:*:*:*
 cpe:2.3:a:merethis:centreon_enterprise_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:merge-change_project:merge-change:*:*:*:*:*:*:*:*
@@ -50092,6 +50094,7 @@ cpe:2.3:a:opigno:opigno:*:*:*:*:*:*:*:*
 cpe:2.3:a:opigno:opigno_module:*:*:*:*:*:*:*:*
 cpe:2.3:a:opigno:tincan_question_type:*:*:*:*:*:*:*:*
 cpe:2.3:a:opinionstage:poll\,_survey_\&_quiz_maker:*:*:*:*:*:*:*:*
+cpe:2.3:a:opixido:ocms:*:*:*:*:*:*:*:*
 cpe:2.3:a:oplist:openlist:*:*:*:*:*:*:*:*
 cpe:2.3:a:oplugins:booking_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:opmantek:network_management_information_system:*:*:*:*:*:*:*:*
