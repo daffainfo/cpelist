@@ -66112,6 +66112,7 @@ cpe:2.3:a:stimulsoft:reports:*:*:*:*:*:*:*:*
 cpe:2.3:a:stimulsoft:viewer:*:*:*:*:*:*:*:*
 cpe:2.3:a:stimulusreflex:stimulus_reflex:*:*:*:*:*:*:*:*
 cpe:2.3:a:stimulusreflex:stimulusrelfex:*:*:*:*:*:*:*:*
+cpe:2.3:a:stirling-tools:stirling-pdf:*:*:*:*:*:*:*:*
 cpe:2.3:a:stirling:stirling_pdf:*:*:*:*:*:*:*:*
 cpe:2.3:a:stirlingpdf:stirling_pdf:*:*:*:*:*:*:*:*
 cpe:2.3:a:stitionai:devika:*:*:*:*:*:*:*:*
