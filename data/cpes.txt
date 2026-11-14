@@ -19475,6 +19475,7 @@ cpe:2.3:a:edimax:br-6228nc:*:*:*:*:*:*:*:*
 cpe:2.3:a:edimax:br-6428nc:*:*:*:*:*:*:*:*
 cpe:2.3:a:edimax:br-6478ac_v2:*:*:*:*:*:*:*:*
 cpe:2.3:a:edimax:br-6675nd:*:*:*:*:*:*:*:*
+cpe:2.3:a:edimax:br6478acv2:*:*:*:*:*:*:*:*
 cpe:2.3:a:edimax:ew-7438rpn:*:*:*:*:*:*:*:*
 cpe:2.3:a:edimax:ew-7478apc:*:*:*:*:*:*:*:*
 cpe:2.3:a:edimax:print_server_utilities:*:*:*:*:*:*:*:*
@@ -29431,6 +29432,7 @@ cpe:2.3:a:hrisikeshpal:blood_bank_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:hrp2000:e-hr:*:*:*:*:*:*:*:*
 cpe:2.3:a:hrsale:hrsale:*:*:*:*:*:*:*:*
 cpe:2.3:a:hrsale_project:hrsale:*:*:*:*:*:*:*:*
+cpe:2.3:a:hrshadhin:cloudschool:*:*:*:*:*:*:*:*
 cpe:2.3:a:hrworks:hrworks:*:*:*:*:*:*:*:*
 cpe:2.3:a:hrwtoken_project:hrwtoken:*:*:*:*:*:*:*:*
 cpe:2.3:a:hs-web:hsweb-framework:*:*:*:*:*:*:*:*
