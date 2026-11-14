@@ -62206,6 +62206,7 @@ cpe:2.3:a:sergey_lyubka:mongoose:*:*:*:*:*:*:*:*
 cpe:2.3:a:sergey_lyubka:simple_httpd:*:*:*:*:*:*:*:*
 cpe:2.3:a:sergey_oblomov:iso_wincmd:*:*:*:*:*:*:*:*
 cpe:2.3:a:sergids:top_music_module:*:*:*:*:*:*:*:*
+cpe:2.3:a:sergix44:xbackbone:*:*:*:*:*:*:*:*
 cpe:2.3:a:sergomanov:smarthomeadatum:*:*:*:*:*:*:*:*
 cpe:2.3:a:serial-number_project:serial-number:*:*:*:*:*:*:*:*
 cpe:2.3:a:serial_line_sniffer:serial_line_sniffer:*:*:*:*:*:*:*:*
@@ -65301,6 +65302,7 @@ cpe:2.3:a:sovratec:sovratec_case_management:*:*:*:*:*:*:*:*
 cpe:2.3:a:sovrn:wordpress_related_posts:*:*:*:*:*:*:*:*
 cpe:2.3:a:sowsoft:effective_file_search:*:*:*:*:*:*:*:*
 cpe:2.3:a:sox:sox:*:*:*:*:*:*:*:*
+cpe:2.3:a:sox_ng:sox_ng:*:*:*:*:*:*:*:*
 cpe:2.3:a:sox_project:sox:*:*:*:*:*:*:*:*
 cpe:2.3:a:soxft:timemail:*:*:*:*:*:*:*:*
 cpe:2.3:a:soy_cms_project:soy_cms:*:*:*:*:*:*:*:*
