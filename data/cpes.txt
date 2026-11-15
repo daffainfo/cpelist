@@ -63263,6 +63263,7 @@ cpe:2.3:a:signond_project:signond:*:*:*:*:*:*:*:*
 cpe:2.3:a:signotec:signopad-api\/web:*:*:*:*:*:*:*:*
 cpe:2.3:a:signumtte:windesk.fm:*:*:*:*:*:*:*:*
 cpe:2.3:a:sigoden:aichat:*:*:*:*:*:*:*:*
+cpe:2.3:a:sigoden:dufs:*:*:*:*:*:*:*:*
 cpe:2.3:a:sigong_ebook_project:sigong_ebook:*:*:*:*:*:*:*:*
 cpe:2.3:a:sigsiu.net:sobi2:*:*:*:*:*:*:*:*
 cpe:2.3:a:sigstore:cosign:*:*:*:*:*:*:*:*
