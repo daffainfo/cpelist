@@ -73581,6 +73581,7 @@ cpe:2.3:a:vuejs:vue_cli:*:*:*:*:*:*:*:*
 cpe:2.3:a:vuelidate_project:vuelidate:*:*:*:*:*:*:*:*
 cpe:2.3:a:vuetifyjs:vuetify:*:*:*:*:*:*:*:*
 cpe:2.3:a:vulcanjs:vulcan:*:*:*:*:*:*:*:*
+cpe:2.3:a:vulnerability-lookup:vulnerability-lookup:*:*:*:*:*:*:*:*
 cpe:2.3:a:vulnogram:vulnogram:*:*:*:*:*:*:*:*
 cpe:2.3:a:vunet:vu_web_visitor_analyst:*:*:*:*:*:*:*:*
 cpe:2.3:a:vuplayer:vuplayer:*:*:*:*:*:*:*:*
