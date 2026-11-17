@@ -2035,6 +2035,9 @@ cpe:2.3:a:aescrypt:aes_crypt:*:*:*:*:*:*:*:*
 cpe:2.3:a:aescrypt_project:aescrypt:*:*:*:*:*:*:*:*
 cpe:2.3:a:aestiva:html_os:*:*:*:*:*:*:*:*
 cpe:2.3:a:aeternalabshq:pullmd:*:*:*:*:*:*:*:*
+cpe:2.3:a:aetherproject:onos-lib-go:*:*:*:*:*:*:*:*
+cpe:2.3:a:aetherproject:onos-ric-sdk-go:*:*:*:*:*:*:*:*
+cpe:2.3:a:aetherproject:traffic_steering_xapplication:*:*:*:*:*:*:*:*
 cpe:2.3:a:aethon:tug_home_base_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:aewebworks:aedating:*:*:*:*:*:*:*:*
 cpe:2.3:a:afcommerce:afcommerce:*:*:*:*:*:*:*:*
@@ -33216,6 +33219,7 @@ cpe:2.3:a:intergraph:sales_price_generator:*:*:*:*:*:*:*:*
 cpe:2.3:a:intergraph:user_access_tool:*:*:*:*:*:*:*:*
 cpe:2.3:a:interguias:nethoteles:*:*:*:*:*:*:*:*
 cpe:2.3:a:interinfo:dreammaker:*:*:*:*:*:*:*:*
+cpe:2.3:a:interlib_project:interlib:*:*:*:*:*:*:*:*
 cpe:2.3:a:interlink_advantage:interlink_advantage:*:*:*:*:*:*:*:*
 cpe:2.3:a:interlogy:profile_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:intermate:winipds:*:*:*:*:*:*:*:*
@@ -43202,6 +43206,7 @@ cpe:2.3:a:microsoft:outlook_rt:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:outlook_web:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:outlook_web_access:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:package_manager_configurations:*:*:*:*:*:*:*:*
+cpe:2.3:a:microsoft:paint:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:paint_3d:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:pandocupload:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:partner_center:*:*:*:*:*:*:*:*
@@ -49263,6 +49268,7 @@ cpe:2.3:a:open-emr:openemr:*:*:*:*:*:*:*:*
 cpe:2.3:a:open-falcon:dashboard:*:*:*:*:*:*:*:*
 cpe:2.3:a:open-falcon:falcon-plus:*:*:*:*:*:*:*:*
 cpe:2.3:a:open-federation:json-schema-editor-visual:*:*:*:*:*:*:*:*
+cpe:2.3:a:open-formulieren:open-forms:*:*:*:*:*:*:*:*
 cpe:2.3:a:open-ftpd:open-ftpd:*:*:*:*:*:*:*:*
 cpe:2.3:a:open-gorotto:open-gorotto:*:*:*:*:*:*:*:*
 cpe:2.3:a:open-graph_project:open-graph:*:*:*:*:*:*:*:*
@@ -174106,6 +174112,7 @@ cpe:2.3:o:mediatek:lr12a:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:lr13:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:lr9:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:modem:*:*:*:*:*:*:*:*
+cpe:2.3:o:mediatek:mt2713_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt2716_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt2718_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:mediatek:mt2735_firmware:*:*:*:*:*:*:*:*
