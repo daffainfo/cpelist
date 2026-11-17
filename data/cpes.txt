@@ -9194,6 +9194,7 @@ cpe:2.3:a:broadcom:arcserve_client_agent:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:asf_management_applications:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:asset_management_performance_liteagent:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:automic_workload_automation:*:*:*:*:*:*:*:*
+cpe:2.3:a:broadcom:autosys_workload_automation:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:backup_exec_system_recovery:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:bitnami:*:*:*:*:*:*:*:*
 cpe:2.3:a:broadcom:bitnami\/pgpool:*:*:*:*:*:*:*:*
