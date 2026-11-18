@@ -39343,6 +39343,8 @@ cpe:2.3:a:linuxfoundation:backstage\/plugin-scaffolder-backend:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:backstage\/plugin-search-backend-module-elasticsearch:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:backstage\/plugin-search-backend:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:backstage\/plugin-techdocs-backend:*:*:*:*:*:*:*:*
+cpe:2.3:a:linuxfoundation:backstage\/plugin-techdocs-node:*:*:*:*:*:*:*:*
+cpe:2.3:a:linuxfoundation:backstage\/techdocs-common:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:backstage_backend-common:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:backstage_catalog-model:*:*:*:*:*:*:*:*
 cpe:2.3:a:linuxfoundation:backstage_core-components:*:*:*:*:*:*:*:*
