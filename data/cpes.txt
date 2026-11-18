@@ -51231,6 +51231,7 @@ cpe:2.3:a:oracle:tuxedo_system_and_applications_monitor:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:unified_audit:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:unified_directory:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:universal_work_queue:*:*:*:*:*:*:*:*
+cpe:2.3:a:oracle:us_federal_human_resources:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:user_management:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:utilities_advanced_spatial_and_operational_analytics:*:*:*:*:*:*:*:*
 cpe:2.3:a:oracle:utilities_framework:*:*:*:*:*:*:*:*
