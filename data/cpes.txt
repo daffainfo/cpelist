@@ -11179,6 +11179,7 @@ cpe:2.3:a:chainer:chainerrl-visualizer:*:*:*:*:*:*:*:*
 cpe:2.3:a:chainfire:supersu:*:*:*:*:*:*:*:*
 cpe:2.3:a:chainguard-dev:apko:*:*:*:*:*:*:*:*
 cpe:2.3:a:chainguard:apko:*:*:*:*:*:*:*:*
+cpe:2.3:a:chainguard:cg-skills:*:*:*:*:*:*:*:*
 cpe:2.3:a:chainguard:kaniko:*:*:*:*:*:*:*:*
 cpe:2.3:a:chainguard:malcontent:*:*:*:*:*:*:*:*
 cpe:2.3:a:chainguard:melange:*:*:*:*:*:*:*:*
@@ -57823,7 +57824,9 @@ cpe:2.3:a:redhat:build_of_apache_camel:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:build_of_apache_camel_-_hawtio:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:build_of_apache_camel_for_spring_boot:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:build_of_apicurio_registry:*:*:*:*:*:*:*:*
+cpe:2.3:a:redhat:build_of_cryostat:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:build_of_keycloak:*:*:*:*:*:*:*:*
+cpe:2.3:a:redhat:build_of_openjdk:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:build_of_optaplanner:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:build_of_quarkus:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:business-central:*:*:*:*:*:*:*:*
@@ -58220,6 +58223,7 @@ cpe:2.3:a:redhat:storage_for_public_cloud:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:storage_management_console:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:storage_native_client:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:storage_server:*:*:*:*:*:*:*:*
+cpe:2.3:a:redhat:streams_for_apache_kafka:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:stronghold:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:subscription-manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:redhat:subscription_asset_manager:*:*:*:*:*:*:*:*
