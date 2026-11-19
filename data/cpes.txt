@@ -24562,6 +24562,7 @@ cpe:2.3:a:ge_healthcare:voluson:*:*:*:*:*:*:*:*
 cpe:2.3:a:gearbox_software:halo_combat_evolved:*:*:*:*:*:*:*:*
 cpe:2.3:a:gearside:gearside_developer_dashboard:*:*:*:*:*:*:*:*
 cpe:2.3:a:gearsoftware:gearaspiwdm:*:*:*:*:*:*:*:*
+cpe:2.3:a:gearup:hyperev:*:*:*:*:*:*:*:*
 cpe:2.3:a:geautomation:proficy:*:*:*:*:*:*:*:*
 cpe:2.3:a:geblog:geblog:*:*:*:*:*:*:*:*
 cpe:2.3:a:gebrauchtwagenreport:dekra_used_car_report:*:*:*:*:*:*:*:*
@@ -61911,6 +61912,7 @@ cpe:2.3:a:section2.madisonjbrooks12_project:section2.madisonjbrooks12:*:*:*:*:*:
 cpe:2.3:a:sectoken_project:sectoken:*:*:*:*:*:*:*:*
 cpe:2.3:a:sectona:spectra:*:*:*:*:*:*:*:*
 cpe:2.3:a:secuavail:logstare_collector:*:*:*:*:*:*:*:*
+cpe:2.3:a:secudocx:dmp:*:*:*:*:*:*:*:*
 cpe:2.3:a:secudos:domos:*:*:*:*:*:*:*:*
 cpe:2.3:a:secudos:qiata:*:*:*:*:*:*:*:*
 cpe:2.3:a:secudos:qiata_fta:*:*:*:*:*:*:*:*
@@ -62156,6 +62158,7 @@ cpe:2.3:a:sentrysoftware:hardware_sentry_km_for_bmc_patrol:*:*:*:*:*:*:*:*
 cpe:2.3:a:seo-301-meta_project:seo-301-meta:*:*:*:*:*:*:*:*
 cpe:2.3:a:seo-board:seo-board:*:*:*:*:*:*:*:*
 cpe:2.3:a:seo_backlinks_project:seo_backlinks:*:*:*:*:*:*:*:*
+cpe:2.3:a:seo_panel:seo_panel:*:*:*:*:*:*:*:*
 cpe:2.3:a:seo_searchterms_tagging_2_project:seo_searchterms_tagging_2:*:*:*:*:*:*:*:*
 cpe:2.3:a:seo_smart_links_project:seo_smart_links:*:*:*:*:*:*:*:*
 cpe:2.3:a:seogento:seogento:*:*:*:*:*:*:*:*
@@ -65102,6 +65105,7 @@ cpe:2.3:a:sourcecodester:downloading_client_database_management_system:*:*:*:*:*
 cpe:2.3:a:sourcecodester:drag_and_drop_image_upload:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:drug_recommendation_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:dynamic_input_field_generator_using_html_css_and_php:*:*:*:*:*:*:*:*
+cpe:2.3:a:sourcecodester:e-commerce_shopping_cart_web_application:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:e-learning_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:ecommerce_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:edoc_doctor_appointment_system:*:*:*:*:*:*:*:*
@@ -65142,6 +65146,7 @@ cpe:2.3:a:sourcecodester:lost_and_found_information_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:lot_reservation_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:medicine_tracker_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:modern_loan_management_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:sourcecodester:modern_ticket_reservation_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:multi-vendor_online_grocery_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:music_gallery_site:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:my_food_recipe_using_php:*:*:*:*:*:*:*:*
@@ -65226,6 +65231,7 @@ cpe:2.3:a:sourcecodester:simple_crud_using_php_and_fpdf:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:simple_doctors_appointment_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:simple_file_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:simple_food_ordering_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:sourcecodester:simple_form_builder_web_app:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:simple_forum_website:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:simple_inventory_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:simple_library_management_system:*:*:*:*:*:*:*:*
@@ -65241,6 +65247,7 @@ cpe:2.3:a:sourcecodester:simple_traffic_offense_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:smart_attendance_system_with_qr_code_scanner:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:stock_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:student_grades_management_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:sourcecodester:student_project_allocation_and_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:student_record_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:student_result_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:student_study_center_desk_management_system:*:*:*:*:*:*:*:*
