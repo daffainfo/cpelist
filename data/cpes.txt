@@ -43366,6 +43366,7 @@ cpe:2.3:a:microsoft:surface_management_services:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:symcrypt:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:sysinternals:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:sysinternals_debugview:*:*:*:*:*:*:*:*
+cpe:2.3:a:microsoft:sysinternals_pipelist:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:sysinternals_process_monitor:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:sysinternals_pstools:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:system.data.sqlclient:*:*:*:*:*:*:*:*
@@ -43539,6 +43540,7 @@ cpe:2.3:a:microsoft:windows_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:windows_services_for_unix:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:windows_software_development_kit:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:windows_subsystem_for_linux:*:*:*:*:*:*:*:*
+cpe:2.3:a:microsoft:windows_sysinternals_process_monitor:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:windows_sysmon:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:windows_terminal_services_using_rdp:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:windows_upgrade_assistant:*:*:*:*:*:*:*:*
@@ -48668,6 +48670,7 @@ cpe:2.3:a:oct8ne:chatbot:*:*:*:*:*:*:*:*
 cpe:2.3:a:octavolabs:vernemq:*:*:*:*:*:*:*:*
 cpe:2.3:a:octech:oempro:*:*:*:*:*:*:*:*
 cpe:2.3:a:octeth:oempro:*:*:*:*:*:*:*:*
+cpe:2.3:a:october:cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:october_cms:october_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:octobercms:debugbar:*:*:*:*:*:*:*:*
 cpe:2.3:a:octobercms:october:*:*:*:*:*:*:*:*
@@ -58377,6 +58380,7 @@ cpe:2.3:a:rejetto:http_file_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:rejucms_project:rejucms:*:*:*:*:*:*:*:*
 cpe:2.3:a:related_youtube_videos_project:related_youtube_videos:*:*:*:*:*:*:*:*
 cpe:2.3:a:relatedcode:messenger:*:*:*:*:*:*:*:*
+cpe:2.3:a:relaticle:relaticle:*:*:*:*:*:*:*:*
 cpe:2.3:a:relative:sailplanner:*:*:*:*:*:*:*:*
 cpe:2.3:a:relative:synchrony:*:*:*:*:*:*:*:*
 cpe:2.3:a:relative_real_estate_systems:relative_real_estate_systems:*:*:*:*:*:*:*:*
