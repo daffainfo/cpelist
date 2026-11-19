@@ -7698,6 +7698,7 @@ cpe:2.3:a:benjaminrojas:wp_editor:*:*:*:*:*:*:*:*
 cpe:2.3:a:benjaminzekavica:easy_svg_support:*:*:*:*:*:*:*:*
 cpe:2.3:a:benoitc:gunicorn:*:*:*:*:*:*:*:*
 cpe:2.3:a:benoitc:hackney:*:*:*:*:*:*:*:*
+cpe:2.3:a:benoitc:idna:*:*:*:*:*:*:*:*
 cpe:2.3:a:benson_it_solutions:1webcalendar:*:*:*:*:*:*:*:*
 cpe:2.3:a:bentley:assetwise_alim_for_transportation:*:*:*:*:*:*:*:*
 cpe:2.3:a:bentley:assetwise_alim_web:*:*:*:*:*:*:*:*
