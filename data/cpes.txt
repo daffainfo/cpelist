@@ -8353,6 +8353,7 @@ cpe:2.3:a:blingo:blingo_toolbar:*:*:*:*:*:*:*:*
 cpe:2.3:a:blink1:blink1control2:*:*:*:*:*:*:*:*
 cpe:2.3:a:blinkforhome:sync_module:*:*:*:*:*:*:*:*
 cpe:2.3:a:blinko:blinko:*:*:*:*:*:*:*:*
+cpe:2.3:a:blinkospace:blinko:*:*:*:*:*:*:*:*
 cpe:2.3:a:blinksocks:blinksocks:*:*:*:*:*:*:*:*
 cpe:2.3:a:blinkwebeffects:social-media-widget:*:*:*:*:*:*:*:*
 cpe:2.3:a:blitiri:chasquid:*:*:*:*:*:*:*:*
@@ -16569,6 +16570,7 @@ cpe:2.3:a:decidim_international_community_environment:decidim-module-decidim_awe
 cpe:2.3:a:deciphered:filefield_paths:*:*:*:*:*:*:*:*
 cpe:2.3:a:decisions_project:decisions:*:*:*:*:*:*:*:*
 cpe:2.3:a:declaire:redirects:*:*:*:*:*:*:*:*
+cpe:2.3:a:declare-lab:tango:*:*:*:*:*:*:*:*
 cpe:2.3:a:deco.agency:de.branding:*:*:*:*:*:*:*:*
 cpe:2.3:a:decode-uri-component_project:decode-uri-component:*:*:*:*:*:*:*:*
 cpe:2.3:a:decompress_project:decompress:*:*:*:*:*:*:*:*
@@ -21272,9 +21274,9 @@ cpe:2.3:a:ewire:payment_client:*:*:*:*:*:*:*:*
 cpe:2.3:a:ewriting:ewriting:*:*:*:*:*:*:*:*
 cpe:2.3:a:ewww:image_optimizer:*:*:*:*:*:*:*:*
 cpe:2.3:a:ewww_image_optimizer_plugin_project:ewww_image_optimizer_plugin:*:*:*:*:*:*:*:*
+cpe:2.3:a:ex-aws:ex_aws_sns:*:*:*:*:*:*:*:*
 cpe:2.3:a:ex-designs:world_recipe:*:*:*:*:*:*:*:*
 cpe:2.3:a:ex-themes:wp_timeline:*:*:*:*:*:*:*:*
-cpe:2.3:a:ex_aws_sns_project:ex_aws_sns:*:*:*:*:*:*:*:*
 cpe:2.3:a:exabot:exabot:*:*:*:*:*:*:*:*
 cpe:2.3:a:exacorecontract_project:exacorecontract:*:*:*:*:*:*:*:*
 cpe:2.3:a:exacq:enterprise_system_manager:*:*:*:*:*:*:*:*
@@ -25333,6 +25335,7 @@ cpe:2.3:a:gl.inet:xe3000:*:*:*:*:*:*:*:*
 cpe:2.3:a:gl.inet:xe300:*:*:*:*:*:*:*:*
 cpe:2.3:a:gladinet:centrestack:*:*:*:*:*:*:*:*
 cpe:2.3:a:gladinet:triofox:*:*:*:*:*:*:*:*
+cpe:2.3:a:gladys_assistant:gladys_assistant:*:*:*:*:*:*:*:*
 cpe:2.3:a:gladysassistant:gladys_assistant:*:*:*:*:*:*:*:*
 cpe:2.3:a:glamo:iremocon_wifi:*:*:*:*:*:*:*:*
 cpe:2.3:a:glance_project:glance:*:*:*:*:*:*:*:*
@@ -37753,6 +37756,7 @@ cpe:2.3:a:konker:konker_platform:*:*:*:*:*:*:*:*
 cpe:2.3:a:konqueror:konqueror:*:*:*:*:*:*:*:*
 cpe:2.3:a:konradpl99:202cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:konst:centericq:*:*:*:*:*:*:*:*
+cpe:2.3:a:konstanty:libmodplug:*:*:*:*:*:*:*:*
 cpe:2.3:a:konstanty_bialkowski:libmodplug:*:*:*:*:*:*:*:*
 cpe:2.3:a:kontena:kontena:*:*:*:*:*:*:*:*
 cpe:2.3:a:kontextwork:drupal_wiki:*:*:*:*:*:*:*:*
@@ -44981,6 +44985,7 @@ cpe:2.3:a:moxiecode:plupload:*:*:*:*:*:*:*:*
 cpe:2.3:a:moxiecode:tinymce_compressor_php:*:*:*:*:*:*:*:*
 cpe:2.3:a:moxy:moxyonepresale:*:*:*:*:*:*:*:*
 cpe:2.3:a:mozart:mozart:*:*:*:*:*:*:*:*
+cpe:2.3:a:mozilla-ai:llamafile:*:*:*:*:*:*:*:*
 cpe:2.3:a:mozilla:0din_scanner:*:*:*:*:*:*:*:*
 cpe:2.3:a:mozilla:bleach:*:*:*:*:*:*:*:*
 cpe:2.3:a:mozilla:bonsai:*:*:*:*:*:*:*:*
@@ -72371,6 +72376,7 @@ cpe:2.3:a:vaerys-dawn:discordsailv2:*:*:*:*:*:*:*:*
 cpe:2.3:a:vaethink:vaethink:*:*:*:*:*:*:*:*
 cpe:2.3:a:vagrant.js_project:vagrant.js:*:*:*:*:*:*:*:*
 cpe:2.3:a:vagrant_project:vagrant:*:*:*:*:*:*:*:*
+cpe:2.3:a:vahe1994:aqlm:*:*:*:*:*:*:*:*
 cpe:2.3:a:vaibhavverma9999:hotel_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:valarsoft:webmatic:*:*:*:*:*:*:*:*
 cpe:2.3:a:valdersoft:shopping_cart:*:*:*:*:*:*:*:*
@@ -76978,6 +76984,7 @@ cpe:2.3:a:xi_graphics:dextop:*:*:*:*:*:*:*:*
 cpe:2.3:a:xia_zuojie:nexusphp:*:*:*:*:*:*:*:*
 cpe:2.3:a:xian_daxi_information_technology:officeweb_365:*:*:*:*:*:*:*:*
 cpe:2.3:a:xiandafu:beetl:*:*:*:*:*:*:*:*
+cpe:2.3:a:xiangli1999:diffusion-lm:*:*:*:*:*:*:*:*
 cpe:2.3:a:xiangshan:nemu:*:*:*:*:*:*:*:*
 cpe:2.3:a:xiangshan:xiangshan:*:*:*:*:*:*:*:*
 cpe:2.3:a:xianqi:kindergarten_management_system:*:*:*:*:*:*:*:*
