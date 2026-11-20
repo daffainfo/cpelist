@@ -27760,6 +27760,7 @@ cpe:2.3:a:hioa:student_id:*:*:*:*:*:*:*:*
 cpe:2.3:a:hiox:hiox_guest_book:*:*:*:*:*:*:*:*
 cpe:2.3:a:hiox_india:banner_rotator:*:*:*:*:*:*:*:*
 cpe:2.3:a:hiox_india:guest_book:*:*:*:*:*:*:*:*
+cpe:2.3:a:hiparker:opsli-boot:*:*:*:*:*:*:*:*
 cpe:2.3:a:hipcam:device:*:*:*:*:*:*:*:*
 cpe:2.3:a:hipcam:realserver:*:*:*:*:*:*:*:*
 cpe:2.3:a:hiphop_virtual_machine_for_php_project:hiphop_virtual_machine_for_php:*:*:*:*:*:*:*:*
