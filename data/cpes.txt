@@ -64136,6 +64136,7 @@ cpe:2.3:a:smart_related_articles_project:smart_related_articles:*:*:*:*:*:*:*:*
 cpe:2.3:a:smart_technologies:synchroneyes:*:*:*:*:*:*:*:*
 cpe:2.3:a:smart_trim_project:smart_trim:*:*:*:*:*:*:*:*
 cpe:2.3:a:smart_youtube_pro_project:smart_youtube_pro:*:*:*:*:*:*:*:*
+cpe:2.3:a:smartalock:wireguard-lwip:*:*:*:*:*:*:*:*
 cpe:2.3:a:smartbear:aqtime:*:*:*:*:*:*:*:*
 cpe:2.3:a:smartbear:collaborator:*:*:*:*:*:*:*:*
 cpe:2.3:a:smartbear:readyapi:*:*:*:*:*:*:*:*
