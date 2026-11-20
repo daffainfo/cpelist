@@ -3971,6 +3971,7 @@ cpe:2.3:a:anzhiyu-c:hexo-theme-anzhiyu:*:*:*:*:*:*:*:*
 cpe:2.3:a:anzio:print_wizard:*:*:*:*:*:*:*:*
 cpe:2.3:a:anzio:web_print_object:*:*:*:*:*:*:*:*
 cpe:2.3:a:aobosoft:oblog:*:*:*:*:*:*:*:*
+cpe:2.3:a:aoiflux:mutant:*:*:*:*:*:*:*:*
 cpe:2.3:a:aojiaozero:antaris:*:*:*:*:*:*:*:*
 cpe:2.3:a:aokitaka:zip_with_pass:*:*:*:*:*:*:*:*
 cpe:2.3:a:aokitaka:zip_with_pass_pro:*:*:*:*:*:*:*:*
@@ -9886,6 +9887,7 @@ cpe:2.3:a:bytecodealliance:webassembly_micro_runtime:*:*:*:*:*:*:*:*
 cpe:2.3:a:bytedance:coze_scraper_extension:*:*:*:*:*:*:*:*
 cpe:2.3:a:bytedance:deerflow:*:*:*:*:*:*:*:*
 cpe:2.3:a:bytedance:infinistore:*:*:*:*:*:*:*:*
+cpe:2.3:a:bytedance:lark_desktop:*:*:*:*:*:*:*:*
 cpe:2.3:a:bytedeco:javacpp_presets:*:*:*:*:*:*:*:*
 cpe:2.3:a:bytedesk:bytedesk:*:*:*:*:*:*:*:*
 cpe:2.3:a:bytehoard:bytehoard:*:*:*:*:*:*:*:*
@@ -27093,6 +27095,7 @@ cpe:2.3:a:harvard:pingpong:*:*:*:*:*:*:*:*
 cpe:2.3:a:harvestyourdata:droid_survey_offline_forms:*:*:*:*:*:*:*:*
 cpe:2.3:a:harvey-woo:key-serializer:*:*:*:*:*:*:*:*
 cpe:2.3:a:harveyzyh_python_project:harveyzyh_python:*:*:*:*:*:*:*:*
+cpe:2.3:a:hasan-py:hayroo:*:*:*:*:*:*:*:*
 cpe:2.3:a:hasanmovahed:duplicate_title_validate:*:*:*:*:*:*:*:*
 cpe:2.3:a:hasb_e_haal_project:hasb_e_haal:*:*:*:*:*:*:*:*
 cpe:2.3:a:hasbani_web_server:hasbani_web_server:*:*:*:*:*:*:*:*
@@ -57224,6 +57227,7 @@ cpe:2.3:a:raitan:commandcenter_secure_gateway:*:*:*:*:*:*:*:*
 cpe:2.3:a:raize:codesite_client_tools:*:*:*:*:*:*:*:*
 cpe:2.3:a:raizlabs:php_email_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:rajarora795:recently_viewed_products:*:*:*:*:*:*:*:*
+cpe:2.3:a:rajesh2211:doctor-appointment-system:*:*:*:*:*:*:*:*
 cpe:2.3:a:rajesh_thanoch:quick_learn:*:*:*:*:*:*:*:*
 cpe:2.3:a:rajkakadiya:password_protected_store_for_woocommerce:*:*:*:*:*:*:*:*
 cpe:2.3:a:rajneel_lal_totaram:usp_foss_distribution:*:*:*:*:*:*:*:*
@@ -64486,6 +64490,7 @@ cpe:2.3:a:sodahead:sodahead_polls:*:*:*:*:*:*:*:*
 cpe:2.3:a:sodapdf:soda_pdf:*:*:*:*:*:*:*:*
 cpe:2.3:a:sodapdf:soda_pdf_desktop:*:*:*:*:*:*:*:*
 cpe:2.3:a:sodiumoxide_project:sodiumoxide:*:*:*:*:*:*:*:*
+cpe:2.3:a:sofastack:sofa-bolt:*:*:*:*:*:*:*:*
 cpe:2.3:a:sofastack:sofarpc:*:*:*:*:*:*:*:*
 cpe:2.3:a:sofawiki_project:sofawiki:*:*:*:*:*:*:*:*
 cpe:2.3:a:soffid:iam:*:*:*:*:*:*:*:*
