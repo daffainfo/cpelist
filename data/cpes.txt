@@ -7181,6 +7181,7 @@ cpe:2.3:a:balbir_singh:libcgroup:*:*:*:*:*:*:*:*
 cpe:2.3:a:balbooa:forms:*:*:*:*:*:*:*:*
 cpe:2.3:a:balbooa:gridbox:*:*:*:*:*:*:*:*
 cpe:2.3:a:balderdash:waterline-sequel:*:*:*:*:*:*:*:*
+cpe:2.3:a:balena:etcher:*:*:*:*:*:*:*:*
 cpe:2.3:a:balero_cms_project:balero_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:ballcat:codegen:*:*:*:*:*:*:*:*
 cpe:2.3:a:ballerina:ballerina:*:*:*:*:*:*:*:*
@@ -32200,6 +32201,7 @@ cpe:2.3:a:innominate:mguard_industrial_rs:*:*:*:*:*:*:*:*
 cpe:2.3:a:innominate:mguard_pci:*:*:*:*:*:*:*:*
 cpe:2.3:a:innominate:mguard_smart:*:*:*:*:*:*:*:*
 cpe:2.3:a:innomotics:digimine_assetanalytics:*:*:*:*:*:*:*:*
+cpe:2.3:a:innomotics:digimine_process_twin:*:*:*:*:*:*:*:*
 cpe:2.3:a:innopage:giga_hobby:*:*:*:*:*:*:*:*
 cpe:2.3:a:innoraft:login_time_restriction:*:*:*:*:*:*:*:*
 cpe:2.3:a:innorix:file_transfer_solution:*:*:*:*:*:*:*:*
@@ -52414,6 +52416,7 @@ cpe:2.3:a:paul_vixie:vixie_cron:*:*:*:*:*:*:*:*
 cpe:2.3:a:paulalexanderformayor:paul_alexander_campaign:*:*:*:*:*:*:*:*
 cpe:2.3:a:paulclark:styles:*:*:*:*:*:*:*:*
 cpe:2.3:a:paulgriffinpetty:wp_plugin_lister:*:*:*:*:*:*:*:*
+cpe:2.3:a:paulmillr:chokidar:*:*:*:*:*:*:*:*
 cpe:2.3:a:paulprinting_project:paulprinting:*:*:*:*:*:*:*:*
 cpe:2.3:a:paulrosen:abc_notation:*:*:*:*:*:*:*:*
 cpe:2.3:a:paulrouget:dzslides:*:*:*:*:*:*:*:*
@@ -64376,6 +64379,8 @@ cpe:2.3:a:snowflake:snowflake_jdbc:*:*:*:*:*:*:*:*
 cpe:2.3:a:snowflake:snowflake_ml:*:*:*:*:*:*:*:*
 cpe:2.3:a:snowflake:snowpark:*:*:*:*:*:*:*:*
 cpe:2.3:a:snowflake:snowwork:*:*:*:*:*:*:*:*
+cpe:2.3:a:snowflake:spark_connector:*:*:*:*:*:*:*:*
+cpe:2.3:a:snowflake:sqlalchemy:*:*:*:*:*:*:*:*
 cpe:2.3:a:snowflake:streamlit:*:*:*:*:*:*:*:*
 cpe:2.3:a:snowflake:t3blog:*:*:*:*:*:*:*:*
 cpe:2.3:a:snowflake:terraform_provider:*:*:*:*:*:*:*:*
@@ -69884,6 +69889,7 @@ cpe:2.3:a:tizen:tizen:*:*:*:*:*:*:*:*
 cpe:2.3:a:tj-actions:branch-names:*:*:*:*:*:*:*:*
 cpe:2.3:a:tj-actions:changed-files:*:*:*:*:*:*:*:*
 cpe:2.3:a:tj-actions:verify-changed-files:*:*:*:*:*:*:*:*
+cpe:2.3:a:tj:commander:*:*:*:*:*:*:*:*
 cpe:2.3:a:tjake:jlama:*:*:*:*:*:*:*:*
 cpe:2.3:a:tjschat:tjschat:*:*:*:*:*:*:*:*
 cpe:2.3:a:tjws2_project:tjws2:*:*:*:*:*:*:*:*
