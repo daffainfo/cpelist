@@ -3864,6 +3864,7 @@ cpe:2.3:a:antiboard:antiboard:*:*:*:*:*:*:*:*
 cpe:2.3:a:antigrain:agg:*:*:*:*:*:*:*:*
 cpe:2.3:a:antihacker_project:antihacker:*:*:*:*:*:*:*:*
 cpe:2.3:a:antimof:uxplay:*:*:*:*:*:*:*:*
+cpe:2.3:a:antirez:gguf-tools:*:*:*:*:*:*:*:*
 cpe:2.3:a:antirez:linenoise:*:*:*:*:*:*:*:*
 cpe:2.3:a:antisamy_project:antisamy:*:*:*:*:*:*:*:*
 cpe:2.3:a:antisip:exosip2:*:*:*:*:*:*:*:*
@@ -50096,6 +50097,7 @@ cpe:2.3:a:openzeppelin:openzeppelin_contracts-upgradable:*:*:*:*:*:*:*:*
 cpe:2.3:a:openzeppelin:openzeppelin_contracts-upgradeable:*:*:*:*:*:*:*:*
 cpe:2.3:a:openzeppelin:openzeppelin_contracts:*:*:*:*:*:*:*:*
 cpe:2.3:a:openzfs:openzfs:*:*:*:*:*:*:*:*
+cpe:2.3:a:openzipkin:zipkin:*:*:*:*:*:*:*:*
 cpe:2.3:a:openziti:openziti:*:*:*:*:*:*:*:*
 cpe:2.3:a:opera:brew_browser:*:*:*:*:*:*:*:*
 cpe:2.3:a:opera:mini:*:*:*:*:*:*:*:*
@@ -62417,6 +62419,7 @@ cpe:2.3:a:shaarli_project:shaarli:*:*:*:*:*:*:*:*
 cpe:2.3:a:shaarlier_project:shaarlier:*:*:*:*:*:*:*:*
 cpe:2.3:a:shackerpanel_project:shackerpanel:*:*:*:*:*:*:*:*
 cpe:2.3:a:shadan-kun:server_security_type:*:*:*:*:*:*:*:*
+cpe:2.3:a:shader-slang:slangpy:*:*:*:*:*:*:*:*
 cpe:2.3:a:shadeyouvpn.com_project:shadeyouvpn.com:*:*:*:*:*:*:*:*
 cpe:2.3:a:shadeyouvpn_project:shadeyouvpn:*:*:*:*:*:*:*:*
 cpe:2.3:a:shadow-maint:shadow-utils:*:*:*:*:*:*:*:*
@@ -65735,6 +65738,7 @@ cpe:2.3:a:squashfs_project:squashfs-tools:*:*:*:*:*:*:*:*
 cpe:2.3:a:squashfs_project:squashfs:*:*:*:*:*:*:*:*
 cpe:2.3:a:squashtest:squash_tm:*:*:*:*:*:*:*:*
 cpe:2.3:a:squeeze_project:squeeze:*:*:*:*:*:*:*:*
+cpe:2.3:a:squeezeailab:squeezellm:*:*:*:*:*:*:*:*
 cpe:2.3:a:squery:squery:*:*:*:*:*:*:*:*
 cpe:2.3:a:squid-cache:squid:*:*:*:*:*:*:*:*
 cpe:2.3:a:squid:squid:*:*:*:*:*:*:*:*
@@ -66680,6 +66684,7 @@ cpe:2.3:a:sunlogin:sunflower:*:*:*:*:*:*:*:*
 cpe:2.3:a:sunmochina:enterprise_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sunncomm:mediamax_drm:*:*:*:*:*:*:*:*
 cpe:2.3:a:sunncomm_mediamax:axwebremovectrl:*:*:*:*:*:*:*:*
+cpe:2.3:a:sunnet:ctms:*:*:*:*:*:*:*:*
 cpe:2.3:a:sunnet:ehrd_ctms:*:*:*:*:*:*:*:*
 cpe:2.3:a:sunnyadn:js-toml:*:*:*:*:*:*:*:*
 cpe:2.3:a:sunnygkp10:online-exam-system-:*:*:*:*:*:*:*:*
@@ -69468,6 +69473,7 @@ cpe:2.3:a:tianma-static_project:tianma-static:*:*:*:*:*:*:*:*
 cpe:2.3:a:tiann:kernelsu:*:*:*:*:*:*:*:*
 cpe:2.3:a:tianocore:edk2:*:*:*:*:*:*:*:*
 cpe:2.3:a:tianocore:edk_ii:*:*:*:*:*:*:*:*
+cpe:2.3:a:tianshiyeben:wgcloud:*:*:*:*:*:*:*:*
 cpe:2.3:a:tianti_project:tianti:*:*:*:*:*:*:*:*
 cpe:2.3:a:tianwell:fire_intelligent_command_platform:*:*:*:*:*:*:*:*
 cpe:2.3:a:tibbo:aggregate:*:*:*:*:*:*:*:*
