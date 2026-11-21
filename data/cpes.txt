@@ -27697,6 +27697,7 @@ cpe:2.3:a:highcharts:highcharts:*:*:*:*:*:*:*:*
 cpe:2.3:a:highcompress:highcompress_image_compressor:*:*:*:*:*:*:*:*
 cpe:2.3:a:highfivery:zero-spam:*:*:*:*:*:*:*:*
 cpe:2.3:a:highfivery:zero_spam_for_wordpress:*:*:*:*:*:*:*:*
+cpe:2.3:a:highlight:highlight.js:*:*:*:*:*:*:*:*
 cpe:2.3:a:highlight:highlight:*:*:*:*:*:*:*:*
 cpe:2.3:a:highlight_focus_project:highlight_focus:*:*:*:*:*:*:*:*
 cpe:2.3:a:highlighterstudio:vineyard_all_in:*:*:*:*:*:*:*:*
@@ -64439,6 +64440,7 @@ cpe:2.3:a:so_planning:simple_online_planning:*:*:*:*:*:*:*:*
 cpe:2.3:a:soap\:\:lite_project:soap\:\:lite:*:*:*:*:*:*:*:*
 cpe:2.3:a:soapbox_project:soapbox:*:*:*:*:*:*:*:*
 cpe:2.3:a:soapmakingforum:soap_making:*:*:*:*:*:*:*:*
+cpe:2.3:a:soar_cloud_system:human_resources:*:*:*:*:*:*:*:*
 cpe:2.3:a:soaringsoftware:tcmax:*:*:*:*:*:*:*:*
 cpe:2.3:a:soarkey:_:*:*:*:*:*:*:*:*
 cpe:2.3:a:soarkey:studentmanagement:*:*:*:*:*:*:*:*
