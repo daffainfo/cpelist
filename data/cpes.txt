@@ -170468,6 +170468,7 @@ cpe:2.3:o:kalkitech:sync3000-m2_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:kalkitech:sync3000-m3_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:kalkitech:sync3000-m4_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:kalkitech:sync3000_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:kanishka-linux:reminiscence:*:*:*:*:*:*:*:*
 cpe:2.3:o:kankunit:konke_smart_plug_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:kaongroup:ar2140_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:kaonmedia:ar2140_firmware:*:*:*:*:*:*:*:*
