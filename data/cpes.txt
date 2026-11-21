@@ -9878,6 +9878,7 @@ cpe:2.3:a:byron:gitoxide:*:*:*:*:*:*:*:*
 cpe:2.3:a:byte_fusion:bftelnet:*:*:*:*:*:*:*:*
 cpe:2.3:a:byte_struct_project:byte_struct:*:*:*:*:*:*:*:*
 cpe:2.3:a:bytebase:bytebase:*:*:*:*:*:*:*:*
+cpe:2.3:a:bytebase:dbhub:*:*:*:*:*:*:*:*
 cpe:2.3:a:bytebot-ai:bytebot:*:*:*:*:*:*:*:*
 cpe:2.3:a:bytecode_viewer_project:bytecode_viewer:*:*:*:*:*:*:*:*
 cpe:2.3:a:bytecodealliance:cranelift-codegen:*:*:*:*:*:*:*:*
@@ -41481,6 +41482,7 @@ cpe:2.3:a:maynard_johnson:oprofile:*:*:*:*:*:*:*:*
 cpe:2.3:a:mayneyao:edios:*:*:*:*:*:*:*:*
 cpe:2.3:a:mayneyao:eidos:*:*:*:*:*:*:*:*
 cpe:2.3:a:mayo_project:mayo:*:*:*:*:*:*:*:*
+cpe:2.3:a:mayswind:ariang-native:*:*:*:*:*:*:*:*
 cpe:2.3:a:mayswind:ezbookkeeping:*:*:*:*:*:*:*:*
 cpe:2.3:a:mayuresh82:gocast:*:*:*:*:*:*:*:*
 cpe:2.3:a:mayuri_k:best_courier_management_system:*:*:*:*:*:*:*:*
