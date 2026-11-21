@@ -11304,6 +11304,7 @@ cpe:2.3:a:chatbyvista_project:chatbyvista:*:*:*:*:*:*:*:*
 cpe:2.3:a:chatchat-space:langchain-chatchat:*:*:*:*:*:*:*:*
 cpe:2.3:a:chatelao:php_address_book:*:*:*:*:*:*:*:*
 cpe:2.3:a:chatengine_project:chatengine:*:*:*:*:*:*:*:*
+cpe:2.3:a:chaterm:chaterm:*:*:*:*:*:*:*:*
 cpe:2.3:a:chatgpt-wechat-personal:weixin.php:*:*:*:*:*:*:*:*
 cpe:2.3:a:chatgptnextweb:nextchat:*:*:*:*:*:*:*:*
 cpe:2.3:a:chatikobo:internship_portal_management_system:*:*:*:*:*:*:*:*
