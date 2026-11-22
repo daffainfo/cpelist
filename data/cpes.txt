@@ -39579,6 +39579,7 @@ cpe:2.3:a:littlecms:little_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:littlecms:little_cms_color_engine:*:*:*:*:*:*:*:*
 cpe:2.3:a:liufee:feehicms:*:*:*:*:*:*:*:*
 cpe:2.3:a:liujianview:gymxmjpa:*:*:*:*:*:*:*:*
+cpe:2.3:a:liukuo362573:yishaadmin:*:*:*:*:*:*:*:*
 cpe:2.3:a:liulishuo:filedownloader:*:*:*:*:*:*:*:*
 cpe:2.3:a:liumengxuan04:minicode:*:*:*:*:*:*:*:*
 cpe:2.3:a:liuos_project:liuos:*:*:*:*:*:*:*:*
@@ -64020,6 +64021,7 @@ cpe:2.3:a:skyselang:yyladmin:*:*:*:*:*:*:*:*
 cpe:2.3:a:skyss:arfa-cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:skysystem:arfa_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:skytable:skytable:*:*:*:*:*:*:*:*
+cpe:2.3:a:skyvern-ai:skyvern:*:*:*:*:*:*:*:*
 cpe:2.3:a:skywavesolutions:wp_firebase_push_notification:*:*:*:*:*:*:*:*
 cpe:2.3:a:slab:quill:*:*:*:*:*:*:*:*
 cpe:2.3:a:slab:safeurl:*:*:*:*:*:*:*:*
