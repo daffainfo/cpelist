@@ -18411,6 +18411,7 @@ cpe:2.3:a:dragoon:dragoon:*:*:*:*:*:*:*:*
 cpe:2.3:a:dragoran:portal_module:*:*:*:*:*:*:*:*
 cpe:2.3:a:dragos:dragos_platform:*:*:*:*:*:*:*:*
 cpe:2.3:a:drake_team:drake_cms:*:*:*:*:*:*:*:*
+cpe:2.3:a:drakeling_labs:operation_harsh_doorstop:*:*:*:*:*:*:*:*
 cpe:2.3:a:drar-eym:drareym:*:*:*:*:*:*:*:*
 cpe:2.3:a:draugiemgroup:desktime_time_tracking:*:*:*:*:*:*:*:*
 cpe:2.3:a:draw:draw.io_diagrams:*:*:*:*:*:*:*:*
@@ -36231,6 +36232,7 @@ cpe:2.3:a:jportal:jportal:*:*:*:*:*:*:*:*
 cpe:2.3:a:jportal:jportal_web_portal:*:*:*:*:*:*:*:*
 cpe:2.3:a:jportal:jportal_web_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:jpress:jpress:*:*:*:*:*:*:*:*
+cpe:2.3:a:jprocms:jprocms:*:*:*:*:*:*:*:*
 cpe:2.3:a:jpsoft:take_command:*:*:*:*:*:*:*:*
 cpe:2.3:a:jq_project:jq:*:*:*:*:*:*:*:*
 cpe:2.3:a:jqlang:jq:*:*:*:*:*:*:*:*
@@ -77049,6 +77051,7 @@ cpe:2.3:a:xilisoft:video_converter:*:*:*:*:*:*:*:*
 cpe:2.3:a:xilisoft:xilisoft_video_converter:*:*:*:*:*:*:*:*
 cpe:2.3:a:ximdex:ximdex:*:*:*:*:*:*:*:*
 cpe:2.3:a:ximian:evolution:*:*:*:*:*:*:*:*
+cpe:2.3:a:xinchen_technology:huangjintong_second-level_system_third-generation_management_terminal_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:xine:gxine:*:*:*:*:*:*:*:*
 cpe:2.3:a:xine:real_media_input_plugin:*:*:*:*:*:*:*:*
 cpe:2.3:a:xine:xine-lib:*:*:*:*:*:*:*:*
