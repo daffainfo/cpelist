@@ -33970,6 +33970,7 @@ cpe:2.3:a:itsourcecode:courier_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:document_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:document_management_system_project_in_php_with_source_code:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:e-commerce_website:*:*:*:*:*:*:*:*
+cpe:2.3:a:itsourcecode:e-logbook_with_health_monitoring_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:electronic_judging_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:event_calendar:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:farm_management_system:*:*:*:*:*:*:*:*
@@ -71215,6 +71216,7 @@ cpe:2.3:a:two_pilots:exif_pilot:*:*:*:*:*:*:*:*
 cpe:2.3:a:two_shoes_mambo_factory:simpleboard:*:*:*:*:*:*:*:*
 cpe:2.3:a:twofactorauth_project:twofactorauth:*:*:*:*:*:*:*:*
 cpe:2.3:a:twofold_photos:webshots_desktop:*:*:*:*:*:*:*:*
+cpe:2.3:a:twogood:unshield:*:*:*:*:*:*:*:*
 cpe:2.3:a:twothink_project:twothink:*:*:*:*:*:*:*:*
 cpe:2.3:a:txjia:imcat:*:*:*:*:*:*:*:*
 cpe:2.3:a:txtblogcms:txtblog:*:*:*:*:*:*:*:*
@@ -75239,6 +75241,7 @@ cpe:2.3:a:wireshark:wireshark:*:*:*:*:*:*:*:*
 cpe:2.3:a:wireui:wireui:*:*:*:*:*:*:*:*
 cpe:2.3:a:wiris:mathtype:*:*:*:*:*:*:*:*
 cpe:2.3:a:wirlab:kphone:*:*:*:*:*:*:*:*
+cpe:2.3:a:wiroai:wiro-mcp:*:*:*:*:*:*:*:*
 cpe:2.3:a:wirtualna_polska:wpkontakt:*:*:*:*:*:*:*:*
 cpe:2.3:a:wisa:smart_wing_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:wisc:htcondor:*:*:*:*:*:*:*:*
