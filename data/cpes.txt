@@ -2234,6 +2234,7 @@ cpe:2.3:a:aidreform_project:aidreform:*:*:*:*:*:*:*:*
 cpe:2.3:a:aifu:cashier_accounting_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:aigaion:aigaion:*:*:*:*:*:*:*:*
 cpe:2.3:a:aikcms:aikcms:*:*:*:*:*:*:*:*
+cpe:2.3:a:ail-project:ail-framework:*:*:*:*:*:*:*:*
 cpe:2.3:a:ailux:imx6:*:*:*:*:*:*:*:*
 cpe:2.3:a:ailux:imx6_bundle:*:*:*:*:*:*:*:*
 cpe:2.3:a:aim_sniff:aim_sniff:*:*:*:*:*:*:*:*
@@ -50206,6 +50207,7 @@ cpe:2.3:a:optimarketing:opti_marketing:*:*:*:*:*:*:*:*
 cpe:2.3:a:optimism:eth-optimism\/l2geth:*:*:*:*:*:*:*:*
 cpe:2.3:a:optimizely:configured_commerce:*:*:*:*:*:*:*:*
 cpe:2.3:a:optimizely:optimizely_cms:*:*:*:*:*:*:*:*
+cpe:2.3:a:optimizely:web_experimentation:*:*:*:*:*:*:*:*
 cpe:2.3:a:optimizepress:optimizepress:*:*:*:*:*:*:*:*
 cpe:2.3:a:optimizingmatters:autooptimize:*:*:*:*:*:*:*:*
 cpe:2.3:a:optimocha:speed_booster_pack:*:*:*:*:*:*:*:*
@@ -72994,6 +72996,7 @@ cpe:2.3:a:vignette:vignette_content_management:*:*:*:*:*:*:*:*
 cpe:2.3:a:vigra_computer_vision_library_project:vigra_computer_vision_library:*:*:*:*:*:*:*:*
 cpe:2.3:a:vihor:vihordesign:*:*:*:*:*:*:*:*
 cpe:2.3:a:viitorcloud:add_subtitle:*:*:*:*:*:*:*:*
+cpe:2.3:a:vijaythapa333:django-student-management-system:*:*:*:*:*:*:*:*
 cpe:2.3:a:vikasratudi:lifetime_free_drag_\&_drop_contact_form_builder:*:*:*:*:*:*:*:*
 cpe:2.3:a:vikasratudi:lifetime_free_drag_\&_drop_contact_form_builder_for_wordpress_vform:*:*:*:*:*:*:*:*
 cpe:2.3:a:vikasvatsa:display_custom_post:*:*:*:*:*:*:*:*
