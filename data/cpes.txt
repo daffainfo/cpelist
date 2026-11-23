@@ -37306,6 +37306,7 @@ cpe:2.3:a:ketchup_restaurant_reservations_project:ketchup_restaurant_reservation
 cpe:2.3:a:keter_project:keter:*:*:*:*:*:*:*:*
 cpe:2.3:a:ketm:ketm:*:*:*:*:*:*:*:*
 cpe:2.3:a:ketr:jepaas:*:*:*:*:*:*:*:*
+cpe:2.3:a:keudellcoding:user_location_map:*:*:*:*:*:*:*:*
 cpe:2.3:a:kevin_a._gordon:open_geo_targeting:*:*:*:*:*:*:*:*
 cpe:2.3:a:kevin_johnson:basic_analysis_and_security_engine:*:*:*:*:*:*:*:*
 cpe:2.3:a:kevin_lindsay:secure_locate:*:*:*:*:*:*:*:*
@@ -42686,11 +42687,6 @@ cpe:2.3:a:microsoft:auto_updater_for_mac:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:autoupdate:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:av1_video_extension:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure-iot-sdk-c:*:*:*:*:*:*:*:*
-cpe:2.3:a:microsoft:azure-keyvault-administration:*:*:*:*:*:*:*:*
-cpe:2.3:a:microsoft:azure-keyvault-certificates:*:*:*:*:*:*:*:*
-cpe:2.3:a:microsoft:azure-keyvault-keys:*:*:*:*:*:*:*:*
-cpe:2.3:a:microsoft:azure-keyvault-secrets:*:*:*:*:*:*:*:*
-cpe:2.3:a:microsoft:azure-keyvault-securitydomain:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure-storage-blob-batch:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure-umqtt-c:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure\/msal-node:*:*:*:*:*:*:*:*
@@ -42780,7 +42776,16 @@ cpe:2.3:a:microsoft:azure_iot_explorer:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_iot_hub_device_client_sdk:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_ipam:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_key_vault:*:*:*:*:*:*:*:*
+cpe:2.3:a:microsoft:azure_key_vault_administration:*:*:*:*:*:*:*:*
+cpe:2.3:a:microsoft:azure_key_vault_certificate:*:*:*:*:*:*:*:*
+cpe:2.3:a:microsoft:azure_key_vault_certificates:*:*:*:*:*:*:*:*
+cpe:2.3:a:microsoft:azure_key_vault_key:*:*:*:*:*:*:*:*
+cpe:2.3:a:microsoft:azure_key_vault_keys:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_key_vault_provider_for_secrets_store_csi_driver:*:*:*:*:*:*:*:*
+cpe:2.3:a:microsoft:azure_key_vault_secret:*:*:*:*:*:*:*:*
+cpe:2.3:a:microsoft:azure_key_vault_secrets:*:*:*:*:*:*:*:*
+cpe:2.3:a:microsoft:azure_key_vault_security_domain:*:*:*:*:*:*:*:*
+cpe:2.3:a:microsoft:azure_keyvault_administration:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_kinect_software_development_kit:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_kubernetes_service:*:*:*:*:*:*:*:*
 cpe:2.3:a:microsoft:azure_kubernetes_service_confidential_containers:*:*:*:*:*:*:*:*
@@ -117919,6 +117924,8 @@ cpe:2.3:h:kyocera:xw320k:*:*:*:*:*:*:*:*
 cpe:2.3:h:kyocera:xw320kr:*:*:*:*:*:*:*:*
 cpe:2.3:h:kyocera_mita:fs_118mfp:*:*:*:*:*:*:*:*
 cpe:2.3:h:l3t:kov-26_talon:*:*:*:*:*:*:*:*
+cpe:2.3:h:labkotec:lid-3300ip:*:*:*:*:*:*:*:*
+cpe:2.3:h:labkotec:lid-3300ip_type2:*:*:*:*:*:*:*:*
 cpe:2.3:h:lacie:lac9000436u:*:*:*:*:*:*:*:*
 cpe:2.3:h:lacie:lac9000464u:*:*:*:*:*:*:*:*
 cpe:2.3:h:lamassu:douro:*:*:*:*:*:*:*:*
@@ -170842,6 +170849,8 @@ cpe:2.3:o:kyocera:taskalfa_6500i_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:kyocera:taskalfa_6550ci_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:kyocera:taskalfa_7550ci_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:kyocera:taskalfa_8000i_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:labkotec:lid-3300ip_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:labkotec:lid-3300ip_type2_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:lacie:lac9000436u_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:lacie:lac9000464u_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:lamassu:douro_firmware:*:*:*:*:*:*:*:*
