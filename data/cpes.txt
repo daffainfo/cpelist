@@ -65143,6 +65143,7 @@ cpe:2.3:a:sourcecodester:computer_laboratory_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:computer_repair_shop_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:contact_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:contact_tracing_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:sourcecodester:cosmetics_and_beauty_product_online_store:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:crud:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:customer_relationship_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:customer_review_app:*:*:*:*:*:*:*:*
