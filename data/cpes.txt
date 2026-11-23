@@ -29755,6 +29755,7 @@ cpe:2.3:a:hugin_project:hugin:*:*:*:*:*:*:*:*
 cpe:2.3:a:hugo_rabson:mindi:*:*:*:*:*:*:*:*
 cpe:2.3:a:huiran_host_reseller_system_project:huiran_host_reseller_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:hujiang:arcanist:*:*:*:*:*:*:*:*
+cpe:2.3:a:hulaspark:hula:*:*:*:*:*:*:*:*
 cpe:2.3:a:hulihanapplications:amethyst:*:*:*:*:*:*:*:*
 cpe:2.3:a:hulihanapplications:diamondlist:*:*:*:*:*:*:*:*
 cpe:2.3:a:hulihanapplications:hulihan_bxr:*:*:*:*:*:*:*:*
@@ -56723,6 +56724,7 @@ cpe:2.3:a:qt-cute:quickteam:*:*:*:*:*:*:*:*
 cpe:2.3:a:qt-cute:quickticket:*:*:*:*:*:*:*:*
 cpe:2.3:a:qt-dcgui:qt-dcgui:*:*:*:*:*:*:*:*
 cpe:2.3:a:qt-users:silk:*:*:*:*:*:*:*:*
+cpe:2.3:a:qt:axivion:*:*:*:*:*:*:*:*
 cpe:2.3:a:qt:qt3d:*:*:*:*:*:*:*:*
 cpe:2.3:a:qt:qt5compat:*:*:*:*:*:*:*:*
 cpe:2.3:a:qt:qt:*:*:*:*:*:*:*:*
