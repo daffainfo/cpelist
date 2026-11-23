@@ -33973,6 +33973,7 @@ cpe:2.3:a:itsourcecode:e-commerce_website:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:e-logbook_with_health_monitoring_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:electronic_judging_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:event_calendar:*:*:*:*:*:*:*:*
+cpe:2.3:a:itsourcecode:event_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:farm_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:fees_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:itsourcecode:free_hotel_reservation_system:*:*:*:*:*:*:*:*
