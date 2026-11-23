@@ -946,6 +946,7 @@ cpe:2.3:a:acdsystems:canvas_draw:*:*:*:*:*:*:*:*
 cpe:2.3:a:ace_helpdesk:ace_helpdesk:*:*:*:*:*:*:*:*
 cpe:2.3:a:ace_image_hosting_script:ace_image_hosting_script:*:*:*:*:*:*:*:*
 cpe:2.3:a:aceattorneyonline:akashi:*:*:*:*:*:*:*:*
+cpe:2.3:a:aceberg:watchyourlan:*:*:*:*:*:*:*:*
 cpe:2.3:a:aceboard:aceboard_forum:*:*:*:*:*:*:*:*
 cpe:2.3:a:acegisecurity:acegi-security:*:*:*:*:*:*:*:*
 cpe:2.3:a:aceide_project:aceide:*:*:*:*:*:*:*:*
@@ -3575,6 +3576,7 @@ cpe:2.3:a:andreas_krennmair:tpp:*:*:*:*:*:*:*:*
 cpe:2.3:a:andreas_mueller:cdrdao:*:*:*:*:*:*:*:*
 cpe:2.3:a:andreas_robertz:phpnews:*:*:*:*:*:*:*:*
 cpe:2.3:a:andreas_schwarzkopf:accessibility_glossary:*:*:*:*:*:*:*:*
+cpe:2.3:a:andreasgal:node-wav:*:*:*:*:*:*:*:*
 cpe:2.3:a:andreashappe:cochise:*:*:*:*:*:*:*:*
 cpe:2.3:a:andreasmuench:multiple_post_passwords:*:*:*:*:*:*:*:*
 cpe:2.3:a:andrei-tatar:nora-firebase-common:*:*:*:*:*:*:*:*
@@ -7128,6 +7130,7 @@ cpe:2.3:a:baesystems:socet_gxp:*:*:*:*:*:*:*:*
 cpe:2.3:a:bag:covid_certificate:*:*:*:*:*:*:*:*
 cpe:2.3:a:bagesoft:bagecms:*:*:*:*:*:*:*:*
 cpe:2.3:a:bagisto:bagisto:*:*:*:*:*:*:*:*
+cpe:2.3:a:bagisto:mangopay_payment_gateway:*:*:*:*:*:*:*:*
 cpe:2.3:a:baguettebox.js_project:baguettebox.js:*:*:*:*:*:*:*:*
 cpe:2.3:a:bahleel:bahleel:*:*:*:*:*:*:*:*
 cpe:2.3:a:bahmni:bahmnicore:*:*:*:*:*:*:*:*
@@ -13516,6 +13519,7 @@ cpe:2.3:a:code-projects:hotel_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:human_resource_integrated_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:human_resource_management:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:human_resource_management_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:code-projects:intern_record_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:internship_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:interview_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:code-projects:inventory_management:*:*:*:*:*:*:*:*
@@ -18759,6 +18763,8 @@ cpe:2.3:a:duktape_project:duktape:*:*:*:*:*:*:*:*
 cpe:2.3:a:dulldusk:phpfilemanager:*:*:*:*:*:*:*:*
 cpe:2.3:a:dulwich_project:dulwich:*:*:*:*:*:*:*:*
 cpe:2.3:a:duma:photo_gallery_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:dumbwareio:dumbassets:*:*:*:*:*:*:*:*
+cpe:2.3:a:dumbwareio:dumbdrop:*:*:*:*:*:*:*:*
 cpe:2.3:a:dump_project:dump:*:*:*:*:*:*:*:*
 cpe:2.3:a:dumpts:dumpts:*:*:*:*:*:*:*:*
 cpe:2.3:a:dunamu:stockplus:*:*:*:*:*:*:*:*
@@ -37075,6 +37081,7 @@ cpe:2.3:a:kc_area_credit_union:kc_area_credit_union_mobile_banking:*:*:*:*:*:*:*
 cpe:2.3:a:kc_computing:site_notes:*:*:*:*:*:*:*:*
 cpe:2.3:a:kc_group_e-commerce_software_project:kc_group_e-commerce_software:*:*:*:*:*:*:*:*
 cpe:2.3:a:kcapifony_project:kcapifony:*:*:*:*:*:*:*:*
+cpe:2.3:a:kchapelier:qoijs:*:*:*:*:*:*:*:*
 cpe:2.3:a:kcodes:netusb.ko:*:*:*:*:*:*:*:*
 cpe:2.3:a:kcodes:netusb:*:*:*:*:*:*:*:*
 cpe:2.3:a:kcp:kcp:*:*:*:*:*:*:*:*
@@ -38654,6 +38661,7 @@ cpe:2.3:a:leon_j_breedt:pam-pgsql:*:*:*:*:*:*:*:*
 cpe:2.3:a:leon_weber:pyxtrlock:*:*:*:*:*:*:*:*
 cpe:2.3:a:leonard_richardson:newsbruiser:*:*:*:*:*:*:*:*
 cpe:2.3:a:leonerd:libvterm:*:*:*:*:*:*:*:*
+cpe:2.3:a:leonkhoo123:self-hosting-file-uploader:*:*:*:*:*:*:*:*
 cpe:2.3:a:leont:crypt\:\:argon2:*:*:*:*:*:*:*:*
 cpe:2.3:a:leont:crypt\:\:sysrandom\:\:xs:*:*:*:*:*:*:*:*
 cpe:2.3:a:leostream:agent:*:*:*:*:*:*:*:*
@@ -62474,6 +62482,7 @@ cpe:2.3:a:shanxichuangxiang:cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:shaon:post_from_frontend:*:*:*:*:*:*:*:*
 cpe:2.3:a:shaonback2:simple_map_no_api:*:*:*:*:*:*:*:*
 cpe:2.3:a:shaosina:sina_extension_for_elementor:*:*:*:*:*:*:*:*
+cpe:2.3:a:shaozilee:bmp-js:*:*:*:*:*:*:*:*
 cpe:2.3:a:shape5:bridge_of_hope_template:*:*:*:*:*:*:*:*
 cpe:2.3:a:shape:im\+:*:*:*:*:*:*:*:*
 cpe:2.3:a:shape_services:im\+_mobile_instant_messenger:*:*:*:*:*:*:*:*
@@ -64358,6 +64367,7 @@ cpe:2.3:a:snarky:visualpic:*:*:*:*:*:*:*:*
 cpe:2.3:a:snegurka:referralbyphone:*:*:*:*:*:*:*:*
 cpe:2.3:a:snert.com:mod_throttle:*:*:*:*:*:*:*:*
 cpe:2.3:a:snes9x.com:snes9x:*:*:*:*:*:*:*:*
+cpe:2.3:a:snes9x:snes9x:*:*:*:*:*:*:*:*
 cpe:2.3:a:snetworks:php_classifieds:*:*:*:*:*:*:*:*
 cpe:2.3:a:snews:snews:*:*:*:*:*:*:*:*
 cpe:2.3:a:snews:snews_cms_rus:*:*:*:*:*:*:*:*
@@ -73637,6 +73647,7 @@ cpe:2.3:a:vt:cryptacular:*:*:*:*:*:*:*:*
 cpe:2.3:a:vt:ldaptive:*:*:*:*:*:*:*:*
 cpe:2.3:a:vtenext:vtenext:*:*:*:*:*:*:*:*
 cpe:2.3:a:vtex:apps-graphql:*:*:*:*:*:*:*:*
+cpe:2.3:a:vthibault:tga-js:*:*:*:*:*:*:*:*
 cpe:2.3:a:vtiger:crm:*:*:*:*:*:*:*:*
 cpe:2.3:a:vtiger:vtiger_crm:*:*:*:*:*:*:*:*
 cpe:2.3:a:vtimecn:188jianzhan:*:*:*:*:*:*:*:*
@@ -73842,6 +73853,7 @@ cpe:2.3:a:warmcat:libwebsockets:*:*:*:*:*:*:*:*
 cpe:2.3:a:warnerbros:ellentube:*:*:*:*:*:*:*:*
 cpe:2.3:a:warnsystem_project:warnsystem:*:*:*:*:*:*:*:*
 cpe:2.3:a:warp_terminal:warp_terminal:*:*:*:*:*:*:*:*
+cpe:2.3:a:warpdesign:pcx-js:*:*:*:*:*:*:*:*
 cpe:2.3:a:warped_systems:phpxmms:*:*:*:*:*:*:*:*
 cpe:2.3:a:warpgate_project:warpgate:*:*:*:*:*:*:*:*
 cpe:2.3:a:warphd:com_jvideo:*:*:*:*:*:*:*:*
