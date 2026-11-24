@@ -21286,6 +21286,7 @@ cpe:2.3:a:ewire:payment_client:*:*:*:*:*:*:*:*
 cpe:2.3:a:ewriting:ewriting:*:*:*:*:*:*:*:*
 cpe:2.3:a:ewww:image_optimizer:*:*:*:*:*:*:*:*
 cpe:2.3:a:ewww_image_optimizer_plugin_project:ewww_image_optimizer_plugin:*:*:*:*:*:*:*:*
+cpe:2.3:a:ex-aws:ex_aws:*:*:*:*:*:*:*:*
 cpe:2.3:a:ex-aws:ex_aws_sns:*:*:*:*:*:*:*:*
 cpe:2.3:a:ex-designs:world_recipe:*:*:*:*:*:*:*:*
 cpe:2.3:a:ex-themes:wp_timeline:*:*:*:*:*:*:*:*
