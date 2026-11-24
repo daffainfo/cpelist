@@ -23849,6 +23849,7 @@ cpe:2.3:a:freshplanet:songpop:*:*:*:*:*:*:*:*
 cpe:2.3:a:freshreader:freshreader:*:*:*:*:*:*:*:*
 cpe:2.3:a:freshrss:freshrss:*:*:*:*:*:*:*:*
 cpe:2.3:a:freshscripts:fresh_email_script:*:*:*:*:*:*:*:*
+cpe:2.3:a:freshsoftware:x-netstat:*:*:*:*:*:*:*:*
 cpe:2.3:a:freshwebmaster:fresh_ftp:*:*:*:*:*:*:*:*
 cpe:2.3:a:freshworks:freshdesk:*:*:*:*:*:*:*:*
 cpe:2.3:a:freshworks:freshservice_agent:*:*:*:*:*:*:*:*
