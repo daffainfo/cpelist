@@ -23605,6 +23605,7 @@ cpe:2.3:a:frederico_caldeira_knabben:fckeditor:*:*:*:*:*:*:*:*
 cpe:2.3:a:frederik_vermeulen:netqmail:*:*:*:*:*:*:*:*
 cpe:2.3:a:fredi_bach:phpmydesktop_arcade:*:*:*:*:*:*:*:*
 cpe:2.3:a:fredric_fredricson:p4db:*:*:*:*:*:*:*:*
+cpe:2.3:a:fredriknoren:ungit:*:*:*:*:*:*:*:*
 cpe:2.3:a:fredriksoerlie:ultralight:*:*:*:*:*:*:*:*
 cpe:2.3:a:free-av:antivir:*:*:*:*:*:*:*:*
 cpe:2.3:a:free-counter:free_counter:*:*:*:*:*:*:*:*
@@ -29776,7 +29777,9 @@ cpe:2.3:a:humhub:calendar:*:*:*:*:*:*:*:*
 cpe:2.3:a:humhub:custom_pages:*:*:*:*:*:*:*:*
 cpe:2.3:a:humhub:files:*:*:*:*:*:*:*:*
 cpe:2.3:a:humhub:humhub:*:*:*:*:*:*:*:*
+cpe:2.3:a:humhub:lets-meet:*:*:*:*:*:*:*:*
 cpe:2.3:a:humhub:mail:*:*:*:*:*:*:*:*
+cpe:2.3:a:humhub:questions:*:*:*:*:*:*:*:*
 cpe:2.3:a:humhub:rest:*:*:*:*:*:*:*:*
 cpe:2.3:a:humhub:social_network_kit:*:*:*:*:*:*:*:*
 cpe:2.3:a:humhub:tasks:*:*:*:*:*:*:*:*
@@ -49230,6 +49233,7 @@ cpe:2.3:a:onlyoffice:core:*:*:*:*:*:*:*:*
 cpe:2.3:a:onlyoffice:docs:*:*:*:*:*:*:*:*
 cpe:2.3:a:onlyoffice:document_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:onlyoffice:google_translate:*:*:*:*:*:*:*:*
+cpe:2.3:a:onlyoffice:onlyoffice-humhub:*:*:*:*:*:*:*:*
 cpe:2.3:a:onlyoffice:onlyoffice:*:*:*:*:*:*:*:*
 cpe:2.3:a:onlyoffice:server:*:*:*:*:*:*:*:*
 cpe:2.3:a:onlyoffice:workspace:*:*:*:*:*:*:*:*
@@ -75374,6 +75378,7 @@ cpe:2.3:a:wolfiezero:spotify_play_button:*:*:*:*:*:*:*:*
 cpe:2.3:a:wolfnettech:wolfnet_idx_for_wordpress:*:*:*:*:*:*:*:*
 cpe:2.3:a:wolfpack_development:xshipwars:*:*:*:*:*:*:*:*
 cpe:2.3:a:wolfram:webmathematica:*:*:*:*:*:*:*:*
+cpe:2.3:a:wolfram:wolfram_cloud:*:*:*:*:*:*:*:*
 cpe:2.3:a:wolfram_research:mathematica:*:*:*:*:*:*:*:*
 cpe:2.3:a:wolfram_research:webmathematica:*:*:*:*:*:*:*:*
 cpe:2.3:a:wolfram_schneider:makewhatis:*:*:*:*:*:*:*:*
