@@ -43904,6 +43904,7 @@ cpe:2.3:a:minimagick_project:minimagick:*:*:*:*:*:*:*:*
 cpe:2.3:a:minimal_design:minimal_gallery:*:*:*:*:*:*:*:*
 cpe:2.3:a:minimalist:minimalist:*:*:*:*:*:*:*:*
 cpe:2.3:a:minimatch_project:minimatch:*:*:*:*:*:*:*:*
+cpe:2.3:a:minimax:minimax:*:*:*:*:*:*:*:*
 cpe:2.3:a:minimus:special_text_boxes:*:*:*:*:*:*:*:*
 cpe:2.3:a:miningrigrentalstoken_project:miningrigrentalstoken:*:*:*:*:*:*:*:*
 cpe:2.3:a:minio:console:*:*:*:*:*:*:*:*
