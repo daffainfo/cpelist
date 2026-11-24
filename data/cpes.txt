@@ -3430,6 +3430,7 @@ cpe:2.3:a:amiga:aview:*:*:*:*:*:*:*:*
 cpe:2.3:a:amilia:store:*:*:*:*:*:*:*:*
 cpe:2.3:a:amin_omer:wc_sudan_payment_gateway:*:*:*:*:*:*:*:*
 cpe:2.3:a:amini7:zarinpal_paid_download:*:*:*:*:*:*:*:*
+cpe:2.3:a:amirhamza05:student-management-system:*:*:*:*:*:*:*:*
 cpe:2.3:a:amiro:amiro.cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:amirocms:amiro.cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:amirraminfar:dozzle:*:*:*:*:*:*:*:*
