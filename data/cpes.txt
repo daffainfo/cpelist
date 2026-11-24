@@ -19948,6 +19948,7 @@ cpe:2.3:a:elitecms:elitecms:*:*:*:*:*:*:*:*
 cpe:2.3:a:eliteladders:elite_gaming_ladders:*:*:*:*:*:*:*:*
 cpe:2.3:a:eliteshippertoken_project:eliteshippertoken:*:*:*:*:*:*:*:*
 cpe:2.3:a:eliteweaver:xclick_cart:*:*:*:*:*:*:*:*
+cpe:2.3:a:elixir-ecto:db_connection:*:*:*:*:*:*:*:*
 cpe:2.3:a:elixir-ecto:ecto:*:*:*:*:*:*:*:*
 cpe:2.3:a:elixir-ecto:postgrex:*:*:*:*:*:*:*:*
 cpe:2.3:a:elixir-grpc:grpc:*:*:*:*:*:*:*:*
@@ -21287,6 +21288,10 @@ cpe:2.3:a:ewriting:ewriting:*:*:*:*:*:*:*:*
 cpe:2.3:a:ewww:image_optimizer:*:*:*:*:*:*:*:*
 cpe:2.3:a:ewww_image_optimizer_plugin_project:ewww_image_optimizer_plugin:*:*:*:*:*:*:*:*
 cpe:2.3:a:ex-aws:ex_aws:*:*:*:*:*:*:*:*
+cpe:2.3:a:ex-aws:ex_aws_dynamo:*:*:*:*:*:*:*:*
+cpe:2.3:a:ex-aws:ex_aws_kms:*:*:*:*:*:*:*:*
+cpe:2.3:a:ex-aws:ex_aws_s3:*:*:*:*:*:*:*:*
+cpe:2.3:a:ex-aws:ex_aws_ses:*:*:*:*:*:*:*:*
 cpe:2.3:a:ex-aws:ex_aws_sns:*:*:*:*:*:*:*:*
 cpe:2.3:a:ex-designs:world_recipe:*:*:*:*:*:*:*:*
 cpe:2.3:a:ex-themes:wp_timeline:*:*:*:*:*:*:*:*
@@ -44634,6 +44639,7 @@ cpe:2.3:a:momo_project:momo:*:*:*:*:*:*:*:*
 cpe:2.3:a:momotommy:file-management-system:*:*:*:*:*:*:*:*
 cpe:2.3:a:mon_project:mon:*:*:*:*:*:*:*:*
 cpe:2.3:a:monai:medical_open_network_for_ai:*:*:*:*:*:*:*:*
+cpe:2.3:a:monai:monai_label:*:*:*:*:*:*:*:*
 cpe:2.3:a:monal:monal:*:*:*:*:*:*:*:*
 cpe:2.3:a:monalbum:monalbum:*:*:*:*:*:*:*:*
 cpe:2.3:a:monbela_tourist_inn_online_reservation_system_project:monbela_tourist_inn_online_reservation_system:*:*:*:*:*:*:*:*
@@ -45768,6 +45774,7 @@ cpe:2.3:a:mzbservices:max.blog:*:*:*:*:*:*:*:*
 cpe:2.3:a:n-13_news:n-13_news:*:*:*:*:*:*:*:*
 cpe:2.3:a:n-able:automation_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:n-able:automation_manager_agent:*:*:*:*:*:*:*:*
+cpe:2.3:a:n-able:mail_assure:*:*:*:*:*:*:*:*
 cpe:2.3:a:n-able:n-central:*:*:*:*:*:*:*:*
 cpe:2.3:a:n-able:passportal:*:*:*:*:*:*:*:*
 cpe:2.3:a:n-able:take_control:*:*:*:*:*:*:*:*
@@ -75757,6 +75764,7 @@ cpe:2.3:a:wowsoft:printchaser:*:*:*:*:*:*:*:*
 cpe:2.3:a:wowthemes:mediumish:*:*:*:*:*:*:*:*
 cpe:2.3:a:wowza:streaming_engine:*:*:*:*:*:*:*:*
 cpe:2.3:a:woylie:doggo:*:*:*:*:*:*:*:*
+cpe:2.3:a:woylie:flop:*:*:*:*:*:*:*:*
 cpe:2.3:a:wp-advanced-search_project:wp-advanced-search:*:*:*:*:*:*:*:*
 cpe:2.3:a:wp-appbox_project:wp-appbox:*:*:*:*:*:*:*:*
 cpe:2.3:a:wp-backpack:wp_backpack:*:*:*:*:*:*:*:*
@@ -134980,6 +134988,7 @@ cpe:2.3:h:siemens:cp-8050_master_module:*:*:*:*:*:*:*:*
 cpe:2.3:h:siemens:cp1543-1:*:*:*:*:*:*:*:*
 cpe:2.3:h:siemens:cp1604:*:*:*:*:*:*:*:*
 cpe:2.3:h:siemens:cp1616:*:*:*:*:*:*:*:*
+cpe:2.3:h:siemens:cp61850:*:*:*:*:*:*:*:*
 cpe:2.3:h:siemens:cp_1543-1:*:*:*:*:*:*:*:*
 cpe:2.3:h:siemens:cp_1604:*:*:*:*:*:*:*:*
 cpe:2.3:h:siemens:cp_1616:*:*:*:*:*:*:*:*
@@ -136632,6 +136641,8 @@ cpe:2.3:h:siemens:vertix_solitaire:*:*:*:*:*:*:*:*
 cpe:2.3:h:siemens:viva_e:*:*:*:*:*:*:*:*
 cpe:2.3:h:siemens:viva_twin:*:*:*:*:*:*:*:*
 cpe:2.3:h:siemens:w1750d:*:*:*:*:*:*:*:*
+cpe:2.3:h:siemens:wtv676-hb6035:*:*:*:*:*:*:*:*
+cpe:2.3:h:siemens:wtv776-hb6035:*:*:*:*:*:*:*:*
 cpe:2.3:h:sierawireless:airlink_rv55:*:*:*:*:*:*:*:*
 cpe:2.3:h:sierra_wireless:airlink_raven_xe:*:*:*:*:*:*:*:*
 cpe:2.3:h:sierra_wireless:airlink_raven_xt:*:*:*:*:*:*:*:*
@@ -185835,6 +185846,7 @@ cpe:2.3:o:siemens:cp1604_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:siemens:cp1616_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:siemens:cp200_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:siemens:cp300_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:siemens:cp61850_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:siemens:cp_1543-1_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:siemens:cp_1604_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:siemens:cp_1616_firmware:*:*:*:*:*:*:*:*
@@ -187337,6 +187349,8 @@ cpe:2.3:o:siemens:vertix_solitaire_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:siemens:viva_e_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:siemens:viva_twin_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:siemens:w1750d_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:siemens:wtv676-hb6035_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:siemens:wtv776-hb6035_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:sierra_wireless:airlink_raven_xe_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:sierra_wireless:airlink_raven_xt_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:sierrawireless:airlink_es450_firmware:*:*:*:*:*:*:*:*
