@@ -52122,6 +52122,7 @@ cpe:2.3:a:pamzey:patients_waiting_area_queue_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:pan:pan:*:*:*:*:*:*:*:*
 cpe:2.3:a:pan_vision:i.g.i-2_covert_strike:*:*:*:*:*:*:*:*
 cpe:2.3:a:panabit:panalog:*:*:*:*:*:*:*:*
+cpe:2.3:a:panabit:smart_application_gateway:*:*:*:*:*:*:*:*
 cpe:2.3:a:panalogic:serial_talk:*:*:*:*:*:*:*:*
 cpe:2.3:a:panasonic:control_fpwin_pro:*:*:*:*:*:*:*:*
 cpe:2.3:a:panasonic:fpwin_pro:*:*:*:*:*:*:*:*
@@ -177843,6 +177844,8 @@ cpe:2.3:o:nokia:ipso:*:*:*:*:*:*:*:*
 cpe:2.3:o:nokia:series_40:*:*:*:*:*:*:*:*
 cpe:2.3:o:nokia:service_router_linux:*:*:*:*:*:*:*:*
 cpe:2.3:o:nokia:service_router_operating_system:*:*:*:*:*:*:*:*
+cpe:2.3:o:nokia:sr_linux:*:*:*:*:*:*:*:*
+cpe:2.3:o:nokia:sr_os:*:*:*:*:*:*:*:*
 cpe:2.3:o:nokia:symbian:*:*:*:*:*:*:*:*
 cpe:2.3:o:nokia:symbian_os:*:*:*:*:*:*:*:*
 cpe:2.3:o:nokia:wavelite_metro_200_and_f2b_fans_firmware:*:*:*:*:*:*:*:*
