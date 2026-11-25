@@ -47673,6 +47673,7 @@ cpe:2.3:a:nobreak_technologies:crazywwwboard:*:*:*:*:*:*:*:*
 cpe:2.3:a:noc2:whodomlite:*:*:*:*:*:*:*:*
 cpe:2.3:a:nocc:nocc:*:*:*:*:*:*:*:*
 cpe:2.3:a:nocean:totop_link:*:*:*:*:*:*:*:*
+cpe:2.3:a:nock:nock:*:*:*:*:*:*:*:*
 cpe:2.3:a:nocobase:nocobase:*:*:*:*:*:*:*:*
 cpe:2.3:a:nocodb:nocodb:*:*:*:*:*:*:*:*
 cpe:2.3:a:noctedefensor:ludusmcp:*:*:*:*:*:*:*:*
@@ -75247,6 +75248,7 @@ cpe:2.3:a:winterchen:my-site:*:*:*:*:*:*:*:*
 cpe:2.3:a:winterchens:my-site:*:*:*:*:*:*:*:*
 cpe:2.3:a:wintercms:winter:*:*:*:*:*:*:*:*
 cpe:2.3:a:wintercms:wn-dusk-plugin:*:*:*:*:*:*:*:*
+cpe:2.3:a:wintercounter:mhy:*:*:*:*:*:*:*:*
 cpe:2.3:a:winterwebs:ezwebitor:*:*:*:*:*:*:*:*
 cpe:2.3:a:wintiwebdev_project:wintiwebdev:*:*:*:*:*:*:*:*
 cpe:2.3:a:winuae:winuae:*:*:*:*:*:*:*:*
