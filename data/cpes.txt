@@ -7083,6 +7083,7 @@ cpe:2.3:a:backblaze:backblaze:*:*:*:*:*:*:*:*
 cpe:2.3:a:backbone-query-parameters_project:backbone-query-parameters:*:*:*:*:*:*:*:*
 cpe:2.3:a:backbone_project:backbone:*:*:*:*:*:*:*:*
 cpe:2.3:a:backclick:backclick:*:*:*:*:*:*:*:*
+cpe:2.3:a:backdrop:cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:backdropcms:backdrop:*:*:*:*:*:*:*:*
 cpe:2.3:a:backdropcms:backdrop_cms:*:*:*:*:*:*:*:*
 cpe:2.3:a:backdropcms:backdrop_core:*:*:*:*:*:*:*:*
@@ -17786,6 +17787,7 @@ cpe:2.3:a:disney:maleficent_free_fall:*:*:*:*:*:*:*:*
 cpe:2.3:a:disney:where\'s_my_perry\?_free:*:*:*:*:*:*:*:*
 cpe:2.3:a:disney:where\'s_my_water\?_free:*:*:*:*:*:*:*:*
 cpe:2.3:a:disneyanimation:ptex:*:*:*:*:*:*:*:*
+cpe:2.3:a:dispatcharr:dispatcharr:*:*:*:*:*:*:*:*
 cpe:2.3:a:display-widgets_project:display-widgets:*:*:*:*:*:*:*:*
 cpe:2.3:a:display_post_meta\,_term_meta\,_comment_meta\,_and_user_meta_project:display_post_meta\,_term_meta\,_comment_meta\,_and_user_meta:*:*:*:*:*:*:*:*
 cpe:2.3:a:display_post_metadata_project:display_post_metadata:*:*:*:*:*:*:*:*
@@ -40033,6 +40035,7 @@ cpe:2.3:a:loudblog:loudblog:*:*:*:*:*:*:*:*
 cpe:2.3:a:loudhush:loudhush:*:*:*:*:*:*:*:*
 cpe:2.3:a:louis_jimenez:custom_meta:*:*:*:*:*:*:*:*
 cpe:2.3:a:louisho5:picobot:*:*:*:*:*:*:*:*
+cpe:2.3:a:louislam:uptime-kuma:*:*:*:*:*:*:*:*
 cpe:2.3:a:lout_project:lout:*:*:*:*:*:*:*:*
 cpe:2.3:a:lovasoa:sqlpage:*:*:*:*:*:*:*:*
 cpe:2.3:a:love_horoscope_guide_project:love_horoscope_guide:*:*:*:*:*:*:*:*
@@ -78195,6 +78198,7 @@ cpe:2.3:a:zeeways:zeejobsite:*:*:*:*:*:*:*:*
 cpe:2.3:a:zeeways:zeelyrics:*:*:*:*:*:*:*:*
 cpe:2.3:a:zeeways:zeematri:*:*:*:*:*:*:*:*
 cpe:2.3:a:zeeways:zeeproperty:*:*:*:*:*:*:*:*
+cpe:2.3:a:zefan-cai:r-kv:*:*:*:*:*:*:*:*
 cpe:2.3:a:zehnet:zz_flashchat:*:*:*:*:*:*:*:*
 cpe:2.3:a:zeit:next.js:*:*:*:*:*:*:*:*
 cpe:2.3:a:zeit:serve:*:*:*:*:*:*:*:*
