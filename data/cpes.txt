@@ -38340,6 +38340,7 @@ cpe:2.3:a:lavrsen:motion:*:*:*:*:*:*:*:*
 cpe:2.3:a:lawn-login_project:lawn-login:*:*:*:*:*:*:*:*
 cpe:2.3:a:lawnchair:lawnchair:*:*:*:*:*:*:*:*
 cpe:2.3:a:lawo:vsm_ltc_timesync:*:*:*:*:*:*:*:*
+cpe:2.3:a:lawouach:ws4py:*:*:*:*:*:*:*:*
 cpe:2.3:a:lawrence_berkeley_national_laboratory:arpwatch:*:*:*:*:*:*:*:*
 cpe:2.3:a:lawrence_osiris:db_esession:*:*:*:*:*:*:*:*
 cpe:2.3:a:lawson_software:lawson_financials:*:*:*:*:*:*:*:*
@@ -45930,6 +45931,7 @@ cpe:2.3:a:nasa:ait_gui:*:*:*:*:*:*:*:*
 cpe:2.3:a:nasa:cfitsio:*:*:*:*:*:*:*:*
 cpe:2.3:a:nasa:cfs:*:*:*:*:*:*:*:*
 cpe:2.3:a:nasa:core_flight_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:nasa:core_flight_system_limit_checker:*:*:*:*:*:*:*:*
 cpe:2.3:a:nasa:cryptolib:*:*:*:*:*:*:*:*
 cpe:2.3:a:nasa:earthdata-search:*:*:*:*:*:*:*:*
 cpe:2.3:a:nasa:fprime:*:*:*:*:*:*:*:*
@@ -135123,6 +135125,8 @@ cpe:2.3:h:siemens:gigaset_c475_ip:*:*:*:*:*:*:*:*
 cpe:2.3:h:siemens:gigaset_se361_wlan_router:*:*:*:*:*:*:*:*
 cpe:2.3:h:siemens:gigaset_se461__wimax_router:*:*:*:*:*:*:*:*
 cpe:2.3:h:siemens:gigaset_wlan_camera:*:*:*:*:*:*:*:*
+cpe:2.3:h:siemens:heliox_flex_180kw:*:*:*:*:*:*:*:*
+cpe:2.3:h:siemens:heliox_mobile_40kw:*:*:*:*:*:*:*:*
 cpe:2.3:h:siemens:hinet_lp:*:*:*:*:*:*:*:*
 cpe:2.3:h:siemens:ie\/as-i_link_pn_io:*:*:*:*:*:*:*:*
 cpe:2.3:h:siemens:ie\/pb-link:*:*:*:*:*:*:*:*
@@ -144867,6 +144871,7 @@ cpe:2.3:o:apple:airport_base_station_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:apple:airport_extreme_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:apple:apple_tv:*:*:*:*:*:*:*:*
 cpe:2.3:o:apple:beats_fit_pro_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:apple:homeview_software:*:*:*:*:*:*:*:*
 cpe:2.3:o:apple:ios:*:*:*:*:*:*:*:*
 cpe:2.3:o:apple:ios_and_ipados:*:*:*:*:*:*:*:*
 cpe:2.3:o:apple:ipad_os:*:*:*:*:*:*:*:*
@@ -185979,6 +185984,8 @@ cpe:2.3:o:siemens:extension_unit_12_profinet_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:siemens:extension_unit_15_profinet_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:siemens:extension_unit_19_profinet_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:siemens:extension_unit_22_profinet_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:siemens:heliox_flex_180kw_firmware:*:*:*:*:*:*:*:*
+cpe:2.3:o:siemens:heliox_mobile_40kw_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:siemens:ie\/as-i_link_pn_io_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:siemens:ie\/pb-link_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:siemens:ie\/wsn-pa_link_wirelesshart_gateway_firmware:*:*:*:*:*:*:*:*
