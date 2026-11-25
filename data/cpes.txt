@@ -9537,6 +9537,7 @@ cpe:2.3:a:brown_bear_software:calcium:*:*:*:*:*:*:*:*
 cpe:2.3:a:brown_bear_software:ical:*:*:*:*:*:*:*:*
 cpe:2.3:a:browsbox:brows_box:*:*:*:*:*:*:*:*
 cpe:2.3:a:browseftp:browseftp_client:*:*:*:*:*:*:*:*
+cpe:2.3:a:browser-use:browser-use:*:*:*:*:*:*:*:*
 cpe:2.3:a:browser-use:browser_use:*:*:*:*:*:*:*:*
 cpe:2.3:a:browser.360:chrome:*:*:*:*:*:*:*:*
 cpe:2.3:a:browser.360:safe_browser:*:*:*:*:*:*:*:*
@@ -18854,6 +18855,7 @@ cpe:2.3:a:dwc_network_server_emulator_project:dwc_network_server_emulator:*:*:*:
 cpe:2.3:a:dwebp-bin_project:dwebp-bin:*:*:*:*:*:*:*:*
 cpe:2.3:a:dwieeb:scroll_to_bottom:*:*:*:*:*:*:*:*
 cpe:2.3:a:dwnldr_project:dwnldr:*:*:*:*:*:*:*:*
+cpe:2.3:a:dws:antik_browser:*:*:*:*:*:*:*:*
 cpe:2.3:a:dws_systems_inc.:sql-ledger:*:*:*:*:*:*:*:*
 cpe:2.3:a:dwuser:easyrotator_for_wordpress:*:*:*:*:*:*:*:*
 cpe:2.3:a:dwyl:hapi-auth-jwt2:*:*:*:*:*:*:*:*
@@ -34256,6 +34258,7 @@ cpe:2.3:a:jae-jae:fetcher-mcp:*:*:*:*:*:*:*:*
 cpe:2.3:a:jaea:mapping_tool:*:*:*:*:*:*:*:*
 cpe:2.3:a:jaegertracing:jaeger_ui:*:*:*:*:*:*:*:*
 cpe:2.3:a:jaf_cms:jaf_cms:*:*:*:*:*:*:*:*
+cpe:2.3:a:jaguarjack:catch-admin:*:*:*:*:*:*:*:*
 cpe:2.3:a:jaguarsoft:jaguaredit:*:*:*:*:*:*:*:*
 cpe:2.3:a:jahia:jahia_xcm:*:*:*:*:*:*:*:*
 cpe:2.3:a:jahlives:openssl_encrypt:*:*:*:*:*:*:*:*
@@ -38281,6 +38284,7 @@ cpe:2.3:a:larts:uploader_activex_control:*:*:*:*:*:*:*:*
 cpe:2.3:a:larvata:flygo:*:*:*:*:*:*:*:*
 cpe:2.3:a:larvit:larvitbase:*:*:*:*:*:*:*:*
 cpe:2.3:a:lasernet_cms:lasernet_cms:*:*:*:*:*:*:*:*
+cpe:2.3:a:lasp-lang:partisan:*:*:*:*:*:*:*:*
 cpe:2.3:a:laspy:laspy:*:*:*:*:*:*:*:*
 cpe:2.3:a:last.fm:last.fm_desktop:*:*:*:*:*:*:*:*
 cpe:2.3:a:last.fm_rotation_plugin_project:lastfm-rotation_plugin:*:*:*:*:*:*:*:*
