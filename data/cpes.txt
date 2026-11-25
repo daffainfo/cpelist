@@ -6197,6 +6197,7 @@ cpe:2.3:a:autodesk:fbx_software_development_kit:*:*:*:*:*:*:*:*
 cpe:2.3:a:autodesk:fusion:*:*:*:*:*:*:*:*
 cpe:2.3:a:autodesk:fusion_360:*:*:*:*:*:*:*:*
 cpe:2.3:a:autodesk:fusion_post_processor_utility:*:*:*:*:*:*:*:*
+cpe:2.3:a:autodesk:ifc_for_revit:*:*:*:*:*:*:*:*
 cpe:2.3:a:autodesk:infrastructure_parts_editor:*:*:*:*:*:*:*:*
 cpe:2.3:a:autodesk:infraworks:*:*:*:*:*:*:*:*
 cpe:2.3:a:autodesk:installer:*:*:*:*:*:*:*:*
@@ -7625,6 +7626,7 @@ cpe:2.3:a:beehiveforum:beehive_forum:*:*:*:*:*:*:*:*
 cpe:2.3:a:beekeeperstudio:beekeeper-studio:*:*:*:*:*:*:*:*
 cpe:2.3:a:beekeeperstudio:beekeeper_studio:*:*:*:*:*:*:*:*
 cpe:2.3:a:beeliked:beeliked:*:*:*:*:*:*:*:*
+cpe:2.3:a:beenuar:aisoc:*:*:*:*:*:*:*:*
 cpe:2.3:a:beenverified:background_check_beenverified:*:*:*:*:*:*:*:*
 cpe:2.3:a:beep_project:beep:*:*:*:*:*:*:*:*
 cpe:2.3:a:beerwin:phplinkadmin:*:*:*:*:*:*:*:*
@@ -8451,6 +8453,7 @@ cpe:2.3:a:blossomthemes:sarada:*:*:*:*:*:*:*:*
 cpe:2.3:a:blossomthemes:vandana:*:*:*:*:*:*:*:*
 cpe:2.3:a:blossomthemes:vilva:*:*:*:*:*:*:*:*
 cpe:2.3:a:blosxom:blosxom:*:*:*:*:*:*:*:*
+cpe:2.3:a:blowdart:anticsrf:*:*:*:*:*:*:*:*
 cpe:2.3:a:blowsie:pure_javascript_html5_parser:*:*:*:*:*:*:*:*
 cpe:2.3:a:bloxx:web_filtering:*:*:*:*:*:*:*:*
 cpe:2.3:a:blrt:blrt_wp_embed:*:*:*:*:*:*:*:*
@@ -23028,6 +23031,7 @@ cpe:2.3:a:flos-freeware:notepad2:*:*:*:*:*:*:*:*
 cpe:2.3:a:flothemes:flo-launch:*:*:*:*:*:*:*:*
 cpe:2.3:a:flothemes:flo_forms:*:*:*:*:*:*:*:*
 cpe:2.3:a:flow_project:flow:*:*:*:*:*:*:*:*
+cpe:2.3:a:flowable:flowable-engine:*:*:*:*:*:*:*:*
 cpe:2.3:a:flowci:flow-core-x:*:*:*:*:*:*:*:*
 cpe:2.3:a:flowcraft_ux_design_studio:advanced_personalization:*:*:*:*:*:*:*:*
 cpe:2.3:a:flowdee:clickwhale:*:*:*:*:*:*:*:*
@@ -73568,6 +73572,7 @@ cpe:2.3:a:voidtools:everything:*:*:*:*:*:*:*:*
 cpe:2.3:a:voidzero:vite\+:*:*:*:*:*:*:*:*
 cpe:2.3:a:voipmonitor:voipmonitor:*:*:*:*:*:*:*:*
 cpe:2.3:a:volano_llc:volanochatpro:*:*:*:*:*:*:*:*
+cpe:2.3:a:volans:ngfw_next-generation_firewall:*:*:*:*:*:*:*:*
 cpe:2.3:a:volcano:volcano:*:*:*:*:*:*:*:*
 cpe:2.3:a:volcengine:openviking:*:*:*:*:*:*:*:*
 cpe:2.3:a:volition:red_faction:*:*:*:*:*:*:*:*
