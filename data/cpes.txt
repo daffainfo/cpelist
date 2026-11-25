@@ -14092,6 +14092,7 @@ cpe:2.3:a:coldgen:coldbookmarks:*:*:*:*:*:*:*:*
 cpe:2.3:a:coldgen:coldcalendar:*:*:*:*:*:*:*:*
 cpe:2.3:a:coldgen:coldusergroup:*:*:*:*:*:*:*:*
 cpe:2.3:a:coleds:simple_seo:*:*:*:*:*:*:*:*
+cpe:2.3:a:coleifer:peewee:*:*:*:*:*:*:*:*
 cpe:2.3:a:coleman_watts:webform_civicrm:*:*:*:*:*:*:*:*
 cpe:2.3:a:coles_credit_cards:coles_credit_card_app:*:*:*:*:*:*:*:*
 cpe:2.3:a:colibriwp:colibri:*:*:*:*:*:*:*:*
@@ -38997,6 +38998,7 @@ cpe:2.3:a:librehealth:librehealth_ehr:*:*:*:*:*:*:*:*
 cpe:2.3:a:libremail:libremail:*:*:*:*:*:*:*:*
 cpe:2.3:a:librenms:librenms:*:*:*:*:*:*:*:*
 cpe:2.3:a:libreoffice:libreoffice:*:*:*:*:*:*:*:*
+cpe:2.3:a:librephotos:librephotos:*:*:*:*:*:*:*:*
 cpe:2.3:a:librephotos_project:librephotos:*:*:*:*:*:*:*:*
 cpe:2.3:a:librespeed:speedtest:*:*:*:*:*:*:*:*
 cpe:2.3:a:libreswan:libreswan:*:*:*:*:*:*:*:*
@@ -78375,6 +78377,7 @@ cpe:2.3:a:zhenfeng13:my-bbs:*:*:*:*:*:*:*:*
 cpe:2.3:a:zhenfeng13:my-blog-layui:*:*:*:*:*:*:*:*
 cpe:2.3:a:zhenfeng13:my-blog:*:*:*:*:*:*:*:*
 cpe:2.3:a:zhenfeng13:my_blog:*:*:*:*:*:*:*:*
+cpe:2.3:a:zhengzhou_weiwei_information_technology:mayicms:*:*:*:*:*:*:*:*
 cpe:2.3:a:zhicms:zhicms:*:*:*:*:*:*:*:*
 cpe:2.3:a:zhijiantianya:ruoyi-vue-pro:*:*:*:*:*:*:*:*
 cpe:2.3:a:zhilink:adp_application_developer_platform:*:*:*:*:*:*:*:*
@@ -170500,6 +170503,7 @@ cpe:2.3:o:juniper:junose_t:*:*:*:*:*:*:*:*
 cpe:2.3:o:juniper:mx150:*:*:*:*:*:*:*:*
 cpe:2.3:o:juniper:netscreen_screenos:*:*:*:*:*:*:*:*
 cpe:2.3:o:juniper:screenos:*:*:*:*:*:*:*:*
+cpe:2.3:o:juniper:session_smart_conductor:*:*:*:*:*:*:*:*
 cpe:2.3:o:juniper:srx1500_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:juniper:srx300_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:juniper:srx4100_firmware:*:*:*:*:*:*:*:*
