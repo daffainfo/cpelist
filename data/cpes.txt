@@ -19553,6 +19553,7 @@ cpe:2.3:a:edrawsoft:edraw_max:*:*:*:*:*:*:*:*
 cpe:2.3:a:edreamers:edcontainer:*:*:*:*:*:*:*:*
 cpe:2.3:a:edreamers:ednews:*:*:*:*:*:*:*:*
 cpe:2.3:a:eduard_bloch:module-assistant:*:*:*:*:*:*:*:*
+cpe:2.3:a:eduardopires:equinoxproject:*:*:*:*:*:*:*:*
 cpe:2.3:a:eduasist:eduasist:*:*:*:*:*:*:*:*
 cpe:2.3:a:edubusinesssolutions:print_shop_pro_webdesk:*:*:*:*:*:*:*:*
 cpe:2.3:a:education_website_project:education_website:*:*:*:*:*:*:*:*
@@ -64161,6 +64162,7 @@ cpe:2.3:a:slocate:slocate:*:*:*:*:*:*:*:*
 cpe:2.3:a:sloth_logo_customizer_project:sloth_logo_customizer:*:*:*:*:*:*:*:*
 cpe:2.3:a:sloughflash:sf-users:*:*:*:*:*:*:*:*
 cpe:2.3:a:slovenskoit:id_sk_toolkit:*:*:*:*:*:*:*:*
+cpe:2.3:a:slowlyo:owl-admin:*:*:*:*:*:*:*:*
 cpe:2.3:a:slowlyo:owladmin:*:*:*:*:*:*:*:*
 cpe:2.3:a:slrn_development_team:slrn:*:*:*:*:*:*:*:*
 cpe:2.3:a:slsknet:soulseek:*:*:*:*:*:*:*:*
@@ -76274,6 +76276,7 @@ cpe:2.3:a:wpexperts:givewp_square:*:*:*:*:*:*:*:*
 cpe:2.3:a:wpexperts:license_manager_for_woocommerce:*:*:*:*:*:*:*:*
 cpe:2.3:a:wpexperts:mycred:*:*:*:*:*:*:*:*
 cpe:2.3:a:wpexperts:new_user_approve:*:*:*:*:*:*:*:*
+cpe:2.3:a:wpexperts:new_user_approve_plugin:*:*:*:*:*:*:*:*
 cpe:2.3:a:wpexperts:password_protected:*:*:*:*:*:*:*:*
 cpe:2.3:a:wpexperts:post_smpt:*:*:*:*:*:*:*:*
 cpe:2.3:a:wpexperts:post_smtp:*:*:*:*:*:*:*:*
@@ -76965,6 +76968,7 @@ cpe:2.3:a:xeforum:xeforum:*:*:*:*:*:*:*:*
 cpe:2.3:a:xelerance:openswan:*:*:*:*:*:*:*:*
 cpe:2.3:a:xelex:mobiletrack:*:*:*:*:*:*:*:*
 cpe:2.3:a:xemacs:xemacs:*:*:*:*:*:*:*:*
+cpe:2.3:a:xen-orchestra:xen_orchestra:*:*:*:*:*:*:*:*
 cpe:2.3:a:xen-orchestra:xen_orchestra_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:xen-orchestra:xen_orchestra_web:*:*:*:*:*:*:*:*
 cpe:2.3:a:xen-orchestra:xo-server:*:*:*:*:*:*:*:*
