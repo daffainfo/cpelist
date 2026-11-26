@@ -26009,6 +26009,7 @@ cpe:2.3:a:google-news-sitemap_project:google-news-sitemap:*:*:*:*:*:*:*:*
 cpe:2.3:a:google:a2ui\/web_core:*:*:*:*:*:*:*:*
 cpe:2.3:a:google:admin:*:*:*:*:*:*:*:*
 cpe:2.3:a:google:admob:*:*:*:*:*:*:*:*
+cpe:2.3:a:google:agent_development_kit:*:*:*:*:*:*:*:*
 cpe:2.3:a:google:android:*:*:*:*:*:*:*:*
 cpe:2.3:a:google:android_api:*:*:*:*:*:*:*:*
 cpe:2.3:a:google:android_browser:*:*:*:*:*:*:*:*
@@ -170538,6 +170539,7 @@ cpe:2.3:o:juniper:mx150:*:*:*:*:*:*:*:*
 cpe:2.3:o:juniper:netscreen_screenos:*:*:*:*:*:*:*:*
 cpe:2.3:o:juniper:screenos:*:*:*:*:*:*:*:*
 cpe:2.3:o:juniper:session_smart_conductor:*:*:*:*:*:*:*:*
+cpe:2.3:o:juniper:session_smart_router:*:*:*:*:*:*:*:*
 cpe:2.3:o:juniper:srx1500_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:juniper:srx300_firmware:*:*:*:*:*:*:*:*
 cpe:2.3:o:juniper:srx4100_firmware:*:*:*:*:*:*:*:*
