@@ -62643,6 +62643,7 @@ cpe:2.3:a:shellhub:shellhub:*:*:*:*:*:*:*:*
 cpe:2.3:a:shellinabox_project:shellinabox:*:*:*:*:*:*:*:*
 cpe:2.3:a:shelljs_project:shelljs:*:*:*:*:*:*:*:*
 cpe:2.3:a:shelter_manager:animal_shelter_manager:*:*:*:*:*:*:*:*
+cpe:2.3:a:shemaikuzwe:attendance_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:shemes.com:grabit:*:*:*:*:*:*:*:*
 cpe:2.3:a:shemes:grabit:*:*:*:*:*:*:*:*
 cpe:2.3:a:shenliru_project:shenliru:*:*:*:*:*:*:*:*
