@@ -11649,6 +11649,7 @@ cpe:2.3:a:chshcms:mccms:*:*:*:*:*:*:*:*
 cpe:2.3:a:cht:tenderdoctransfer:*:*:*:*:*:*:*:*
 cpe:2.3:a:chuanhuchatgpt_project:chuanhuchatgpt:*:*:*:*:*:*:*:*
 cpe:2.3:a:chuck24:simple_to-do_list_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:chuckfairy:node-webcam:*:*:*:*:*:*:*:*
 cpe:2.3:a:chucky_a._ivey:n.t.:*:*:*:*:*:*:*:*
 cpe:2.3:a:chucunlingaigo_project:chucunlingaigo:*:*:*:*:*:*:*:*
 cpe:2.3:a:chumpsoft:phpquestionnaire:*:*:*:*:*:*:*:*
@@ -39657,6 +39658,7 @@ cpe:2.3:a:liulishuo:filedownloader:*:*:*:*:*:*:*:*
 cpe:2.3:a:liumengxuan04:minicode:*:*:*:*:*:*:*:*
 cpe:2.3:a:liuos_project:liuos:*:*:*:*:*:*:*:*
 cpe:2.3:a:liuwy-dlsdys:zhglxt:*:*:*:*:*:*:*:*
+cpe:2.3:a:liuwy-project:zhglxt:*:*:*:*:*:*:*:*
 cpe:2.3:a:liuyaserver_project:liuyaserver:*:*:*:*:*:*:*:*
 cpe:2.3:a:live2d:cubism_editor:*:*:*:*:*:*:*:*
 cpe:2.3:a:live555:liblivemedia:*:*:*:*:*:*:*:*
@@ -41495,6 +41497,7 @@ cpe:2.3:a:max-sixty:worktrunk:*:*:*:*:*:*:*:*
 cpe:2.3:a:max-wilhelm_bruker:bftpd:*:*:*:*:*:*:*:*
 cpe:2.3:a:max7301_project:max7301:*:*:*:*:*:*:*:*
 cpe:2.3:a:max_feoktistov:small_http_server:*:*:*:*:*:*:*:*
+cpe:2.3:a:max_foundry:media_library_folders_plugin:*:*:*:*:*:*:*:*
 cpe:2.3:a:max_kervin:kervinet_forum:*:*:*:*:*:*:*:*
 cpe:2.3:a:maxb:maxboard:*:*:*:*:*:*:*:*
 cpe:2.3:a:maxbuttons_project:maxbuttons:*:*:*:*:*:*:*:*
@@ -55888,6 +55891,7 @@ cpe:2.3:a:projectworlds:online_examination_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:projectworlds:online_food_ordering_script:*:*:*:*:*:*:*:*
 cpe:2.3:a:projectworlds:online_food_ordering_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:projectworlds:online_hotel_booking:*:*:*:*:*:*:*:*
+cpe:2.3:a:projectworlds:online_jewellery_shopping_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:projectworlds:online_job_portal:*:*:*:*:*:*:*:*
 cpe:2.3:a:projectworlds:online_lawyer_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:projectworlds:online_matrimonial_project:*:*:*:*:*:*:*:*
@@ -62497,6 +62501,7 @@ cpe:2.3:a:sgi:xfsprogs:*:*:*:*:*:*:*:*
 cpe:2.3:a:sgin:xiangyun_platform:*:*:*:*:*:*:*:*
 cpe:2.3:a:sgk:sgk_hizmet_dokumu_4a:*:*:*:*:*:*:*:*
 cpe:2.3:a:sgl-project:sglang:*:*:*:*:*:*:*:*
+cpe:2.3:a:sgl-project:specforge:*:*:*:*:*:*:*:*
 cpe:2.3:a:sglang:sglang:*:*:*:*:*:*:*:*
 cpe:2.3:a:sgminer_project:sgminer:*:*:*:*:*:*:*:*
 cpe:2.3:a:sgpsys:gems:*:*:*:*:*:*:*:*
