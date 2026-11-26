@@ -6167,6 +6167,7 @@ cpe:2.3:a:autodesk:autocad_steel:*:*:*:*:*:*:*:*
 cpe:2.3:a:autodesk:autocad_structural_detailing:*:*:*:*:*:*:*:*
 cpe:2.3:a:autodesk:autocad_utility_design:*:*:*:*:*:*:*:*
 cpe:2.3:a:autodesk:autodesk:*:*:*:*:*:*:*:*
+cpe:2.3:a:autodesk:autodesk_access:*:*:*:*:*:*:*:*
 cpe:2.3:a:autodesk:autodesk_backburner:*:*:*:*:*:*:*:*
 cpe:2.3:a:autodesk:autodesk_desktop:*:*:*:*:*:*:*:*
 cpe:2.3:a:autodesk:autodesk_maya:*:*:*:*:*:*:*:*
@@ -21299,6 +21300,7 @@ cpe:2.3:a:ewww_image_optimizer_plugin_project:ewww_image_optimizer_plugin:*:*:*:
 cpe:2.3:a:ex-aws:ex_aws:*:*:*:*:*:*:*:*
 cpe:2.3:a:ex-aws:ex_aws_dynamo:*:*:*:*:*:*:*:*
 cpe:2.3:a:ex-aws:ex_aws_kms:*:*:*:*:*:*:*:*
+cpe:2.3:a:ex-aws:ex_aws_lambda:*:*:*:*:*:*:*:*
 cpe:2.3:a:ex-aws:ex_aws_s3:*:*:*:*:*:*:*:*
 cpe:2.3:a:ex-aws:ex_aws_ses:*:*:*:*:*:*:*:*
 cpe:2.3:a:ex-aws:ex_aws_sns:*:*:*:*:*:*:*:*
