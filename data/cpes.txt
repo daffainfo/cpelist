@@ -40630,6 +40630,7 @@ cpe:2.3:a:mahinsha:newsticker:*:*:*:*:*:*:*:*
 cpe:2.3:a:mahlamusa:multi_purpose_mail_form:*:*:*:*:*:*:*:*
 cpe:2.3:a:mahlamusa:who_hit_the_page_-_hit_counter:*:*:*:*:*:*:*:*
 cpe:2.3:a:mahlamusa:who_hit_the_page_hit_counter:*:*:*:*:*:*:*:*
+cpe:2.3:a:mahmoudai1:school-management-system:*:*:*:*:*:*:*:*
 cpe:2.3:a:mahonelau:kykms:*:*:*:*:*:*:*:*
 cpe:2.3:a:mahype:pagerank_tools:*:*:*:*:*:*:*:*
 cpe:2.3:a:maia_mailguard:maia_mailguard:*:*:*:*:*:*:*:*
@@ -45230,6 +45231,7 @@ cpe:2.3:a:ms_analysis:website_traffic_analyzer:*:*:*:*:*:*:*:*
 cpe:2.3:a:ms_topsites:ms_topsites:*:*:*:*:*:*:*:*
 cpe:2.3:a:msaad1999:klik_socialmediawebsite:*:*:*:*:*:*:*:*
 cpe:2.3:a:msaad1999:php-login-system:*:*:*:*:*:*:*:*
+cpe:2.3:a:msaifulcsse:ticket-travel-management-system:*:*:*:*:*:*:*:*
 cpe:2.3:a:mscdex:ssh2:*:*:*:*:*:*:*:*
 cpe:2.3:a:mscsoftware:msc_nastran:*:*:*:*:*:*:*:*
 cpe:2.3:a:msearch:unicode_msearch:*:*:*:*:*:*:*:*
@@ -53111,6 +53113,7 @@ cpe:2.3:a:philip_moore:windrop:*:*:*:*:*:*:*:*
 cpe:2.3:a:philiphazel:sdop:*:*:*:*:*:*:*:*
 cpe:2.3:a:philiphazel:xfpt:*:*:*:*:*:*:*:*
 cpe:2.3:a:philipinho:simple-php-blog:*:*:*:*:*:*:*:*
+cpe:2.3:a:philipjscott:simple-thumbnail:*:*:*:*:*:*:*:*
 cpe:2.3:a:philippe_crochat:easysite:*:*:*:*:*:*:*:*
 cpe:2.3:a:philippe_jounin:tftpd32:*:*:*:*:*:*:*:*
 cpe:2.3:a:philips:clinical_collaboration_platform:*:*:*:*:*:*:*:*
@@ -65717,6 +65720,7 @@ cpe:2.3:a:spotify:spotify:*:*:*:*:*:*:*:*
 cpe:2.3:a:spotify:spotify_app:*:*:*:*:*:*:*:*
 cpe:2.3:a:spotipy_project:spotipy:*:*:*:*:*:*:*:*
 cpe:2.3:a:spotlightyour:spotlightyour:*:*:*:*:*:*:*:*
+cpe:2.3:a:spotweb:spotweb:*:*:*:*:*:*:*:*
 cpe:2.3:a:spotweb_project:spotweb:*:*:*:*:*:*:*:*
 cpe:2.3:a:spreadsheetconverter:import_spreadsheets:*:*:*:*:*:*:*:*
 cpe:2.3:a:spreadshirt-rss-3d-cube-flash-gallery_project:spreadshirt-rss-3d-cube-flash-gallery:*:*:*:*:*:*:*:*
@@ -67884,6 +67888,7 @@ cpe:2.3:a:tai_smart_factory:qplant_sf:*:*:*:*:*:*:*:*
 cpe:2.3:a:taidii:diibear:*:*:*:*:*:*:*:*
 cpe:2.3:a:taiga:taiga:*:*:*:*:*:*:*:*
 cpe:2.3:a:taigaio:taiga_front:*:*:*:*:*:*:*:*
+cpe:2.3:a:tailg:feimeng:*:*:*:*:*:*:*:*
 cpe:2.3:a:tailor_management_system_project:tailor_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:tailor_mangement_system_project:tailor_mangement_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:tailoring_management_system_project:tailoring_management_system:*:*:*:*:*:*:*:*
