@@ -49309,6 +49309,7 @@ cpe:2.3:a:onnogroen:com_webeecomment:*:*:*:*:*:*:*:*
 cpe:2.3:a:onnuri_infotek:activepost_standard:*:*:*:*:*:*:*:*
 cpe:2.3:a:onnx:onnx-mlir:*:*:*:*:*:*:*:*
 cpe:2.3:a:onnx:onnx:*:*:*:*:*:*:*:*
+cpe:2.3:a:onnx:onnxmltools:*:*:*:*:*:*:*:*
 cpe:2.3:a:onosproject:onos:*:*:*:*:*:*:*:*
 cpe:2.3:a:onosproject:rimedo-ts:*:*:*:*:*:*:*:*
 cpe:2.3:a:onosproject:sdran-in-a-box:*:*:*:*:*:*:*:*
@@ -66501,6 +66502,7 @@ cpe:2.3:a:sturgeon_upload:sturgeon_upload:*:*:*:*:*:*:*:*
 cpe:2.3:a:stvs:provision:*:*:*:*:*:*:*:*
 cpe:2.3:a:stwc-counter:stwc-counter:*:*:*:*:*:*:*:*
 cpe:2.3:a:style_it_project:style_it:*:*:*:*:*:*:*:*
+cpe:2.3:a:stylefeng:guns:*:*:*:*:*:*:*:*
 cpe:2.3:a:stylemixthemes:bookit:*:*:*:*:*:*:*:*
 cpe:2.3:a:stylemixthemes:consulting_elementor_widgets:*:*:*:*:*:*:*:*
 cpe:2.3:a:stylemixthemes:cost_calculator_builder:*:*:*:*:*:*:*:*
