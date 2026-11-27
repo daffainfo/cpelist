@@ -11068,6 +11068,7 @@ cpe:2.3:a:cerberus:cerberus_helpdesk:*:*:*:*:*:*:*:*
 cpe:2.3:a:cerberus:ftp_server:*:*:*:*:*:*:*:*
 cpe:2.3:a:cerberus:helpdesk:*:*:*:*:*:*:*:*
 cpe:2.3:a:cerberusftp:ftp_server:*:*:*:*:*:*:*:*
+cpe:2.3:a:cerebras:modelzoo:*:*:*:*:*:*:*:*
 cpe:2.3:a:cerebrate-project:cerebrate:*:*:*:*:*:*:*:*
 cpe:2.3:a:ceriumsoft:ajax_dashboard:*:*:*:*:*:*:*:*
 cpe:2.3:a:cern:indico:*:*:*:*:*:*:*:*
@@ -65204,6 +65205,7 @@ cpe:2.3:a:sourcecodester:airport_booking_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:aplaya_beach_resort_online_reservation_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:art_gallery_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:barangay_resident_profiling_and_information_management_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:sourcecodester:basic_hotel_online_reservation_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:best_courier_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:best_employee_management_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:sourcecodester:best_house_rental_management_system:*:*:*:*:*:*:*:*
