@@ -66785,6 +66785,7 @@ cpe:2.3:a:sunbirddcim:power_iq:*:*:*:*:*:*:*:*
 cpe:2.3:a:sunburntkamel:disconnected:*:*:*:*:*:*:*:*
 cpe:2.3:a:sunbyte:e-flower:*:*:*:*:*:*:*:*
 cpe:2.3:a:suncontract:suncontract:*:*:*:*:*:*:*:*
+cpe:2.3:a:suneditor:suneditor:*:*:*:*:*:*:*:*
 cpe:2.3:a:sungard:banner_student:*:*:*:*:*:*:*:*
 cpe:2.3:a:sungardas:etrakit3:*:*:*:*:*:*:*:*
 cpe:2.3:a:sungrowpower:isolarcloud:*:*:*:*:*:*:*:*
