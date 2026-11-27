@@ -7424,6 +7424,7 @@ cpe:2.3:a:baxter:welch_allyn_rscribe_resting_ecg_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:baxter:welch_allyn_vision_express_holter_analysis_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:baxter:welch_allyn_xscribe_cardiac_stress_testing_system:*:*:*:*:*:*:*:*
 cpe:2.3:a:bay_technical_associates:rpc3_telnet:*:*:*:*:*:*:*:*
+cpe:2.3:a:bayang:jelu:*:*:*:*:*:*:*:*
 cpe:2.3:a:bayashi:dopvcomet\*:*:*:*:*:*:*:*:*
 cpe:2.3:a:bayashi:dopvstar\*:*:*:*:*:*:*:*:*
 cpe:2.3:a:bazaarbuilder:ecommerce_shopping_cart:*:*:*:*:*:*:*:*
@@ -74088,6 +74089,7 @@ cpe:2.3:a:wayne_allen:postie:*:*:*:*:*:*:*:*
 cpe:2.3:a:wayneconnor:sliding_door:*:*:*:*:*:*:*:*
 cpe:2.3:a:wayneeseguin:ruby_version_manager:*:*:*:*:*:*:*:*
 cpe:2.3:a:wayos:ibr-7150:*:*:*:*:*:*:*:*
+cpe:2.3:a:wazirx_app:wazirx_app:*:*:*:*:*:*:*:*
 cpe:2.3:a:wazuh:wazuh-dashboard:*:*:*:*:*:*:*:*
 cpe:2.3:a:wazuh:wazuh-kibana-app:*:*:*:*:*:*:*:*
 cpe:2.3:a:wazuh:wazuh:*:*:*:*:*:*:*:*
@@ -75791,6 +75793,7 @@ cpe:2.3:a:worms-league:webleague:*:*:*:*:*:*:*:*
 cpe:2.3:a:wotlab:community_gallery:*:*:*:*:*:*:*:*
 cpe:2.3:a:wotw:way_of_the_warrior:*:*:*:*:*:*:*:*
 cpe:2.3:a:wouter_verhelst:nbd:*:*:*:*:*:*:*:*
+cpe:2.3:a:wow-cms:blizzcms:*:*:*:*:*:*:*:*
 cpe:2.3:a:wow-company:bubble_menu:*:*:*:*:*:*:*:*
 cpe:2.3:a:wow-company:button_generator:*:*:*:*:*:*:*:*
 cpe:2.3:a:wow-company:calculator-builder:*:*:*:*:*:*:*:*
