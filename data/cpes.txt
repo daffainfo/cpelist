@@ -70823,6 +70823,7 @@ cpe:2.3:a:trendmicro:worry-free_business_security_services:*:*:*:*:*:*:*:*
 cpe:2.3:a:trendnet:securview_wireless_internet_camera_activex_control:*:*:*:*:*:*:*:*
 cpe:2.3:a:trendnet:tew-432brp:*:*:*:*:*:*:*:*
 cpe:2.3:a:trendnet:tew-635brm:*:*:*:*:*:*:*:*
+cpe:2.3:a:trendnet:tew-733gr:*:*:*:*:*:*:*:*
 cpe:2.3:a:trendnet:tew-751dr:*:*:*:*:*:*:*:*
 cpe:2.3:a:trendnet:tew-752dru:*:*:*:*:*:*:*:*
 cpe:2.3:a:trendnet:tew-813dru:*:*:*:*:*:*:*:*
