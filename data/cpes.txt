@@ -13135,6 +13135,7 @@ cpe:2.3:a:closure-compiler-stream_project:closure-compiler-stream:*:*:*:*:*:*:*:
 cpe:2.3:a:closure-util_project:closure-util:*:*:*:*:*:*:*:*
 cpe:2.3:a:closurecompiler_project:closurecompiler:*:*:*:*:*:*:*:*
 cpe:2.3:a:clothes_recommendation_system_project:clothes_recommendation_system:*:*:*:*:*:*:*:*
+cpe:2.3:a:cloud-cv:evalai:*:*:*:*:*:*:*:*
 cpe:2.3:a:cloud4wi:splash_portal:*:*:*:*:*:*:*:*
 cpe:2.3:a:cloud:citrix_storefront:*:*:*:*:*:*:*:*
 cpe:2.3:a:cloud:jasperreports_io:*:*:*:*:*:*:*:*
@@ -16381,6 +16382,7 @@ cpe:2.3:a:dbus-broker_project:dbus-broker:*:*:*:*:*:*:*:*
 cpe:2.3:a:dc\+\+:dc\+\+:*:*:*:*:*:*:*:*
 cpe:2.3:a:dcac:time_sheets:*:*:*:*:*:*:*:*
 cpe:2.3:a:dcat-admin:dcat-admin:*:*:*:*:*:*:*:*
+cpe:2.3:a:dcatadmin:dcat-admin:*:*:*:*:*:*:*:*
 cpe:2.3:a:dcatadmin:dcat_admin:*:*:*:*:*:*:*:*
 cpe:2.3:a:dcdcdcdcdc_project:dcdcdcdcdc:*:*:*:*:*:*:*:*
 cpe:2.3:a:dces_project:dces:*:*:*:*:*:*:*:*
@@ -49502,6 +49504,9 @@ cpe:2.3:a:openai_provider_project:openai_provider:*:*:*:*:*:*:*:*
 cpe:2.3:a:openairinterface:cn5g_amf:*:*:*:*:*:*:*:*
 cpe:2.3:a:openairinterface:magma:*:*:*:*:*:*:*:*
 cpe:2.3:a:openairinterface:oai-cn5g-amf:*:*:*:*:*:*:*:*
+cpe:2.3:a:openairinterface:oai-cn5g-nrf:*:*:*:*:*:*:*:*
+cpe:2.3:a:openairinterface:oai-cn5g-udr:*:*:*:*:*:*:*:*
+cpe:2.3:a:openairinterface:oai-cn5g-upf:*:*:*:*:*:*:*:*
 cpe:2.3:a:openairinterface:openairinterface5g:*:*:*:*:*:*:*:*
 cpe:2.3:a:openairinterface:openairinterface:*:*:*:*:*:*:*:*
 cpe:2.3:a:openakita:openakita:*:*:*:*:*:*:*:*
